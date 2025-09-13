@@ -1,0 +1,3002 @@
+{
+  "umeki": {
+    "pos": "NOUN"
+  },
+  "espezie": {
+    "pos": "NOUN"
+  },
+  "izaki": {
+    "pos": "NOUN"
+  },
+  "bizitza": {
+    "pos": "NOUN"
+  },
+  "jaiotza": {
+    "pos": "NOUN"
+  },
+  "ugalketa": {
+    "pos": "NOUN"
+  },
+  "heriotza": {
+    "pos": "NOUN"
+  },
+  "kuia": {
+    "pos": "NOUN"
+  },
+  "zerba": {
+    "pos": "NOUN"
+  },
+  "ilarrak": {
+    "pos": "NOUN"
+  },
+  "azenario": {
+    "pos": "NOUN"
+  },
+  "piper": {
+    "pos": "NOUN"
+  },
+  "tipula": {
+    "pos": "NOUN"
+  },
+  "aza": {
+    "pos": "NOUN"
+  },
+  "brokoli": {
+    "pos": "NOUN"
+  },
+  "apio": {
+    "pos": "NOUN"
+  },
+  "uraza": {
+    "pos": "NOUN"
+  },
+  "azalore": {
+    "pos": "NOUN"
+  },
+  "espinaka": {
+    "pos": "NOUN"
+  },
+  "porru": {
+    "pos": "NOUN"
+  },
+  "arto": {
+    "pos": "NOUN"
+  },
+  "erremolatxa": {
+    "pos": "NOUN"
+  },
+  "baratxuri": {
+    "pos": "NOUN"
+  },
+  "alberjinia": {
+    "pos": "NOUN"
+  },
+  "babak": {
+    "pos": "NOUN"
+  },
+  "orburu": {
+    "pos": "NOUN"
+  },
+  "patatak": {
+    "pos": "NOUN"
+  },
+  "kuiatxo": {
+    "pos": "NOUN"
+  },
+  "luzoker": {
+    "pos": "NOUN"
+  },
+  "errefau": {
+    "pos": "NOUN"
+  },
+  "zainzuri": {
+    "pos": "NOUN"
+  },
+  "sentitu": {
+    "pos": "VERB"
+  },
+  "ikusi": {
+    "pos": "VERB"
+  },
+  "aditu": {
+    "pos": "VERB"
+  },
+  "entzun": {
+    "pos": "VERB"
+  },
+  "ukitu": {
+    "pos": "VERB"
+  },
+  "usaindu": {
+    "pos": "VERB"
+  },
+  "hauteman": {
+    "pos": "VERB"
+  },
+  "antzeman": {
+    "pos": "VERB"
+  },
+  "nabaritu": {
+    "pos": "VERB"
+  },
+  "joan": {
+    "pos": "VERB"
+  },
+  "etorri": {
+    "pos": "VERB"
+  },
+  "bueltatu": {
+    "pos": "VERB"
+  },
+  "abiatu": {
+    "pos": "VERB"
+  },
+  "iritsi": {
+    "pos": "VERB"
+  },
+  "eraman": {
+    "pos": "VERB"
+  },
+  "ekarri": {
+    "pos": "VERB"
+  },
+  "mugitu": {
+    "pos": "VERB"
+  },
+  "atera": {
+    "pos": "VERB"
+  },
+  "kendu": {
+    "pos": "VERB"
+  },
+  "atzitu": {
+    "pos": "VERB"
+  },
+  "gerturatu": {
+    "pos": "VERB"
+  },
+  "urrundu": {
+    "pos": "VERB"
+  },
+  "jaurti": {
+    "pos": "VERB"
+  },
+  "egotzi": {
+    "pos": "VERB"
+  },
+  "hartu": {
+    "pos": "VERB"
+  },
+  "oratu": {
+    "pos": "VERB"
+  },
+  "eutsi": {
+    "pos": "VERB"
+  },
+  "kolpatu": {
+    "pos": "VERB"
+  },
+  "ostikatu": {
+    "pos": "VERB"
+  },
+  "jarri": {
+    "pos": "VERB"
+  },
+  "jaso": {
+    "pos": "VERB"
+  },
+  "altxatu": {
+    "pos": "VERB"
+  },
+  "erantsi": {
+    "pos": "VERB"
+  },
+  "agertu": {
+    "pos": "VERB"
+  },
+  "desagertu": {
+    "pos": "VERB"
+  },
+  "existitu": {
+    "pos": "VERB"
+  },
+  "izan": {
+    "pos": "VERB"
+  },
+  "hazi": {
+    "pos": "VERB"
+  },
+  "bizi": {
+    "pos": "VERB"
+  },
+  "jaio": {
+    "pos": "VERB"
+  },
+  "hil": {
+    "pos": "VERB"
+  },
+  "zendu": {
+    "pos": "VERB"
+  },
+  "maitatu": {
+    "pos": "VERB"
+  },
+  "desiratu": {
+    "pos": "VERB"
+  },
+  "gorrotatu": {
+    "pos": "VERB"
+  },
+  "nahigabetu": {
+    "pos": "VERB"
+  },
+  "haserretu": {
+    "pos": "VERB"
+  },
+  "miretsi": {
+    "pos": "VERB"
+  },
+  "poztu": {
+    "pos": "VERB"
+  },
+  "liluratu": {
+    "pos": "VERB"
+  },
+  "kontsolatu": {
+    "pos": "VERB"
+  },
+  "interesatu": {
+    "pos": "VERB"
+  },
+  "aspertu": {
+    "pos": "VERB"
+  },
+  "nekatu": {
+    "pos": "VERB"
+  },
+  "harritu": {
+    "pos": "VERB"
+  },
+  "ikaratu": {
+    "pos": "VERB"
+  },
+  "komunikatu": {
+    "pos": "VERB"
+  },
+  "baieztatu": {
+    "pos": "VERB"
+  },
+  "ezeztatu": {
+    "pos": "VERB"
+  },
+  "esan": {
+    "pos": "VERB"
+  },
+  "mintzatu": {
+    "pos": "VERB"
+  },
+  "isildu": {
+    "pos": "VERB"
+  },
+  "idatzi": {
+    "pos": "VERB"
+  },
+  "irakurri": {
+    "pos": "VERB"
+  },
+  "aztertu": {
+    "pos": "VERB"
+  },
+  "pentsatu": {
+    "pos": "VERB"
+  },
+  "abestu": {
+    "pos": "VERB"
+  },
+  "seinalatu": {
+    "pos": "VERB"
+  },
+  "sastatu": {
+    "pos": "VERB"
+  },
+  "hozkatu": {
+    "pos": "VERB"
+  },
+  "iltzatu": {
+    "pos": "VERB"
+  },
+  "jan": {
+    "pos": "VERB"
+  },
+  "edan": {
+    "pos": "VERB"
+  },
+  "gogoratu": {
+    "pos": "VERB"
+  },
+  "eragin": {
+    "pos": "VERB"
+  },
+  "sortu": {
+    "pos": "VERB"
+  },
+  "gehitu": {
+    "pos": "VERB"
+  },
+  "hobetu": {
+    "pos": "VERB"
+  },
+  "okerragotu": {
+    "pos": "VERB"
+  },
+  "jarraitu": {
+    "pos": "VERB"
+  },
+  "aurreratu": {
+    "pos": "VERB"
+  },
+  "atzeratu": {
+    "pos": "VERB"
+  },
+  "lagundu": {
+    "pos": "VERB"
+  },
+  "zaildu": {
+    "pos": "VERB"
+  },
+  "elkartu": {
+    "pos": "VERB"
+  },
+  "elkarrizketatu": {
+    "pos": "VERB"
+  },
+  "ireki": {
+    "pos": "VERB"
+  },
+  "jolastu": {
+    "pos": "VERB"
+  },
+  "eduki": {
+    "pos": "VERB"
+  },
+  "eman": {
+    "pos": "VERB"
+  },
+  "apurtu": {
+    "pos": "VERB"
+  },
+  "tolestu": {
+    "pos": "VERB"
+  },
+  "moztu": {
+    "pos": "VERB"
+  },
+  "erosi": {
+    "pos": "VERB"
+  },
+  "saldu": {
+    "pos": "VERB"
+  },
+  "trukatu": {
+    "pos": "VERB"
+  },
+  "ordezkatu": {
+    "pos": "VERB"
+  },
+  "itxi": {
+    "pos": "VERB"
+  },
+  "bilatu": {
+    "pos": "VERB"
+  },
+  "aurkitu": {
+    "pos": "VERB"
+  },
+  "lortu": {
+    "pos": "VERB"
+  },
+  "sinetsi": {
+    "pos": "VERB"
+  },
+  "hasi": {
+    "pos": "VERB"
+  },
+  "bukatu": {
+    "pos": "VERB"
+  },
+  "utzi": {
+    "pos": "VERB"
+  },
+  "laga": {
+    "pos": "VERB"
+  },
+  "sartu": {
+    "pos": "VERB"
+  },
+  "geratu": {
+    "pos": "VERB"
+  },
+  "irten": {
+    "pos": "VERB"
+  },
+  "itxaron": {
+    "pos": "VERB"
+  },
+  "neurtu": {
+    "pos": "VERB"
+  },
+  "pisatu": {
+    "pos": "VERB"
+  },
+  "hausnartu": {
+    "pos": "VERB"
+  },
+  "erkatu": {
+    "pos": "VERB"
+  },
+  "ebaluatu": {
+    "pos": "VERB"
+  },
+  "erabaki": {
+    "pos": "VERB"
+  },
+  "bildu": {
+    "pos": "VERB"
+  },
+  "suntsitu": {
+    "pos": "VERB"
+  },
+  "ezagutu": {
+    "pos": "VERB"
+  },
+  "ulertu": {
+    "pos": "VERB"
+  },
+  "lotu": {
+    "pos": "VERB"
+  },
+  "jakin": {
+    "pos": "VERB"
+  },
+  "landu": {
+    "pos": "VERB"
+  },
+  "zatitu": {
+    "pos": "VERB"
+  },
+  "banatu": {
+    "pos": "VERB"
+  },
+  "deskantsatu": {
+    "pos": "VERB"
+  },
+  "esnatu": {
+    "pos": "VERB"
+  },
+  "onartu": {
+    "pos": "VERB"
+  },
+  "errefusatu": {
+    "pos": "VERB"
+  },
+  "baztertu": {
+    "pos": "VERB"
+  },
+  "eskatu": {
+    "pos": "VERB"
+  },
+  "saiatu": {
+    "pos": "VERB"
+  },
+  "proposatu": {
+    "pos": "VERB"
+  },
+  "iradoki": {
+    "pos": "VERB"
+  },
+  "erabili": {
+    "pos": "VERB"
+  },
+  "egin": {
+    "pos": "VERB"
+  },
+  "fabrikatu": {
+    "pos": "VERB"
+  },
+  "konpondu": {
+    "pos": "VERB"
+  },
+  "azaldu": {
+    "pos": "VERB"
+  },
+  "erakutsi": {
+    "pos": "VERB"
+  },
+  "tratatu": {
+    "pos": "VERB"
+  },
+  "ekidin": {
+    "pos": "VERB"
+  },
+  "frogatu": {
+    "pos": "VERB"
+  },
+  "egiaztatu": {
+    "pos": "VERB"
+  },
+  "aldatu": {
+    "pos": "VERB"
+  },
+  "iruditu": {
+    "pos": "VERB"
+  },
+  "bereizi": {
+    "pos": "VERB"
+  },
+  "garraio": {
+    "pos": "NOUN"
+  },
+  "trafiko": {
+    "pos": "NOUN"
+  },
+  "zirkulazio": {
+    "pos": "NOUN"
+  },
+  "ibilgailu": {
+    "pos": "NOUN"
+  },
+  "trenbide": {
+    "pos": "NOUN"
+  },
+  "tren": {
+    "pos": "NOUN"
+  },
+  "bide": {
+    "pos": "NOUN"
+  },
+  "ibilbide": {
+    "pos": "NOUN"
+  },
+  "kale": {
+    "pos": "NOUN"
+  },
+  "errepide": {
+    "pos": "NOUN"
+  },
+  "autobide": {
+    "pos": "NOUN"
+  },
+  "etorbide": {
+    "pos": "NOUN"
+  },
+  "geraleku": {
+    "pos": "NOUN"
+  },
+  "geltoki": {
+    "pos": "NOUN"
+  },
+  "hegazkin": {
+    "pos": "NOUN"
+  },
+  "aireportu": {
+    "pos": "NOUN"
+  },
+  "auto": {
+    "pos": "NOUN"
+  },
+  "automobil": {
+    "pos": "NOUN"
+  },
+  "autobus": {
+    "pos": "NOUN"
+  },
+  "bus": {
+    "pos": "NOUN"
+  },
+  "motor": {
+    "pos": "NOUN"
+  },
+  "taxi": {
+    "pos": "NOUN"
+  },
+  "tranbia": {
+    "pos": "NOUN"
+  },
+  "itsasontzi": {
+    "pos": "NOUN"
+  },
+  "bizikleta": {
+    "pos": "NOUN"
+  },
+  "patinete": {
+    "pos": "NOUN"
+  },
+  "irristailuak": {
+    "pos": "NOUN"
+  },
+  "gauza": {
+    "pos": "NOUN"
+  },
+  "alderdi": {
+    "pos": "NOUN"
+  },
+  "objektu": {
+    "pos": "NOUN"
+  },
+  "atal": {
+    "pos": "NOUN"
+  },
+  "sektore": {
+    "pos": "NOUN"
+  },
+  "hitz": {
+    "pos": "NOUN"
+  },
+  "izen": {
+    "pos": "NOUN"
+  },
+  "kode": {
+    "pos": "NOUN"
+  },
+  "sekretu": {
+    "pos": "NOUN"
+  },
+  "formalitate": {
+    "pos": "NOUN"
+  },
+  "orainaldi": {
+    "pos": "NOUN"
+  },
+  "iragan": {
+    "pos": "NOUN"
+  },
+  "etorkizun": {
+    "pos": "NOUN"
+  },
+  "abagune": {
+    "pos": "NOUN"
+  },
+  "aldi": {
+    "pos": "NOUN"
+  },
+  "jarduera": {
+    "pos": "NOUN"
+  },
+  "ekitaldi": {
+    "pos": "NOUN"
+  },
+  "egitarau": {
+    "pos": "NOUN"
+  },
+  "egitasmo": {
+    "pos": "NOUN"
+  },
+  "adostasun": {
+    "pos": "NOUN"
+  },
+  "jarrera": {
+    "pos": "NOUN"
+  },
+  "arreta": {
+    "pos": "NOUN"
+  },
+  "gaitasun": {
+    "pos": "NOUN"
+  },
+  "kontzeptu": {
+    "pos": "NOUN"
+  },
+  "gai": {
+    "pos": "NOUN"
+  },
+  "baldintza": {
+    "pos": "NOUN"
+  },
+  "kasu": {
+    "pos": "NOUN"
+  },
+  "multzo": {
+    "pos": "NOUN"
+  },
+  "sorkuntza": {
+    "pos": "NOUN"
+  },
+  "suntsiketa": {
+    "pos": "NOUN"
+  },
+  "jatorri": {
+    "pos": "NOUN"
+  },
+  "helmuga": {
+    "pos": "NOUN"
+  },
+  "helburu": {
+    "pos": "NOUN"
+  },
+  "xede": {
+    "pos": "NOUN"
+  },
+  "eginkizun": {
+    "pos": "NOUN"
+  },
+  "harreman": {
+    "pos": "NOUN"
+  },
+  "errealitate": {
+    "pos": "NOUN"
+  },
+  "egoera": {
+    "pos": "NOUN"
+  },
+  "arazo": {
+    "pos": "NOUN"
+  },
+  "saiakera": {
+    "pos": "NOUN"
+  },
+  "irtenbide": {
+    "pos": "NOUN"
+  },
+  "emaitza": {
+    "pos": "NOUN"
+  },
+  "lorpen": {
+    "pos": "NOUN"
+  },
+  "arrakasta": {
+    "pos": "NOUN"
+  },
+  "porrot": {
+    "pos": "NOUN"
+  },
+  "kausa": {
+    "pos": "NOUN"
+  },
+  "ondorio": {
+    "pos": "NOUN"
+  },
+  "onura": {
+    "pos": "NOUN"
+  },
+  "kalte": {
+    "pos": "NOUN"
+  },
+  "kalitate": {
+    "pos": "NOUN"
+  },
+  "mota": {
+    "pos": "NOUN"
+  },
+  "eraso": {
+    "pos": "NOUN"
+  },
+  "babes": {
+    "pos": "NOUN"
+  },
+  "bake": {
+    "pos": "NOUN"
+  },
+  "gatazka": {
+    "pos": "NOUN"
+  },
+  "guda": {
+    "pos": "NOUN"
+  },
+  "izaera": {
+    "pos": "NOUN"
+  },
+  "ezaugarri": {
+    "pos": "NOUN"
+  },
+  "krisi": {
+    "pos": "NOUN"
+  },
+  "garapen": {
+    "pos": "NOUN"
+  },
+  "aurrerabide": {
+    "pos": "NOUN"
+  },
+  "aurrerapen": {
+    "pos": "NOUN"
+  },
+  "atzerakada": {
+    "pos": "NOUN"
+  },
+  "hobekuntza": {
+    "pos": "NOUN"
+  },
+  "narriadura": {
+    "pos": "NOUN"
+  },
+  "hasiera": {
+    "pos": "NOUN"
+  },
+  "bukaera": {
+    "pos": "NOUN"
+  },
+  "garai": {
+    "pos": "NOUN"
+  },
+  "fase": {
+    "pos": "NOUN"
+  },
+  "urrats": {
+    "pos": "NOUN"
+  },
+  "sail": {
+    "pos": "NOUN"
+  },
+  "segida": {
+    "pos": "NOUN"
+  },
+  "gradu": {
+    "pos": "NOUN"
+  },
+  "maila": {
+    "pos": "NOUN"
+  },
+  "prozesu": {
+    "pos": "NOUN"
+  },
+  "mozketa": {
+    "pos": "NOUN"
+  },
+  "etenaldi": {
+    "pos": "NOUN"
+  },
+  "itxaronaldi": {
+    "pos": "NOUN"
+  },
+  "desberdintasun": {
+    "pos": "NOUN"
+  },
+  "antzekotasun": {
+    "pos": "NOUN"
+  },
+  "zentzu": {
+    "pos": "NOUN"
+  },
+  "sentsazio": {
+    "pos": "NOUN"
+  },
+  "ikusmen": {
+    "pos": "NOUN"
+  },
+  "entzumen": {
+    "pos": "NOUN"
+  },
+  "ukimen": {
+    "pos": "NOUN"
+  },
+  "usaimen": {
+    "pos": "NOUN"
+  },
+  "kontzientzia": {
+    "pos": "NOUN"
+  },
+  "hautemate": {
+    "pos": "NOUN"
+  },
+  "irudi": {
+    "pos": "NOUN"
+  },
+  "indar": {
+    "pos": "NOUN"
+  },
+  "ahalmen": {
+    "pos": "NOUN"
+  },
+  "presentzia": {
+    "pos": "NOUN"
+  },
+  "existentzia": {
+    "pos": "NOUN"
+  },
+  "eskarmentu": {
+    "pos": "NOUN"
+  },
+  "posibilitate": {
+    "pos": "NOUN"
+  },
+  "aukera": {
+    "pos": "NOUN"
+  },
+  "egia": {
+    "pos": "NOUN"
+  },
+  "gezur": {
+    "pos": "NOUN"
+  },
+  "arrazoi": {
+    "pos": "NOUN"
+  },
+  "asmatze": {
+    "pos": "NOUN"
+  },
+  "hutsegite": {
+    "pos": "NOUN"
+  },
+  "behar": {
+    "pos": "NOUN"
+  },
+  "gabezia": {
+    "pos": "NOUN"
+  },
+  "esanahi": {
+    "pos": "NOUN"
+  },
+  "nortasun": {
+    "pos": "NOUN"
+  },
+  "gogoeta": {
+    "pos": "NOUN"
+  },
+  "oroimen": {
+    "pos": "NOUN"
+  },
+  "oroipen": {
+    "pos": "NOUN"
+  },
+  "grina": {
+    "pos": "NOUN"
+  },
+  "poz": {
+    "pos": "NOUN"
+  },
+  "tristura": {
+    "pos": "NOUN"
+  },
+  "sumindura": {
+    "pos": "NOUN"
+  },
+  "plazer": {
+    "pos": "NOUN"
+  },
+  "enpatia": {
+    "pos": "NOUN"
+  },
+  "interes": {
+    "pos": "NOUN"
+  },
+  "asperdura": {
+    "pos": "NOUN"
+  },
+  "neke": {
+    "pos": "NOUN"
+  },
+  "harridura": {
+    "pos": "NOUN"
+  },
+  "ezusteko": {
+    "pos": "NOUN"
+  },
+  "segurtasun": {
+    "pos": "NOUN"
+  },
+  "konfiantza": {
+    "pos": "NOUN"
+  },
+  "beldur": {
+    "pos": "NOUN"
+  },
+  "adibide": {
+    "pos": "NOUN"
+  },
+  "gizarte": {
+    "pos": "NOUN"
+  },
+  "komunitate": {
+    "pos": "NOUN"
+  },
+  "bilera": {
+    "pos": "NOUN"
+  },
+  "topaketa": {
+    "pos": "NOUN"
+  },
+  "egitura": {
+    "pos": "NOUN"
+  },
+  "administrazio": {
+    "pos": "NOUN"
+  },
+  "erakunde": {
+    "pos": "NOUN"
+  },
+  "elkarte": {
+    "pos": "NOUN"
+  },
+  "enpresa": {
+    "pos": "NOUN"
+  },
+  "talde": {
+    "pos": "NOUN"
+  },
+  "aginte": {
+    "pos": "NOUN"
+  },
+  "kargu": {
+    "pos": "NOUN"
+  },
+  "kanpaina": {
+    "pos": "NOUN"
+  },
+  "klub": {
+    "pos": "NOUN"
+  },
+  "batzorde": {
+    "pos": "NOUN"
+  },
+  "kongresu": {
+    "pos": "NOUN"
+  },
+  "kontseilu": {
+    "pos": "NOUN"
+  },
+  "herrialde": {
+    "pos": "NOUN"
+  },
+  "nazio": {
+    "pos": "NOUN"
+  },
+  "gobernu": {
+    "pos": "NOUN"
+  },
+  "estatu": {
+    "pos": "NOUN"
+  },
+  "probintzia": {
+    "pos": "NOUN"
+  },
+  "departamendu": {
+    "pos": "NOUN"
+  },
+  "udalerri": {
+    "pos": "NOUN"
+  },
+  "demokrazia": {
+    "pos": "NOUN"
+  },
+  "diktadura": {
+    "pos": "NOUN"
+  },
+  "politika": {
+    "pos": "NOUN"
+  },
+  "hiriburu": {
+    "pos": "NOUN"
+  },
+  "hiri": {
+    "pos": "NOUN"
+  },
+  "herri": {
+    "pos": "NOUN"
+  },
+  "hiribildu": {
+    "pos": "NOUN"
+  },
+  "betebehar": {
+    "pos": "NOUN"
+  },
+  "askatasun": {
+    "pos": "NOUN"
+  },
+  "eskubide": {
+    "pos": "NOUN"
+  },
+  "baimen": {
+    "pos": "NOUN"
+  },
+  "debeku": {
+    "pos": "NOUN"
+  },
+  "konstituzio": {
+    "pos": "NOUN"
+  },
+  "lege": {
+    "pos": "NOUN"
+  },
+  "dekretu": {
+    "pos": "NOUN"
+  },
+  "arau": {
+    "pos": "NOUN"
+  },
+  "arropa": {
+    "pos": "NOUN"
+  },
+  "janzki": {
+    "pos": "NOUN"
+  },
+  "mahuka": {
+    "pos": "NOUN"
+  },
+  "papar-hegal": {
+    "pos": "NOUN"
+  },
+  "botoi": {
+    "pos": "NOUN"
+  },
+  "itxigailu": {
+    "pos": "NOUN"
+  },
+  "kremailera": {
+    "pos": "NOUN"
+  },
+  "gerriko": {
+    "pos": "NOUN"
+  },
+  "oinetako": {
+    "pos": "NOUN"
+  },
+  "betaurreko": {
+    "pos": "NOUN"
+  },
+  "galtza": {
+    "pos": "NOUN"
+  },
+  "alkandora": {
+    "pos": "NOUN"
+  },
+  "kamiseta": {
+    "pos": "NOUN"
+  },
+  "zapatila": {
+    "pos": "NOUN"
+  },
+  "lokarriak": {
+    "pos": "NOUN"
+  },
+  "beroki": {
+    "pos": "NOUN"
+  },
+  "jaka": {
+    "pos": "NOUN"
+  },
+  "galtzerdiak": {
+    "pos": "NOUN"
+  },
+  "kuleroak": {
+    "pos": "NOUN"
+  },
+  "galtzontzilloak": {
+    "pos": "NOUN"
+  },
+  "bularretako": {
+    "pos": "NOUN"
+  },
+  "gona": {
+    "pos": "NOUN"
+  },
+  "soineko": {
+    "pos": "NOUN"
+  },
+  "jertse": {
+    "pos": "NOUN"
+  },
+  "belo": {
+    "pos": "NOUN"
+  },
+  "zorro": {
+    "pos": "NOUN"
+  },
+  "bainujantzi": {
+    "pos": "NOUN"
+  },
+  "tapauka": {
+    "pos": "NOUN"
+  },
+  "kasketa": {
+    "pos": "NOUN"
+  },
+  "eskularruak": {
+    "pos": "NOUN"
+  },
+  "gorbata": {
+    "pos": "NOUN"
+  },
+  "motxila": {
+    "pos": "NOUN"
+  },
+  "txano": {
+    "pos": "NOUN"
+  },
+  "erregai-sailtzaile": {
+    "pos": "NOUN"
+  },
+  "abokatu": {
+    "pos": "NOUN"
+  },
+  "aktore": {
+    "pos": "NOUN"
+  },
+  "administrari": {
+    "pos": "NOUN"
+  },
+  "arkitekto": {
+    "pos": "NOUN"
+  },
+  "astronauta": {
+    "pos": "NOUN"
+  },
+  "erraztatzaile": {
+    "pos": "NOUN"
+  },
+  "biologo": {
+    "pos": "NOUN"
+  },
+  "suhiltzaile": {
+    "pos": "NOUN"
+  },
+  "kutxazain": {
+    "pos": "NOUN"
+  },
+  "zerbitzari": {
+    "pos": "NOUN"
+  },
+  "harakin": {
+    "pos": "NOUN"
+  },
+  "zurgin": {
+    "pos": "NOUN"
+  },
+  "postari": {
+    "pos": "NOUN"
+  },
+  "zientzialari": {
+    "pos": "NOUN"
+  },
+  "sukaldari": {
+    "pos": "NOUN"
+  },
+  "dentista": {
+    "pos": "NOUN"
+  },
+  "saltzaile": {
+    "pos": "NOUN"
+  },
+  "argiketari": {
+    "pos": "NOUN"
+  },
+  "enpresaburu": {
+    "pos": "NOUN"
+  },
+  "mediku": {
+    "pos": "NOUN"
+  },
+  "iturgin": {
+    "pos": "NOUN"
+  },
+  "argazkilari": {
+    "pos": "NOUN"
+  },
+  "ingeniari": {
+    "pos": "NOUN"
+  },
+  "epaile": {
+    "pos": "NOUN"
+  },
+  "irakasle": {
+    "pos": "NOUN"
+  },
+  "mekanikari": {
+    "pos": "NOUN"
+  },
+  "okin": {
+    "pos": "NOUN"
+  },
+  "ile-apaintzaile": {
+    "pos": "NOUN"
+  },
+  "kazetari": {
+    "pos": "NOUN"
+  },
+  "margolari": {
+    "pos": "NOUN"
+  },
+  "polizia": {
+    "pos": "NOUN"
+  },
+  "programatzaile": {
+    "pos": "NOUN"
+  },
+  "politikari": {
+    "pos": "NOUN"
+  },
+  "ministro": {
+    "pos": "NOUN"
+  },
+  "zuzendari": {
+    "pos": "NOUN"
+  },
+  "diputatu": {
+    "pos": "NOUN"
+  },
+  "senatari": {
+    "pos": "NOUN"
+  },
+  "batzarkide": {
+    "pos": "NOUN"
+  },
+  "parlamentari": {
+    "pos": "NOUN"
+  },
+  "alkate": {
+    "pos": "NOUN"
+  },
+  "gobernadore": {
+    "pos": "NOUN"
+  },
+  "gabe": {
+    "pos": "ADPOSITION"
+  },
+  "arabera": {
+    "pos": "ADPOSITION"
+  },
+  "esker": {
+    "pos": "ADPOSITION"
+  },
+  "barru": {
+    "pos": "ADPOSITION"
+  },
+  "ordez": {
+    "pos": "ADPOSITION"
+  },
+  "barrena": {
+    "pos": "ADPOSITION"
+  },
+  "barik": {
+    "pos": "ADPOSITION"
+  },
+  "arte": {
+    "pos": "ADPOSITION"
+  },
+  "baita": {
+    "pos": "ADPOSITION"
+  },
+  "zehar": {
+    "pos": "ADPOSITION"
+  },
+  "barne": {
+    "pos": "ADPOSITION"
+  },
+  "gain": {
+    "pos": "ADPOSITION"
+  },
+  "azpi": {
+    "pos": "ADPOSITION"
+  },
+  "aurre": {
+    "pos": "ADPOSITION"
+  },
+  "atze": {
+    "pos": "ADPOSITION"
+  },
+  "erdi": {
+    "pos": "ADPOSITION"
+  },
+  "inguru": {
+    "pos": "ADPOSITION"
+  },
+  "kanpo": {
+    "pos": "ADPOSITION"
+  },
+  "bat": {
+    "pos": "NUMERAL"
+  },
+  "bi": {
+    "pos": "NUMERAL"
+  },
+  "hiru": {
+    "pos": "NUMERAL"
+  },
+  "lau": {
+    "pos": "NUMERAL"
+  },
+  "bost": {
+    "pos": "NUMERAL"
+  },
+  "sei": {
+    "pos": "NUMERAL"
+  },
+  "zazpi": {
+    "pos": "NUMERAL"
+  },
+  "zortzi": {
+    "pos": "NUMERAL"
+  },
+  "bederatzi": {
+    "pos": "NUMERAL"
+  },
+  "hamar": {
+    "pos": "NUMERAL"
+  },
+  "urtarril": {
+    "pos": "NOUN"
+  },
+  "otsail": {
+    "pos": "NOUN"
+  },
+  "martxo": {
+    "pos": "NOUN"
+  },
+  "apiril": {
+    "pos": "NOUN"
+  },
+  "maiatz": {
+    "pos": "NOUN"
+  },
+  "ekain": {
+    "pos": "NOUN"
+  },
+  "uztail": {
+    "pos": "NOUN"
+  },
+  "abuztu": {
+    "pos": "NOUN"
+  },
+  "irail": {
+    "pos": "NOUN"
+  },
+  "urri": {
+    "pos": "NOUN"
+  },
+  "azaro": {
+    "pos": "NOUN"
+  },
+  "abendu": {
+    "pos": "NOUN"
+  },
+  "pisu": {
+    "pos": "NOUN"
+  },
+  "bolumen": {
+    "pos": "NOUN"
+  },
+  "kilometro": {
+    "pos": "NOUN"
+  },
+  "zentimetro": {
+    "pos": "NOUN"
+  },
+  "milimetro": {
+    "pos": "NOUN"
+  },
+  "litro": {
+    "pos": "NOUN"
+  },
+  "mililitro": {
+    "pos": "NOUN"
+  },
+  "gramo": {
+    "pos": "NOUN"
+  },
+  "kilo": {
+    "pos": "NOUN"
+  },
+  "kopuru": {
+    "pos": "NOUN"
+  },
+  "total": {
+    "pos": "NOUN"
+  },
+  "neurri": {
+    "pos": "NOUN"
+  },
+  "ur": {
+    "pos": "NOUN"
+  },
+  "izotz": {
+    "pos": "NOUN"
+  },
+  "lurrun": {
+    "pos": "NOUN"
+  },
+  "su": {
+    "pos": "NOUN"
+  },
+  "gas": {
+    "pos": "NOUN"
+  },
+  "aire": {
+    "pos": "NOUN"
+  },
+  "lur": {
+    "pos": "NOUN"
+  },
+  "metal": {
+    "pos": "NOUN"
+  },
+  "burdin": {
+    "pos": "NOUN"
+  },
+  "urre": {
+    "pos": "NOUN"
+  },
+  "zilar": {
+    "pos": "NOUN"
+  },
+  "berun": {
+    "pos": "NOUN"
+  },
+  "gatz": {
+    "pos": "NOUN"
+  },
+  "lokatz": {
+    "pos": "NOUN"
+  },
+  "lohi": {
+    "pos": "NOUN"
+  },
+  "eskola": {
+    "pos": "NOUN"
+  },
+  "taberna": {
+    "pos": "NOUN"
+  },
+  "kafetegi": {
+    "pos": "NOUN"
+  },
+  "jatetxe": {
+    "pos": "NOUN"
+  },
+  "autoeskola": {
+    "pos": "NOUN"
+  },
+  "udaletxe": {
+    "pos": "NOUN"
+  },
+  "banku": {
+    "pos": "NOUN"
+  },
+  "liburutegi": {
+    "pos": "NOUN"
+  },
+  "supermerkatu": {
+    "pos": "NOUN"
+  },
+  "harategi": {
+    "pos": "NOUN"
+  },
+  "fruta-denda": {
+    "pos": "NOUN"
+  },
+  "urdaitegi": {
+    "pos": "NOUN"
+  },
+  "arrandegi": {
+    "pos": "NOUN"
+  },
+  "okindegi": {
+    "pos": "NOUN"
+  },
+  "komisaria": {
+    "pos": "NOUN"
+  },
+  "kopia-denda": {
+    "pos": "NOUN"
+  },
+  "tabako-denda": {
+    "pos": "NOUN"
+  },
+  "ile-apaindegi": {
+    "pos": "NOUN"
+  },
+  "farmazia": {
+    "pos": "NOUN"
+  },
+  "loradenda": {
+    "pos": "NOUN"
+  },
+  "bulego": {
+    "pos": "NOUN"
+  },
+  "denda": {
+    "pos": "NOUN"
+  },
+  "belar-denda": {
+    "pos": "NOUN"
+  },
+  "hotel": {
+    "pos": "NOUN"
+  },
+  "ospitale": {
+    "pos": "NOUN"
+  },
+  "bitxi-denda": {
+    "pos": "NOUN"
+  },
+  "liburu-denda": {
+    "pos": "NOUN"
+  },
+  "gitarra": {
+    "pos": "NOUN"
+  },
+  "piano": {
+    "pos": "NOUN"
+  },
+  "biolin": {
+    "pos": "NOUN"
+  },
+  "bateria": {
+    "pos": "NOUN"
+  },
+  "txirula": {
+    "pos": "NOUN"
+  },
+  "tronpeta": {
+    "pos": "NOUN"
+  },
+  "klarinete": {
+    "pos": "NOUN"
+  },
+  "saxofoi": {
+    "pos": "NOUN"
+  },
+  "idazmahai": {
+    "pos": "NOUN"
+  },
+  "aulki": {
+    "pos": "NOUN"
+  },
+  "mahai": {
+    "pos": "NOUN"
+  },
+  "ohe": {
+    "pos": "NOUN"
+  },
+  "logela": {
+    "pos": "NOUN"
+  },
+  "gela": {
+    "pos": "NOUN"
+  },
+  "panel": {
+    "pos": "NOUN"
+  },
+  "ate": {
+    "pos": "NOUN"
+  },
+  "leiho": {
+    "pos": "NOUN"
+  },
+  "sabai": {
+    "pos": "NOUN"
+  },
+  "sarrera": {
+    "pos": "NOUN"
+  },
+  "etxe": {
+    "pos": "NOUN"
+  },
+  "etxebizitza": {
+    "pos": "NOUN"
+  },
+  "eraikin": {
+    "pos": "NOUN"
+  },
+  "eraikuntza": {
+    "pos": "NOUN"
+  },
+  "igogailu": {
+    "pos": "NOUN"
+  },
+  "eskailera": {
+    "pos": "NOUN"
+  },
+  "aparatu": {
+    "pos": "NOUN"
+  },
+  "lanabes": {
+    "pos": "NOUN"
+  },
+  "kamera": {
+    "pos": "NOUN"
+  },
+  "orratz": {
+    "pos": "NOUN"
+  },
+  "iltze": {
+    "pos": "NOUN"
+  },
+  "hari": {
+    "pos": "NOUN"
+  },
+  "lokarri": {
+    "pos": "NOUN"
+  },
+  "kordel": {
+    "pos": "NOUN"
+  },
+  "soka": {
+    "pos": "NOUN"
+  },
+  "poltsa": {
+    "pos": "NOUN"
+  },
+  "pantaila": {
+    "pos": "NOUN"
+  },
+  "helduleku": {
+    "pos": "NOUN"
+  },
+  "giltza": {
+    "pos": "NOUN"
+  },
+  "arma": {
+    "pos": "NOUN"
+  },
+  "natura": {
+    "pos": "NOUN"
+  },
+  "zelai": {
+    "pos": "NOUN"
+  },
+  "baso": {
+    "pos": "NOUN"
+  },
+  "oihan": {
+    "pos": "NOUN"
+  },
+  "basamortu": {
+    "pos": "NOUN"
+  },
+  "itsasalde": {
+    "pos": "NOUN"
+  },
+  "hondartza": {
+    "pos": "NOUN"
+  },
+  "ibai": {
+    "pos": "NOUN"
+  },
+  "aintzira": {
+    "pos": "NOUN"
+  },
+  "urmael": {
+    "pos": "NOUN"
+  },
+  "ozeano": {
+    "pos": "NOUN"
+  },
+  "itsaso": {
+    "pos": "NOUN"
+  },
+  "mendi": {
+    "pos": "NOUN"
+  },
+  "gizateri": {
+    "pos": "NOUN"
+  },
+  "gizaki": {
+    "pos": "NOUN"
+  },
+  "pertsona": {
+    "pos": "NOUN"
+  },
+  "jende": {
+    "pos": "NOUN"
+  },
+  "gizon": {
+    "pos": "NOUN"
+  },
+  "emakume": {
+    "pos": "NOUN"
+  },
+  "haurtxo": {
+    "pos": "NOUN"
+  },
+  "neskato": {
+    "pos": "NOUN"
+  },
+  "mutiko": {
+    "pos": "NOUN"
+  },
+  "nerabe": {
+    "pos": "NOUN"
+  },
+  "atso": {
+    "pos": "NOUN"
+  },
+  "agure": {
+    "pos": "NOUN"
+  },
+  "andre": {
+    "pos": "NOUN"
+  },
+  "jaun": {
+    "pos": "NOUN"
+  },
+  "dama": {
+    "pos": "NOUN"
+  },
+  "norbanako": {
+    "pos": "NOUN"
+  },
+  "komedia": {
+    "pos": "NOUN"
+  },
+  "drama": {
+    "pos": "NOUN"
+  },
+  "musikal": {
+    "pos": "NOUN"
+  },
+  "misterio": {
+    "pos": "NOUN"
+  },
+  "suspense": {
+    "pos": "NOUN"
+  },
+  "fantasia": {
+    "pos": "NOUN"
+  },
+  "historia": {
+    "pos": "NOUN"
+  },
+  "abentura": {
+    "pos": "NOUN"
+  },
+  "familia": {
+    "pos": "NOUN"
+  },
+  "lagun": {
+    "pos": "NOUN"
+  },
+  "ezagun": {
+    "pos": "NOUN"
+  },
+  "lankide": {
+    "pos": "NOUN"
+  },
+  "bikote": {
+    "pos": "NOUN"
+  },
+  "emazte": {
+    "pos": "NOUN"
+  },
+  "senar": {
+    "pos": "NOUN"
+  },
+  "aita": {
+    "pos": "NOUN"
+  },
+  "ama": {
+    "pos": "NOUN"
+  },
+  "ahizpa": {
+    "pos": "NOUN"
+  },
+  "anai": {
+    "pos": "NOUN"
+  },
+  "alaba": {
+    "pos": "NOUN"
+  },
+  "seme": {
+    "pos": "NOUN"
+  },
+  "amona": {
+    "pos": "NOUN"
+  },
+  "aitona": {
+    "pos": "NOUN"
+  },
+  "birramona": {
+    "pos": "NOUN"
+  },
+  "birraitona": {
+    "pos": "NOUN"
+  },
+  "biloba": {
+    "pos": "NOUN"
+  },
+  "birbiloba": {
+    "pos": "NOUN"
+  },
+  "lehengusina": {
+    "pos": "NOUN"
+  },
+  "lehengusu": {
+    "pos": "NOUN"
+  },
+  "izeba": {
+    "pos": "NOUN"
+  },
+  "osaba": {
+    "pos": "NOUN"
+  },
+  "loba": {
+    "pos": "NOUN"
+  },
+  "leku": {
+    "pos": "NOUN"
+  },
+  "posizio": {
+    "pos": "NOUN"
+  },
+  "mugimendu": {
+    "pos": "NOUN"
+  },
+  "abiadura": {
+    "pos": "NOUN"
+  },
+  "azelerazio": {
+    "pos": "NOUN"
+  },
+  "norabide": {
+    "pos": "NOUN"
+  },
+  "tamaina": {
+    "pos": "NOUN"
+  },
+  "luzera": {
+    "pos": "NOUN"
+  },
+  "altuera": {
+    "pos": "NOUN"
+  },
+  "zabalera": {
+    "pos": "NOUN"
+  },
+  "gehiengo": {
+    "pos": "NOUN"
+  },
+  "gutxiengo": {
+    "pos": "NOUN"
+  },
+  "handipen": {
+    "pos": "NOUN"
+  },
+  "murriztapen": {
+    "pos": "NOUN"
+  },
+  "hazkunde": {
+    "pos": "NOUN"
+  },
+  "sakonera": {
+    "pos": "NOUN"
+  },
+  "ekonomia": {
+    "pos": "NOUN"
+  },
+  "kontsumo": {
+    "pos": "NOUN"
+  },
+  "eskari": {
+    "pos": "NOUN"
+  },
+  "eskaintza": {
+    "pos": "NOUN"
+  },
+  "konpainia": {
+    "pos": "NOUN"
+  },
+  "merkataritza": {
+    "pos": "NOUN"
+  },
+  "merkatu": {
+    "pos": "NOUN"
+  },
+  "zerbitzu": {
+    "pos": "NOUN"
+  },
+  "produktu": {
+    "pos": "NOUN"
+  },
+  "ekoizpen": {
+    "pos": "NOUN"
+  },
+  "transakzio": {
+    "pos": "NOUN"
+  },
+  "diru": {
+    "pos": "NOUN"
+  },
+  "bilete": {
+    "pos": "NOUN"
+  },
+  "tarifa": {
+    "pos": "NOUN"
+  },
+  "salneurri": {
+    "pos": "NOUN"
+  },
+  "balio": {
+    "pos": "NOUN"
+  },
+  "astelehen": {
+    "pos": "NOUN"
+  },
+  "astearte": {
+    "pos": "NOUN"
+  },
+  "asteazken": {
+    "pos": "NOUN"
+  },
+  "ostegun": {
+    "pos": "NOUN"
+  },
+  "ostiral": {
+    "pos": "NOUN"
+  },
+  "larunbat": {
+    "pos": "NOUN"
+  },
+  "igande": {
+    "pos": "NOUN"
+  },
+  "billar": {
+    "pos": "NOUN"
+  },
+  "boxeo": {
+    "pos": "NOUN"
+  },
+  "txirrindularitza": {
+    "pos": "NOUN"
+  },
+  "atletismo": {
+    "pos": "NOUN"
+  },
+  "eskalada": {
+    "pos": "NOUN"
+  },
+  "eskrima": {
+    "pos": "NOUN"
+  },
+  "eski": {
+    "pos": "NOUN"
+  },
+  "gimnastika": {
+    "pos": "NOUN"
+  },
+  "golf": {
+    "pos": "NOUN"
+  },
+  "bola-joko": {
+    "pos": "NOUN"
+  },
+  "patinaje": {
+    "pos": "NOUN"
+  },
+  "xendazaletasun": {
+    "pos": "NOUN"
+  },
+  "igeriketa": {
+    "pos": "NOUN"
+  },
+  "piraguismo": {
+    "pos": "NOUN"
+  },
+  "surf": {
+    "pos": "NOUN"
+  },
+  "bela": {
+    "pos": "NOUN"
+  },
+  "waterpolo": {
+    "pos": "NOUN"
+  },
+  "saskibaloi": {
+    "pos": "NOUN"
+  },
+  "badminton": {
+    "pos": "NOUN"
+  },
+  "eskubaloi": {
+    "pos": "NOUN"
+  },
+  "beisbol": {
+    "pos": "NOUN"
+  },
+  "kriket": {
+    "pos": "NOUN"
+  },
+  "futbol": {
+    "pos": "NOUN"
+  },
+  "errugbi": {
+    "pos": "NOUN"
+  },
+  "tenis": {
+    "pos": "NOUN"
+  },
+  "boleibol": {
+    "pos": "NOUN"
+  },
+  "gorputz": {
+    "pos": "NOUN"
+  },
+  "hanka": {
+    "pos": "NOUN"
+  },
+  "oin": {
+    "pos": "NOUN"
+  },
+  "orpo": {
+    "pos": "NOUN"
+  },
+  "bernazaki": {
+    "pos": "NOUN"
+  },
+  "belaun": {
+    "pos": "NOUN"
+  },
+  "izter": {
+    "pos": "NOUN"
+  },
+  "buru": {
+    "pos": "NOUN"
+  },
+  "aurpegi": {
+    "pos": "NOUN"
+  },
+  "aho": {
+    "pos": "NOUN"
+  },
+  "ezpain": {
+    "pos": "NOUN"
+  },
+  "hortz": {
+    "pos": "NOUN"
+  },
+  "begi": {
+    "pos": "NOUN"
+  },
+  "sudur": {
+    "pos": "NOUN"
+  },
+  "bizar": {
+    "pos": "NOUN"
+  },
+  "bibote": {
+    "pos": "NOUN"
+  },
+  "ile": {
+    "pos": "NOUN"
+  },
+  "belarri": {
+    "pos": "NOUN"
+  },
+  "garun": {
+    "pos": "NOUN"
+  },
+  "urdail": {
+    "pos": "NOUN"
+  },
+  "beso": {
+    "pos": "NOUN"
+  },
+  "ukondo": {
+    "pos": "NOUN"
+  },
+  "sorbalda": {
+    "pos": "NOUN"
+  },
+  "azazkal": {
+    "pos": "NOUN"
+  },
+  "esku": {
+    "pos": "NOUN"
+  },
+  "eskumutur": {
+    "pos": "NOUN"
+  },
+  "ahur": {
+    "pos": "NOUN"
+  },
+  "atzamar": {
+    "pos": "NOUN"
+  },
+  "ipurdi": {
+    "pos": "NOUN"
+  },
+  "sabelalde": {
+    "pos": "NOUN"
+  },
+  "gibel": {
+    "pos": "NOUN"
+  },
+  "gihar": {
+    "pos": "NOUN"
+  },
+  "lepo": {
+    "pos": "NOUN"
+  },
+  "bihotz": {
+    "pos": "NOUN"
+  },
+  "bular": {
+    "pos": "NOUN"
+  },
+  "gerri": {
+    "pos": "NOUN"
+  },
+  "aldaka": {
+    "pos": "NOUN"
+  },
+  "bizkar": {
+    "pos": "NOUN"
+  },
+  "azal": {
+    "pos": "NOUN"
+  },
+  "hezur": {
+    "pos": "NOUN"
+  },
+  "eta": {
+    "pos": "CONJUNCTION"
+  },
+  "arren": {
+    "pos": "CONJUNCTION"
+  },
+  "orduan": {
+    "pos": "CONJUNCTION"
+  },
+  "ezik": {
+    "pos": "CONJUNCTION"
+  },
+  "baina": {
+    "pos": "CONJUNCTION"
+  },
+  "bada": {
+    "pos": "CONJUNCTION"
+  },
+  "baizik": {
+    "pos": "CONJUNCTION"
+  },
+  "nahiz": {
+    "pos": "CONJUNCTION"
+  },
+  "ezpada": {
+    "pos": "CONJUNCTION"
+  },
+  "kolore": {
+    "pos": "NOUN"
+  },
+  "zuri": {
+    "pos": "NOUN"
+  },
+  "beltz": {
+    "pos": "NOUN"
+  },
+  "gris": {
+    "pos": "NOUN"
+  },
+  "gorri": {
+    "pos": "NOUN"
+  },
+  "laranja": {
+    "pos": "NOUN"
+  },
+  "hori": {
+    "pos": "NOUN"
+  },
+  "berde": {
+    "pos": "NOUN"
+  },
+  "urdin": {
+    "pos": "NOUN"
+  },
+  "more": {
+    "pos": "NOUN"
+  },
+  "arrosa": {
+    "pos": "NOUN"
+  },
+  "marroi": {
+    "pos": "NOUN"
+  },
+  "substantibo": {
+    "pos": "NOUN"
+  },
+  "izenlagun": {
+    "pos": "NOUN"
+  },
+  "izenondo": {
+    "pos": "NOUN"
+  },
+  "adberbio": {
+    "pos": "NOUN"
+  },
+  "preposizio": {
+    "pos": "NOUN"
+  },
+  "postposizio": {
+    "pos": "NOUN"
+  },
+  "juntagailu": {
+    "pos": "NOUN"
+  },
+  "aditz": {
+    "pos": "NOUN"
+  },
+  "izenordain": {
+    "pos": "NOUN"
+  },
+  "determinatzaile": {
+    "pos": "NOUN"
+  },
+  "lurrikara": {
+    "pos": "NOUN"
+  },
+  "uholde": {
+    "pos": "NOUN"
+  },
+  "urakan": {
+    "pos": "NOUN"
+  },
+  "tornado": {
+    "pos": "NOUN"
+  },
+  "tsunami": {
+    "pos": "NOUN"
+  },
+  "sute": {
+    "pos": "NOUN"
+  },
+  "lehorte": {
+    "pos": "NOUN"
+  },
+  "elur-jausi": {
+    "pos": "NOUN"
+  },
+  "txakur": {
+    "pos": "NOUN"
+  },
+  "katu": {
+    "pos": "NOUN"
+  },
+  "behi": {
+    "pos": "NOUN"
+  },
+  "txerri": {
+    "pos": "NOUN"
+  },
+  "behor": {
+    "pos": "NOUN"
+  },
+  "zaldi": {
+    "pos": "NOUN"
+  },
+  "ardi": {
+    "pos": "NOUN"
+  },
+  "tximino": {
+    "pos": "NOUN"
+  },
+  "arratoi": {
+    "pos": "NOUN"
+  },
+  "sagu": {
+    "pos": "NOUN"
+  },
+  "tigre": {
+    "pos": "NOUN"
+  },
+  "untxi": {
+    "pos": "NOUN"
+  },
+  "orein": {
+    "pos": "NOUN"
+  },
+  "igel": {
+    "pos": "NOUN"
+  },
+  "lehoi": {
+    "pos": "NOUN"
+  },
+  "jirafa": {
+    "pos": "NOUN"
+  },
+  "elefante": {
+    "pos": "NOUN"
+  },
+  "txori": {
+    "pos": "NOUN"
+  },
+  "oilo": {
+    "pos": "NOUN"
+  },
+  "txolarre": {
+    "pos": "NOUN"
+  },
+  "bele": {
+    "pos": "NOUN"
+  },
+  "arrano": {
+    "pos": "NOUN"
+  },
+  "belatz": {
+    "pos": "NOUN"
+  },
+  "arrain": {
+    "pos": "NOUN"
+  },
+  "izkira": {
+    "pos": "NOUN"
+  },
+  "otarrain": {
+    "pos": "NOUN"
+  },
+  "sardina": {
+    "pos": "NOUN"
+  },
+  "hegaluze": {
+    "pos": "NOUN"
+  },
+  "txipiroi": {
+    "pos": "NOUN"
+  },
+  "olagarro": {
+    "pos": "NOUN"
+  },
+  "intsektu": {
+    "pos": "NOUN"
+  },
+  "zomorro": {
+    "pos": "NOUN"
+  },
+  "tximeleta": {
+    "pos": "NOUN"
+  },
+  "sits": {
+    "pos": "NOUN"
+  },
+  "matxinsalto": {
+    "pos": "NOUN"
+  },
+  "armiarma": {
+    "pos": "NOUN"
+  },
+  "euli": {
+    "pos": "NOUN"
+  },
+  "eulitxo": {
+    "pos": "NOUN"
+  },
+  "labezomorro": {
+    "pos": "NOUN"
+  },
+  "barraskilo": {
+    "pos": "NOUN"
+  },
+  "zizare": {
+    "pos": "NOUN"
+  },
+  "musker": {
+    "pos": "NOUN"
+  },
+  "suge": {
+    "pos": "NOUN"
+  },
+  "krokodilo": {
+    "pos": "NOUN"
+  },
+  "lehen": {
+    "pos": "ADVERB"
+  },
+  "lehenago": {
+    "pos": "ADVERB"
+  },
+  "orain": {
+    "pos": "ADVERB"
+  },
+  "berehala": {
+    "pos": "ADVERB"
+  },
+  "segituan": {
+    "pos": "ADVERB"
+  },
+  "jada": {
+    "pos": "ADVERB"
+  },
+  "oraindik": {
+    "pos": "ADVERB"
+  },
+  "oraino": {
+    "pos": "ADVERB"
+  },
+  "bitartean": {
+    "pos": "ADVERB"
+  },
+  "gero": {
+    "pos": "ADVERB"
+  },
+  "geroago": {
+    "pos": "ADVERB"
+  },
+  "goiz": {
+    "pos": "ADVERB"
+  },
+  "berandu": {
+    "pos": "ADVERB"
+  },
+  "atzo": {
+    "pos": "ADVERB"
+  },
+  "bart": {
+    "pos": "ADVERB"
+  },
+  "gaur": {
+    "pos": "ADVERB"
+  },
+  "bihar": {
+    "pos": "ADVERB"
+  },
+  "aurki": {
+    "pos": "ADVERB"
+  },
+  "hurbil": {
+    "pos": "ADVERB"
+  },
+  "gertu": {
+    "pos": "ADVERB"
+  },
+  "hurren": {
+    "pos": "ADVERB"
+  },
+  "urrun": {
+    "pos": "ADVERB"
+  },
+  "urruti": {
+    "pos": "ADVERB"
+  },
+  "hemen": {
+    "pos": "ADVERB"
+  },
+  "hor": {
+    "pos": "ADVERB"
+  },
+  "han": {
+    "pos": "ADVERB"
+  },
+  "beti": {
+    "pos": "ADVERB"
+  },
+  "agian": {
+    "pos": "ADVERB"
+  },
+  "akaso": {
+    "pos": "ADVERB"
+  },
+  "aise": {
+    "pos": "ADVERB"
+  },
+  "nekez": {
+    "pos": "ADVERB"
+  },
+  "ziurrenik": {
+    "pos": "ADVERB"
+  },
+  "beharbada": {
+    "pos": "ADVERB"
+  },
+  "seguruenik": {
+    "pos": "ADVERB"
+  },
+  "gehiago": {
+    "pos": "ADVERB"
+  },
+  "oso": {
+    "pos": "ADVERB"
+  },
+  "asko": {
+    "pos": "ADVERB"
+  },
+  "gutxi": {
+    "pos": "ADVERB"
+  },
+  "apenas": {
+    "pos": "ADVERB"
+  },
+  "samar": {
+    "pos": "ADVERB"
+  },
+  "ia": {
+    "pos": "ADVERB"
+  },
+  "nahiko": {
+    "pos": "ADVERB"
+  },
+  "justu": {
+    "pos": "ADVERB"
+  },
+  "gehiegi": {
+    "pos": "ADVERB"
+  },
+  "hainbeste": {
+    "pos": "ADVERB"
+  },
+  "osorik": {
+    "pos": "ADVERB"
+  },
+  "batere": {
+    "pos": "ADVERB"
+  },
+  "ondo": {
+    "pos": "ADVERB"
+  },
+  "txarto": {
+    "pos": "ADVERB"
+  },
+  "hobeto": {
+    "pos": "ADVERB"
+  },
+  "okerrago": {
+    "pos": "ADVERB"
+  },
+  "erdipurdi": {
+    "pos": "ADVERB"
+  },
+  "astiro": {
+    "pos": "ADVERB"
+  },
+  "azkar": {
+    "pos": "ADVERB"
+  },
+  "nahita": {
+    "pos": "ADVERB"
+  },
+  "argiro": {
+    "pos": "ADVERB"
+  },
+  "zehazki": {
+    "pos": "ADVERB"
+  },
+  "noski": {
+    "pos": "ADVERB"
+  },
+  "bereziki": {
+    "pos": "ADVERB"
+  },
+  "alderantziz": {
+    "pos": "ADVERB"
+  },
+  "azkenik": {
+    "pos": "ADVERB"
+  },
+  "bero": {
+    "pos": "ADJECTIVE"
+  },
+  "hotz": {
+    "pos": "ADJECTIVE"
+  },
+  "arin": {
+    "pos": "ADJECTIVE"
+  },
+  "astun": {
+    "pos": "ADJECTIVE"
+  },
+  "leun": {
+    "pos": "ADJECTIVE"
+  },
+  "irmo": {
+    "pos": "ADJECTIVE"
+  },
+  "malgu": {
+    "pos": "ADJECTIVE"
+  },
+  "gogor": {
+    "pos": "ADJECTIVE"
+  },
+  "bigun": {
+    "pos": "ADJECTIVE"
+  },
+  "fresko": {
+    "pos": "ADJECTIVE"
+  },
+  "zoragarri": {
+    "pos": "ADJECTIVE"
+  },
+  "izugarri": {
+    "pos": "ADJECTIVE"
+  },
+  "goxo": {
+    "pos": "ADJECTIVE"
+  },
+  "min": {
+    "pos": "ADJECTIVE"
+  },
+  "gazi": {
+    "pos": "ADJECTIVE"
+  },
+  "mingots": {
+    "pos": "ADJECTIVE"
+  },
+  "atzeko": {
+    "pos": "ADJECTIVE"
+  },
+  "hurrengo": {
+    "pos": "ADJECTIVE"
+  },
+  "hurbileko": {
+    "pos": "ADJECTIVE"
+  },
+  "urrutiko": {
+    "pos": "ADJECTIVE"
+  },
+  "nire": {
+    "pos": "PRONOUN"
+  },
+  "zure": {
+    "pos": "PRONOUN"
+  },
+  "haren": {
+    "pos": "PRONOUN"
+  },
+  "gure": {
+    "pos": "PRONOUN"
+  },
+  "zuen": {
+    "pos": "PRONOUN"
+  },
+  "haien": {
+    "pos": "PRONOUN"
+  },
+  "lehenengo": {
+    "pos": "NUMERAL"
+  },
+  "bigarren": {
+    "pos": "NUMERAL"
+  },
+  "hirugarren": {
+    "pos": "NUMERAL"
+  },
+  "bosgarren": {
+    "pos": "NUMERAL"
+  },
+  "hamargarren": {
+    "pos": "NUMERAL"
+  },
+  "ehungarren": {
+    "pos": "NUMERAL"
+  },
+  "milioigarren": {
+    "pos": "NUMERAL"
+  },
+  "azken-aurreko": {
+    "pos": "NUMERAL"
+  },
+  "azken": {
+    "pos": "NUMERAL"
+  },
+  "zoriontsu": {
+    "pos": "ADJECTIVE"
+  },
+  "triste": {
+    "pos": "ADJECTIVE"
+  },
+  "bakarti": {
+    "pos": "ADJECTIVE"
+  },
+  "alai": {
+    "pos": "ADJECTIVE"
+  },
+  "lasai": {
+    "pos": "ADJECTIVE"
+  },
+  "haserre": {
+    "pos": "ADJECTIVE"
+  },
+  "larri": {
+    "pos": "ADJECTIVE"
+  },
+  "grinatsu": {
+    "pos": "ADJECTIVE"
+  },
+  "mingarri": {
+    "pos": "ADJECTIVE"
+  },
+  "atsitu": {
+    "pos": "ADJECTIVE"
+  },
+  "handi": {
+    "pos": "ADJECTIVE"
+  },
+  "txiki": {
+    "pos": "ADJECTIVE"
+  },
+  "zabal": {
+    "pos": "ADJECTIVE"
+  },
+  "estu": {
+    "pos": "ADJECTIVE"
+  },
+  "trinko": {
+    "pos": "ADJECTIVE"
+  },
+  "mehe": {
+    "pos": "ADJECTIVE"
+  },
+  "lodi": {
+    "pos": "ADJECTIVE"
+  },
+  "on": {
+    "pos": "ADJECTIVE"
+  },
+  "txar": {
+    "pos": "ADJECTIVE"
+  },
+  "goiko": {
+    "pos": "ADJECTIVE"
+  },
+  "beheko": {
+    "pos": "ADJECTIVE"
+  },
+  "erdiko": {
+    "pos": "ADJECTIVE"
+  },
+  "alboko": {
+    "pos": "ADJECTIVE"
+  },
+  "ziur": {
+    "pos": "ADJECTIVE"
+  },
+  "egiazko": {
+    "pos": "ADJECTIVE"
+  },
+  "faltsu": {
+    "pos": "ADJECTIVE"
+  },
+  "nagusi": {
+    "pos": "ADJECTIVE"
+  },
+  "garrantzitsu": {
+    "pos": "ADJECTIVE"
+  },
+  "beharrezko": {
+    "pos": "ADJECTIVE"
+  },
+  "erabateko": {
+    "pos": "ADJECTIVE"
+  },
+  "erlatibo": {
+    "pos": "ADJECTIVE"
+  },
+  "garesti": {
+    "pos": "ADJECTIVE"
+  },
+  "merke": {
+    "pos": "ADJECTIVE"
+  },
+  "zahar": {
+    "pos": "ADJECTIVE"
+  },
+  "gazte": {
+    "pos": "ADJECTIVE"
+  },
+  "bakoitz": {
+    "pos": "ADJECTIVE"
+  },
+  "edozein": {
+    "pos": "ADJECTIVE"
+  },
+  "egungo": {
+    "pos": "ADJECTIVE"
+  },
+  "arestiko": {
+    "pos": "ADJECTIVE"
+  },
+  "trebe": {
+    "pos": "ADJECTIVE"
+  },
+  "erraz": {
+    "pos": "ADJECTIVE"
+  },
+  "zail": {
+    "pos": "ADJECTIVE"
+  },
+  "posible": {
+    "pos": "ADJECTIVE"
+  },
+  "ezinezko": {
+    "pos": "ADJECTIVE"
+  },
+  "probable": {
+    "pos": "ADJECTIVE"
+  },
+  "inprobable": {
+    "pos": "ADJECTIVE"
+  },
+  "zorrotz": {
+    "pos": "ADJECTIVE"
+  },
+  "serio": {
+    "pos": "ADJECTIVE"
+  },
+  "orokor": {
+    "pos": "ADJECTIVE"
+  },
+  "partikular": {
+    "pos": "ADJECTIVE"
+  },
+  "komun": {
+    "pos": "ADJECTIVE"
+  },
+  "berezi": {
+    "pos": "ADJECTIVE"
+  },
+  "arrunt": {
+    "pos": "ADJECTIVE"
+  },
+  "paregabe": {
+    "pos": "ADJECTIVE"
+  },
+  "bitxi": {
+    "pos": "ADJECTIVE"
+  },
+  "sendo": {
+    "pos": "ADJECTIVE"
+  },
+  "ahul": {
+    "pos": "ADJECTIVE"
+  },
+  "zuzen": {
+    "pos": "ADJECTIVE"
+  },
+  "oker": {
+    "pos": "ADJECTIVE"
+  },
+  "kontrako": {
+    "pos": "ADJECTIVE"
+  },
+  "berdin": {
+    "pos": "ADJECTIVE"
+  },
+  "desberdin": {
+    "pos": "ADJECTIVE"
+  },
+  "antzeko": {
+    "pos": "ADJECTIVE"
+  },
+  "askotariko": {
+    "pos": "ADJECTIVE"
+  },
+  "eskuzko": {
+    "pos": "ADJECTIVE"
+  },
+  "automatiko": {
+    "pos": "ADJECTIVE"
+  },
+  "unibertsal": {
+    "pos": "ADJECTIVE"
+  },
+  "kontinental": {
+    "pos": "ADJECTIVE"
+  },
+  "nazioarteko": {
+    "pos": "ADJECTIVE"
+  },
+  "nazional": {
+    "pos": "ADJECTIVE"
+  },
+  "bertako": {
+    "pos": "ADJECTIVE"
+  },
+  "hiriko": {
+    "pos": "ADJECTIVE"
+  },
+  "landatar": {
+    "pos": "ADJECTIVE"
+  },
+  "sozial": {
+    "pos": "ADJECTIVE"
+  },
+  "kultural": {
+    "pos": "ADJECTIVE"
+  },
+  "artistiko": {
+    "pos": "ADJECTIVE"
+  },
+  "berezko": {
+    "pos": "ADJECTIVE"
+  },
+  "publiko": {
+    "pos": "ADJECTIVE"
+  },
+  "pribatu": {
+    "pos": "ADJECTIVE"
+  }
+}

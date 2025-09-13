@@ -1,0 +1,3473 @@
+{
+  "specie": {
+    "pos": "NOUN"
+  },
+  "essere": {
+    "pos": "NOUN"
+  },
+  "nascita": {
+    "pos": "NOUN"
+  },
+  "riproduzione": {
+    "pos": "NOUN"
+  },
+  "morte": {
+    "pos": "NOUN"
+  },
+  "zucca": {
+    "pos": "NOUN"
+  },
+  "bietola": {
+    "pos": "NOUN"
+  },
+  "pisello": {
+    "pos": "NOUN"
+  },
+  "carota": {
+    "pos": "NOUN"
+  },
+  "peperone": {
+    "pos": "NOUN"
+  },
+  "cipolla": {
+    "pos": "NOUN"
+  },
+  "cavolo": {
+    "pos": "NOUN"
+  },
+  "broccoli": {
+    "pos": "NOUN"
+  },
+  "sedano": {
+    "pos": "NOUN"
+  },
+  "lattuga": {
+    "pos": "NOUN"
+  },
+  "cavolfiore": {
+    "pos": "NOUN"
+  },
+  "bieta": {
+    "pos": "NOUN"
+  },
+  "spinaci": {
+    "pos": "NOUN"
+  },
+  "porro": {
+    "pos": "NOUN"
+  },
+  "mais": {
+    "pos": "NOUN"
+  },
+  "barbabietola": {
+    "pos": "NOUN"
+  },
+  "aglio": {
+    "pos": "NOUN"
+  },
+  "melanzana": {
+    "pos": "NOUN"
+  },
+  "fava": {
+    "pos": "NOUN"
+  },
+  "carciofo": {
+    "pos": "NOUN"
+  },
+  "patate": {
+    "pos": "NOUN"
+  },
+  "cetriolo": {
+    "pos": "NOUN"
+  },
+  "ravanello": {
+    "pos": "NOUN"
+  },
+  "asparago": {
+    "pos": "NOUN"
+  },
+  "sentire": {
+    "pos": "VERB"
+  },
+  "vedere": {
+    "pos": "VERB"
+  },
+  "ascoltare": {
+    "pos": "VERB"
+  },
+  "udire": {
+    "pos": "VERB"
+  },
+  "toccare": {
+    "pos": "VERB"
+  },
+  "annusare": {
+    "pos": "VERB"
+  },
+  "fiutare": {
+    "pos": "VERB"
+  },
+  "odorare": {
+    "pos": "VERB"
+  },
+  "percepire": {
+    "pos": "VERB"
+  },
+  "andare": {
+    "pos": "VERB"
+  },
+  "venire": {
+    "pos": "VERB"
+  },
+  "voltare": {
+    "pos": "VERB"
+  },
+  "girare": {
+    "pos": "VERB"
+  },
+  "arrivare": {
+    "pos": "VERB"
+  },
+  "portare": {
+    "pos": "VERB"
+  },
+  "muovere": {
+    "pos": "VERB"
+  },
+  "estrarre": {
+    "pos": "VERB"
+  },
+  "togliere": {
+    "pos": "VERB"
+  },
+  "raggiungere": {
+    "pos": "VERB"
+  },
+  "avvicinare": {
+    "pos": "VERB"
+  },
+  "allontanare": {
+    "pos": "VERB"
+  },
+  "lanciare": {
+    "pos": "VERB"
+  },
+  "tirare": {
+    "pos": "VERB"
+  },
+  "afferrare": {
+    "pos": "VERB"
+  },
+  "catturare": {
+    "pos": "VERB"
+  },
+  "battere": {
+    "pos": "VERB"
+  },
+  "picchiare": {
+    "pos": "VERB"
+  },
+  "scalciare": {
+    "pos": "VERB"
+  },
+  "mettere": {
+    "pos": "VERB"
+  },
+  "raccogliere": {
+    "pos": "VERB"
+  },
+  "alzare": {
+    "pos": "VERB"
+  },
+  "attaccare": {
+    "pos": "VERB"
+  },
+  "appiccicare": {
+    "pos": "VERB"
+  },
+  "apparire": {
+    "pos": "VERB"
+  },
+  "sparire": {
+    "pos": "VERB"
+  },
+  "esistere": {
+    "pos": "VERB"
+  },
+  "crescere": {
+    "pos": "VERB"
+  },
+  "vivere": {
+    "pos": "VERB"
+  },
+  "nascere": {
+    "pos": "VERB"
+  },
+  "morire": {
+    "pos": "VERB"
+  },
+  "amare": {
+    "pos": "VERB"
+  },
+  "desiderare": {
+    "pos": "VERB"
+  },
+  "odiare": {
+    "pos": "VERB"
+  },
+  "rattristarsi": {
+    "pos": "VERB"
+  },
+  "piangere": {
+    "pos": "VERB"
+  },
+  "ridere": {
+    "pos": "VERB"
+  },
+  "arrabbiarsi": {
+    "pos": "VERB"
+  },
+  "ammirare": {
+    "pos": "VERB"
+  },
+  "rallegrarsi": {
+    "pos": "VERB"
+  },
+  "incantarsi": {
+    "pos": "VERB"
+  },
+  "consolare": {
+    "pos": "VERB"
+  },
+  "interessarsi": {
+    "pos": "VERB"
+  },
+  "annoiarsi": {
+    "pos": "VERB"
+  },
+  "infastidirsi": {
+    "pos": "VERB"
+  },
+  "sorprendersi": {
+    "pos": "VERB"
+  },
+  "spaventarsi": {
+    "pos": "VERB"
+  },
+  "comunicare": {
+    "pos": "VERB"
+  },
+  "affermare": {
+    "pos": "VERB"
+  },
+  "negare": {
+    "pos": "VERB"
+  },
+  "dire": {
+    "pos": "VERB"
+  },
+  "parlare": {
+    "pos": "VERB"
+  },
+  "tacere": {
+    "pos": "VERB"
+  },
+  "scrivere": {
+    "pos": "VERB"
+  },
+  "leggere": {
+    "pos": "VERB"
+  },
+  "analizzare": {
+    "pos": "VERB"
+  },
+  "pensare": {
+    "pos": "VERB"
+  },
+  "cantare": {
+    "pos": "VERB"
+  },
+  "indicare": {
+    "pos": "VERB"
+  },
+  "pugnalare": {
+    "pos": "VERB"
+  },
+  "assaggiare": {
+    "pos": "VERB"
+  },
+  "inchiodare": {
+    "pos": "VERB"
+  },
+  "mangiare": {
+    "pos": "VERB"
+  },
+  "bere": {
+    "pos": "VERB"
+  },
+  "accordare": {
+    "pos": "VERB"
+  },
+  "procreare": {
+    "pos": "VERB"
+  },
+  "aggiungere": {
+    "pos": "VERB"
+  },
+  "migliorare": {
+    "pos": "VERB"
+  },
+  "peggiorare": {
+    "pos": "VERB"
+  },
+  "seguire": {
+    "pos": "VERB"
+  },
+  "avanzare": {
+    "pos": "VERB"
+  },
+  "retrocedere": {
+    "pos": "VERB"
+  },
+  "aiutare": {
+    "pos": "VERB"
+  },
+  "coinvolgere": {
+    "pos": "VERB"
+  },
+  "riunirsi": {
+    "pos": "VERB"
+  },
+  "intervistare": {
+    "pos": "VERB"
+  },
+  "aprire": {
+    "pos": "VERB"
+  },
+  "giocare": {
+    "pos": "VERB"
+  },
+  "scommettere": {
+    "pos": "VERB"
+  },
+  "puntare": {
+    "pos": "VERB"
+  },
+  "offendere": {
+    "pos": "VERB"
+  },
+  "dare": {
+    "pos": "VERB"
+  },
+  "ricevere": {
+    "pos": "VERB"
+  },
+  "rompere": {
+    "pos": "VERB"
+  },
+  "infrangere": {
+    "pos": "VERB"
+  },
+  "sciogliere": {
+    "pos": "VERB"
+  },
+  "piegare": {
+    "pos": "VERB"
+  },
+  "tagliare": {
+    "pos": "VERB"
+  },
+  "acquistare": {
+    "pos": "VERB"
+  },
+  "vendere": {
+    "pos": "VERB"
+  },
+  "scambiare": {
+    "pos": "VERB"
+  },
+  "sostituire": {
+    "pos": "VERB"
+  },
+  "chiudere": {
+    "pos": "VERB"
+  },
+  "cercare": {
+    "pos": "VERB"
+  },
+  "trovare": {
+    "pos": "VERB"
+  },
+  "conseguire": {
+    "pos": "VERB"
+  },
+  "credere": {
+    "pos": "VERB"
+  },
+  "iniziare": {
+    "pos": "VERB"
+  },
+  "finire": {
+    "pos": "VERB"
+  },
+  "abbandonare": {
+    "pos": "VERB"
+  },
+  "lasciare": {
+    "pos": "VERB"
+  },
+  "entrare": {
+    "pos": "VERB"
+  },
+  "rimanere": {
+    "pos": "VERB"
+  },
+  "cessare": {
+    "pos": "VERB"
+  },
+  "soddisfare": {
+    "pos": "VERB"
+  },
+  "servire": {
+    "pos": "VERB"
+  },
+  "accudire": {
+    "pos": "VERB"
+  },
+  "misurare": {
+    "pos": "VERB"
+  },
+  "intrattenere": {
+    "pos": "VERB"
+  },
+  "considerare": {
+    "pos": "VERB"
+  },
+  "confrontare": {
+    "pos": "VERB"
+  },
+  "valutare": {
+    "pos": "VERB"
+  },
+  "costruire": {
+    "pos": "VERB"
+  },
+  "distruggere": {
+    "pos": "VERB"
+  },
+  "creare": {
+    "pos": "VERB"
+  },
+  "potere": {
+    "pos": "VERB"
+  },
+  "conoscere": {
+    "pos": "VERB"
+  },
+  "capire": {
+    "pos": "VERB"
+  },
+  "legare": {
+    "pos": "VERB"
+  },
+  "allacciare": {
+    "pos": "VERB"
+  },
+  "lavorare": {
+    "pos": "VERB"
+  },
+  "dividere": {
+    "pos": "VERB"
+  },
+  "separare": {
+    "pos": "VERB"
+  },
+  "distribuire": {
+    "pos": "VERB"
+  },
+  "riposare": {
+    "pos": "VERB"
+  },
+  "dormire": {
+    "pos": "VERB"
+  },
+  "svegliare": {
+    "pos": "VERB"
+  },
+  "accettare": {
+    "pos": "VERB"
+  },
+  "respingere": {
+    "pos": "VERB"
+  },
+  "scartare": {
+    "pos": "VERB"
+  },
+  "accompagnare": {
+    "pos": "VERB"
+  },
+  "chiedere": {
+    "pos": "VERB"
+  },
+  "ordinare": {
+    "pos": "VERB"
+  },
+  "pretendere": {
+    "pos": "VERB"
+  },
+  "proporre": {
+    "pos": "VERB"
+  },
+  "suggerire": {
+    "pos": "VERB"
+  },
+  "utilizzare": {
+    "pos": "VERB"
+  },
+  "fare": {
+    "pos": "VERB"
+  },
+  "fabbricare": {
+    "pos": "VERB"
+  },
+  "sistemare": {
+    "pos": "VERB"
+  },
+  "vestire": {
+    "pos": "VERB"
+  },
+  "spiegare": {
+    "pos": "VERB"
+  },
+  "mostrare": {
+    "pos": "VERB"
+  },
+  "trattare": {
+    "pos": "VERB"
+  },
+  "evitare": {
+    "pos": "VERB"
+  },
+  "provare": {
+    "pos": "VERB"
+  },
+  "controllare": {
+    "pos": "VERB"
+  },
+  "cambiare": {
+    "pos": "VERB"
+  },
+  "aspettare": {
+    "pos": "VERB"
+  },
+  "necessitare": {
+    "pos": "VERB"
+  },
+  "significare": {
+    "pos": "VERB"
+  },
+  "sembrare": {
+    "pos": "VERB"
+  },
+  "distinguere": {
+    "pos": "VERB"
+  },
+  "trasporto": {
+    "pos": "NOUN"
+  },
+  "traffico": {
+    "pos": "NOUN"
+  },
+  "transito": {
+    "pos": "NOUN"
+  },
+  "veicolo": {
+    "pos": "NOUN"
+  },
+  "ferrovia": {
+    "pos": "NOUN"
+  },
+  "treno": {
+    "pos": "NOUN"
+  },
+  "strada": {
+    "pos": "NOUN"
+  },
+  "binario": {
+    "pos": "NOUN"
+  },
+  "rotaia": {
+    "pos": "NOUN"
+  },
+  "superstrada": {
+    "pos": "NOUN"
+  },
+  "rotta": {
+    "pos": "NOUN"
+  },
+  "corsia": {
+    "pos": "NOUN"
+  },
+  "autostrada": {
+    "pos": "NOUN"
+  },
+  "viale": {
+    "pos": "NOUN"
+  },
+  "fermata": {
+    "pos": "NOUN"
+  },
+  "stazione": {
+    "pos": "NOUN"
+  },
+  "aereo": {
+    "pos": "NOUN"
+  },
+  "aeroporto": {
+    "pos": "NOUN"
+  },
+  "carrozza": {
+    "pos": "NOUN"
+  },
+  "automobile": {
+    "pos": "NOUN"
+  },
+  "autobus": {
+    "pos": "NOUN"
+  },
+  "bus": {
+    "pos": "NOUN"
+  },
+  "motocicletta": {
+    "pos": "NOUN"
+  },
+  "taxi": {
+    "pos": "NOUN"
+  },
+  "tram": {
+    "pos": "NOUN"
+  },
+  "nave": {
+    "pos": "NOUN"
+  },
+  "bicicletta": {
+    "pos": "NOUN"
+  },
+  "monopattino": {
+    "pos": "NOUN"
+  },
+  "motorino": {
+    "pos": "NOUN"
+  },
+  "cosa": {
+    "pos": "NOUN"
+  },
+  "aspetto": {
+    "pos": "NOUN"
+  },
+  "contenuto": {
+    "pos": "NOUN"
+  },
+  "oggetto": {
+    "pos": "NOUN"
+  },
+  "parte": {
+    "pos": "NOUN"
+  },
+  "settore": {
+    "pos": "NOUN"
+  },
+  "parola": {
+    "pos": "NOUN"
+  },
+  "nome": {
+    "pos": "NOUN"
+  },
+  "codice": {
+    "pos": "NOUN"
+  },
+  "segreto": {
+    "pos": "NOUN"
+  },
+  "formalità": {
+    "pos": "NOUN"
+  },
+  "presente": {
+    "pos": "NOUN"
+  },
+  "passato": {
+    "pos": "NOUN"
+  },
+  "futuro": {
+    "pos": "NOUN"
+  },
+  "occasione": {
+    "pos": "NOUN"
+  },
+  "volta": {
+    "pos": "NOUN"
+  },
+  "attività": {
+    "pos": "NOUN"
+  },
+  "atto": {
+    "pos": "NOUN"
+  },
+  "programma": {
+    "pos": "NOUN"
+  },
+  "progetto": {
+    "pos": "NOUN"
+  },
+  "accordo": {
+    "pos": "NOUN"
+  },
+  "attitudine": {
+    "pos": "NOUN"
+  },
+  "attenzione": {
+    "pos": "NOUN"
+  },
+  "capacità": {
+    "pos": "NOUN"
+  },
+  "concetto": {
+    "pos": "NOUN"
+  },
+  "tema": {
+    "pos": "NOUN"
+  },
+  "condizione": {
+    "pos": "NOUN"
+  },
+  "caso": {
+    "pos": "NOUN"
+  },
+  "gruppo": {
+    "pos": "NOUN"
+  },
+  "creazione": {
+    "pos": "NOUN"
+  },
+  "distruzione": {
+    "pos": "NOUN"
+  },
+  "origine": {
+    "pos": "NOUN"
+  },
+  "destinazione": {
+    "pos": "NOUN"
+  },
+  "meta": {
+    "pos": "NOUN"
+  },
+  "obiettivo": {
+    "pos": "NOUN"
+  },
+  "funzione": {
+    "pos": "NOUN"
+  },
+  "relazione": {
+    "pos": "NOUN"
+  },
+  "realtà": {
+    "pos": "NOUN"
+  },
+  "situazione": {
+    "pos": "NOUN"
+  },
+  "problema": {
+    "pos": "NOUN"
+  },
+  "intenzione": {
+    "pos": "NOUN"
+  },
+  "soluzione": {
+    "pos": "NOUN"
+  },
+  "effetto": {
+    "pos": "NOUN"
+  },
+  "risultato": {
+    "pos": "NOUN"
+  },
+  "conseguenza": {
+    "pos": "NOUN"
+  },
+  "esito": {
+    "pos": "NOUN"
+  },
+  "fallimento": {
+    "pos": "NOUN"
+  },
+  "causa": {
+    "pos": "NOUN"
+  },
+  "fine": {
+    "pos": "NOUN"
+  },
+  "beneficio": {
+    "pos": "NOUN"
+  },
+  "danno": {
+    "pos": "NOUN"
+  },
+  "qualità": {
+    "pos": "NOUN"
+  },
+  "tipo": {
+    "pos": "NOUN"
+  },
+  "attacco": {
+    "pos": "NOUN"
+  },
+  "difesa": {
+    "pos": "NOUN"
+  },
+  "pace": {
+    "pos": "NOUN"
+  },
+  "conflitto": {
+    "pos": "NOUN"
+  },
+  "guerra": {
+    "pos": "NOUN"
+  },
+  "carattere": {
+    "pos": "NOUN"
+  },
+  "caratteristica": {
+    "pos": "NOUN"
+  },
+  "crisi": {
+    "pos": "NOUN"
+  },
+  "sviluppo": {
+    "pos": "NOUN"
+  },
+  "progresso": {
+    "pos": "NOUN"
+  },
+  "avanzamento": {
+    "pos": "NOUN"
+  },
+  "retrocessione": {
+    "pos": "NOUN"
+  },
+  "miglioramento": {
+    "pos": "NOUN"
+  },
+  "peggioramento": {
+    "pos": "NOUN"
+  },
+  "inizio": {
+    "pos": "NOUN"
+  },
+  "corso": {
+    "pos": "NOUN"
+  },
+  "conclusione": {
+    "pos": "NOUN"
+  },
+  "percorso": {
+    "pos": "NOUN"
+  },
+  "fase": {
+    "pos": "NOUN"
+  },
+  "insegnamento": {
+    "pos": "NOUN"
+  },
+  "serie": {
+    "pos": "NOUN"
+  },
+  "sequenza": {
+    "pos": "NOUN"
+  },
+  "grado": {
+    "pos": "NOUN"
+  },
+  "livello": {
+    "pos": "NOUN"
+  },
+  "processo": {
+    "pos": "NOUN"
+  },
+  "difficoltà": {
+    "pos": "NOUN"
+  },
+  "interruzione": {
+    "pos": "NOUN"
+  },
+  "attesa": {
+    "pos": "NOUN"
+  },
+  "differenza": {
+    "pos": "NOUN"
+  },
+  "similitudine": {
+    "pos": "NOUN"
+  },
+  "senso": {
+    "pos": "NOUN"
+  },
+  "sensazione": {
+    "pos": "NOUN"
+  },
+  "vista": {
+    "pos": "NOUN"
+  },
+  "udito": {
+    "pos": "NOUN"
+  },
+  "tatto": {
+    "pos": "NOUN"
+  },
+  "olfatto": {
+    "pos": "NOUN"
+  },
+  "dolore": {
+    "pos": "NOUN"
+  },
+  "coscienza": {
+    "pos": "NOUN"
+  },
+  "percezione": {
+    "pos": "NOUN"
+  },
+  "immagine": {
+    "pos": "NOUN"
+  },
+  "forza": {
+    "pos": "NOUN"
+  },
+  "potenza": {
+    "pos": "NOUN"
+  },
+  "presenza": {
+    "pos": "NOUN"
+  },
+  "esistenza": {
+    "pos": "NOUN"
+  },
+  "esperienza": {
+    "pos": "NOUN"
+  },
+  "possibilità": {
+    "pos": "NOUN"
+  },
+  "probabilità": {
+    "pos": "NOUN"
+  },
+  "verità": {
+    "pos": "NOUN"
+  },
+  "bugia": {
+    "pos": "NOUN"
+  },
+  "ragione": {
+    "pos": "NOUN"
+  },
+  "successo": {
+    "pos": "NOUN"
+  },
+  "errore": {
+    "pos": "NOUN"
+  },
+  "bisogno": {
+    "pos": "NOUN"
+  },
+  "mancanza": {
+    "pos": "NOUN"
+  },
+  "significato": {
+    "pos": "NOUN"
+  },
+  "personalità": {
+    "pos": "NOUN"
+  },
+  "pensiero": {
+    "pos": "NOUN"
+  },
+  "memoria": {
+    "pos": "NOUN"
+  },
+  "ricordo": {
+    "pos": "NOUN"
+  },
+  "desiderio": {
+    "pos": "NOUN"
+  },
+  "felicità": {
+    "pos": "NOUN"
+  },
+  "tristezza": {
+    "pos": "NOUN"
+  },
+  "rabbia": {
+    "pos": "NOUN"
+  },
+  "piacere": {
+    "pos": "NOUN"
+  },
+  "empatia": {
+    "pos": "NOUN"
+  },
+  "interesse": {
+    "pos": "NOUN"
+  },
+  "noia": {
+    "pos": "NOUN"
+  },
+  "fatica": {
+    "pos": "NOUN"
+  },
+  "sorpresa": {
+    "pos": "NOUN"
+  },
+  "spavento": {
+    "pos": "NOUN"
+  },
+  "sicurezza": {
+    "pos": "NOUN"
+  },
+  "fiducia": {
+    "pos": "NOUN"
+  },
+  "paura": {
+    "pos": "NOUN"
+  },
+  "esempio": {
+    "pos": "NOUN"
+  },
+  "società": {
+    "pos": "NOUN"
+  },
+  "comunità": {
+    "pos": "NOUN"
+  },
+  "riunione": {
+    "pos": "NOUN"
+  },
+  "incontro": {
+    "pos": "NOUN"
+  },
+  "struttura": {
+    "pos": "NOUN"
+  },
+  "amministrazione": {
+    "pos": "NOUN"
+  },
+  "organizzazione": {
+    "pos": "NOUN"
+  },
+  "associazione": {
+    "pos": "NOUN"
+  },
+  "impresa": {
+    "pos": "NOUN"
+  },
+  "regione": {
+    "pos": "NOUN"
+  },
+  "autorità": {
+    "pos": "NOUN"
+  },
+  "quartiere": {
+    "pos": "NOUN"
+  },
+  "commissione": {
+    "pos": "NOUN"
+  },
+  "congresso": {
+    "pos": "NOUN"
+  },
+  "consiglio": {
+    "pos": "NOUN"
+  },
+  "partito": {
+    "pos": "NOUN"
+  },
+  "paese": {
+    "pos": "NOUN"
+  },
+  "nazione": {
+    "pos": "NOUN"
+  },
+  "governo": {
+    "pos": "NOUN"
+  },
+  "stato": {
+    "pos": "NOUN"
+  },
+  "provincia": {
+    "pos": "NOUN"
+  },
+  "dipartimento": {
+    "pos": "NOUN"
+  },
+  "democrazia": {
+    "pos": "NOUN"
+  },
+  "dittatura": {
+    "pos": "NOUN"
+  },
+  "politica": {
+    "pos": "NOUN"
+  },
+  "capitale": {
+    "pos": "NOUN"
+  },
+  "città": {
+    "pos": "NOUN"
+  },
+  "popolazione": {
+    "pos": "NOUN"
+  },
+  "popolo": {
+    "pos": "NOUN"
+  },
+  "cittadina": {
+    "pos": "NOUN"
+  },
+  "obbligo": {
+    "pos": "NOUN"
+  },
+  "libertà": {
+    "pos": "NOUN"
+  },
+  "diritti": {
+    "pos": "NOUN"
+  },
+  "autorizzazione": {
+    "pos": "NOUN"
+  },
+  "divieto": {
+    "pos": "NOUN"
+  },
+  "costituzione": {
+    "pos": "NOUN"
+  },
+  "legge": {
+    "pos": "NOUN"
+  },
+  "decreto": {
+    "pos": "NOUN"
+  },
+  "regole": {
+    "pos": "NOUN"
+  },
+  "vestito": {
+    "pos": "NOUN"
+  },
+  "indumento": {
+    "pos": "NOUN"
+  },
+  "manica": {
+    "pos": "NOUN"
+  },
+  "lembo": {
+    "pos": "NOUN"
+  },
+  "bottone": {
+    "pos": "NOUN"
+  },
+  "zip": {
+    "pos": "NOUN"
+  },
+  "cerniera": {
+    "pos": "NOUN"
+  },
+  "cintura": {
+    "pos": "NOUN"
+  },
+  "scarpe": {
+    "pos": "NOUN"
+  },
+  "occhiali": {
+    "pos": "NOUN"
+  },
+  "pantoloni": {
+    "pos": "NOUN"
+  },
+  "camicia": {
+    "pos": "NOUN"
+  },
+  "maglietta": {
+    "pos": "NOUN"
+  },
+  "giubbotto": {
+    "pos": "NOUN"
+  },
+  "lacci": {
+    "pos": "NOUN"
+  },
+  "cappotto": {
+    "pos": "NOUN"
+  },
+  "giacca": {
+    "pos": "NOUN"
+  },
+  "calzini": {
+    "pos": "NOUN"
+  },
+  "mutande": {
+    "pos": "NOUN"
+  },
+  "slip": {
+    "pos": "NOUN"
+  },
+  "reggiseno": {
+    "pos": "NOUN"
+  },
+  "gonna": {
+    "pos": "NOUN"
+  },
+  "calze": {
+    "pos": "NOUN"
+  },
+  "maglione": {
+    "pos": "NOUN"
+  },
+  "maglioncino": {
+    "pos": "NOUN"
+  },
+  "tuta": {
+    "pos": "NOUN"
+  },
+  "costume": {
+    "pos": "NOUN"
+  },
+  "sciarpa": {
+    "pos": "NOUN"
+  },
+  "berretto": {
+    "pos": "NOUN"
+  },
+  "guanti": {
+    "pos": "NOUN"
+  },
+  "cravatta": {
+    "pos": "NOUN"
+  },
+  "zaino": {
+    "pos": "NOUN"
+  },
+  "cappello": {
+    "pos": "NOUN"
+  },
+  "stivali": {
+    "pos": "NOUN"
+  },
+  "avvocato": {
+    "pos": "NOUN"
+  },
+  "attrice": {
+    "pos": "NOUN"
+  },
+  "attore": {
+    "pos": "NOUN"
+  },
+  "amministratore": {
+    "pos": "NOUN"
+  },
+  "astronauta": {
+    "pos": "NOUN"
+  },
+  "biologo": {
+    "pos": "NOUN"
+  },
+  "cassiere": {
+    "pos": "NOUN"
+  },
+  "cameriere": {
+    "pos": "NOUN"
+  },
+  "macellaio": {
+    "pos": "NOUN"
+  },
+  "postino": {
+    "pos": "NOUN"
+  },
+  "scienziato": {
+    "pos": "NOUN"
+  },
+  "cuoco": {
+    "pos": "NOUN"
+  },
+  "dentista": {
+    "pos": "NOUN"
+  },
+  "dipendente": {
+    "pos": "NOUN"
+  },
+  "elettricista": {
+    "pos": "NOUN"
+  },
+  "imprenditore": {
+    "pos": "NOUN"
+  },
+  "fotografo": {
+    "pos": "NOUN"
+  },
+  "giudice": {
+    "pos": "NOUN"
+  },
+  "panettiere": {
+    "pos": "NOUN"
+  },
+  "parrucchiere": {
+    "pos": "NOUN"
+  },
+  "pittore": {
+    "pos": "NOUN"
+  },
+  "programmatore": {
+    "pos": "NOUN"
+  },
+  "politico": {
+    "pos": "NOUN"
+  },
+  "ministro": {
+    "pos": "NOUN"
+  },
+  "direttore": {
+    "pos": "NOUN"
+  },
+  "deputato": {
+    "pos": "NOUN"
+  },
+  "senatrice": {
+    "pos": "NOUN"
+  },
+  "parlamentare": {
+    "pos": "NOUN"
+  },
+  "sindaco": {
+    "pos": "NOUN"
+  },
+  "governatrice": {
+    "pos": "NOUN"
+  },
+  "ricercatore": {
+    "pos": "NOUN"
+  },
+  "professore": {
+    "pos": "NOUN"
+  },
+  "insegnante": {
+    "pos": "NOUN"
+  },
+  "maestro": {
+    "pos": "NOUN"
+  },
+  "falegname": {
+    "pos": "NOUN"
+  },
+  "operaio": {
+    "pos": "NOUN"
+  },
+  "idraulico": {
+    "pos": "NOUN"
+  },
+  "meccanico": {
+    "pos": "NOUN"
+  },
+  "ragioniere": {
+    "pos": "NOUN"
+  },
+  "fioraio": {
+    "pos": "NOUN"
+  },
+  "giardiniere": {
+    "pos": "NOUN"
+  },
+  "netturbino": {
+    "pos": "NOUN"
+  },
+  "muratore": {
+    "pos": "NOUN"
+  },
+  "carpentiere": {
+    "pos": "NOUN"
+  },
+  "calzolaio": {
+    "pos": "NOUN"
+  },
+  "ingegnere": {
+    "pos": "NOUN"
+  },
+  "bancario": {
+    "pos": "NOUN"
+  },
+  "banchiere": {
+    "pos": "NOUN"
+  },
+  "dottore": {
+    "pos": "NOUN"
+  },
+  "dottoressa": {
+    "pos": "NOUN"
+  },
+  "medico": {
+    "pos": "NOUN"
+  },
+  "segretario": {
+    "pos": "NOUN"
+  },
+  "infermiere": {
+    "pos": "NOUN"
+  },
+  "tassista": {
+    "pos": "NOUN"
+  },
+  "autista": {
+    "pos": "NOUN"
+  },
+  "architetto": {
+    "pos": "NOUN"
+  },
+  "guardiano": {
+    "pos": "NOUN"
+  },
+  "giornalista": {
+    "pos": "NOUN"
+  },
+  "poliziotto": {
+    "pos": "NOUN"
+  },
+  "pompiere": {
+    "pos": "NOUN"
+  },
+  "carabiniere": {
+    "pos": "NOUN"
+  },
+  "di": {
+    "pos": "ADPOSITION"
+  },
+  "a": {
+    "pos": "ADPOSITION"
+  },
+  "da": {
+    "pos": "ADPOSITION"
+  },
+  "in": {
+    "pos": "ADPOSITION"
+  },
+  "con": {
+    "pos": "ADPOSITION"
+  },
+  "per": {
+    "pos": "ADPOSITION"
+  },
+  "tra": {
+    "pos": "ADPOSITION"
+  },
+  "fra": {
+    "pos": "ADPOSITION"
+  },
+  "verso": {
+    "pos": "ADPOSITION"
+  },
+  "attraverso": {
+    "pos": "ADPOSITION"
+  },
+  "mediante": {
+    "pos": "ADPOSITION"
+  },
+  "durante": {
+    "pos": "ADPOSITION"
+  },
+  "fino": {
+    "pos": "ADPOSITION"
+  },
+  "uno": {
+    "pos": "DETERMINER"
+  },
+  "due": {
+    "pos": "DETERMINER"
+  },
+  "tre": {
+    "pos": "DETERMINER"
+  },
+  "quattro": {
+    "pos": "DETERMINER"
+  },
+  "cinque": {
+    "pos": "DETERMINER"
+  },
+  "sei": {
+    "pos": "DETERMINER"
+  },
+  "sette": {
+    "pos": "DETERMINER"
+  },
+  "otto": {
+    "pos": "DETERMINER"
+  },
+  "nove": {
+    "pos": "DETERMINER"
+  },
+  "dieci": {
+    "pos": "DETERMINER"
+  },
+  "gennaio": {
+    "pos": "DATE"
+  },
+  "febbraio": {
+    "pos": "DATE"
+  },
+  "marzo": {
+    "pos": "DATE"
+  },
+  "aprile": {
+    "pos": "DATE"
+  },
+  "maggio": {
+    "pos": "DATE"
+  },
+  "giugno": {
+    "pos": "DATE"
+  },
+  "luglio": {
+    "pos": "DATE"
+  },
+  "agosto": {
+    "pos": "DATE"
+  },
+  "settembre": {
+    "pos": "DATE"
+  },
+  "ottobre": {
+    "pos": "DATE"
+  },
+  "novembre": {
+    "pos": "DATE"
+  },
+  "dicembre": {
+    "pos": "DATE"
+  },
+  "peso": {
+    "pos": "NOUN"
+  },
+  "chilometro": {
+    "pos": "NOUN"
+  },
+  "centimetro": {
+    "pos": "NOUN"
+  },
+  "millimetro": {
+    "pos": "NOUN"
+  },
+  "litro": {
+    "pos": "NOUN"
+  },
+  "millilitro": {
+    "pos": "NOUN"
+  },
+  "grammo": {
+    "pos": "NOUN"
+  },
+  "chilo": {
+    "pos": "NOUN"
+  },
+  "quantità": {
+    "pos": "NOUN"
+  },
+  "totale": {
+    "pos": "NOUN"
+  },
+  "media": {
+    "pos": "NOUN"
+  },
+  "acqua": {
+    "pos": "NOUN"
+  },
+  "ghiaccio": {
+    "pos": "NOUN"
+  },
+  "vapore": {
+    "pos": "NOUN"
+  },
+  "fuoco": {
+    "pos": "NOUN"
+  },
+  "gas": {
+    "pos": "NOUN"
+  },
+  "aria": {
+    "pos": "NOUN"
+  },
+  "terra": {
+    "pos": "NOUN"
+  },
+  "metallo": {
+    "pos": "NOUN"
+  },
+  "ferro": {
+    "pos": "NOUN"
+  },
+  "oro": {
+    "pos": "NOUN"
+  },
+  "argento": {
+    "pos": "NOUN"
+  },
+  "bronzo": {
+    "pos": "NOUN"
+  },
+  "piombo": {
+    "pos": "NOUN"
+  },
+  "sale": {
+    "pos": "NOUN"
+  },
+  "fango": {
+    "pos": "NOUN"
+  },
+  "terracotta": {
+    "pos": "NOUN"
+  },
+  "scuola": {
+    "pos": "NOUN"
+  },
+  "bar": {
+    "pos": "NOUN"
+  },
+  "caffetteria": {
+    "pos": "NOUN"
+  },
+  "ristorante": {
+    "pos": "NOUN"
+  },
+  "pizzeria": {
+    "pos": "NOUN"
+  },
+  "banca": {
+    "pos": "NOUN"
+  },
+  "biblioteca": {
+    "pos": "NOUN"
+  },
+  "supermercato": {
+    "pos": "NOUN"
+  },
+  "macelleria": {
+    "pos": "NOUN"
+  },
+  "pastificio": {
+    "pos": "NOUN"
+  },
+  "salumeria": {
+    "pos": "NOUN"
+  },
+  "pescheria": {
+    "pos": "NOUN"
+  },
+  "panetteria": {
+    "pos": "NOUN"
+  },
+  "commissariato": {
+    "pos": "NOUN"
+  },
+  "copisteria": {
+    "pos": "NOUN"
+  },
+  "tabaccaio": {
+    "pos": "NOUN"
+  },
+  "barbiere": {
+    "pos": "NOUN"
+  },
+  "farmacia": {
+    "pos": "NOUN"
+  },
+  "caserma": {
+    "pos": "NOUN"
+  },
+  "ufficio": {
+    "pos": "NOUN"
+  },
+  "negozio": {
+    "pos": "NOUN"
+  },
+  "erboristeria": {
+    "pos": "NOUN"
+  },
+  "hotel": {
+    "pos": "NOUN"
+  },
+  "albergo": {
+    "pos": "NOUN"
+  },
+  "ospedale": {
+    "pos": "NOUN"
+  },
+  "oreficeria": {
+    "pos": "NOUN"
+  },
+  "libreria": {
+    "pos": "NOUN"
+  },
+  "chitarra": {
+    "pos": "NOUN"
+  },
+  "pianoforte": {
+    "pos": "NOUN"
+  },
+  "violino": {
+    "pos": "NOUN"
+  },
+  "batteria": {
+    "pos": "NOUN"
+  },
+  "flauto": {
+    "pos": "NOUN"
+  },
+  "tromba": {
+    "pos": "NOUN"
+  },
+  "clarinetto": {
+    "pos": "NOUN"
+  },
+  "sassofono": {
+    "pos": "NOUN"
+  },
+  "violoncello": {
+    "pos": "NOUN"
+  },
+  "arpa": {
+    "pos": "NOUN"
+  },
+  "clavicembalo": {
+    "pos": "NOUN"
+  },
+  "scrivania": {
+    "pos": "NOUN"
+  },
+  "sedia": {
+    "pos": "NOUN"
+  },
+  "tavolo": {
+    "pos": "NOUN"
+  },
+  "letto": {
+    "pos": "NOUN"
+  },
+  "divano": {
+    "pos": "NOUN"
+  },
+  "camera": {
+    "pos": "NOUN"
+  },
+  "stanza": {
+    "pos": "NOUN"
+  },
+  "cucina": {
+    "pos": "NOUN"
+  },
+  "porta": {
+    "pos": "NOUN"
+  },
+  "finestra": {
+    "pos": "NOUN"
+  },
+  "ingresso": {
+    "pos": "NOUN"
+  },
+  "casa": {
+    "pos": "NOUN"
+  },
+  "salotto": {
+    "pos": "NOUN"
+  },
+  "appartamento": {
+    "pos": "NOUN"
+  },
+  "edificio": {
+    "pos": "NOUN"
+  },
+  "bagno": {
+    "pos": "NOUN"
+  },
+  "ascensore": {
+    "pos": "NOUN"
+  },
+  "scale": {
+    "pos": "NOUN"
+  },
+  "vite": {
+    "pos": "NOUN"
+  },
+  "telecamera": {
+    "pos": "NOUN"
+  },
+  "ago": {
+    "pos": "NOUN"
+  },
+  "chiodo": {
+    "pos": "NOUN"
+  },
+  "filo": {
+    "pos": "NOUN"
+  },
+  "cavo": {
+    "pos": "NOUN"
+  },
+  "corda": {
+    "pos": "NOUN"
+  },
+  "fune": {
+    "pos": "NOUN"
+  },
+  "martello": {
+    "pos": "NOUN"
+  },
+  "manopola": {
+    "pos": "NOUN"
+  },
+  "chiave": {
+    "pos": "NOUN"
+  },
+  "cacciavite": {
+    "pos": "NOUN"
+  },
+  "forchetta": {
+    "pos": "NOUN"
+  },
+  "cucchiaio": {
+    "pos": "NOUN"
+  },
+  "coltello": {
+    "pos": "NOUN"
+  },
+  "cucchiaino": {
+    "pos": "NOUN"
+  },
+  "natura": {
+    "pos": "NOUN"
+  },
+  "campo": {
+    "pos": "NOUN"
+  },
+  "bosco": {
+    "pos": "NOUN"
+  },
+  "giungla": {
+    "pos": "NOUN"
+  },
+  "foresta": {
+    "pos": "NOUN"
+  },
+  "deserto": {
+    "pos": "NOUN"
+  },
+  "costa": {
+    "pos": "NOUN"
+  },
+  "spiaggia": {
+    "pos": "NOUN"
+  },
+  "fiume": {
+    "pos": "NOUN"
+  },
+  "lago": {
+    "pos": "NOUN"
+  },
+  "laguna": {
+    "pos": "NOUN"
+  },
+  "oceano": {
+    "pos": "NOUN"
+  },
+  "mare": {
+    "pos": "NOUN"
+  },
+  "montagna": {
+    "pos": "NOUN"
+  },
+  "monte": {
+    "pos": "NOUN"
+  },
+  "collina": {
+    "pos": "NOUN"
+  },
+  "pianura": {
+    "pos": "NOUN"
+  },
+  "ruscello": {
+    "pos": "NOUN"
+  },
+  "valle": {
+    "pos": "NOUN"
+  },
+  "scarpata": {
+    "pos": "NOUN"
+  },
+  "paesaggio": {
+    "pos": "NOUN"
+  },
+  "canale": {
+    "pos": "NOUN"
+  },
+  "palude": {
+    "pos": "NOUN"
+  },
+  "umanità": {
+    "pos": "NOUN"
+  },
+  "umano": {
+    "pos": "NOUN"
+  },
+  "persona": {
+    "pos": "NOUN"
+  },
+  "gente": {
+    "pos": "NOUN"
+  },
+  "uomo": {
+    "pos": "NOUN"
+  },
+  "donna": {
+    "pos": "NOUN"
+  },
+  "neonato": {
+    "pos": "NOUN"
+  },
+  "bambina": {
+    "pos": "NOUN"
+  },
+  "bambino": {
+    "pos": "NOUN"
+  },
+  "adolescente": {
+    "pos": "NOUN"
+  },
+  "adulta": {
+    "pos": "NOUN"
+  },
+  "adulto": {
+    "pos": "NOUN"
+  },
+  "signora": {
+    "pos": "NOUN"
+  },
+  "signore": {
+    "pos": "NOUN"
+  },
+  "infante": {
+    "pos": "NOUN"
+  },
+  "bimbo": {
+    "pos": "NOUN"
+  },
+  "bimba": {
+    "pos": "NOUN"
+  },
+  "individuo": {
+    "pos": "NOUN"
+  },
+  "commedia": {
+    "pos": "NOUN"
+  },
+  "drammatico": {
+    "pos": "NOUN"
+  },
+  "musical": {
+    "pos": "NOUN"
+  },
+  "orrore": {
+    "pos": "NOUN"
+  },
+  "thriller": {
+    "pos": "NOUN"
+  },
+  "fantastico": {
+    "pos": "ADJECTIVE"
+  },
+  "storico": {
+    "pos": "ADJECTIVE"
+  },
+  "romantico": {
+    "pos": "ADJECTIVE"
+  },
+  "noir": {
+    "pos": "NOUN"
+  },
+  "fantascienza": {
+    "pos": "NOUN"
+  },
+  "documentario": {
+    "pos": "NOUN"
+  },
+  "tragedia": {
+    "pos": "NOUN"
+  },
+  "famiglia": {
+    "pos": "NOUN"
+  },
+  "amica": {
+    "pos": "NOUN"
+  },
+  "amico": {
+    "pos": "NOUN"
+  },
+  "conoscenza": {
+    "pos": "NOUN"
+  },
+  "coniuge": {
+    "pos": "NOUN"
+  },
+  "genitore": {
+    "pos": "NOUN"
+  },
+  "coppia": {
+    "pos": "NOUN"
+  },
+  "sposa": {
+    "pos": "NOUN"
+  },
+  "sposo": {
+    "pos": "NOUN"
+  },
+  "matrimonio": {
+    "pos": "NOUN"
+  },
+  "amore": {
+    "pos": "NOUN"
+  },
+  "padre": {
+    "pos": "NOUN"
+  },
+  "madre": {
+    "pos": "NOUN"
+  },
+  "sorella": {
+    "pos": "NOUN"
+  },
+  "fratello": {
+    "pos": "NOUN"
+  },
+  "figlia": {
+    "pos": "NOUN"
+  },
+  "figlio": {
+    "pos": "NOUN"
+  },
+  "nonna": {
+    "pos": "NOUN"
+  },
+  "nonno": {
+    "pos": "NOUN"
+  },
+  "bisnonna": {
+    "pos": "NOUN"
+  },
+  "bisnonno": {
+    "pos": "NOUN"
+  },
+  "nipote": {
+    "pos": "NOUN"
+  },
+  "genero": {
+    "pos": "NOUN"
+  },
+  "pronipote": {
+    "pos": "NOUN"
+  },
+  "nuora": {
+    "pos": "NOUN"
+  },
+  "cugina": {
+    "pos": "NOUN"
+  },
+  "cugino": {
+    "pos": "NOUN"
+  },
+  "zia": {
+    "pos": "NOUN"
+  },
+  "zio": {
+    "pos": "NOUN"
+  },
+  "suocero": {
+    "pos": "NOUN"
+  },
+  "suocera": {
+    "pos": "NOUN"
+  },
+  "luogo": {
+    "pos": "NOUN"
+  },
+  "posizione": {
+    "pos": "NOUN"
+  },
+  "movimento": {
+    "pos": "NOUN"
+  },
+  "velocità": {
+    "pos": "NOUN"
+  },
+  "accelerazione": {
+    "pos": "NOUN"
+  },
+  "direzione": {
+    "pos": "NOUN"
+  },
+  "dimensione": {
+    "pos": "NOUN"
+  },
+  "lunghezza": {
+    "pos": "NOUN"
+  },
+  "larghezza": {
+    "pos": "NOUN"
+  },
+  "altezza": {
+    "pos": "NOUN"
+  },
+  "altitudine": {
+    "pos": "NOUN"
+  },
+  "ampiezza": {
+    "pos": "NOUN"
+  },
+  "maggioranza": {
+    "pos": "NOUN"
+  },
+  "minoranza": {
+    "pos": "NOUN"
+  },
+  "aumento": {
+    "pos": "NOUN"
+  },
+  "riduzione": {
+    "pos": "NOUN"
+  },
+  "incremento": {
+    "pos": "NOUN"
+  },
+  "decremento": {
+    "pos": "NOUN"
+  },
+  "decelerazione": {
+    "pos": "NOUN"
+  },
+  "economia": {
+    "pos": "NOUN"
+  },
+  "consumo": {
+    "pos": "NOUN"
+  },
+  "domanda": {
+    "pos": "NOUN"
+  },
+  "compagnia": {
+    "pos": "NOUN"
+  },
+  "commercio": {
+    "pos": "NOUN"
+  },
+  "mercato": {
+    "pos": "NOUN"
+  },
+  "servizio": {
+    "pos": "NOUN"
+  },
+  "prodotto": {
+    "pos": "NOUN"
+  },
+  "produzione": {
+    "pos": "NOUN"
+  },
+  "transazione": {
+    "pos": "NOUN"
+  },
+  "denaro": {
+    "pos": "NOUN"
+  },
+  "fattura": {
+    "pos": "NOUN"
+  },
+  "tariffa": {
+    "pos": "NOUN"
+  },
+  "prezzo": {
+    "pos": "NOUN"
+  },
+  "valore": {
+    "pos": "NOUN"
+  },
+  "costo": {
+    "pos": "NOUN"
+  },
+  "fatturazione": {
+    "pos": "NOUN"
+  },
+  "azienda": {
+    "pos": "NOUN"
+  },
+  "industria": {
+    "pos": "NOUN"
+  },
+  "lunedì": {
+    "pos": "NOUN"
+  },
+  "martedì": {
+    "pos": "NOUN"
+  },
+  "mercoledì": {
+    "pos": "NOUN"
+  },
+  "giovedì": {
+    "pos": "NOUN"
+  },
+  "venerdì": {
+    "pos": "NOUN"
+  },
+  "sabato": {
+    "pos": "NOUN"
+  },
+  "domenica": {
+    "pos": "NOUN"
+  },
+  "biliardo": {
+    "pos": "NOUN"
+  },
+  "pugilato": {
+    "pos": "NOUN"
+  },
+  "ciclismo": {
+    "pos": "NOUN"
+  },
+  "atletica": {
+    "pos": "NOUN"
+  },
+  "arrampicata": {
+    "pos": "NOUN"
+  },
+  "scherma": {
+    "pos": "NOUN"
+  },
+  "sci": {
+    "pos": "NOUN"
+  },
+  "ginnastica": {
+    "pos": "NOUN"
+  },
+  "golf": {
+    "pos": "NOUN"
+  },
+  "hockey": {
+    "pos": "NOUN"
+  },
+  "pattinaggio": {
+    "pos": "NOUN"
+  },
+  "escursionismo": {
+    "pos": "NOUN"
+  },
+  "nuoto": {
+    "pos": "NOUN"
+  },
+  "canottaggio": {
+    "pos": "NOUN"
+  },
+  "surf": {
+    "pos": "NOUN"
+  },
+  "vela": {
+    "pos": "NOUN"
+  },
+  "pallanuoto": {
+    "pos": "NOUN"
+  },
+  "pallacanestro": {
+    "pos": "NOUN"
+  },
+  "volano": {
+    "pos": "NOUN"
+  },
+  "pallamano": {
+    "pos": "NOUN"
+  },
+  "baseball": {
+    "pos": "NOUN"
+  },
+  "cricket": {
+    "pos": "NOUN"
+  },
+  "calcio": {
+    "pos": "NOUN"
+  },
+  "rugby": {
+    "pos": "NOUN"
+  },
+  "tennis": {
+    "pos": "NOUN"
+  },
+  "pallavolo": {
+    "pos": "NOUN"
+  },
+  "karate": {
+    "pos": "NOUN"
+  },
+  "judo": {
+    "pos": "NOUN"
+  },
+  "scacchi": {
+    "pos": "NOUN"
+  },
+  "padel": {
+    "pos": "NOUN"
+  },
+  "decathlon": {
+    "pos": "NOUN"
+  },
+  "pentathlon": {
+    "pos": "NOUN"
+  },
+  "triathlon": {
+    "pos": "NOUN"
+  },
+  "equitazione": {
+    "pos": "NOUN"
+  },
+  "corpo": {
+    "pos": "NOUN"
+  },
+  "gamba": {
+    "pos": "NOUN"
+  },
+  "piede": {
+    "pos": "NOUN"
+  },
+  "tallone": {
+    "pos": "NOUN"
+  },
+  "stinco": {
+    "pos": "NOUN"
+  },
+  "ginocchio": {
+    "pos": "NOUN"
+  },
+  "coscia": {
+    "pos": "NOUN"
+  },
+  "testa": {
+    "pos": "NOUN"
+  },
+  "narice": {
+    "pos": "NOUN"
+  },
+  "bocca": {
+    "pos": "NOUN"
+  },
+  "labbro": {
+    "pos": "NOUN"
+  },
+  "dente": {
+    "pos": "NOUN"
+  },
+  "occhio": {
+    "pos": "NOUN"
+  },
+  "naso": {
+    "pos": "NOUN"
+  },
+  "barba": {
+    "pos": "NOUN"
+  },
+  "baffi": {
+    "pos": "NOUN"
+  },
+  "capelli": {
+    "pos": "NOUN"
+  },
+  "orecchio": {
+    "pos": "NOUN"
+  },
+  "cervello": {
+    "pos": "NOUN"
+  },
+  "stomaco": {
+    "pos": "NOUN"
+  },
+  "braccio": {
+    "pos": "NOUN"
+  },
+  "gomito": {
+    "pos": "NOUN"
+  },
+  "spalla": {
+    "pos": "NOUN"
+  },
+  "caviglia": {
+    "pos": "NOUN"
+  },
+  "mano": {
+    "pos": "NOUN"
+  },
+  "pancia": {
+    "pos": "NOUN"
+  },
+  "palmo": {
+    "pos": "NOUN"
+  },
+  "dito": {
+    "pos": "NOUN"
+  },
+  "sedere": {
+    "pos": "NOUN"
+  },
+  "addome": {
+    "pos": "NOUN"
+  },
+  "fegato": {
+    "pos": "NOUN"
+  },
+  "muscolo": {
+    "pos": "NOUN"
+  },
+  "collo": {
+    "pos": "NOUN"
+  },
+  "cuore": {
+    "pos": "NOUN"
+  },
+  "petto": {
+    "pos": "NOUN"
+  },
+  "anca": {
+    "pos": "NOUN"
+  },
+  "schiena": {
+    "pos": "NOUN"
+  },
+  "pelo": {
+    "pos": "NOUN"
+  },
+  "osso": {
+    "pos": "NOUN"
+  },
+  "lingua": {
+    "pos": "NOUN"
+  },
+  "pollice": {
+    "pos": "NOUN"
+  },
+  "indice": {
+    "pos": "NOUN"
+  },
+  "mignolo": {
+    "pos": "NOUN"
+  },
+  "sebbene": {
+    "pos": "CONJUNCTION"
+  },
+  "come": {
+    "pos": "CONJUNCTION"
+  },
+  "quando": {
+    "pos": "CONJUNCTION"
+  },
+  "allora": {
+    "pos": "CONJUNCTION"
+  },
+  "però": {
+    "pos": "CONJUNCTION"
+  },
+  "perché": {
+    "pos": "CONJUNCTION"
+  },
+  "che": {
+    "pos": "CONJUNCTION"
+  },
+  "se": {
+    "pos": "CONJUNCTION"
+  },
+  "benché": {
+    "pos": "CONJUNCTION"
+  },
+  "nonostante": {
+    "pos": "CONJUNCTION"
+  },
+  "né": {
+    "pos": "CONJUNCTION"
+  },
+  "finché": {
+    "pos": "CONJUNCTION"
+  },
+  "e": {
+    "pos": "CONJUNCTION"
+  },
+  "oppure": {
+    "pos": "CONJUNCTION"
+  },
+  "ovvero": {
+    "pos": "CONJUNCTION"
+  },
+  "colore": {
+    "pos": "NOUN"
+  },
+  "bianco": {
+    "pos": "NOUN"
+  },
+  "nero": {
+    "pos": "NOUN"
+  },
+  "grigio": {
+    "pos": "NOUN"
+  },
+  "rosso": {
+    "pos": "NOUN"
+  },
+  "arancione": {
+    "pos": "NOUN"
+  },
+  "verde": {
+    "pos": "NOUN"
+  },
+  "celeste": {
+    "pos": "NOUN"
+  },
+  "azzurro": {
+    "pos": "NOUN"
+  },
+  "viola": {
+    "pos": "NOUN"
+  },
+  "rosa": {
+    "pos": "NOUN"
+  },
+  "marrone": {
+    "pos": "NOUN"
+  },
+  "blu": {
+    "pos": "NOUN"
+  },
+  "violetto": {
+    "pos": "NOUN"
+  },
+  "magenta": {
+    "pos": "NOUN"
+  },
+  "sostantivo": {
+    "pos": "NOUN"
+  },
+  "aggettivo": {
+    "pos": "NOUN"
+  },
+  "avverbio": {
+    "pos": "NOUN"
+  },
+  "preposizione": {
+    "pos": "NOUN"
+  },
+  "congiunzione": {
+    "pos": "NOUN"
+  },
+  "verbo": {
+    "pos": "NOUN"
+  },
+  "pronome": {
+    "pos": "NOUN"
+  },
+  "articolo": {
+    "pos": "NOUN"
+  },
+  "terremoto": {
+    "pos": "NOUN"
+  },
+  "inondazione": {
+    "pos": "NOUN"
+  },
+  "uragano": {
+    "pos": "NOUN"
+  },
+  "tornado": {
+    "pos": "NOUN"
+  },
+  "tsunami": {
+    "pos": "NOUN"
+  },
+  "incendio": {
+    "pos": "NOUN"
+  },
+  "siccità": {
+    "pos": "NOUN"
+  },
+  "valanga": {
+    "pos": "NOUN"
+  },
+  "slavina": {
+    "pos": "NOUN"
+  },
+  "frana": {
+    "pos": "NOUN"
+  },
+  "maremoto": {
+    "pos": "NOUN"
+  },
+  "cane": {
+    "pos": "NOUN"
+  },
+  "gatto": {
+    "pos": "NOUN"
+  },
+  "mucca": {
+    "pos": "NOUN"
+  },
+  "maiale": {
+    "pos": "NOUN"
+  },
+  "cavallo": {
+    "pos": "NOUN"
+  },
+  "scoiattolo": {
+    "pos": "NOUN"
+  },
+  "pecora": {
+    "pos": "NOUN"
+  },
+  "scimmia": {
+    "pos": "NOUN"
+  },
+  "topo": {
+    "pos": "NOUN"
+  },
+  "ratto": {
+    "pos": "NOUN"
+  },
+  "tigre": {
+    "pos": "NOUN"
+  },
+  "coniglio": {
+    "pos": "NOUN"
+  },
+  "cervo": {
+    "pos": "NOUN"
+  },
+  "rana": {
+    "pos": "NOUN"
+  },
+  "leone": {
+    "pos": "NOUN"
+  },
+  "giraffa": {
+    "pos": "NOUN"
+  },
+  "elefante": {
+    "pos": "NOUN"
+  },
+  "uccello": {
+    "pos": "NOUN"
+  },
+  "gallina": {
+    "pos": "NOUN"
+  },
+  "passero": {
+    "pos": "NOUN"
+  },
+  "corvo": {
+    "pos": "NOUN"
+  },
+  "aquila": {
+    "pos": "NOUN"
+  },
+  "falco": {
+    "pos": "NOUN"
+  },
+  "pesce": {
+    "pos": "NOUN"
+  },
+  "aragosta": {
+    "pos": "NOUN"
+  },
+  "sardina": {
+    "pos": "NOUN"
+  },
+  "tonno": {
+    "pos": "NOUN"
+  },
+  "calamaro": {
+    "pos": "NOUN"
+  },
+  "polipo": {
+    "pos": "NOUN"
+  },
+  "insetto": {
+    "pos": "NOUN"
+  },
+  "gorilla": {
+    "pos": "NOUN"
+  },
+  "farfalla": {
+    "pos": "NOUN"
+  },
+  "falena": {
+    "pos": "NOUN"
+  },
+  "cavalletta": {
+    "pos": "NOUN"
+  },
+  "ragno": {
+    "pos": "NOUN"
+  },
+  "mosca": {
+    "pos": "NOUN"
+  },
+  "zanzara": {
+    "pos": "NOUN"
+  },
+  "scarafaggio": {
+    "pos": "NOUN"
+  },
+  "lumaca": {
+    "pos": "NOUN"
+  },
+  "chiocciola": {
+    "pos": "NOUN"
+  },
+  "lombrico": {
+    "pos": "NOUN"
+  },
+  "lucertola": {
+    "pos": "NOUN"
+  },
+  "serpente": {
+    "pos": "NOUN"
+  },
+  "coccodrillo": {
+    "pos": "NOUN"
+  },
+  "granchio": {
+    "pos": "NOUN"
+  },
+  "grillo": {
+    "pos": "NOUN"
+  },
+  "babbuino": {
+    "pos": "NOUN"
+  },
+  "scarabeo": {
+    "pos": "NOUN"
+  },
+  "leopardo": {
+    "pos": "NOUN"
+  },
+  "puma": {
+    "pos": "NOUN"
+  },
+  "prima": {
+    "pos": "ADVERB"
+  },
+  "precedentemente": {
+    "pos": "ADVERB"
+  },
+  "adesso": {
+    "pos": "ADVERB"
+  },
+  "ora": {
+    "pos": "ADVERB"
+  },
+  "subito": {
+    "pos": "ADVERB"
+  },
+  "immediatamente": {
+    "pos": "ADVERB"
+  },
+  "già": {
+    "pos": "ADVERB"
+  },
+  "ancora": {
+    "pos": "ADVERB"
+  },
+  "comunque": {
+    "pos": "ADVERB"
+  },
+  "recentemente": {
+    "pos": "ADVERB"
+  },
+  "mentre": {
+    "pos": "ADVERB"
+  },
+  "dopo": {
+    "pos": "ADVERB"
+  },
+  "quindi": {
+    "pos": "ADVERB"
+  },
+  "presto": {
+    "pos": "ADVERB"
+  },
+  "tardi": {
+    "pos": "ADVERB"
+  },
+  "precocemente": {
+    "pos": "ADVERB"
+  },
+  "ieri": {
+    "pos": "ADVERB"
+  },
+  "stanotte": {
+    "pos": "ADVERB"
+  },
+  "oggi": {
+    "pos": "ADVERB"
+  },
+  "domani": {
+    "pos": "ADVERB"
+  },
+  "prossimamente": {
+    "pos": "ADVERB"
+  },
+  "stamattina": {
+    "pos": "ADVERB"
+  },
+  "sopra": {
+    "pos": "ADVERB"
+  },
+  "sotto": {
+    "pos": "ADVERB"
+  },
+  "davanti": {
+    "pos": "ADVERB"
+  },
+  "dietro": {
+    "pos": "ADVERB"
+  },
+  "intorno": {
+    "pos": "ADVERB"
+  },
+  "presso": {
+    "pos": "ADVERB"
+  },
+  "dentro": {
+    "pos": "ADVERB"
+  },
+  "fuori": {
+    "pos": "ADVERB"
+  },
+  "qui": {
+    "pos": "ADVERB"
+  },
+  "lì": {
+    "pos": "ADVERB"
+  },
+  "là": {
+    "pos": "ADVERB"
+  },
+  "mai": {
+    "pos": "ADVERB"
+  },
+  "anche": {
+    "pos": "ADVERB"
+  },
+  "forse": {
+    "pos": "ADVERB"
+  },
+  "probabilmente": {
+    "pos": "ADVERB"
+  },
+  "certamente": {
+    "pos": "ADVERB"
+  },
+  "difficilmente": {
+    "pos": "ADVERB"
+  },
+  "possibilmente": {
+    "pos": "ADVERB"
+  },
+  "sicuramente": {
+    "pos": "ADVERB"
+  },
+  "più": {
+    "pos": "ADVERB"
+  },
+  "meno": {
+    "pos": "ADVERB"
+  },
+  "molto": {
+    "pos": "ADVERB"
+  },
+  "circa": {
+    "pos": "ADVERB"
+  },
+  "poco": {
+    "pos": "ADVERB"
+  },
+  "appena": {
+    "pos": "ADVERB"
+  },
+  "solo": {
+    "pos": "ADVERB"
+  },
+  "quasi": {
+    "pos": "ADVERB"
+  },
+  "approssimativamente": {
+    "pos": "ADVERB"
+  },
+  "esattamente": {
+    "pos": "ADVERB"
+  },
+  "abbastanza": {
+    "pos": "ADVERB"
+  },
+  "equamente": {
+    "pos": "ADVERB"
+  },
+  "troppo": {
+    "pos": "ADVERB"
+  },
+  "soltanto": {
+    "pos": "ADVERB"
+  },
+  "solamente": {
+    "pos": "ADVERB"
+  },
+  "completamente": {
+    "pos": "ADVERB"
+  },
+  "tanto": {
+    "pos": "ADVERB"
+  },
+  "tutto": {
+    "pos": "ADVERB"
+  },
+  "niente": {
+    "pos": "ADVERB"
+  },
+  "altrettanto": {
+    "pos": "ADVERB"
+  },
+  "assai": {
+    "pos": "ADVERB"
+  },
+  "parecchio": {
+    "pos": "ADVERB"
+  },
+  "affatto": {
+    "pos": "ADVERB"
+  },
+  "alquanto": {
+    "pos": "ADVERB"
+  },
+  "bene": {
+    "pos": "ADVERB"
+  },
+  "male": {
+    "pos": "ADVERB"
+  },
+  "meglio": {
+    "pos": "ADVERB"
+  },
+  "peggio": {
+    "pos": "ADVERB"
+  },
+  "freddamente": {
+    "pos": "ADVERB"
+  },
+  "lentamente": {
+    "pos": "ADVERB"
+  },
+  "velocemente": {
+    "pos": "ADVERB"
+  },
+  "così": {
+    "pos": "ADVERB"
+  },
+  "intenzionalmente": {
+    "pos": "ADVERB"
+  },
+  "chiaramente": {
+    "pos": "ADVERB"
+  },
+  "caldamente": {
+    "pos": "ADVERB"
+  },
+  "ovviamente": {
+    "pos": "ADVERB"
+  },
+  "gentilmente": {
+    "pos": "ADVERB"
+  },
+  "fermamente": {
+    "pos": "ADVERB"
+  },
+  "inizialmente": {
+    "pos": "ADVERB"
+  },
+  "volentieri": {
+    "pos": "ADVERB"
+  },
+  "veloce": {
+    "pos": "ADVERB"
+  },
+  "lento": {
+    "pos": "ADVERB"
+  },
+  "alto": {
+    "pos": "ADVERB"
+  },
+  "basso": {
+    "pos": "ADVERB"
+  },
+  "caldo": {
+    "pos": "ADJECTIVE"
+  },
+  "freddo": {
+    "pos": "ADJECTIVE"
+  },
+  "leggero": {
+    "pos": "ADJECTIVE"
+  },
+  "pesante": {
+    "pos": "ADJECTIVE"
+  },
+  "soave": {
+    "pos": "ADJECTIVE"
+  },
+  "stabile": {
+    "pos": "ADJECTIVE"
+  },
+  "flessibile": {
+    "pos": "ADJECTIVE"
+  },
+  "duro": {
+    "pos": "ADJECTIVE"
+  },
+  "morbido": {
+    "pos": "ADJECTIVE"
+  },
+  "aspro": {
+    "pos": "ADJECTIVE"
+  },
+  "fresco": {
+    "pos": "ADJECTIVE"
+  },
+  "delizioso": {
+    "pos": "ADJECTIVE"
+  },
+  "orribile": {
+    "pos": "ADJECTIVE"
+  },
+  "dolce": {
+    "pos": "ADJECTIVE"
+  },
+  "piccante": {
+    "pos": "ADJECTIVE"
+  },
+  "salato": {
+    "pos": "ADJECTIVE"
+  },
+  "amaro": {
+    "pos": "ADJECTIVE"
+  },
+  "gradevole": {
+    "pos": "ADJECTIVE"
+  },
+  "piacevole": {
+    "pos": "ADJECTIVE"
+  },
+  "aromatico": {
+    "pos": "ADJECTIVE"
+  },
+  "fragrante": {
+    "pos": "ADJECTIVE"
+  },
+  "evanescente": {
+    "pos": "ADJECTIVE"
+  },
+  "lieve": {
+    "pos": "ADJECTIVE"
+  },
+  "tenue": {
+    "pos": "ADJECTIVE"
+  },
+  "delicato": {
+    "pos": "ADJECTIVE"
+  },
+  "intenso": {
+    "pos": "ADJECTIVE"
+  },
+  "inebriante": {
+    "pos": "ADJECTIVE"
+  },
+  "fastidioso": {
+    "pos": "ADJECTIVE"
+  },
+  "cattivo": {
+    "pos": "ADJECTIVE"
+  },
+  "sgradevole": {
+    "pos": "ADJECTIVE"
+  },
+  "nauseante": {
+    "pos": "ADJECTIVE"
+  },
+  "mio": {
+    "pos": "ADJECTIVE"
+  },
+  "tuo": {
+    "pos": "ADJECTIVE"
+  },
+  "suo": {
+    "pos": "ADJECTIVE"
+  },
+  "nostro": {
+    "pos": "ADJECTIVE"
+  },
+  "vostro": {
+    "pos": "ADJECTIVE"
+  },
+  "loro": {
+    "pos": "ADJECTIVE"
+  },
+  "primo": {
+    "pos": "ADJECTIVE"
+  },
+  "secondo": {
+    "pos": "ADJECTIVE"
+  },
+  "terzo": {
+    "pos": "ADJECTIVE"
+  },
+  "quarto": {
+    "pos": "ADJECTIVE"
+  },
+  "quinto": {
+    "pos": "ADJECTIVE"
+  },
+  "decimo": {
+    "pos": "ADJECTIVE"
+  },
+  "centesimo": {
+    "pos": "ADJECTIVE"
+  },
+  "milionesimo": {
+    "pos": "ADJECTIVE"
+  },
+  "penultimo": {
+    "pos": "ADJECTIVE"
+  },
+  "ultimo": {
+    "pos": "ADJECTIVE"
+  },
+  "felice": {
+    "pos": "ADJECTIVE"
+  },
+  "triste": {
+    "pos": "ADJECTIVE"
+  },
+  "coinvolgente": {
+    "pos": "ADJECTIVE"
+  },
+  "contento": {
+    "pos": "ADJECTIVE"
+  },
+  "tranquillo": {
+    "pos": "ADJECTIVE"
+  },
+  "arrabbiato": {
+    "pos": "ADJECTIVE"
+  },
+  "calmo": {
+    "pos": "ADJECTIVE"
+  },
+  "agitato": {
+    "pos": "ADJECTIVE"
+  },
+  "ansioso": {
+    "pos": "ADJECTIVE"
+  },
+  "interessato": {
+    "pos": "ADJECTIVE"
+  },
+  "annoiato": {
+    "pos": "ADJECTIVE"
+  },
+  "inaspettato": {
+    "pos": "ADJECTIVE"
+  },
+  "stanco": {
+    "pos": "ADJECTIVE"
+  },
+  "sorpreso": {
+    "pos": "ADJECTIVE"
+  },
+  "impaurito": {
+    "pos": "ADJECTIVE"
+  },
+  "allegra": {
+    "pos": "ADJECTIVE"
+  },
+  "amorosa": {
+    "pos": "ADJECTIVE"
+  },
+  "eccitante": {
+    "pos": "ADJECTIVE"
+  },
+  "gioiosa": {
+    "pos": "ADJECTIVE"
+  },
+  "gratificante": {
+    "pos": "ADJECTIVE"
+  },
+  "serena": {
+    "pos": "ADJECTIVE"
+  },
+  "crudele": {
+    "pos": "ADJECTIVE"
+  },
+  "deludente": {
+    "pos": "ADJECTIVE"
+  },
+  "deprimente": {
+    "pos": "ADJECTIVE"
+  },
+  "vergognosa": {
+    "pos": "ADJECTIVE"
+  },
+  "violenta": {
+    "pos": "ADJECTIVE"
+  },
+  "commovente": {
+    "pos": "ADJECTIVE"
+  },
+  "imbarazzata": {
+    "pos": "ADJECTIVE"
+  },
+  "gran": {
+    "pos": "ADJECTIVE"
+  },
+  "grande": {
+    "pos": "ADJECTIVE"
+  },
+  "piccolo": {
+    "pos": "ADJECTIVE"
+  },
+  "ampio": {
+    "pos": "ADJECTIVE"
+  },
+  "stretto": {
+    "pos": "ADJECTIVE"
+  },
+  "compatto": {
+    "pos": "ADJECTIVE"
+  },
+  "sottile": {
+    "pos": "ADJECTIVE"
+  },
+  "spesso": {
+    "pos": "ADJECTIVE"
+  },
+  "buono": {
+    "pos": "ADJECTIVE"
+  },
+  "migliore": {
+    "pos": "ADJECTIVE"
+  },
+  "superiore": {
+    "pos": "ADJECTIVE"
+  },
+  "inferiore": {
+    "pos": "ADJECTIVE"
+  },
+  "centrale": {
+    "pos": "ADJECTIVE"
+  },
+  "laterale": {
+    "pos": "ADJECTIVE"
+  },
+  "frontale": {
+    "pos": "ADJECTIVE"
+  },
+  "vero": {
+    "pos": "ADJECTIVE"
+  },
+  "reale": {
+    "pos": "ADJECTIVE"
+  },
+  "falso": {
+    "pos": "ADJECTIVE"
+  },
+  "maggiore": {
+    "pos": "ADJECTIVE"
+  },
+  "minore": {
+    "pos": "ADJECTIVE"
+  },
+  "importante": {
+    "pos": "ADJECTIVE"
+  },
+  "necessario": {
+    "pos": "ADJECTIVE"
+  },
+  "assoluto": {
+    "pos": "ADJECTIVE"
+  },
+  "relativo": {
+    "pos": "ADJECTIVE"
+  },
+  "costoso": {
+    "pos": "ADJECTIVE"
+  },
+  "economico": {
+    "pos": "ADJECTIVE"
+  },
+  "vecchio": {
+    "pos": "ADJECTIVE"
+  },
+  "giovane": {
+    "pos": "ADJECTIVE"
+  },
+  "nuova": {
+    "pos": "ADJECTIVE"
+  },
+  "valido": {
+    "pos": "ADJECTIVE"
+  },
+  "invalido": {
+    "pos": "ADJECTIVE"
+  },
+  "intercontinentale": {
+    "pos": "ADJECTIVE"
+  },
+  "attuale": {
+    "pos": "ADJECTIVE"
+  },
+  "recente": {
+    "pos": "ADJECTIVE"
+  },
+  "capace": {
+    "pos": "ADJECTIVE"
+  },
+  "facile": {
+    "pos": "ADJECTIVE"
+  },
+  "difficile": {
+    "pos": "ADJECTIVE"
+  },
+  "possibile": {
+    "pos": "ADJECTIVE"
+  },
+  "impossibile": {
+    "pos": "ADJECTIVE"
+  },
+  "probabile": {
+    "pos": "ADJECTIVE"
+  },
+  "improbabile": {
+    "pos": "ADJECTIVE"
+  },
+  "rigoroso": {
+    "pos": "ADJECTIVE"
+  },
+  "serio": {
+    "pos": "ADJECTIVE"
+  },
+  "generale": {
+    "pos": "ADJECTIVE"
+  },
+  "particolare": {
+    "pos": "ADJECTIVE"
+  },
+  "speciale": {
+    "pos": "ADJECTIVE"
+  },
+  "solito": {
+    "pos": "ADJECTIVE"
+  },
+  "unico": {
+    "pos": "ADJECTIVE"
+  },
+  "raro": {
+    "pos": "ADJECTIVE"
+  },
+  "forte": {
+    "pos": "ADJECTIVE"
+  },
+  "debole": {
+    "pos": "ADJECTIVE"
+  },
+  "corretto": {
+    "pos": "ADJECTIVE"
+  },
+  "scorretto": {
+    "pos": "ADJECTIVE"
+  },
+  "opposto": {
+    "pos": "ADJECTIVE"
+  },
+  "uguale": {
+    "pos": "ADJECTIVE"
+  },
+  "differente": {
+    "pos": "ADJECTIVE"
+  },
+  "simile": {
+    "pos": "ADJECTIVE"
+  },
+  "distinto": {
+    "pos": "ADJECTIVE"
+  },
+  "diverso": {
+    "pos": "ADJECTIVE"
+  },
+  "manuale": {
+    "pos": "ADJECTIVE"
+  },
+  "automatico": {
+    "pos": "ADJECTIVE"
+  },
+  "universale": {
+    "pos": "ADJECTIVE"
+  },
+  "mondiale": {
+    "pos": "ADJECTIVE"
+  },
+  "continentale": {
+    "pos": "ADJECTIVE"
+  },
+  "internazionale": {
+    "pos": "ADJECTIVE"
+  },
+  "nazionale": {
+    "pos": "ADJECTIVE"
+  },
+  "regionale": {
+    "pos": "ADJECTIVE"
+  },
+  "locale": {
+    "pos": "ADJECTIVE"
+  },
+  "urbano": {
+    "pos": "ADJECTIVE"
+  },
+  "rurale": {
+    "pos": "ADJECTIVE"
+  },
+  "sociale": {
+    "pos": "ADJECTIVE"
+  },
+  "culturale": {
+    "pos": "ADJECTIVE"
+  },
+  "artistico": {
+    "pos": "ADJECTIVE"
+  },
+  "nuovo": {
+    "pos": "ADJECTIVE"
+  },
+  "pubblico": {
+    "pos": "ADJECTIVE"
+  },
+  "privato": {
+    "pos": "ADJECTIVE"
+  },
+  "caro": {
+    "pos": "ADJECTIVE"
+  }
+}

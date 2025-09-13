@@ -1,0 +1,1079 @@
+{
+  "ura": [
+    "criatura",
+    "estructura",
+    "dictadura",
+    "altura",
+    "cintura"
+  ],
+  "er": [
+    "ser",
+    "ver",
+    "oler",
+    "volver",
+    "traer",
+    "mover",
+    "coger",
+    "poner",
+    "recoger",
+    "aparecer",
+    "desaparecer",
+    "crecer",
+    "nacer",
+    "querer",
+    "leer",
+    "morder",
+    "comer",
+    "beber",
+    "retroceder",
+    "tener",
+    "romper",
+    "vender",
+    "creer",
+    "atender",
+    "deber",
+    "poder",
+    "conocer",
+    "entender",
+    "saber",
+    "pretender",
+    "proponer",
+    "hacer",
+    "parecer",
+    "placer",
+    "mujer",
+    "ayer",
+    "cualquier"
+  ],
+  "iDa": [
+    "vida",
+    "avenida",
+    "medida",
+    "conocida",
+    "enseguida"
+  ],
+  "ento": [
+    "nacimiento",
+    "pimiento",
+    "intento",
+    "pensamiento",
+    "aburrimiento",
+    "departamento",
+    "ayuntamiento",
+    "apartamento",
+    "movimiento",
+    "aumento",
+    "crecimiento",
+    "contento"
+  ],
+  "on": [
+    "reproducción",
+    "estación",
+    "avión",
+    "ocasión",
+    "atención",
+    "condición",
+    "creación",
+    "destrucción",
+    "función",
+    "relación",
+    "situación",
+    "solución",
+    "interrupción",
+    "sensación",
+    "percepción",
+    "razón",
+    "equivocación",
+    "reunión",
+    "administración",
+    "organización",
+    "asociación",
+    "comisión",
+    "nación",
+    "población",
+    "obligación",
+    "prohibición",
+    "constitución",
+    "botón",
+    "cinturón",
+    "pantalón",
+    "con",
+    "saxofón",
+    "habitación",
+    "construcción",
+    "cordón",
+    "don",
+    "posición",
+    "aceleración",
+    "dirección",
+    "reducción",
+    "producción",
+    "transacción",
+    "natación",
+    "talón",
+    "corazón",
+    "marrón",
+    "preposición",
+    "conjunción",
+    "inundación",
+    "ratón",
+    "león",
+    "gorrión",
+    "halcón",
+    "camarón"
+  ],
+  "erte": [
+    "muerte",
+    "fuerte"
+  ],
+  "antes": [
+    "guisantes",
+    "guantes",
+    "antes"
+  ],
+  "orja": [
+    "zanahoria",
+    "memoria"
+  ],
+  "ol": [
+    "col",
+    "voleibol",
+    "caracol"
+  ],
+  "or": [
+    "coliflor",
+    "sector",
+    "dolor",
+    "sujetador",
+    "bañador",
+    "actor",
+    "profesor",
+    "programador",
+    "director",
+    "senador",
+    "por",
+    "vapor",
+    "ascensor",
+    "señor",
+    "terror",
+    "amor",
+    "valor",
+    "color",
+    "alrededor",
+    "mejor",
+    "peor",
+    "anterior",
+    "posterior",
+    "superior",
+    "inferior",
+    "mayor",
+    "menor"
+  ],
+  "iT": [
+    "maíz",
+    "actriz",
+    "nariz",
+    "lombriz",
+    "feliz"
+  ],
+  "axo": [
+    "ajo",
+    "debajo"
+  ],
+  "ines": [
+    "calabacines",
+    "patines",
+    "calcetines"
+  ],
+  "ino": [
+    "pepino",
+    "camino",
+    "destino",
+    "sobrino",
+    "sino"
+  ],
+  "ir": [
+    "sentir",
+    "oír",
+    "percibir",
+    "ir",
+    "venir",
+    "partir",
+    "existir",
+    "vivir",
+    "morir",
+    "reír",
+    "decir",
+    "escribir",
+    "añadir",
+    "seguir",
+    "abrir",
+    "recibir",
+    "sustituir",
+    "conseguir",
+    "salir",
+    "medir",
+    "decidir",
+    "construir",
+    "destruir",
+    "dividir",
+    "dormir",
+    "pedir",
+    "sugerir",
+    "distinguir"
+  ],
+  "ar": [
+    "escuchar",
+    "tocar",
+    "llegar",
+    "llevar",
+    "sacar",
+    "quitar",
+    "alcanzar",
+    "acercar",
+    "alejar",
+    "arrojar",
+    "lanzar",
+    "agarrar",
+    "sujetar",
+    "golpear",
+    "patear",
+    "levantar",
+    "tomar",
+    "pegar",
+    "amar",
+    "desear",
+    "odiar",
+    "llorar",
+    "admirar",
+    "consolar",
+    "afirmar",
+    "negar",
+    "hablar",
+    "callar",
+    "analizar",
+    "pensar",
+    "cantar",
+    "señalar",
+    "apuñalar",
+    "clavar",
+    "acordar",
+    "afectar",
+    "generar",
+    "mejorar",
+    "empeorar",
+    "avanzar",
+    "ayudar",
+    "complicar",
+    "entrevistar",
+    "jugar",
+    "faltar",
+    "dar",
+    "doblar",
+    "cortar",
+    "comprar",
+    "intercambiar",
+    "cerrar",
+    "buscar",
+    "encontrar",
+    "crear",
+    "empezar",
+    "acabar",
+    "abandonar",
+    "dejar",
+    "entrar",
+    "pesar",
+    "considerar",
+    "comparar",
+    "evaluar",
+    "atar",
+    "trabajar",
+    "separar",
+    "descansar",
+    "despertar",
+    "aceptar",
+    "rechazar",
+    "descartar",
+    "acompañar",
+    "usar",
+    "fabricar",
+    "arreglar",
+    "explicar",
+    "mostrar",
+    "tratar",
+    "evitar",
+    "probar",
+    "comprobar",
+    "variar",
+    "esperar",
+    "necesitar",
+    "significar",
+    "bar",
+    "hogar",
+    "mar",
+    "lugar",
+    "billar",
+    "calamar",
+    "regular",
+    "particular"
+  ],
+  "erse": [
+    "entristecerse",
+    "sorprenderse"
+  ],
+  "arse": [
+    "enfadarse",
+    "alegrarse",
+    "encantarse",
+    "interesarse",
+    "cansarse",
+    "asustarse",
+    "comunicarse",
+    "quedarse"
+  ],
+  "irse": [
+    "aburrirse",
+    "reunirse"
+  ],
+  "orte": [
+    "transporte",
+    "corte"
+  ],
+  "il": [
+    "ferrocarril",
+    "abril"
+  ],
+  "en": [
+    "tren",
+    "en",
+    "recién",
+    "también",
+    "bien"
+  ],
+  "ia": [
+    "vía",
+    "tranvía",
+    "alegría",
+    "empatía",
+    "policía",
+    "cafetería",
+    "carnicería",
+    "frutería",
+    "charcutería",
+    "pescadería",
+    "panadería",
+    "comisaría",
+    "peluquería",
+    "floristería",
+    "herboristería",
+    "joyería",
+    "librería",
+    "batería",
+    "fantasía",
+    "tía",
+    "mayoría",
+    "minoría",
+    "economía",
+    "compañía",
+    "sequía",
+    "todavía"
+  ],
+  "era": [
+    "carretera",
+    "espera",
+    "cremallera",
+    "gasolinera",
+    "barrendera",
+    "cajera",
+    "carnicera",
+    "carpintera",
+    "cocinera",
+    "fontanera",
+    "ingeniera",
+    "escalera",
+    "primavera",
+    "cadera",
+    "fuera",
+    "siquiera"
+  ],
+  "ista": [
+    "autopista",
+    "vista",
+    "dentista",
+    "electricista",
+    "periodista",
+    "congresista"
+  ],
+  "aDa": [
+    "parada",
+    "abogada",
+    "diputada",
+    "entrada",
+    "escalada",
+    "nada",
+    "cada"
+  ],
+  "erto": [
+    "aeropuerto",
+    "acierto",
+    "desierto",
+    "cierto"
+  ],
+  "us": [
+    "autobús",
+    "bus"
+  ],
+  "oto": [
+    "moto",
+    "terremoto"
+  ],
+  "eta": [
+    "bicicleta",
+    "meta",
+    "camiseta",
+    "chaqueta",
+    "trompeta",
+    "nieta",
+    "bisnieta"
+  ],
+  "ete": [
+    "patinete",
+    "siete",
+    "clarinete",
+    "billete"
+  ],
+  "osa": [
+    "cosa",
+    "esposa",
+    "rosa",
+    "mariposa",
+    "babosa"
+  ],
+  "ekto": [
+    "aspecto",
+    "proyecto",
+    "efecto",
+    "insecto",
+    "correcto",
+    "incorrecto"
+  ],
+  "iDo": [
+    "contenido",
+    "sentido",
+    "oído",
+    "partido",
+    "vestido",
+    "conocido",
+    "unido",
+    "aburrido",
+    "sorprendido",
+    "parecido"
+  ],
+  "eto": [
+    "objeto",
+    "secreto",
+    "decreto",
+    "nieto",
+    "bisnieto"
+  ],
+  "omBre": [
+    "nombre",
+    "hombre",
+    "pronombre"
+  ],
+  "aD": [
+    "formalidad",
+    "actividad",
+    "capacidad",
+    "realidad",
+    "calidad",
+    "posibilidad",
+    "probabilidad",
+    "verdad",
+    "necesidad",
+    "personalidad",
+    "seguridad",
+    "sociedad",
+    "comunidad",
+    "autoridad",
+    "ciudad",
+    "libertad",
+    "cantidad",
+    "humanidad",
+    "velocidad"
+  ],
+  "ente": [
+    "presente",
+    "dependiente",
+    "gente",
+    "adolescente",
+    "diente",
+    "serpiente",
+    "anteriormente",
+    "actualmente",
+    "inmediatamente",
+    "próximamente",
+    "enfrente",
+    "fácilmente",
+    "difícilmente",
+    "probablemente",
+    "posiblemente",
+    "seguramente",
+    "aproximadamente",
+    "exactamente",
+    "solamente",
+    "únicamente",
+    "especialmente",
+    "inicialmente",
+    "finalmente",
+    "caliente",
+    "siguiente",
+    "reciente",
+    "diferente"
+  ],
+  "aDo": [
+    "pasado",
+    "resultado",
+    "grado",
+    "significado",
+    "enfado",
+    "estado",
+    "supermercado",
+    "mercado",
+    "morado",
+    "tornado",
+    "demasiado",
+    "pesado",
+    "salado",
+    "separado",
+    "alejado",
+    "enfadado",
+    "agitado",
+    "interesado",
+    "encantado",
+    "cansado",
+    "asustado",
+    "delgado",
+    "dado",
+    "privado"
+  ],
+  "uro": [
+    "futuro",
+    "duro"
+  ],
+  "eT": [
+    "vez",
+    "juez",
+    "diez",
+    "pez"
+  ],
+  "akto": [
+    "acto",
+    "tacto",
+    "exacto",
+    "compacto"
+  ],
+  "ama": [
+    "programa",
+    "cama",
+    "dama",
+    "drama"
+  ],
+  "erDo": [
+    "acuerdo",
+    "recuerdo",
+    "cerdo"
+  ],
+  "uD": [
+    "actitud",
+    "similitud",
+    "longitud"
+  ],
+  "epto": [
+    "concepto",
+    "excepto"
+  ],
+  "ema": [
+    "tema",
+    "problema"
+  ],
+  "aso": [
+    "caso",
+    "fracaso",
+    "paso",
+    "acaso"
+  ],
+  "unto": [
+    "conjunto",
+    "junto"
+  ],
+  "iBo": [
+    "objetivo",
+    "administrativo",
+    "sustantivo",
+    "adjetivo",
+    "relativo"
+  ],
+  "enTja": [
+    "consecuencia",
+    "secuencia",
+    "diferencia",
+    "conciencia",
+    "potencia",
+    "presencia",
+    "existencia",
+    "experiencia"
+  ],
+  "iTjo": [
+    "beneficio",
+    "perjuicio",
+    "edificio",
+    "servicio"
+  ],
+  "ipo": [
+    "tipo",
+    "equipo"
+  ],
+  "aT": [
+    "paz",
+    "capaz"
+  ],
+  "ikto": [
+    "conflicto",
+    "estricto"
+  ],
+  "eso": [
+    "progreso",
+    "retroceso",
+    "proceso",
+    "congreso",
+    "peso",
+    "hueso",
+    "grueso"
+  ],
+  "ora": [
+    "mejora",
+    "pintora",
+    "gobernadora",
+    "señora",
+    "ahora"
+  ],
+  "oro": [
+    "deterioro",
+    "oro"
+  ],
+  "ipjo": [
+    "principio",
+    "municipio"
+  ],
+  "in": [
+    "fin",
+    "sin",
+    "violín"
+  ],
+  "apa": [
+    "etapa",
+    "solapa"
+  ],
+  "el": [
+    "nivel",
+    "hotel",
+    "panel",
+    "cordel",
+    "piel"
+  ],
+  "ato": [
+    "olfato",
+    "zapato",
+    "aparato",
+    "gato",
+    "barato"
+  ],
+  "eo": [
+    "deseo",
+    "boxeo"
+  ],
+  "eTa": [
+    "tristeza",
+    "naturaleza",
+    "cabeza"
+  ],
+  "es": [
+    "interés",
+    "tres",
+    "pues",
+    "después"
+  ],
+  "esa": [
+    "sorpresa",
+    "empresa",
+    "mesa"
+  ],
+  "usto": [
+    "susto",
+    "justo"
+  ],
+  "eDo": [
+    "miedo",
+    "dedo"
+  ],
+  "entro": [
+    "encuentro",
+    "dentro"
+  ],
+  "arGo": [
+    "cargo",
+    "largo",
+    "amargo"
+  ],
+  "aJa": [
+    "campaña",
+    "montaña",
+    "araña"
+  ],
+  "exo": [
+    "consejo",
+    "conejo",
+    "viejo"
+  ],
+  "is": [
+    "país",
+    "gris"
+  ],
+  "erno": [
+    "gobierno",
+    "invierno"
+  ],
+  "aTja": [
+    "democracia",
+    "hacia",
+    "farmacia"
+  ],
+  "al": [
+    "capital",
+    "total",
+    "metal",
+    "sal",
+    "hospital",
+    "musical",
+    "mal",
+    "tal",
+    "central",
+    "lateral",
+    "frontal",
+    "real",
+    "actual",
+    "general",
+    "especial",
+    "usual",
+    "igual",
+    "manual",
+    "universal",
+    "mundial",
+    "continental",
+    "internacional",
+    "nacional",
+    "regional",
+    "local",
+    "rural",
+    "social",
+    "cultural"
+  ],
+  "ei": [
+    "ley",
+    "jersey",
+    "hockey"
+  ],
+  "enda": [
+    "prenda",
+    "tienda"
+  ],
+  "isa": [
+    "camisa",
+    "deprisa"
+  ],
+  "iGo": [
+    "abrigo",
+    "amigo"
+  ],
+  "alda": [
+    "falda",
+    "espalda"
+  ],
+  "elo": [
+    "velo",
+    "hielo",
+    "abuelo",
+    "bisabuelo"
+  ],
+  "anda": [
+    "bufanda",
+    "demanda"
+  ],
+  "ata": [
+    "corbata",
+    "plata",
+    "rata"
+  ],
+  "auta": [
+    "astronauta",
+    "flauta"
+  ],
+  "ero": [
+    "camarero",
+    "cartero",
+    "panadero",
+    "peluquero",
+    "enero",
+    "febrero",
+    "caballero",
+    "dinero",
+    "pero",
+    "ligero",
+    "primero",
+    "tercero"
+  ],
+  "arjo": [
+    "empresario",
+    "parlamentario",
+    "solitario",
+    "necesario"
+  ],
+  "ante": [
+    "ante",
+    "durante",
+    "mediante",
+    "restaurante",
+    "determinante",
+    "elefante",
+    "delante",
+    "bastante",
+    "picante",
+    "importante"
+  ],
+  "e": [
+    "de",
+    "bebé",
+    "pie",
+    "que"
+  ],
+  "ara": [
+    "para",
+    "cara"
+  ],
+  "un": [
+    "según",
+    "atún",
+    "aún",
+    "común"
+  ],
+  "as": [
+    "tras",
+    "gas",
+    "detrás",
+    "jamás",
+    "quizás",
+    "más",
+    "además"
+  ],
+  "osto": [
+    "agosto",
+    "angosto"
+  ],
+  "emBre": [
+    "septiembre",
+    "noviembre",
+    "diciembre"
+  ],
+  "imetro": [
+    "centímetro",
+    "milímetro"
+  ],
+  "itro": [
+    "litro",
+    "mililitro"
+  ],
+  "ilo": [
+    "kilo",
+    "hilo",
+    "cocodrilo",
+    "tranquilo"
+  ],
+  "eGo": [
+    "fuego",
+    "luego"
+  ],
+  "omo": [
+    "plomo",
+    "pomo",
+    "como"
+  ],
+  "oDo": [
+    "lodo",
+    "codo",
+    "todo"
+  ],
+  "ela": [
+    "escuela",
+    "autoescuela",
+    "abuela",
+    "bisabuela",
+    "vela"
+  ],
+  "aNko": [
+    "banco",
+    "estanco",
+    "blanco"
+  ],
+  "eka": [
+    "biblioteca",
+    "muñeca"
+  ],
+  "ina": [
+    "oficina",
+    "sobrina",
+    "gallina",
+    "sardina"
+  ],
+  "ano": [
+    "piano",
+    "humano",
+    "anciano",
+    "hermano",
+    "verano",
+    "balonmano",
+    "mano",
+    "temprano",
+    "cercano",
+    "lejano",
+    "urbano"
+  ],
+  "orjo": [
+    "escritorio",
+    "dormitorio"
+  ],
+  "arto": [
+    "cuarto",
+    "lagarto"
+  ],
+  "ana": [
+    "ventana",
+    "anciana",
+    "hermana",
+    "rana",
+    "mañana"
+  ],
+  "aBe": [
+    "llave",
+    "suave"
+  ],
+  "osta": [
+    "costa",
+    "langosta"
+  ],
+  "io": [
+    "río",
+    "tío",
+    "frío"
+  ],
+  "exa": [
+    "pareja",
+    "oreja",
+    "oveja"
+  ],
+  "oso": [
+    "esposo",
+    "caluroso",
+    "delicioso",
+    "ansioso",
+    "doloroso",
+    "apestoso"
+  ],
+  "aDre": [
+    "padre",
+    "madre"
+  ],
+  "ima": [
+    "prima",
+    "esgrima",
+    "encima"
+  ],
+  "izmo": [
+    "ciclismo",
+    "atletismo",
+    "senderismo",
+    "piragüismo",
+    "asimismo"
+  ],
+  "i": [
+    "esquí",
+    "ni",
+    "si",
+    "aquí",
+    "ahí",
+    "allí",
+    "muy",
+    "mi"
+  ],
+  "esto": [
+    "baloncesto",
+    "opuesto"
+  ],
+  "oxo": [
+    "ojo",
+    "rojo"
+  ],
+  "ando": [
+    "cuando",
+    "blando"
+  ],
+  "erBo": [
+    "verbo",
+    "ciervo",
+    "cuervo"
+  ],
+  "an": [
+    "huracán",
+    "tan",
+    "gran"
+  ],
+  "oko": [
+    "tampoco",
+    "poco"
+  ],
+  "aro": [
+    "claro",
+    "caro",
+    "raro"
+  ],
+  "iBle": [
+    "flexible",
+    "horrible",
+    "posible",
+    "imposible"
+  ],
+  "u": [
+    "tu",
+    "su"
+  ],
+  "estro": [
+    "nuestro",
+    "vuestro"
+  ],
+  "esimo": [
+    "centésimo",
+    "millonésimo"
+  ],
+  "ultimo": [
+    "penúltimo",
+    "último"
+  ],
+  "eno": [
+    "bueno",
+    "ajeno"
+  ],
+  "aBle": [
+    "probable",
+    "improbable"
+  ]
+}

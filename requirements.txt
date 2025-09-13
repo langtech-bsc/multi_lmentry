@@ -1,0 +1,5 @@
+accelerate
+numpy
+sentencepiece
+transformers
+flash-attn

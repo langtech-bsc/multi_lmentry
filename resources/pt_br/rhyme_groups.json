@@ -1,0 +1,682 @@
+{
+  "tuɾa": [
+    "criatura",
+    "estrutura",
+    "prefeitura",
+    "floricultura",
+    "altura",
+    "cintura"
+  ],
+  "mẽɪ̃tʊ": [
+    "nascimento",
+    "desenvolvimento",
+    "pensamento",
+    "regulamento",
+    "apartamento",
+    "casamento",
+    "movimento",
+    "comprimento",
+    "aumento",
+    "crescimento"
+  ],
+  "sɐ͂ʊ̃": [
+    "reprodução",
+    "estação",
+    "atenção",
+    "condição",
+    "criação",
+    "destruição",
+    "função",
+    "relação",
+    "situação",
+    "solução",
+    "degradação",
+    "interrupção",
+    "sensação",
+    "audição",
+    "perceção",
+    "administração",
+    "organização",
+    "associação",
+    "comissão",
+    "nação",
+    "população",
+    "obrigação",
+    "permissão",
+    "proibição",
+    "constituição",
+    "construção",
+    "posição",
+    "aceleração",
+    "redução",
+    "diminuição",
+    "produção",
+    "transação",
+    "patinação",
+    "natação",
+    "coração",
+    "preposição",
+    "conjunção",
+    "inundação"
+  ],
+  "tɐ͂ʊ̃": [
+    "pimentão",
+    "então"
+  ],
+  "neʧɪ": [
+    "rabanete",
+    "patinete",
+    "lanchonete",
+    "clarinete"
+  ],
+  "ʧix": [
+    "sentir",
+    "partir",
+    "existir",
+    "assistir"
+  ],
+  "vex": [
+    "ver",
+    "mover",
+    "viver",
+    "escrever",
+    "dever"
+  ],
+  "tax": [
+    "escutar",
+    "voltar",
+    "afastar",
+    "chutar",
+    "levantar",
+    "irritar",
+    "assustar",
+    "cantar",
+    "apontar",
+    "afetar",
+    "acrescentar",
+    "entrevistar",
+    "faltar",
+    "cortar",
+    "acreditar",
+    "conectar",
+    "aceitar",
+    "rejeitar",
+    "descartar",
+    "consertar",
+    "tratar",
+    "evitar",
+    "parlamentar"
+  ],
+  "vix": [
+    "ouvir",
+    "vir"
+  ],
+  "kax": [
+    "tocar",
+    "colocar",
+    "socar",
+    "comunicar",
+    "complicar",
+    "trocar",
+    "ficar",
+    "fabricar",
+    "explicar",
+    "significar"
+  ],
+  "ɾax": [
+    "cheirar",
+    "retirar",
+    "tirar",
+    "atirar",
+    "segurar",
+    "adorar",
+    "chorar",
+    "admirar",
+    "gerar",
+    "melhorar",
+    "piorar",
+    "procurar",
+    "considerar",
+    "comparar",
+    "separar",
+    "esperar"
+  ],
+  "bex": [
+    "perceber",
+    "beber",
+    "receber",
+    "saber"
+  ],
+  "ix": [
+    "ir",
+    "sair",
+    "construir",
+    "destruir"
+  ],
+  "gax": [
+    "chegar",
+    "pegar",
+    "negar",
+    "jogar",
+    "lugar"
+  ],
+  "vax": [
+    "levar",
+    "provar",
+    "comprovar"
+  ],
+  "zex": [
+    "trazer",
+    "dizer",
+    "fazer",
+    "prazer"
+  ],
+  "ʒix": [
+    "atingir",
+    "fingir"
+  ],
+  "max": [
+    "aproximar",
+    "tomar",
+    "amar",
+    "afirmar",
+    "mar"
+  ],
+  "sax": [
+    "lançar",
+    "interessar",
+    "cansar",
+    "pensar",
+    "avançar",
+    "começar",
+    "descansar"
+  ],
+  "tex": [
+    "bater",
+    "ter"
+  ],
+  "ʎex": [
+    "recolher",
+    "mulher"
+  ],
+  "sex": [
+    "aparecer",
+    "desaparecer",
+    "crescer",
+    "nascer",
+    "conhecer",
+    "parecer"
+  ],
+  "ax": [
+    "odiar",
+    "entediar",
+    "esfaquear",
+    "continuar",
+    "criar",
+    "avaliar",
+    "variar",
+    "ar"
+  ],
+  "ʎax": [
+    "maravilhar",
+    "trabalhar"
+  ],
+  "lax": [
+    "consolar",
+    "falar",
+    "calar",
+    "regular",
+    "particular"
+  ],
+  "dex": [
+    "surpreender",
+    "morder",
+    "retroceder",
+    "vender",
+    "compreender"
+  ],
+  "zax": [
+    "analisar",
+    "pesar",
+    "utilizar",
+    "precisar"
+  ],
+  "nax": [
+    "enganar",
+    "terminar",
+    "abandonar"
+  ],
+  "dax": [
+    "concordar",
+    "ajudar",
+    "dar",
+    "acordar"
+  ],
+  "bɾax": [
+    "quebrar",
+    "dobrar"
+  ],
+  "ʃax": [
+    "fechar",
+    "deixar"
+  ],
+  "tɾax": [
+    "encontrar",
+    "entrar",
+    "mostrar"
+  ],
+  "gix": [
+    "conseguir",
+    "distinguir"
+  ],
+  "bax": [
+    "acabar",
+    "bar"
+  ],
+  "ʤix": [
+    "medir",
+    "decidir",
+    "dividir",
+    "pedir"
+  ],
+  "ɲax": [
+    "acompanhar",
+    "calcanhar"
+  ],
+  "pox": [
+    "propor",
+    "por",
+    "vapor"
+  ],
+  "via": [
+    "via",
+    "rodovia"
+  ],
+  "tɾada": [
+    "estrada",
+    "entrada"
+  ],
+  "ɾada": [
+    "parada",
+    "namorada"
+  ],
+  "ɐ͂ʊ̃": [
+    "avião",
+    "ocasião",
+    "reunião",
+    "cirurgião",
+    "leão"
+  ],
+  "ʒetʊ": [
+    "objeto",
+    "projeto"
+  ],
+  "tox": [
+    "setor",
+    "ator",
+    "pintor",
+    "diretor"
+  ],
+  "nõmɪ": [
+    "nome",
+    "pronome"
+  ],
+  "daʤɪ": [
+    "formalidade",
+    "atividade",
+    "capacidade",
+    "realidade",
+    "qualidade",
+    "possibilidade",
+    "probabilidade",
+    "verdade",
+    "necessidade",
+    "personalidade",
+    "sociedade",
+    "comunidade",
+    "autoridade",
+    "cidade",
+    "liberdade",
+    "humanidade",
+    "velocidade"
+  ],
+  "sadʊ": [
+    "passado",
+    "interessado",
+    "cansado"
+  ],
+  "ves": [
+    "vez",
+    "talvez"
+  ],
+  "gɾɐ͂ma": [
+    "programa",
+    "grama"
+  ],
+  "ʒũtʊ": [
+    "conjunto",
+    "junto"
+  ],
+  "ʧivʊ": [
+    "objetivo",
+    "substantivo",
+    "adjetivo",
+    "relativo"
+  ],
+  "feɪtʊ": [
+    "efeito",
+    "prefeito"
+  ],
+  "tadʊ": [
+    "resultado",
+    "estado",
+    "deputado",
+    "afastado",
+    "irritado",
+    "agitado",
+    "encantado",
+    "assustado"
+  ],
+  "sesʊ": [
+    "sucesso",
+    "retrocesso",
+    "processo"
+  ],
+  "kʊẽɪ̃sia": [
+    "consequência",
+    "sequência"
+  ],
+  "fisiʊ": [
+    "benefício",
+    "edifício",
+    "difícil"
+  ],
+  "pas": [
+    "paz",
+    "capaz"
+  ],
+  "gɾesʊ": [
+    "progresso",
+    "congresso"
+  ],
+  "ɾia": [
+    "melhoria",
+    "cafeteria",
+    "mercearia",
+    "peixaria",
+    "padaria",
+    "tabacaria",
+    "joalheria",
+    "livraria",
+    "bateria",
+    "maioria",
+    "minoria"
+  ],
+  "sipiʊ": [
+    "princípio",
+    "município"
+  ],
+  "ʧidʊ": [
+    "sentido",
+    "partido",
+    "vestido"
+  ],
+  "zɐ͂ʊ̃": [
+    "visão",
+    "razão"
+  ],
+  "dox": [
+    "dor",
+    "encanador",
+    "programador",
+    "senador",
+    "governador",
+    "elevador"
+  ],
+  "ẽɪ̃sia": [
+    "consciência",
+    "experiência"
+  ],
+  "tẽɪ̃sia": [
+    "potência",
+    "existência"
+  ],
+  "kadʊ": [
+    "significado",
+    "supermercado",
+    "mercado"
+  ],
+  "ʧia": [
+    "empatia",
+    "tia"
+  ],
+  "pɾeza": [
+    "surpresa",
+    "empresa"
+  ],
+  "is": [
+    "país",
+    "juiz"
+  ],
+  "sia": [
+    "democracia",
+    "delegacia"
+  ],
+  "taʊ": [
+    "capital",
+    "total",
+    "metal",
+    "hospital",
+    "frontal",
+    "continental"
+  ],
+  "kɔʊ": [
+    "cachecol",
+    "caracol"
+  ],
+  "gadʊ": [
+    "advogado",
+    "salgado"
+  ],
+  "ʧista": [
+    "artista",
+    "cientista",
+    "dentista"
+  ],
+  "tẽɪ̃ʧɪ": [
+    "assistente",
+    "contente"
+  ],
+  "teɪɾʊ": [
+    "carpinteiro",
+    "carteiro"
+  ],
+  "ɲeɪɾʊ": [
+    "cozinheiro",
+    "engenheiro",
+    "banheiro",
+    "dinheiro"
+  ],
+  "deɪɾʊ": [
+    "padeiro",
+    "verdadeiro"
+  ],
+  "ɾeɪɾʊ": [
+    "cabeleireiro",
+    "fevereiro"
+  ],
+  "aʊ": [
+    "policial",
+    "atual",
+    "especial",
+    "habitual",
+    "manual",
+    "mundial",
+    "social"
+  ],
+  "neɪɾʊ": [
+    "faxineiro",
+    "janeiro"
+  ],
+  "ɾɐ͂ʧɪ": [
+    "durante",
+    "perante",
+    "restaurante"
+  ],
+  "poɪs": [
+    "depois",
+    "pois"
+  ],
+  "litɾʊ": [
+    "litro",
+    "mililitro"
+  ],
+  "kilʊ": [
+    "quilo",
+    "tranquilo"
+  ],
+  "saʊ": [
+    "sal",
+    "futsal",
+    "universal"
+  ],
+  "baɪʃʊ": [
+    "contrabaixo",
+    "abaixo"
+  ],
+  "deɪɾa": [
+    "cadeira",
+    "furadeira"
+  ],
+  "nɛla": [
+    "janela",
+    "canela"
+  ],
+  "sẽɪ̃ʧɪ": [
+    "adolescente",
+    "recente"
+  ],
+  "seɪɾʊ": [
+    "parceiro",
+    "terceiro"
+  ],
+  "ɾadʊ": [
+    "namorado",
+    "separado"
+  ],
+  "mɐ͂ʊ̃": [
+    "irmão",
+    "mão"
+  ],
+  "vɔ": [
+    "avó",
+    "bisavó"
+  ],
+  "vo": [
+    "avô",
+    "bisavô"
+  ],
+  "neta": [
+    "neta",
+    "bisneta"
+  ],
+  "netʊ": [
+    "neto",
+    "bisneto"
+  ],
+  "feɪɾa": [
+    "segunda-feira",
+    "terça-feira",
+    "quarta-feira",
+    "quinta-feira",
+    "sexta-feira"
+  ],
+  "ki": [
+    "esqui",
+    "aqui"
+  ],
+  "bɔʊ": [
+    "handebol",
+    "futebol"
+  ],
+  "setʊ": [
+    "exceto",
+    "inseto"
+  ],
+  "kɐ͂ʊ̃": [
+    "furacão",
+    "falcão"
+  ],
+  "adʊ": [
+    "veado",
+    "entediado"
+  ],
+  "mẽɪ̃ʧɪ": [
+    "anteriormente",
+    "atualmente",
+    "imediatamente",
+    "recentemente",
+    "facilmente",
+    "dificilmente",
+    "provavelmente",
+    "possivelmente",
+    "aproximadamente",
+    "exatamente",
+    "somente",
+    "unicamente",
+    "especialmente",
+    "inicialmente",
+    "finalmente"
+  ],
+  "tɐ͂ʧɪ": [
+    "distante",
+    "bastante",
+    "importante"
+  ],
+  "maɪs": [
+    "jamais",
+    "mais"
+  ],
+  "maʊ": [
+    "mal",
+    "mau"
+  ],
+  "ox": [
+    "pior",
+    "anterior",
+    "superior",
+    "inferior"
+  ],
+  "kex": [
+    "sequer",
+    "qualquer"
+  ],
+  "ɾozʊ": [
+    "caloroso",
+    "doloroso",
+    "rigoroso"
+  ],
+  "ozʊ": [
+    "delicioso",
+    "ansioso"
+  ],
+  "ɾaʊ": [
+    "lateral",
+    "geral",
+    "rural",
+    "cultural"
+  ],
+  "siveʊ": [
+    "possível",
+    "impossível"
+  ],
+  "vaveʊ": [
+    "provável",
+    "improvável"
+  ],
+  "naʊ": [
+    "internacional",
+    "nacional",
+    "regional"
+  ]
+}

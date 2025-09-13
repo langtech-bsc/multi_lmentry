@@ -1,0 +1,3242 @@
+{
+  "Lebewesen": {
+    "pos": "NOUN"
+  },
+  "Art": {
+    "pos": "NOUN"
+  },
+  "Wesen": {
+    "pos": "NOUN"
+  },
+  "Leben": {
+    "pos": "NOUN"
+  },
+  "Geburt": {
+    "pos": "NOUN"
+  },
+  "Fortpflanzung": {
+    "pos": "NOUN"
+  },
+  "Tod": {
+    "pos": "NOUN"
+  },
+  "Kürbis": {
+    "pos": "NOUN"
+  },
+  "Mangold": {
+    "pos": "NOUN"
+  },
+  "Erbsen": {
+    "pos": "NOUN"
+  },
+  "Karotte": {
+    "pos": "NOUN"
+  },
+  "Paprika": {
+    "pos": "NOUN"
+  },
+  "Zwiebel": {
+    "pos": "NOUN"
+  },
+  "Kohl": {
+    "pos": "NOUN"
+  },
+  "Brokkoli": {
+    "pos": "NOUN"
+  },
+  "Sellerie": {
+    "pos": "NOUN"
+  },
+  "Salat": {
+    "pos": "NOUN"
+  },
+  "Blumenkohl": {
+    "pos": "NOUN"
+  },
+  "Spinat": {
+    "pos": "NOUN"
+  },
+  "Lauch": {
+    "pos": "NOUN"
+  },
+  "Mais": {
+    "pos": "NOUN"
+  },
+  "Rote Bete": {
+    "pos": "NOUN"
+  },
+  "Knoblauch": {
+    "pos": "NOUN"
+  },
+  "Aubergine": {
+    "pos": "NOUN"
+  },
+  "Bohnen": {
+    "pos": "NOUN"
+  },
+  "Artischocke": {
+    "pos": "NOUN"
+  },
+  "Kartoffeln": {
+    "pos": "NOUN"
+  },
+  "Zucchini": {
+    "pos": "NOUN"
+  },
+  "Gurke": {
+    "pos": "NOUN"
+  },
+  "Radieschen": {
+    "pos": "NOUN"
+  },
+  "Spargel": {
+    "pos": "NOUN"
+  },
+  "fühlen": {
+    "pos": "VERB"
+  },
+  "sehen": {
+    "pos": "VERB"
+  },
+  "zuhören": {
+    "pos": "VERB"
+  },
+  "hören": {
+    "pos": "VERB"
+  },
+  "berühren": {
+    "pos": "VERB"
+  },
+  "riechen": {
+    "pos": "VERB"
+  },
+  "wahrnehmen": {
+    "pos": "VERB"
+  },
+  "gehen": {
+    "pos": "VERB"
+  },
+  "kommen": {
+    "pos": "VERB"
+  },
+  "zurückkehren": {
+    "pos": "VERB"
+  },
+  "abfahren": {
+    "pos": "VERB"
+  },
+  "ankommen": {
+    "pos": "VERB"
+  },
+  "mitbringen": {
+    "pos": "VERB"
+  },
+  "bringen": {
+    "pos": "VERB"
+  },
+  "bewegen": {
+    "pos": "VERB"
+  },
+  "herausnehmen": {
+    "pos": "VERB"
+  },
+  "entfernen": {
+    "pos": "VERB"
+  },
+  "erreichen": {
+    "pos": "VERB"
+  },
+  "nähern": {
+    "pos": "VERB"
+  },
+  "wegnehmen": {
+    "pos": "VERB"
+  },
+  "werfen": {
+    "pos": "VERB"
+  },
+  "nehmen": {
+    "pos": "VERB"
+  },
+  "greifen": {
+    "pos": "VERB"
+  },
+  "halten": {
+    "pos": "VERB"
+  },
+  "schlagen": {
+    "pos": "VERB"
+  },
+  "treten": {
+    "pos": "VERB"
+  },
+  "setzen": {
+    "pos": "VERB"
+  },
+  "aufheben": {
+    "pos": "VERB"
+  },
+  "heben": {
+    "pos": "VERB"
+  },
+  "kleben": {
+    "pos": "VERB"
+  },
+  "erscheinen": {
+    "pos": "VERB"
+  },
+  "verschwinden": {
+    "pos": "VERB"
+  },
+  "existieren": {
+    "pos": "VERB"
+  },
+  "wachsen": {
+    "pos": "VERB"
+  },
+  "leben": {
+    "pos": "VERB"
+  },
+  "sterben": {
+    "pos": "VERB"
+  },
+  "lieben": {
+    "pos": "VERB"
+  },
+  "mögen": {
+    "pos": "VERB"
+  },
+  "wünschen": {
+    "pos": "VERB"
+  },
+  "hassen": {
+    "pos": "VERB"
+  },
+  "weinen": {
+    "pos": "VERB"
+  },
+  "lachen": {
+    "pos": "VERB"
+  },
+  "bedauern": {
+    "pos": "VERB"
+  },
+  "bewundern": {
+    "pos": "VERB"
+  },
+  "genießen": {
+    "pos": "VERB"
+  },
+  "trösten": {
+    "pos": "VERB"
+  },
+  "gefallen": {
+    "pos": "VERB"
+  },
+  "lächeln": {
+    "pos": "VERB"
+  },
+  "erschrecken": {
+    "pos": "VERB"
+  },
+  "kommunizieren": {
+    "pos": "VERB"
+  },
+  "behaupten": {
+    "pos": "VERB"
+  },
+  "verneinen": {
+    "pos": "VERB"
+  },
+  "sagen": {
+    "pos": "VERB"
+  },
+  "sprechen": {
+    "pos": "VERB"
+  },
+  "schweigen": {
+    "pos": "VERB"
+  },
+  "schreiben": {
+    "pos": "VERB"
+  },
+  "lesen": {
+    "pos": "VERB"
+  },
+  "analysieren": {
+    "pos": "VERB"
+  },
+  "denken": {
+    "pos": "VERB"
+  },
+  "singen": {
+    "pos": "VERB"
+  },
+  "hinweisen": {
+    "pos": "VERB"
+  },
+  "erstechen": {
+    "pos": "VERB"
+  },
+  "beißen": {
+    "pos": "VERB"
+  },
+  "essen": {
+    "pos": "VERB"
+  },
+  "trinken": {
+    "pos": "VERB"
+  },
+  "vereinbaren": {
+    "pos": "VERB"
+  },
+  "beeinflussen": {
+    "pos": "VERB"
+  },
+  "erzeugen": {
+    "pos": "VERB"
+  },
+  "hinzufügen": {
+    "pos": "VERB"
+  },
+  "verbessern": {
+    "pos": "VERB"
+  },
+  "verschlechtern": {
+    "pos": "VERB"
+  },
+  "folgen": {
+    "pos": "VERB"
+  },
+  "vorankommen": {
+    "pos": "VERB"
+  },
+  "zurückgehen": {
+    "pos": "VERB"
+  },
+  "helfen": {
+    "pos": "VERB"
+  },
+  "erschweren": {
+    "pos": "VERB"
+  },
+  "treffen": {
+    "pos": "VERB"
+  },
+  "interviewen": {
+    "pos": "VERB"
+  },
+  "öffnen": {
+    "pos": "VERB"
+  },
+  "spielen": {
+    "pos": "VERB"
+  },
+  "haben": {
+    "pos": "VERB"
+  },
+  "fehlen": {
+    "pos": "VERB"
+  },
+  "geben": {
+    "pos": "VERB"
+  },
+  "bekommen": {
+    "pos": "VERB"
+  },
+  "zerbrechen": {
+    "pos": "VERB"
+  },
+  "falten": {
+    "pos": "VERB"
+  },
+  "schneiden": {
+    "pos": "VERB"
+  },
+  "kaufen": {
+    "pos": "VERB"
+  },
+  "verkaufen": {
+    "pos": "VERB"
+  },
+  "tragen": {
+    "pos": "VERB"
+  },
+  "tauschen": {
+    "pos": "VERB"
+  },
+  "ersetzen": {
+    "pos": "VERB"
+  },
+  "schließen": {
+    "pos": "VERB"
+  },
+  "suchen": {
+    "pos": "VERB"
+  },
+  "finden": {
+    "pos": "VERB"
+  },
+  "erschaffen": {
+    "pos": "VERB"
+  },
+  "glauben": {
+    "pos": "VERB"
+  },
+  "anfangen": {
+    "pos": "VERB"
+  },
+  "beenden": {
+    "pos": "VERB"
+  },
+  "verlassen": {
+    "pos": "VERB"
+  },
+  "lassen": {
+    "pos": "VERB"
+  },
+  "eintreten": {
+    "pos": "VERB"
+  },
+  "bleiben": {
+    "pos": "VERB"
+  },
+  "ausgehen": {
+    "pos": "VERB"
+  },
+  "bedienen": {
+    "pos": "VERB"
+  },
+  "messen": {
+    "pos": "VERB"
+  },
+  "wiegen": {
+    "pos": "VERB"
+  },
+  "betrachten": {
+    "pos": "VERB"
+  },
+  "vergleichen": {
+    "pos": "VERB"
+  },
+  "bewerten": {
+    "pos": "VERB"
+  },
+  "entscheiden": {
+    "pos": "VERB"
+  },
+  "bauen": {
+    "pos": "VERB"
+  },
+  "zerstören": {
+    "pos": "VERB"
+  },
+  "müssen": {
+    "pos": "VERB"
+  },
+  "können": {
+    "pos": "VERB"
+  },
+  "kennen": {
+    "pos": "VERB"
+  },
+  "verstehen": {
+    "pos": "VERB"
+  },
+  "wissen": {
+    "pos": "VERB"
+  },
+  "arbeiten": {
+    "pos": "VERB"
+  },
+  "teilen": {
+    "pos": "VERB"
+  },
+  "trennen": {
+    "pos": "VERB"
+  },
+  "ruhen": {
+    "pos": "VERB"
+  },
+  "schlafen": {
+    "pos": "VERB"
+  },
+  "aufwachen": {
+    "pos": "VERB"
+  },
+  "akzeptieren": {
+    "pos": "VERB"
+  },
+  "ablehnen": {
+    "pos": "VERB"
+  },
+  "verwerfen": {
+    "pos": "VERB"
+  },
+  "begleiten": {
+    "pos": "VERB"
+  },
+  "bitten": {
+    "pos": "VERB"
+  },
+  "beabsichtigen": {
+    "pos": "VERB"
+  },
+  "vorschlagen": {
+    "pos": "VERB"
+  },
+  "suggerieren": {
+    "pos": "VERB"
+  },
+  "verwenden": {
+    "pos": "VERB"
+  },
+  "machen": {
+    "pos": "VERB"
+  },
+  "herstellen": {
+    "pos": "VERB"
+  },
+  "reparieren": {
+    "pos": "VERB"
+  },
+  "erklären": {
+    "pos": "VERB"
+  },
+  "zeigen": {
+    "pos": "VERB"
+  },
+  "versuchen": {
+    "pos": "VERB"
+  },
+  "vermeiden": {
+    "pos": "VERB"
+  },
+  "probieren": {
+    "pos": "VERB"
+  },
+  "prüfen": {
+    "pos": "VERB"
+  },
+  "wechseln": {
+    "pos": "VERB"
+  },
+  "warten": {
+    "pos": "VERB"
+  },
+  "brauchen": {
+    "pos": "VERB"
+  },
+  "bedeuten": {
+    "pos": "VERB"
+  },
+  "scheinen": {
+    "pos": "VERB"
+  },
+  "unterscheiden": {
+    "pos": "VERB"
+  },
+  "Transport": {
+    "pos": "NOUN"
+  },
+  "Verkehr": {
+    "pos": "NOUN"
+  },
+  "Fahrzeug": {
+    "pos": "NOUN"
+  },
+  "Bahn": {
+    "pos": "NOUN"
+  },
+  "Zug": {
+    "pos": "NOUN"
+  },
+  "Weg": {
+    "pos": "NOUN"
+  },
+  "Gleis": {
+    "pos": "NOUN"
+  },
+  "Strecke": {
+    "pos": "NOUN"
+  },
+  "Straße": {
+    "pos": "NOUN"
+  },
+  "Landstraße": {
+    "pos": "NOUN"
+  },
+  "Autobahn": {
+    "pos": "NOUN"
+  },
+  "Allee": {
+    "pos": "NOUN"
+  },
+  "Haltestelle": {
+    "pos": "NOUN"
+  },
+  "Bahnhof": {
+    "pos": "NOUN"
+  },
+  "Flugzeug": {
+    "pos": "NOUN"
+  },
+  "Flughafen": {
+    "pos": "NOUN"
+  },
+  "Auto": {
+    "pos": "NOUN"
+  },
+  "Wagen": {
+    "pos": "NOUN"
+  },
+  "Bus": {
+    "pos": "NOUN"
+  },
+  "Motorrad": {
+    "pos": "NOUN"
+  },
+  "Taxi": {
+    "pos": "NOUN"
+  },
+  "Straßenbahn": {
+    "pos": "NOUN"
+  },
+  "Boot": {
+    "pos": "NOUN"
+  },
+  "Fahrrad": {
+    "pos": "NOUN"
+  },
+  "Roller": {
+    "pos": "NOUN"
+  },
+  "Rollerskates": {
+    "pos": "NOUN"
+  },
+  "Skateboard": {
+    "pos": "NOUN"
+  },
+  "Sache": {
+    "pos": "NOUN"
+  },
+  "Aussehen": {
+    "pos": "NOUN"
+  },
+  "Inhalt": {
+    "pos": "NOUN"
+  },
+  "Objekt": {
+    "pos": "NOUN"
+  },
+  "Teil": {
+    "pos": "NOUN"
+  },
+  "Bereich": {
+    "pos": "NOUN"
+  },
+  "Wort": {
+    "pos": "NOUN"
+  },
+  "Name": {
+    "pos": "NOUN"
+  },
+  "Kennzeichen": {
+    "pos": "NOUN"
+  },
+  "Geheimnis": {
+    "pos": "NOUN"
+  },
+  "Vorschrift": {
+    "pos": "NOUN"
+  },
+  "Gegenwart": {
+    "pos": "NOUN"
+  },
+  "Vergangenheit": {
+    "pos": "NOUN"
+  },
+  "Zukunft": {
+    "pos": "NOUN"
+  },
+  "Anlass": {
+    "pos": "NOUN"
+  },
+  "Mal": {
+    "pos": "NOUN"
+  },
+  "Handlung": {
+    "pos": "NOUN"
+  },
+  "Ereignis": {
+    "pos": "NOUN"
+  },
+  "Programm": {
+    "pos": "NOUN"
+  },
+  "Projekt": {
+    "pos": "NOUN"
+  },
+  "Vereinbarung": {
+    "pos": "NOUN"
+  },
+  "Haltung": {
+    "pos": "NOUN"
+  },
+  "Aufmerksamkeit": {
+    "pos": "NOUN"
+  },
+  "Kapazität": {
+    "pos": "NOUN"
+  },
+  "Konzept": {
+    "pos": "NOUN"
+  },
+  "Thema": {
+    "pos": "NOUN"
+  },
+  "Zustand": {
+    "pos": "NOUN"
+  },
+  "Fall": {
+    "pos": "NOUN"
+  },
+  "Einheit": {
+    "pos": "NOUN"
+  },
+  "Herstellung": {
+    "pos": "NOUN"
+  },
+  "Zerstörung": {
+    "pos": "NOUN"
+  },
+  "Ursprung": {
+    "pos": "NOUN"
+  },
+  "Ziel": {
+    "pos": "NOUN"
+  },
+  "Zweck": {
+    "pos": "NOUN"
+  },
+  "Funktion": {
+    "pos": "NOUN"
+  },
+  "Beziehung": {
+    "pos": "NOUN"
+  },
+  "Wirklichkeit": {
+    "pos": "NOUN"
+  },
+  "Situation": {
+    "pos": "NOUN"
+  },
+  "Problem": {
+    "pos": "NOUN"
+  },
+  "Versuch": {
+    "pos": "NOUN"
+  },
+  "Lösung": {
+    "pos": "NOUN"
+  },
+  "Wirkung": {
+    "pos": "NOUN"
+  },
+  "Ergebnis": {
+    "pos": "NOUN"
+  },
+  "Leistung": {
+    "pos": "NOUN"
+  },
+  "Erfolg": {
+    "pos": "NOUN"
+  },
+  "Misserfolg": {
+    "pos": "NOUN"
+  },
+  "Grund": {
+    "pos": "NOUN"
+  },
+  "Folge": {
+    "pos": "NOUN"
+  },
+  "Nutzen": {
+    "pos": "NOUN"
+  },
+  "Schaden": {
+    "pos": "NOUN"
+  },
+  "Qualität": {
+    "pos": "NOUN"
+  },
+  "Typ": {
+    "pos": "NOUN"
+  },
+  "Angriff": {
+    "pos": "NOUN"
+  },
+  "Verteidigung": {
+    "pos": "NOUN"
+  },
+  "Frieden": {
+    "pos": "NOUN"
+  },
+  "Konflikt": {
+    "pos": "NOUN"
+  },
+  "Krieg": {
+    "pos": "NOUN"
+  },
+  "Charakter": {
+    "pos": "NOUN"
+  },
+  "Merkmal": {
+    "pos": "NOUN"
+  },
+  "Krise": {
+    "pos": "NOUN"
+  },
+  "Entwicklung": {
+    "pos": "NOUN"
+  },
+  "Fortschritt": {
+    "pos": "NOUN"
+  },
+  "Rückschritt": {
+    "pos": "NOUN"
+  },
+  "Verbesserung": {
+    "pos": "NOUN"
+  },
+  "Verschlechterung": {
+    "pos": "NOUN"
+  },
+  "Grundsatz": {
+    "pos": "NOUN"
+  },
+  "Verlauf": {
+    "pos": "NOUN"
+  },
+  "Ende": {
+    "pos": "NOUN"
+  },
+  "Stadium": {
+    "pos": "NOUN"
+  },
+  "Phase": {
+    "pos": "NOUN"
+  },
+  "Schritt": {
+    "pos": "NOUN"
+  },
+  "Reihe": {
+    "pos": "NOUN"
+  },
+  "Reihenfolge": {
+    "pos": "NOUN"
+  },
+  "Stufe": {
+    "pos": "NOUN"
+  },
+  "Ebene": {
+    "pos": "NOUN"
+  },
+  "Prozess": {
+    "pos": "NOUN"
+  },
+  "Schnitt": {
+    "pos": "NOUN"
+  },
+  "Unterbrechung": {
+    "pos": "NOUN"
+  },
+  "Zeit": {
+    "pos": "NOUN"
+  },
+  "Unterschied": {
+    "pos": "NOUN"
+  },
+  "Ähnlichkeit": {
+    "pos": "NOUN"
+  },
+  "Gefühl": {
+    "pos": "NOUN"
+  },
+  "Empfindung": {
+    "pos": "NOUN"
+  },
+  "Sicht": {
+    "pos": "NOUN"
+  },
+  "Gehör": {
+    "pos": "NOUN"
+  },
+  "Berührung": {
+    "pos": "NOUN"
+  },
+  "Geruch": {
+    "pos": "NOUN"
+  },
+  "Schmerz": {
+    "pos": "NOUN"
+  },
+  "Bewusstsein": {
+    "pos": "NOUN"
+  },
+  "Wahrnehmung": {
+    "pos": "NOUN"
+  },
+  "Bild": {
+    "pos": "NOUN"
+  },
+  "Kraft": {
+    "pos": "NOUN"
+  },
+  "Macht": {
+    "pos": "NOUN"
+  },
+  "Präsenz": {
+    "pos": "NOUN"
+  },
+  "Existenz": {
+    "pos": "NOUN"
+  },
+  "Erfahrung": {
+    "pos": "NOUN"
+  },
+  "Möglichkeit": {
+    "pos": "NOUN"
+  },
+  "Wahrscheinlichkeit": {
+    "pos": "NOUN"
+  },
+  "Wahrheit": {
+    "pos": "NOUN"
+  },
+  "Lüge": {
+    "pos": "NOUN"
+  },
+  "Vernunft": {
+    "pos": "NOUN"
+  },
+  "Gerechtigkeit": {
+    "pos": "NOUN"
+  },
+  "Fehler": {
+    "pos": "NOUN"
+  },
+  "Notwendigkeit": {
+    "pos": "NOUN"
+  },
+  "Mangel": {
+    "pos": "NOUN"
+  },
+  "Bedeutung": {
+    "pos": "NOUN"
+  },
+  "Persönlichkeit": {
+    "pos": "NOUN"
+  },
+  "Gedanken": {
+    "pos": "NOUN"
+  },
+  "Gedächtnis": {
+    "pos": "NOUN"
+  },
+  "Erinnerung": {
+    "pos": "NOUN"
+  },
+  "Wunsch": {
+    "pos": "NOUN"
+  },
+  "Freude": {
+    "pos": "NOUN"
+  },
+  "Trauer": {
+    "pos": "NOUN"
+  },
+  "Wut": {
+    "pos": "NOUN"
+  },
+  "Lust": {
+    "pos": "NOUN"
+  },
+  "Mitgefühl": {
+    "pos": "NOUN"
+  },
+  "Interesse": {
+    "pos": "NOUN"
+  },
+  "Langeweile": {
+    "pos": "NOUN"
+  },
+  "Müdigkeit": {
+    "pos": "NOUN"
+  },
+  "Überraschung": {
+    "pos": "NOUN"
+  },
+  "Erschrecken": {
+    "pos": "NOUN"
+  },
+  "Sicherheit": {
+    "pos": "NOUN"
+  },
+  "Vertrauen": {
+    "pos": "NOUN"
+  },
+  "Angst": {
+    "pos": "NOUN"
+  },
+  "Beispiel": {
+    "pos": "NOUN"
+  },
+  "Gesellschaft": {
+    "pos": "NOUN"
+  },
+  "Gemeinschaft": {
+    "pos": "NOUN"
+  },
+  "Besprechung": {
+    "pos": "NOUN"
+  },
+  "Treffen": {
+    "pos": "NOUN"
+  },
+  "Struktur": {
+    "pos": "NOUN"
+  },
+  "Verwaltung": {
+    "pos": "NOUN"
+  },
+  "Organisation": {
+    "pos": "NOUN"
+  },
+  "Verband": {
+    "pos": "NOUN"
+  },
+  "Unternehmen": {
+    "pos": "NOUN"
+  },
+  "Mannschaft": {
+    "pos": "NOUN"
+  },
+  "Behörde": {
+    "pos": "NOUN"
+  },
+  "Stellung": {
+    "pos": "NOUN"
+  },
+  "Kampagne": {
+    "pos": "NOUN"
+  },
+  "Verein": {
+    "pos": "NOUN"
+  },
+  "Kommission": {
+    "pos": "NOUN"
+  },
+  "Kongress": {
+    "pos": "NOUN"
+  },
+  "Rat": {
+    "pos": "NOUN"
+  },
+  "Partei": {
+    "pos": "NOUN"
+  },
+  "Land": {
+    "pos": "NOUN"
+  },
+  "Nation": {
+    "pos": "NOUN"
+  },
+  "Regierung": {
+    "pos": "NOUN"
+  },
+  "Staat": {
+    "pos": "NOUN"
+  },
+  "Provinz": {
+    "pos": "NOUN"
+  },
+  "Abteilung": {
+    "pos": "NOUN"
+  },
+  "Gemeinde": {
+    "pos": "NOUN"
+  },
+  "Demokratie": {
+    "pos": "NOUN"
+  },
+  "Diktatur": {
+    "pos": "NOUN"
+  },
+  "Politik": {
+    "pos": "NOUN"
+  },
+  "Hauptstadt": {
+    "pos": "NOUN"
+  },
+  "Stadt": {
+    "pos": "NOUN"
+  },
+  "Bevölkerung": {
+    "pos": "NOUN"
+  },
+  "Ortschaft": {
+    "pos": "NOUN"
+  },
+  "Dorf": {
+    "pos": "NOUN"
+  },
+  "Verpflichtung": {
+    "pos": "NOUN"
+  },
+  "Freiheit": {
+    "pos": "NOUN"
+  },
+  "Recht": {
+    "pos": "NOUN"
+  },
+  "Erlaubnis": {
+    "pos": "NOUN"
+  },
+  "Verbot": {
+    "pos": "NOUN"
+  },
+  "Verfassung": {
+    "pos": "NOUN"
+  },
+  "Gesetz": {
+    "pos": "NOUN"
+  },
+  "Erlass": {
+    "pos": "NOUN"
+  },
+  "Verordnung": {
+    "pos": "NOUN"
+  },
+  "Kleidung": {
+    "pos": "NOUN"
+  },
+  "Kleidungsstück": {
+    "pos": "NOUN"
+  },
+  "Ärmel": {
+    "pos": "NOUN"
+  },
+  "Kragen": {
+    "pos": "NOUN"
+  },
+  "Knopf": {
+    "pos": "NOUN"
+  },
+  "Verschluss": {
+    "pos": "NOUN"
+  },
+  "Reißverschluss": {
+    "pos": "NOUN"
+  },
+  "Gürtel": {
+    "pos": "NOUN"
+  },
+  "Schuh": {
+    "pos": "NOUN"
+  },
+  "Brille": {
+    "pos": "NOUN"
+  },
+  "Hose": {
+    "pos": "NOUN"
+  },
+  "Hemd": {
+    "pos": "NOUN"
+  },
+  "T-shirt": {
+    "pos": "NOUN"
+  },
+  "Turnschuh": {
+    "pos": "NOUN"
+  },
+  "Schnürsenkel": {
+    "pos": "NOUN"
+  },
+  "Mantel": {
+    "pos": "NOUN"
+  },
+  "Jacke": {
+    "pos": "NOUN"
+  },
+  "Socken": {
+    "pos": "NOUN"
+  },
+  "Slip": {
+    "pos": "NOUN"
+  },
+  "Unterhose": {
+    "pos": "NOUN"
+  },
+  "BH": {
+    "pos": "NOUN"
+  },
+  "Rock": {
+    "pos": "NOUN"
+  },
+  "Kleid": {
+    "pos": "NOUN"
+  },
+  "Pullover": {
+    "pos": "NOUN"
+  },
+  "Jeans": {
+    "pos": "NOUN"
+  },
+  "Schal": {
+    "pos": "NOUN"
+  },
+  "Tasche": {
+    "pos": "NOUN"
+  },
+  "Badeanzug": {
+    "pos": "NOUN"
+  },
+  "Halstuch": {
+    "pos": "NOUN"
+  },
+  "Mütze": {
+    "pos": "NOUN"
+  },
+  "Handschuhe": {
+    "pos": "NOUN"
+  },
+  "Krawatte": {
+    "pos": "NOUN"
+  },
+  "Rucksack": {
+    "pos": "NOUN"
+  },
+  "Kappe": {
+    "pos": "NOUN"
+  },
+  "Stiefel": {
+    "pos": "NOUN"
+  },
+  "Tankstellenwart": {
+    "pos": "NOUN"
+  },
+  "Tankstellenwärterin": {
+    "pos": "NOUN"
+  },
+  "Anwalt": {
+    "pos": "NOUN"
+  },
+  "Anwältin": {
+    "pos": "NOUN"
+  },
+  "Schauspieler": {
+    "pos": "NOUN"
+  },
+  "Schauspielerin": {
+    "pos": "NOUN"
+  },
+  "Angestellter": {
+    "pos": "NOUN"
+  },
+  "Angestellte": {
+    "pos": "NOUN"
+  },
+  "Architekt": {
+    "pos": "NOUN"
+  },
+  "Architektin": {
+    "pos": "NOUN"
+  },
+  "Astronaut": {
+    "pos": "NOUN"
+  },
+  "Astronautin": {
+    "pos": "NOUN"
+  },
+  "Straßenfeger": {
+    "pos": "NOUN"
+  },
+  "Straßenfegerin": {
+    "pos": "NOUN"
+  },
+  "Biologe": {
+    "pos": "NOUN"
+  },
+  "Biologin": {
+    "pos": "NOUN"
+  },
+  "Feuerwehrmann": {
+    "pos": "NOUN"
+  },
+  "Feuerwehrfrau": {
+    "pos": "NOUN"
+  },
+  "Kassierer": {
+    "pos": "NOUN"
+  },
+  "Kassiererin": {
+    "pos": "NOUN"
+  },
+  "Kellner": {
+    "pos": "NOUN"
+  },
+  "Kellnerin": {
+    "pos": "NOUN"
+  },
+  "Metzger": {
+    "pos": "NOUN"
+  },
+  "Metzgerin": {
+    "pos": "NOUN"
+  },
+  "Schreiner": {
+    "pos": "NOUN"
+  },
+  "Schreinerin": {
+    "pos": "NOUN"
+  },
+  "Briefträger": {
+    "pos": "NOUN"
+  },
+  "Briefträgerin": {
+    "pos": "NOUN"
+  },
+  "Wissenschaftler": {
+    "pos": "NOUN"
+  },
+  "Wissenschaftlerin": {
+    "pos": "NOUN"
+  },
+  "Koch": {
+    "pos": "NOUN"
+  },
+  "Köchin": {
+    "pos": "NOUN"
+  },
+  "Zahnarzt": {
+    "pos": "NOUN"
+  },
+  "Zahnärztin": {
+    "pos": "NOUN"
+  },
+  "Verkäufer": {
+    "pos": "NOUN"
+  },
+  "Verkäuferin": {
+    "pos": "NOUN"
+  },
+  "Elektriker": {
+    "pos": "NOUN"
+  },
+  "Elektrikerin": {
+    "pos": "NOUN"
+  },
+  "Geschäftsmann": {
+    "pos": "NOUN"
+  },
+  "Geschäftsfrau": {
+    "pos": "NOUN"
+  },
+  "Arzt": {
+    "pos": "NOUN"
+  },
+  "Ärztin": {
+    "pos": "NOUN"
+  },
+  "Klempner": {
+    "pos": "NOUN"
+  },
+  "Klempnerin": {
+    "pos": "NOUN"
+  },
+  "Fotograf": {
+    "pos": "NOUN"
+  },
+  "Fotografin": {
+    "pos": "NOUN"
+  },
+  "Ingenieur": {
+    "pos": "NOUN"
+  },
+  "Ingenieurin": {
+    "pos": "NOUN"
+  },
+  "Richter": {
+    "pos": "NOUN"
+  },
+  "Richterin": {
+    "pos": "NOUN"
+  },
+  "Lehrer": {
+    "pos": "NOUN"
+  },
+  "Lehrerin": {
+    "pos": "NOUN"
+  },
+  "Mechaniker": {
+    "pos": "NOUN"
+  },
+  "Mechanikerin": {
+    "pos": "NOUN"
+  },
+  "Bäcker": {
+    "pos": "NOUN"
+  },
+  "Bäckerin": {
+    "pos": "NOUN"
+  },
+  "Friseur": {
+    "pos": "NOUN"
+  },
+  "Friseurin": {
+    "pos": "NOUN"
+  },
+  "Journalist": {
+    "pos": "NOUN"
+  },
+  "Journalistin": {
+    "pos": "NOUN"
+  },
+  "Maler": {
+    "pos": "NOUN"
+  },
+  "Malerin": {
+    "pos": "NOUN"
+  },
+  "Polizist": {
+    "pos": "NOUN"
+  },
+  "Polizistin": {
+    "pos": "NOUN"
+  },
+  "Informatiker": {
+    "pos": "NOUN"
+  },
+  "Informatikerin": {
+    "pos": "NOUN"
+  },
+  "Politiker": {
+    "pos": "NOUN"
+  },
+  "Politikerin": {
+    "pos": "NOUN"
+  },
+  "Minister": {
+    "pos": "NOUN"
+  },
+  "Ministerin": {
+    "pos": "NOUN"
+  },
+  "Direktor": {
+    "pos": "NOUN"
+  },
+  "Direktorin": {
+    "pos": "NOUN"
+  },
+  "Stellvertreter": {
+    "pos": "NOUN"
+  },
+  "Stellvertreterin": {
+    "pos": "NOUN"
+  },
+  "Senator": {
+    "pos": "NOUN"
+  },
+  "Senatorin": {
+    "pos": "NOUN"
+  },
+  "Abgeordneter": {
+    "pos": "NOUN"
+  },
+  "Abgeordnete": {
+    "pos": "NOUN"
+  },
+  "Parlamentarier": {
+    "pos": "NOUN"
+  },
+  "Parlamentarierin": {
+    "pos": "NOUN"
+  },
+  "Bürgermeister": {
+    "pos": "NOUN"
+  },
+  "Bürgermeisterin": {
+    "pos": "NOUN"
+  },
+  "Präsident": {
+    "pos": "NOUN"
+  },
+  "Präsidentin": {
+    "pos": "NOUN"
+  },
+  "Kanzler": {
+    "pos": "NOUN"
+  },
+  "Kanzlerin": {
+    "pos": "NOUN"
+  },
+  "auf": {
+    "pos": "ADPOSITION"
+  },
+  "mit": {
+    "pos": "ADPOSITION"
+  },
+  "gegen": {
+    "pos": "ADPOSITION"
+  },
+  "von": {
+    "pos": "ADPOSITION"
+  },
+  "aus": {
+    "pos": "ADPOSITION"
+  },
+  "bei": {
+    "pos": "ADPOSITION"
+  },
+  "zwischen": {
+    "pos": "ADPOSITION"
+  },
+  "bis": {
+    "pos": "ADPOSITION"
+  },
+  "nach": {
+    "pos": "ADPOSITION"
+  },
+  "über": {
+    "pos": "ADPOSITION"
+  },
+  "an": {
+    "pos": "ADPOSITION"
+  },
+  "um": {
+    "pos": "ADPOSITION"
+  },
+  "laut": {
+    "pos": "ADPOSITION"
+  },
+  "ohne": {
+    "pos": "ADPOSITION"
+  },
+  "etwa": {
+    "pos": "ADPOSITION"
+  },
+  "nachdem": {
+    "pos": "ADPOSITION"
+  },
+  "eins": {
+    "pos": "DETERMINER"
+  },
+  "zwei": {
+    "pos": "DETERMINER"
+  },
+  "drei": {
+    "pos": "DETERMINER"
+  },
+  "vier": {
+    "pos": "DETERMINER"
+  },
+  "fünf": {
+    "pos": "DETERMINER"
+  },
+  "sechs": {
+    "pos": "DETERMINER"
+  },
+  "sieben": {
+    "pos": "DETERMINER"
+  },
+  "acht": {
+    "pos": "DETERMINER"
+  },
+  "neun": {
+    "pos": "DETERMINER"
+  },
+  "zehn": {
+    "pos": "DETERMINER"
+  },
+  "Januar": {
+    "pos": "NOUN"
+  },
+  "Februar": {
+    "pos": "NOUN"
+  },
+  "März": {
+    "pos": "NOUN"
+  },
+  "April": {
+    "pos": "NOUN"
+  },
+  "Mai": {
+    "pos": "NOUN"
+  },
+  "Juni": {
+    "pos": "NOUN"
+  },
+  "Juli": {
+    "pos": "NOUN"
+  },
+  "August": {
+    "pos": "NOUN"
+  },
+  "September": {
+    "pos": "NOUN"
+  },
+  "Oktober": {
+    "pos": "NOUN"
+  },
+  "November": {
+    "pos": "NOUN"
+  },
+  "Dezember": {
+    "pos": "NOUN"
+  },
+  "Gewicht": {
+    "pos": "NOUN"
+  },
+  "Kilometer": {
+    "pos": "NOUN"
+  },
+  "Zentimeter": {
+    "pos": "NOUN"
+  },
+  "Millimeter": {
+    "pos": "NOUN"
+  },
+  "Liter": {
+    "pos": "NOUN"
+  },
+  "Milliliter": {
+    "pos": "NOUN"
+  },
+  "Gramm": {
+    "pos": "NOUN"
+  },
+  "Kilo": {
+    "pos": "NOUN"
+  },
+  "Menge": {
+    "pos": "NOUN"
+  },
+  "Summe": {
+    "pos": "NOUN"
+  },
+  "Maß": {
+    "pos": "NOUN"
+  },
+  "Wasser": {
+    "pos": "NOUN"
+  },
+  "Eis": {
+    "pos": "NOUN"
+  },
+  "Dampf": {
+    "pos": "NOUN"
+  },
+  "Feuer": {
+    "pos": "NOUN"
+  },
+  "Gas": {
+    "pos": "NOUN"
+  },
+  "Luft": {
+    "pos": "NOUN"
+  },
+  "Erde": {
+    "pos": "NOUN"
+  },
+  "Metall": {
+    "pos": "NOUN"
+  },
+  "Eisen": {
+    "pos": "NOUN"
+  },
+  "Gold": {
+    "pos": "NOUN"
+  },
+  "Silber": {
+    "pos": "NOUN"
+  },
+  "Blei": {
+    "pos": "NOUN"
+  },
+  "Salz": {
+    "pos": "NOUN"
+  },
+  "Lehm": {
+    "pos": "NOUN"
+  },
+  "Ton": {
+    "pos": "NOUN"
+  },
+  "Schule": {
+    "pos": "NOUN"
+  },
+  "Bar": {
+    "pos": "NOUN"
+  },
+  "Cafeteria": {
+    "pos": "NOUN"
+  },
+  "Restaurant": {
+    "pos": "NOUN"
+  },
+  "Fahrschule": {
+    "pos": "NOUN"
+  },
+  "Rathaus": {
+    "pos": "NOUN"
+  },
+  "Bank": {
+    "pos": "NOUN"
+  },
+  "Bibliothek": {
+    "pos": "NOUN"
+  },
+  "Supermarkt": {
+    "pos": "NOUN"
+  },
+  "Metzgerei": {
+    "pos": "NOUN"
+  },
+  "Markt": {
+    "pos": "NOUN"
+  },
+  "Feinkostladen": {
+    "pos": "NOUN"
+  },
+  "Fischgeschäft": {
+    "pos": "NOUN"
+  },
+  "Bäckerei": {
+    "pos": "NOUN"
+  },
+  "Polizeistation": {
+    "pos": "NOUN"
+  },
+  "Schreibwarenladen": {
+    "pos": "NOUN"
+  },
+  "Tabakladen": {
+    "pos": "NOUN"
+  },
+  "Friseursalon": {
+    "pos": "NOUN"
+  },
+  "Apotheke": {
+    "pos": "NOUN"
+  },
+  "Blumenladen": {
+    "pos": "NOUN"
+  },
+  "Büro": {
+    "pos": "NOUN"
+  },
+  "Geschäft": {
+    "pos": "NOUN"
+  },
+  "Hotel": {
+    "pos": "NOUN"
+  },
+  "Krankenhaus": {
+    "pos": "NOUN"
+  },
+  "Juweliergeschäft": {
+    "pos": "NOUN"
+  },
+  "Buchhandlung": {
+    "pos": "NOUN"
+  },
+  "Gitarre": {
+    "pos": "NOUN"
+  },
+  "Klavier": {
+    "pos": "NOUN"
+  },
+  "Geige": {
+    "pos": "NOUN"
+  },
+  "Schlagzeug": {
+    "pos": "NOUN"
+  },
+  "Flöte": {
+    "pos": "NOUN"
+  },
+  "Trompete": {
+    "pos": "NOUN"
+  },
+  "Klarinette": {
+    "pos": "NOUN"
+  },
+  "Saxofon": {
+    "pos": "NOUN"
+  },
+  "Cello": {
+    "pos": "NOUN"
+  },
+  "Schreibtisch": {
+    "pos": "NOUN"
+  },
+  "Stuhl": {
+    "pos": "NOUN"
+  },
+  "Tisch": {
+    "pos": "NOUN"
+  },
+  "Bett": {
+    "pos": "NOUN"
+  },
+  "Schlafzimmer": {
+    "pos": "NOUN"
+  },
+  "Zimmer": {
+    "pos": "NOUN"
+  },
+  "Raum": {
+    "pos": "NOUN"
+  },
+  "Brett": {
+    "pos": "NOUN"
+  },
+  "Tür": {
+    "pos": "NOUN"
+  },
+  "Fenster": {
+    "pos": "NOUN"
+  },
+  "Eingang": {
+    "pos": "NOUN"
+  },
+  "Zuhause": {
+    "pos": "NOUN"
+  },
+  "Haus": {
+    "pos": "NOUN"
+  },
+  "Wohnung": {
+    "pos": "NOUN"
+  },
+  "Gebäude": {
+    "pos": "NOUN"
+  },
+  "Bauwerk": {
+    "pos": "NOUN"
+  },
+  "Aufzug": {
+    "pos": "NOUN"
+  },
+  "Treppenhaus": {
+    "pos": "NOUN"
+  },
+  "Gerät": {
+    "pos": "NOUN"
+  },
+  "Kammer": {
+    "pos": "NOUN"
+  },
+  "Nadel": {
+    "pos": "NOUN"
+  },
+  "Nagel": {
+    "pos": "NOUN"
+  },
+  "Faden": {
+    "pos": "NOUN"
+  },
+  "Schnur": {
+    "pos": "NOUN"
+  },
+  "Kette": {
+    "pos": "NOUN"
+  },
+  "Beutel": {
+    "pos": "NOUN"
+  },
+  "Bildschirm": {
+    "pos": "NOUN"
+  },
+  "Schlüssel": {
+    "pos": "NOUN"
+  },
+  "Waffe": {
+    "pos": "NOUN"
+  },
+  "Natur": {
+    "pos": "NOUN"
+  },
+  "Feld": {
+    "pos": "NOUN"
+  },
+  "Wald": {
+    "pos": "NOUN"
+  },
+  "Dschungel": {
+    "pos": "NOUN"
+  },
+  "Urwald": {
+    "pos": "NOUN"
+  },
+  "Wüste": {
+    "pos": "NOUN"
+  },
+  "Küste": {
+    "pos": "NOUN"
+  },
+  "Strand": {
+    "pos": "NOUN"
+  },
+  "Fluss": {
+    "pos": "NOUN"
+  },
+  "See": {
+    "pos": "NOUN"
+  },
+  "Teich": {
+    "pos": "NOUN"
+  },
+  "Ozean": {
+    "pos": "NOUN"
+  },
+  "Meer": {
+    "pos": "NOUN"
+  },
+  "Gebirge": {
+    "pos": "NOUN"
+  },
+  "Berg": {
+    "pos": "NOUN"
+  },
+  "Menschheit": {
+    "pos": "NOUN"
+  },
+  "Mensch": {
+    "pos": "NOUN"
+  },
+  "Person": {
+    "pos": "NOUN"
+  },
+  "Leute": {
+    "pos": "NOUN"
+  },
+  "Mann": {
+    "pos": "NOUN"
+  },
+  "Frau": {
+    "pos": "NOUN"
+  },
+  "Baby": {
+    "pos": "NOUN"
+  },
+  "Mädchen": {
+    "pos": "NOUN"
+  },
+  "Junge": {
+    "pos": "NOUN"
+  },
+  "Jugendlicher": {
+    "pos": "NOUN"
+  },
+  "Kind": {
+    "pos": "NOUN"
+  },
+  "Erwachsener": {
+    "pos": "NOUN"
+  },
+  "Senior": {
+    "pos": "NOUN"
+  },
+  "Rentner": {
+    "pos": "NOUN"
+  },
+  "Dame": {
+    "pos": "NOUN"
+  },
+  "Herr": {
+    "pos": "NOUN"
+  },
+  "Individuum": {
+    "pos": "NOUN"
+  },
+  "Komödie": {
+    "pos": "NOUN"
+  },
+  "Drama": {
+    "pos": "NOUN"
+  },
+  "Musical": {
+    "pos": "NOUN"
+  },
+  "Horror": {
+    "pos": "NOUN"
+  },
+  "Märchen": {
+    "pos": "NOUN"
+  },
+  "Chronik": {
+    "pos": "NOUN"
+  },
+  "Romanze": {
+    "pos": "NOUN"
+  },
+  "Krimi": {
+    "pos": "NOUN"
+  },
+  "Zeichentrick": {
+    "pos": "NOUN"
+  },
+  "Familie": {
+    "pos": "NOUN"
+  },
+  "Freund": {
+    "pos": "NOUN"
+  },
+  "Bekanntschaft": {
+    "pos": "NOUN"
+  },
+  "Bekannter": {
+    "pos": "NOUN"
+  },
+  "Kollege": {
+    "pos": "NOUN"
+  },
+  "Partner": {
+    "pos": "NOUN"
+  },
+  "Ehefrau": {
+    "pos": "NOUN"
+  },
+  "Ehemann": {
+    "pos": "NOUN"
+  },
+  "Ehe": {
+    "pos": "NOUN"
+  },
+  "Liebe": {
+    "pos": "NOUN"
+  },
+  "Vater": {
+    "pos": "NOUN"
+  },
+  "Mutter": {
+    "pos": "NOUN"
+  },
+  "Schwester": {
+    "pos": "NOUN"
+  },
+  "Bruder": {
+    "pos": "NOUN"
+  },
+  "Tochter": {
+    "pos": "NOUN"
+  },
+  "Sohn": {
+    "pos": "NOUN"
+  },
+  "Großmutter": {
+    "pos": "NOUN"
+  },
+  "Großvater": {
+    "pos": "NOUN"
+  },
+  "Urgroßmutter": {
+    "pos": "NOUN"
+  },
+  "Urgroßvater": {
+    "pos": "NOUN"
+  },
+  "Enkelin": {
+    "pos": "NOUN"
+  },
+  "Enkel": {
+    "pos": "NOUN"
+  },
+  "Urenkelin": {
+    "pos": "NOUN"
+  },
+  "Urenkel": {
+    "pos": "NOUN"
+  },
+  "Cousin": {
+    "pos": "NOUN"
+  },
+  "Cousine": {
+    "pos": "NOUN"
+  },
+  "Tante": {
+    "pos": "NOUN"
+  },
+  "Onkel": {
+    "pos": "NOUN"
+  },
+  "Nichte": {
+    "pos": "NOUN"
+  },
+  "Neffe": {
+    "pos": "NOUN"
+  },
+  "Ort": {
+    "pos": "NOUN"
+  },
+  "Stelle": {
+    "pos": "NOUN"
+  },
+  "Bewegung": {
+    "pos": "NOUN"
+  },
+  "Geschwindigkeit": {
+    "pos": "NOUN"
+  },
+  "Beschleunigung": {
+    "pos": "NOUN"
+  },
+  "Adresse": {
+    "pos": "NOUN"
+  },
+  "Umfang": {
+    "pos": "NOUN"
+  },
+  "Dauer": {
+    "pos": "NOUN"
+  },
+  "Länge": {
+    "pos": "NOUN"
+  },
+  "Höhe": {
+    "pos": "NOUN"
+  },
+  "Erhöhung": {
+    "pos": "NOUN"
+  },
+  "Breite": {
+    "pos": "NOUN"
+  },
+  "Mehrheit": {
+    "pos": "NOUN"
+  },
+  "Minderheit": {
+    "pos": "NOUN"
+  },
+  "Zunahme": {
+    "pos": "NOUN"
+  },
+  "Abnahme": {
+    "pos": "NOUN"
+  },
+  "Wachstum": {
+    "pos": "NOUN"
+  },
+  "Mittel": {
+    "pos": "NOUN"
+  },
+  "Wirtschaft": {
+    "pos": "NOUN"
+  },
+  "Verbrauch": {
+    "pos": "NOUN"
+  },
+  "Nachfrage": {
+    "pos": "NOUN"
+  },
+  "Firma": {
+    "pos": "NOUN"
+  },
+  "Handel": {
+    "pos": "NOUN"
+  },
+  "Dienstleistung": {
+    "pos": "NOUN"
+  },
+  "Produkt": {
+    "pos": "NOUN"
+  },
+  "Produktion": {
+    "pos": "NOUN"
+  },
+  "Transaktion": {
+    "pos": "NOUN"
+  },
+  "Geld": {
+    "pos": "NOUN"
+  },
+  "Fahrschein": {
+    "pos": "NOUN"
+  },
+  "Tarif": {
+    "pos": "NOUN"
+  },
+  "Preis": {
+    "pos": "NOUN"
+  },
+  "Wert": {
+    "pos": "NOUN"
+  },
+  "Montag": {
+    "pos": "NOUN"
+  },
+  "Dienstag": {
+    "pos": "NOUN"
+  },
+  "Mittwoch": {
+    "pos": "NOUN"
+  },
+  "Donnerstag": {
+    "pos": "NOUN"
+  },
+  "Freitag": {
+    "pos": "NOUN"
+  },
+  "Samstag": {
+    "pos": "NOUN"
+  },
+  "Sonntag": {
+    "pos": "NOUN"
+  },
+  "Billard": {
+    "pos": "NOUN"
+  },
+  "Boxen": {
+    "pos": "NOUN"
+  },
+  "Radfahren": {
+    "pos": "NOUN"
+  },
+  "Leichtathletik": {
+    "pos": "NOUN"
+  },
+  "Klettern": {
+    "pos": "NOUN"
+  },
+  "Fechten": {
+    "pos": "NOUN"
+  },
+  "Skifahren": {
+    "pos": "NOUN"
+  },
+  "Turnen": {
+    "pos": "NOUN"
+  },
+  "Golf": {
+    "pos": "NOUN"
+  },
+  "Kegeln": {
+    "pos": "NOUN"
+  },
+  "Hockey": {
+    "pos": "NOUN"
+  },
+  "Schlittschuhlaufen": {
+    "pos": "NOUN"
+  },
+  "Wandern": {
+    "pos": "NOUN"
+  },
+  "Schwimmen": {
+    "pos": "NOUN"
+  },
+  "Kanufahren": {
+    "pos": "NOUN"
+  },
+  "Surfen": {
+    "pos": "NOUN"
+  },
+  "Segeln": {
+    "pos": "NOUN"
+  },
+  "Wasserball": {
+    "pos": "NOUN"
+  },
+  "Basketball": {
+    "pos": "NOUN"
+  },
+  "Badminton": {
+    "pos": "NOUN"
+  },
+  "Handball": {
+    "pos": "NOUN"
+  },
+  "Fußball": {
+    "pos": "NOUN"
+  },
+  "Tennis": {
+    "pos": "NOUN"
+  },
+  "Volleyball": {
+    "pos": "NOUN"
+  },
+  "Tanzen": {
+    "pos": "NOUN"
+  },
+  "Körper": {
+    "pos": "NOUN"
+  },
+  "Bein": {
+    "pos": "NOUN"
+  },
+  "Fuß": {
+    "pos": "NOUN"
+  },
+  "Ferse": {
+    "pos": "NOUN"
+  },
+  "Schienbein": {
+    "pos": "NOUN"
+  },
+  "Knie": {
+    "pos": "NOUN"
+  },
+  "Oberschenkel": {
+    "pos": "NOUN"
+  },
+  "Kopf": {
+    "pos": "NOUN"
+  },
+  "Gesicht": {
+    "pos": "NOUN"
+  },
+  "Mund": {
+    "pos": "NOUN"
+  },
+  "Lippe": {
+    "pos": "NOUN"
+  },
+  "Zahn": {
+    "pos": "NOUN"
+  },
+  "Auge": {
+    "pos": "NOUN"
+  },
+  "Nase": {
+    "pos": "NOUN"
+  },
+  "Bart": {
+    "pos": "NOUN"
+  },
+  "Schnurrbart": {
+    "pos": "NOUN"
+  },
+  "Haare": {
+    "pos": "NOUN"
+  },
+  "Ohr": {
+    "pos": "NOUN"
+  },
+  "Gehirn": {
+    "pos": "NOUN"
+  },
+  "Bauch": {
+    "pos": "NOUN"
+  },
+  "Arm": {
+    "pos": "NOUN"
+  },
+  "Ellenbogen": {
+    "pos": "NOUN"
+  },
+  "Schulter": {
+    "pos": "NOUN"
+  },
+  "Fingernagel": {
+    "pos": "NOUN"
+  },
+  "Hand": {
+    "pos": "NOUN"
+  },
+  "Handgelenk": {
+    "pos": "NOUN"
+  },
+  "Handfläche": {
+    "pos": "NOUN"
+  },
+  "Finger": {
+    "pos": "NOUN"
+  },
+  "Hintern": {
+    "pos": "NOUN"
+  },
+  "Unterleib": {
+    "pos": "NOUN"
+  },
+  "Leber": {
+    "pos": "NOUN"
+  },
+  "Muskel": {
+    "pos": "NOUN"
+  },
+  "Hals": {
+    "pos": "NOUN"
+  },
+  "Herz": {
+    "pos": "NOUN"
+  },
+  "Brust": {
+    "pos": "NOUN"
+  },
+  "Taille": {
+    "pos": "NOUN"
+  },
+  "Hüfte": {
+    "pos": "NOUN"
+  },
+  "Rücken": {
+    "pos": "NOUN"
+  },
+  "Haut": {
+    "pos": "NOUN"
+  },
+  "Knochen": {
+    "pos": "NOUN"
+  },
+  "obwohl": {
+    "pos": "CONJUNCTION"
+  },
+  "wie": {
+    "pos": "CONJUNCTION"
+  },
+  "wann": {
+    "pos": "CONJUNCTION"
+  },
+  "dann": {
+    "pos": "CONJUNCTION"
+  },
+  "außer": {
+    "pos": "CONJUNCTION"
+  },
+  "aber": {
+    "pos": "CONJUNCTION"
+  },
+  "weil": {
+    "pos": "CONJUNCTION"
+  },
+  "da": {
+    "pos": "CONJUNCTION"
+  },
+  "als": {
+    "pos": "CONJUNCTION"
+  },
+  "wenn": {
+    "pos": "CONJUNCTION"
+  },
+  "sondern": {
+    "pos": "CONJUNCTION"
+  },
+  "Farbe": {
+    "pos": "NOUN"
+  },
+  "weiß": {
+    "pos": "ADJECTIVE"
+  },
+  "schwarz": {
+    "pos": "ADJECTIVE"
+  },
+  "grau": {
+    "pos": "ADJECTIVE"
+  },
+  "rot": {
+    "pos": "ADJECTIVE"
+  },
+  "orange": {
+    "pos": "ADJECTIVE"
+  },
+  "gelb": {
+    "pos": "ADJECTIVE"
+  },
+  "grün": {
+    "pos": "ADJECTIVE"
+  },
+  "blau": {
+    "pos": "ADJECTIVE"
+  },
+  "lila": {
+    "pos": "ADJECTIVE"
+  },
+  "rosa": {
+    "pos": "ADJECTIVE"
+  },
+  "braun": {
+    "pos": "ADJECTIVE"
+  },
+  "Substantiv": {
+    "pos": "NOUN"
+  },
+  "Adjektiv": {
+    "pos": "NOUN"
+  },
+  "Adverb": {
+    "pos": "NOUN"
+  },
+  "Präposition": {
+    "pos": "NOUN"
+  },
+  "Konjunktion": {
+    "pos": "NOUN"
+  },
+  "Verb": {
+    "pos": "NOUN"
+  },
+  "Pronomen": {
+    "pos": "NOUN"
+  },
+  "Artikel": {
+    "pos": "NOUN"
+  },
+  "Erdbeben": {
+    "pos": "NOUN"
+  },
+  "Überschwemmung": {
+    "pos": "NOUN"
+  },
+  "Wirbelsturm": {
+    "pos": "NOUN"
+  },
+  "Tornado": {
+    "pos": "NOUN"
+  },
+  "Tsunami": {
+    "pos": "NOUN"
+  },
+  "Brand": {
+    "pos": "NOUN"
+  },
+  "Dürre": {
+    "pos": "NOUN"
+  },
+  "Lawine": {
+    "pos": "NOUN"
+  },
+  "Hund": {
+    "pos": "NOUN"
+  },
+  "Katze": {
+    "pos": "NOUN"
+  },
+  "Kuh": {
+    "pos": "NOUN"
+  },
+  "Schwein": {
+    "pos": "NOUN"
+  },
+  "Pferd": {
+    "pos": "NOUN"
+  },
+  "Hase": {
+    "pos": "NOUN"
+  },
+  "Schaf": {
+    "pos": "NOUN"
+  },
+  "Affe": {
+    "pos": "NOUN"
+  },
+  "Ratte": {
+    "pos": "NOUN"
+  },
+  "Maus": {
+    "pos": "NOUN"
+  },
+  "Tiger": {
+    "pos": "NOUN"
+  },
+  "Kaninchen": {
+    "pos": "NOUN"
+  },
+  "Hirsch": {
+    "pos": "NOUN"
+  },
+  "Frosch": {
+    "pos": "NOUN"
+  },
+  "Löwe": {
+    "pos": "NOUN"
+  },
+  "Giraffe": {
+    "pos": "NOUN"
+  },
+  "Elefant": {
+    "pos": "NOUN"
+  },
+  "Vogel": {
+    "pos": "NOUN"
+  },
+  "Huhn": {
+    "pos": "NOUN"
+  },
+  "Spatz": {
+    "pos": "NOUN"
+  },
+  "Krähe": {
+    "pos": "NOUN"
+  },
+  "Adler": {
+    "pos": "NOUN"
+  },
+  "Falke": {
+    "pos": "NOUN"
+  },
+  "Fisch": {
+    "pos": "NOUN"
+  },
+  "Garnele": {
+    "pos": "NOUN"
+  },
+  "Krebs": {
+    "pos": "NOUN"
+  },
+  "Taube": {
+    "pos": "NOUN"
+  },
+  "Wal": {
+    "pos": "NOUN"
+  },
+  "Tintenfisch": {
+    "pos": "NOUN"
+  },
+  "Oktopus": {
+    "pos": "NOUN"
+  },
+  "Insekt": {
+    "pos": "NOUN"
+  },
+  "Käfer": {
+    "pos": "NOUN"
+  },
+  "Schmetterling": {
+    "pos": "NOUN"
+  },
+  "Falter": {
+    "pos": "NOUN"
+  },
+  "Heuschrecke": {
+    "pos": "NOUN"
+  },
+  "Spinne": {
+    "pos": "NOUN"
+  },
+  "Fliege": {
+    "pos": "NOUN"
+  },
+  "Stechmücke": {
+    "pos": "NOUN"
+  },
+  "Schabe": {
+    "pos": "NOUN"
+  },
+  "Weinbergschnecke": {
+    "pos": "NOUN"
+  },
+  "Nacktschnecke": {
+    "pos": "NOUN"
+  },
+  "Regenwurm": {
+    "pos": "NOUN"
+  },
+  "Eidechse": {
+    "pos": "NOUN"
+  },
+  "Schlange": {
+    "pos": "NOUN"
+  },
+  "Krokodil": {
+    "pos": "NOUN"
+  },
+  "vorher": {
+    "pos": "ADVERB"
+  },
+  "früher": {
+    "pos": "ADVERB"
+  },
+  "aktuell": {
+    "pos": "ADVERB"
+  },
+  "jetzt": {
+    "pos": "ADVERB"
+  },
+  "sofort": {
+    "pos": "ADVERB"
+  },
+  "schon": {
+    "pos": "ADVERB"
+  },
+  "noch": {
+    "pos": "ADVERB"
+  },
+  "weiterhin": {
+    "pos": "ADVERB"
+  },
+  "eben": {
+    "pos": "ADVERB"
+  },
+  "während": {
+    "pos": "ADVERB"
+  },
+  "anschließend": {
+    "pos": "ADVERB"
+  },
+  "danach": {
+    "pos": "ADVERB"
+  },
+  "also": {
+    "pos": "ADVERB"
+  },
+  "bald": {
+    "pos": "ADVERB"
+  },
+  "spät": {
+    "pos": "ADVERB"
+  },
+  "früh": {
+    "pos": "ADVERB"
+  },
+  "gestern": {
+    "pos": "ADVERB"
+  },
+  "gleich": {
+    "pos": "ADVERB"
+  },
+  "heute": {
+    "pos": "ADVERB"
+  },
+  "morgen": {
+    "pos": "ADVERB"
+  },
+  "demnächst": {
+    "pos": "ADVERB"
+  },
+  "zunächst": {
+    "pos": "ADVERB"
+  },
+  "schließlich": {
+    "pos": "ADVERB"
+  },
+  "unter": {
+    "pos": "ADVERB"
+  },
+  "vorne": {
+    "pos": "ADVERB"
+  },
+  "hinten": {
+    "pos": "ADVERB"
+  },
+  "mitten": {
+    "pos": "ADVERB"
+  },
+  "vor": {
+    "pos": "ADVERB"
+  },
+  "hinter": {
+    "pos": "ADVERB"
+  },
+  "weit": {
+    "pos": "ADVERB"
+  },
+  "innen": {
+    "pos": "ADVERB"
+  },
+  "außen": {
+    "pos": "ADVERB"
+  },
+  "hier": {
+    "pos": "ADVERB"
+  },
+  "dort": {
+    "pos": "ADVERB"
+  },
+  "mehr": {
+    "pos": "ADVERB"
+  },
+  "weniger": {
+    "pos": "ADVERB"
+  },
+  "sehr": {
+    "pos": "ADVERB"
+  },
+  "viel": {
+    "pos": "ADVERB"
+  },
+  "gering": {
+    "pos": "ADVERB"
+  },
+  "kaum": {
+    "pos": "ADVERB"
+  },
+  "etwas": {
+    "pos": "ADVERB"
+  },
+  "fast": {
+    "pos": "ADVERB"
+  },
+  "ungefähr": {
+    "pos": "ADVERB"
+  },
+  "genau": {
+    "pos": "ADVERB"
+  },
+  "ziemlich": {
+    "pos": "ADVERB"
+  },
+  "exakt": {
+    "pos": "ADVERB"
+  },
+  "zu": {
+    "pos": "ADVERB"
+  },
+  "etcetera": {
+    "pos": "ADVERB"
+  },
+  "nur": {
+    "pos": "ADVERB"
+  },
+  "so": {
+    "pos": "ADVERB"
+  },
+  "dermaßen": {
+    "pos": "ADVERB"
+  },
+  "alles": {
+    "pos": "ADVERB"
+  },
+  "nichts": {
+    "pos": "ADVERB"
+  },
+  "besonders": {
+    "pos": "ADVERB"
+  },
+  "immer": {
+    "pos": "ADVERB"
+  },
+  "nie": {
+    "pos": "ADVERB"
+  },
+  "ebenfalls": {
+    "pos": "ADVERB"
+  },
+  "auch": {
+    "pos": "ADVERB"
+  },
+  "vielleicht": {
+    "pos": "ADVERB"
+  },
+  "möglicherweise": {
+    "pos": "ADVERB"
+  },
+  "schlechter": {
+    "pos": "ADVERB"
+  },
+  "normal": {
+    "pos": "ADVERB"
+  },
+  "langsam": {
+    "pos": "ADVERB"
+  },
+  "schnell": {
+    "pos": "ADVERB"
+  },
+  "absichtlich": {
+    "pos": "ADVERB"
+  },
+  "natürlich": {
+    "pos": "ADVERB"
+  },
+  "offensichtlich": {
+    "pos": "ADVERB"
+  },
+  "einschließlich": {
+    "pos": "ADVERB"
+  },
+  "außerdem": {
+    "pos": "ADVERB"
+  },
+  "umgekehrt": {
+    "pos": "ADVERB"
+  },
+  "sogar": {
+    "pos": "ADVERB"
+  },
+  "heiß": {
+    "pos": "ADJECTIVE"
+  },
+  "kalt": {
+    "pos": "ADJECTIVE"
+  },
+  "leicht": {
+    "pos": "ADJECTIVE"
+  },
+  "schwer": {
+    "pos": "ADJECTIVE"
+  },
+  "weich": {
+    "pos": "ADJECTIVE"
+  },
+  "fest": {
+    "pos": "ADJECTIVE"
+  },
+  "flexibel": {
+    "pos": "ADJECTIVE"
+  },
+  "hart": {
+    "pos": "ADJECTIVE"
+  },
+  "warm": {
+    "pos": "ADJECTIVE"
+  },
+  "kühl": {
+    "pos": "ADJECTIVE"
+  },
+  "lecker": {
+    "pos": "ADJECTIVE"
+  },
+  "furchtbar": {
+    "pos": "ADJECTIVE"
+  },
+  "süß": {
+    "pos": "ADJECTIVE"
+  },
+  "würzig": {
+    "pos": "ADJECTIVE"
+  },
+  "salzig": {
+    "pos": "ADJECTIVE"
+  },
+  "bitter": {
+    "pos": "ADJECTIVE"
+  },
+  "vorherig": {
+    "pos": "ADJECTIVE"
+  },
+  "nachträglich": {
+    "pos": "ADJECTIVE"
+  },
+  "folgend": {
+    "pos": "ADJECTIVE"
+  },
+  "nahe": {
+    "pos": "ADJECTIVE"
+  },
+  "gemeinsam": {
+    "pos": "ADJECTIVE"
+  },
+  "zusammen": {
+    "pos": "ADJECTIVE"
+  },
+  "getrennt": {
+    "pos": "ADJECTIVE"
+  },
+  "entfernt": {
+    "pos": "ADJECTIVE"
+  },
+  "mein": {
+    "pos": "PRONOUN"
+  },
+  "dein": {
+    "pos": "PRONOUN"
+  },
+  "sein": {
+    "pos": "PRONOUN"
+  },
+  "ihr": {
+    "pos": "PRONOUN"
+  },
+  "unser": {
+    "pos": "PRONOUN"
+  },
+  "euer": {
+    "pos": "PRONOUN"
+  },
+  "erster": {
+    "pos": "ADJECTIVE"
+  },
+  "zweiter": {
+    "pos": "ADJECTIVE"
+  },
+  "dritter": {
+    "pos": "ADJECTIVE"
+  },
+  "fünfter": {
+    "pos": "ADJECTIVE"
+  },
+  "zehnter": {
+    "pos": "ADJECTIVE"
+  },
+  "hundertster": {
+    "pos": "ADJECTIVE"
+  },
+  "millionster": {
+    "pos": "ADJECTIVE"
+  },
+  "vorletzter": {
+    "pos": "ADJECTIVE"
+  },
+  "letzter": {
+    "pos": "ADJECTIVE"
+  },
+  "glücklich": {
+    "pos": "ADJECTIVE"
+  },
+  "traurig": {
+    "pos": "ADJECTIVE"
+  },
+  "einsam": {
+    "pos": "ADJECTIVE"
+  },
+  "zufrieden": {
+    "pos": "ADJECTIVE"
+  },
+  "ruhig": {
+    "pos": "ADJECTIVE"
+  },
+  "wütend": {
+    "pos": "ADJECTIVE"
+  },
+  "aufgewühlt": {
+    "pos": "ADJECTIVE"
+  },
+  "ängstlich": {
+    "pos": "ADJECTIVE"
+  },
+  "interessiert": {
+    "pos": "ADJECTIVE"
+  },
+  "gelangweilt": {
+    "pos": "ADJECTIVE"
+  },
+  "erfreut": {
+    "pos": "ADJECTIVE"
+  },
+  "müde": {
+    "pos": "ADJECTIVE"
+  },
+  "überrascht": {
+    "pos": "ADJECTIVE"
+  },
+  "erschrocken": {
+    "pos": "ADJECTIVE"
+  },
+  "schmerzhaft": {
+    "pos": "ADJECTIVE"
+  },
+  "stinkend": {
+    "pos": "ADJECTIVE"
+  },
+  "groß": {
+    "pos": "ADJECTIVE"
+  },
+  "klein": {
+    "pos": "ADJECTIVE"
+  },
+  "breit": {
+    "pos": "ADJECTIVE"
+  },
+  "schmal": {
+    "pos": "ADJECTIVE"
+  },
+  "kompakt": {
+    "pos": "ADJECTIVE"
+  },
+  "dünn": {
+    "pos": "ADJECTIVE"
+  },
+  "dick": {
+    "pos": "ADJECTIVE"
+  },
+  "gut": {
+    "pos": "ADJECTIVE"
+  },
+  "schlecht": {
+    "pos": "ADJECTIVE"
+  },
+  "überlegen": {
+    "pos": "ADJECTIVE"
+  },
+  "unterlegen": {
+    "pos": "ADJECTIVE"
+  },
+  "wesentlich": {
+    "pos": "ADJECTIVE"
+  },
+  "einseitig": {
+    "pos": "ADJECTIVE"
+  },
+  "führend": {
+    "pos": "ADJECTIVE"
+  },
+  "sicher": {
+    "pos": "ADJECTIVE"
+  },
+  "echt": {
+    "pos": "ADJECTIVE"
+  },
+  "falsch": {
+    "pos": "ADJECTIVE"
+  },
+  "besser": {
+    "pos": "ADJECTIVE"
+  },
+  "nichtig": {
+    "pos": "ADJECTIVE"
+  },
+  "wichtig": {
+    "pos": "ADJECTIVE"
+  },
+  "notwendig": {
+    "pos": "ADJECTIVE"
+  },
+  "absolut": {
+    "pos": "ADJECTIVE"
+  },
+  "relativ": {
+    "pos": "ADJECTIVE"
+  },
+  "teuer": {
+    "pos": "ADJECTIVE"
+  },
+  "billig": {
+    "pos": "ADJECTIVE"
+  },
+  "alt": {
+    "pos": "ADJECTIVE"
+  },
+  "jung": {
+    "pos": "ADJECTIVE"
+  },
+  "neu": {
+    "pos": "ADJECTIVE"
+  },
+  "jeder": {
+    "pos": "ADJECTIVE"
+  },
+  "jeglicher": {
+    "pos": "ADJECTIVE"
+  },
+  "gegeben": {
+    "pos": "ADJECTIVE"
+  },
+  "tatsächlich": {
+    "pos": "ADJECTIVE"
+  },
+  "modern": {
+    "pos": "ADJECTIVE"
+  },
+  "fähig": {
+    "pos": "ADJECTIVE"
+  },
+  "einfach": {
+    "pos": "ADJECTIVE"
+  },
+  "schwierig": {
+    "pos": "ADJECTIVE"
+  },
+  "möglich": {
+    "pos": "ADJECTIVE"
+  },
+  "unmöglich": {
+    "pos": "ADJECTIVE"
+  },
+  "wahrscheinlich": {
+    "pos": "ADJECTIVE"
+  },
+  "unwahrscheinlich": {
+    "pos": "ADJECTIVE"
+  },
+  "streng": {
+    "pos": "ADJECTIVE"
+  },
+  "ernst": {
+    "pos": "ADJECTIVE"
+  },
+  "allgemein": {
+    "pos": "ADJECTIVE"
+  },
+  "speziell": {
+    "pos": "ADJECTIVE"
+  },
+  "gewöhnlich": {
+    "pos": "ADJECTIVE"
+  },
+  "üblich": {
+    "pos": "ADJECTIVE"
+  },
+  "einzigartig": {
+    "pos": "ADJECTIVE"
+  },
+  "selten": {
+    "pos": "ADJECTIVE"
+  },
+  "oft": {
+    "pos": "ADJECTIVE"
+  },
+  "stark": {
+    "pos": "ADJECTIVE"
+  },
+  "schwach": {
+    "pos": "ADJECTIVE"
+  },
+  "richtig": {
+    "pos": "ADJECTIVE"
+  },
+  "gegenüber": {
+    "pos": "ADJECTIVE"
+  },
+  "anders": {
+    "pos": "ADJECTIVE"
+  },
+  "ähnlich": {
+    "pos": "ADJECTIVE"
+  },
+  "vielfältig": {
+    "pos": "ADJECTIVE"
+  },
+  "händisch": {
+    "pos": "ADJECTIVE"
+  },
+  "automatisch": {
+    "pos": "ADJECTIVE"
+  },
+  "universell": {
+    "pos": "ADJECTIVE"
+  },
+  "weltweit": {
+    "pos": "ADJECTIVE"
+  },
+  "international": {
+    "pos": "ADJECTIVE"
+  },
+  "national": {
+    "pos": "ADJECTIVE"
+  },
+  "regional": {
+    "pos": "ADJECTIVE"
+  },
+  "lokal": {
+    "pos": "ADJECTIVE"
+  },
+  "städtisch": {
+    "pos": "ADJECTIVE"
+  },
+  "ländlich": {
+    "pos": "ADJECTIVE"
+  },
+  "sozial": {
+    "pos": "ADJECTIVE"
+  },
+  "kulturell": {
+    "pos": "ADJECTIVE"
+  },
+  "künstlerisch": {
+    "pos": "ADJECTIVE"
+  },
+  "eigen": {
+    "pos": "ADJECTIVE"
+  },
+  "fremd": {
+    "pos": "ADJECTIVE"
+  },
+  "öffentlich": {
+    "pos": "ADJECTIVE"
+  },
+  "privat": {
+    "pos": "ADJECTIVE"
+  }
+}

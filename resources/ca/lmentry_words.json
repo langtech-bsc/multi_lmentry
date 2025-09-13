@@ -1,0 +1,3146 @@
+{
+  "criatura": {
+    "pos": "NOUN"
+  },
+  "espècie": {
+    "pos": "NOUN"
+  },
+  "ésser": {
+    "pos": "NOUN"
+  },
+  "vida": {
+    "pos": "NOUN"
+  },
+  "naixement": {
+    "pos": "NOUN"
+  },
+  "reproducció": {
+    "pos": "NOUN"
+  },
+  "mort": {
+    "pos": "NOUN"
+  },
+  "carbassa": {
+    "pos": "NOUN"
+  },
+  "bledes": {
+    "pos": "NOUN"
+  },
+  "pèsols": {
+    "pos": "NOUN"
+  },
+  "pastanaga": {
+    "pos": "NOUN"
+  },
+  "pebrot": {
+    "pos": "NOUN"
+  },
+  "ceba": {
+    "pos": "NOUN"
+  },
+  "col": {
+    "pos": "NOUN"
+  },
+  "bròquil": {
+    "pos": "NOUN"
+  },
+  "api": {
+    "pos": "NOUN"
+  },
+  "enciam": {
+    "pos": "NOUN"
+  },
+  "coliflor": {
+    "pos": "NOUN"
+  },
+  "espinacs": {
+    "pos": "NOUN"
+  },
+  "porro": {
+    "pos": "NOUN"
+  },
+  "remolatxa": {
+    "pos": "NOUN"
+  },
+  "all": {
+    "pos": "NOUN"
+  },
+  "albergínia": {
+    "pos": "NOUN"
+  },
+  "faves": {
+    "pos": "NOUN"
+  },
+  "carxofa": {
+    "pos": "NOUN"
+  },
+  "patates": {
+    "pos": "NOUN"
+  },
+  "carbassons": {
+    "pos": "NOUN"
+  },
+  "cogombre": {
+    "pos": "NOUN"
+  },
+  "rave": {
+    "pos": "NOUN"
+  },
+  "espàrrec": {
+    "pos": "NOUN"
+  },
+  "sentir": {
+    "pos": "VERB"
+  },
+  "veure": {
+    "pos": "VERB"
+  },
+  "escoltar": {
+    "pos": "VERB"
+  },
+  "tocar": {
+    "pos": "VERB"
+  },
+  "olorar": {
+    "pos": "VERB"
+  },
+  "percebre": {
+    "pos": "VERB"
+  },
+  "anar": {
+    "pos": "VERB"
+  },
+  "venir": {
+    "pos": "VERB"
+  },
+  "tornar": {
+    "pos": "VERB"
+  },
+  "partir": {
+    "pos": "VERB"
+  },
+  "arribar": {
+    "pos": "VERB"
+  },
+  "dur": {
+    "pos": "ADJECTIVE"
+  },
+  "portar": {
+    "pos": "VERB"
+  },
+  "moure": {
+    "pos": "VERB"
+  },
+  "treure": {
+    "pos": "VERB"
+  },
+  "llevar": {
+    "pos": "VERB"
+  },
+  "assolir": {
+    "pos": "VERB"
+  },
+  "apropar": {
+    "pos": "VERB"
+  },
+  "allunyar": {
+    "pos": "VERB"
+  },
+  "llançar": {
+    "pos": "VERB"
+  },
+  "agafar": {
+    "pos": "VERB"
+  },
+  "aferrar": {
+    "pos": "VERB"
+  },
+  "subjectar": {
+    "pos": "VERB"
+  },
+  "colpejar": {
+    "pos": "VERB"
+  },
+  "posar": {
+    "pos": "VERB"
+  },
+  "recollir": {
+    "pos": "VERB"
+  },
+  "aixecar": {
+    "pos": "VERB"
+  },
+  "prendre": {
+    "pos": "VERB"
+  },
+  "pegar": {
+    "pos": "VERB"
+  },
+  "aparèixer": {
+    "pos": "VERB"
+  },
+  "desaparèixer": {
+    "pos": "VERB"
+  },
+  "existir": {
+    "pos": "VERB"
+  },
+  "créixer": {
+    "pos": "VERB"
+  },
+  "viure": {
+    "pos": "VERB"
+  },
+  "néixer": {
+    "pos": "VERB"
+  },
+  "morir": {
+    "pos": "VERB"
+  },
+  "estimar": {
+    "pos": "VERB"
+  },
+  "voler": {
+    "pos": "VERB"
+  },
+  "desitjar": {
+    "pos": "VERB"
+  },
+  "odiar": {
+    "pos": "VERB"
+  },
+  "entristir-se": {
+    "pos": "VERB"
+  },
+  "plorar": {
+    "pos": "VERB"
+  },
+  "riure": {
+    "pos": "VERB"
+  },
+  "enfadar-se": {
+    "pos": "VERB"
+  },
+  "admirar": {
+    "pos": "VERB"
+  },
+  "alegrar-se": {
+    "pos": "VERB"
+  },
+  "encantar-se": {
+    "pos": "VERB"
+  },
+  "consolar": {
+    "pos": "VERB"
+  },
+  "interessar-se": {
+    "pos": "VERB"
+  },
+  "avorrir-se": {
+    "pos": "VERB"
+  },
+  "cansar-se": {
+    "pos": "VERB"
+  },
+  "sorprendre's": {
+    "pos": "VERB"
+  },
+  "espantar-se": {
+    "pos": "VERB"
+  },
+  "comunicar-se": {
+    "pos": "VERB"
+  },
+  "afirmar": {
+    "pos": "VERB"
+  },
+  "negar": {
+    "pos": "VERB"
+  },
+  "dir": {
+    "pos": "VERB"
+  },
+  "parlar": {
+    "pos": "VERB"
+  },
+  "callar": {
+    "pos": "VERB"
+  },
+  "escriure": {
+    "pos": "VERB"
+  },
+  "llegir": {
+    "pos": "VERB"
+  },
+  "analitzar": {
+    "pos": "VERB"
+  },
+  "pensar": {
+    "pos": "VERB"
+  },
+  "cantar": {
+    "pos": "VERB"
+  },
+  "assenyalar": {
+    "pos": "VERB"
+  },
+  "apunyalar": {
+    "pos": "VERB"
+  },
+  "mossegar": {
+    "pos": "VERB"
+  },
+  "clavar": {
+    "pos": "VERB"
+  },
+  "menjar": {
+    "pos": "VERB"
+  },
+  "beure": {
+    "pos": "VERB"
+  },
+  "acordar": {
+    "pos": "VERB"
+  },
+  "afectar": {
+    "pos": "VERB"
+  },
+  "generar": {
+    "pos": "VERB"
+  },
+  "afegir": {
+    "pos": "VERB"
+  },
+  "millorar": {
+    "pos": "VERB"
+  },
+  "empitjorar": {
+    "pos": "VERB"
+  },
+  "seguir": {
+    "pos": "VERB"
+  },
+  "avançar": {
+    "pos": "VERB"
+  },
+  "retrocedir": {
+    "pos": "VERB"
+  },
+  "ajudar": {
+    "pos": "VERB"
+  },
+  "complicar": {
+    "pos": "VERB"
+  },
+  "reunir-se": {
+    "pos": "VERB"
+  },
+  "entrevistar": {
+    "pos": "VERB"
+  },
+  "obrir": {
+    "pos": "VERB"
+  },
+  "jugar": {
+    "pos": "VERB"
+  },
+  "tenir": {
+    "pos": "VERB"
+  },
+  "faltar": {
+    "pos": "VERB"
+  },
+  "donar": {
+    "pos": "VERB"
+  },
+  "rebre": {
+    "pos": "VERB"
+  },
+  "trencar": {
+    "pos": "VERB"
+  },
+  "doblegar": {
+    "pos": "VERB"
+  },
+  "tallar": {
+    "pos": "VERB"
+  },
+  "comprar": {
+    "pos": "VERB"
+  },
+  "vendre": {
+    "pos": "VERB"
+  },
+  "intercanviar": {
+    "pos": "VERB"
+  },
+  "substituir": {
+    "pos": "VERB"
+  },
+  "tancar": {
+    "pos": "VERB"
+  },
+  "buscar": {
+    "pos": "VERB"
+  },
+  "trobar": {
+    "pos": "VERB"
+  },
+  "aconseguir": {
+    "pos": "VERB"
+  },
+  "crear": {
+    "pos": "VERB"
+  },
+  "creure": {
+    "pos": "VERB"
+  },
+  "començar": {
+    "pos": "VERB"
+  },
+  "acabar": {
+    "pos": "VERB"
+  },
+  "abandonar": {
+    "pos": "VERB"
+  },
+  "deixar": {
+    "pos": "VERB"
+  },
+  "entrar": {
+    "pos": "VERB"
+  },
+  "quedar-se": {
+    "pos": "VERB"
+  },
+  "sortir": {
+    "pos": "VERB"
+  },
+  "atendre": {
+    "pos": "VERB"
+  },
+  "mesurar": {
+    "pos": "VERB"
+  },
+  "pesar": {
+    "pos": "VERB"
+  },
+  "considerar": {
+    "pos": "VERB"
+  },
+  "comparar": {
+    "pos": "VERB"
+  },
+  "avaluar": {
+    "pos": "VERB"
+  },
+  "decidir": {
+    "pos": "VERB"
+  },
+  "construir": {
+    "pos": "VERB"
+  },
+  "destruir": {
+    "pos": "VERB"
+  },
+  "deure": {
+    "pos": "VERB"
+  },
+  "poder": {
+    "pos": "VERB"
+  },
+  "conèixer": {
+    "pos": "VERB"
+  },
+  "entendre": {
+    "pos": "VERB"
+  },
+  "lligar": {
+    "pos": "VERB"
+  },
+  "saber": {
+    "pos": "VERB"
+  },
+  "treballar": {
+    "pos": "VERB"
+  },
+  "dividir": {
+    "pos": "VERB"
+  },
+  "separar": {
+    "pos": "VERB"
+  },
+  "descansar": {
+    "pos": "VERB"
+  },
+  "dormir": {
+    "pos": "VERB"
+  },
+  "despertar": {
+    "pos": "VERB"
+  },
+  "acceptar": {
+    "pos": "VERB"
+  },
+  "rebutjar": {
+    "pos": "VERB"
+  },
+  "descartar": {
+    "pos": "VERB"
+  },
+  "acompanyar": {
+    "pos": "VERB"
+  },
+  "demanar": {
+    "pos": "VERB"
+  },
+  "pretendre": {
+    "pos": "VERB"
+  },
+  "proposar": {
+    "pos": "VERB"
+  },
+  "suggerir": {
+    "pos": "VERB"
+  },
+  "utilitzar": {
+    "pos": "VERB"
+  },
+  "fer": {
+    "pos": "VERB"
+  },
+  "fabricar": {
+    "pos": "VERB"
+  },
+  "arreglar": {
+    "pos": "VERB"
+  },
+  "explicar": {
+    "pos": "VERB"
+  },
+  "mostrar": {
+    "pos": "VERB"
+  },
+  "tractar": {
+    "pos": "VERB"
+  },
+  "evitar": {
+    "pos": "VERB"
+  },
+  "provar": {
+    "pos": "VERB"
+  },
+  "comprovar": {
+    "pos": "VERB"
+  },
+  "variar": {
+    "pos": "VERB"
+  },
+  "esperar": {
+    "pos": "VERB"
+  },
+  "necessitar": {
+    "pos": "VERB"
+  },
+  "significar": {
+    "pos": "VERB"
+  },
+  "semblar": {
+    "pos": "VERB"
+  },
+  "distingir": {
+    "pos": "VERB"
+  },
+  "transport": {
+    "pos": "NOUN"
+  },
+  "trànsit": {
+    "pos": "NOUN"
+  },
+  "vehicle": {
+    "pos": "NOUN"
+  },
+  "ferrocarril": {
+    "pos": "NOUN"
+  },
+  "tren": {
+    "pos": "NOUN"
+  },
+  "camí": {
+    "pos": "NOUN"
+  },
+  "via": {
+    "pos": "NOUN"
+  },
+  "ruta": {
+    "pos": "NOUN"
+  },
+  "carrer": {
+    "pos": "NOUN"
+  },
+  "carretera": {
+    "pos": "NOUN"
+  },
+  "autopista": {
+    "pos": "NOUN"
+  },
+  "avinguda": {
+    "pos": "NOUN"
+  },
+  "parada": {
+    "pos": "NOUN"
+  },
+  "estació": {
+    "pos": "NOUN"
+  },
+  "avió": {
+    "pos": "NOUN"
+  },
+  "aeroport": {
+    "pos": "NOUN"
+  },
+  "cotxe": {
+    "pos": "NOUN"
+  },
+  "automòbil": {
+    "pos": "NOUN"
+  },
+  "autobús": {
+    "pos": "NOUN"
+  },
+  "bus": {
+    "pos": "NOUN"
+  },
+  "moto": {
+    "pos": "NOUN"
+  },
+  "taxi": {
+    "pos": "NOUN"
+  },
+  "tramvia": {
+    "pos": "NOUN"
+  },
+  "vaixell": {
+    "pos": "NOUN"
+  },
+  "bicicleta": {
+    "pos": "NOUN"
+  },
+  "patinet": {
+    "pos": "NOUN"
+  },
+  "patins": {
+    "pos": "NOUN"
+  },
+  "skate": {
+    "pos": "NOUN"
+  },
+  "cosa": {
+    "pos": "NOUN"
+  },
+  "aspecte": {
+    "pos": "NOUN"
+  },
+  "contingut": {
+    "pos": "NOUN"
+  },
+  "objecte": {
+    "pos": "NOUN"
+  },
+  "part": {
+    "pos": "NOUN"
+  },
+  "sector": {
+    "pos": "NOUN"
+  },
+  "paraula": {
+    "pos": "NOUN"
+  },
+  "nom": {
+    "pos": "NOUN"
+  },
+  "codi": {
+    "pos": "NOUN"
+  },
+  "secret": {
+    "pos": "NOUN"
+  },
+  "formalitat": {
+    "pos": "NOUN"
+  },
+  "present": {
+    "pos": "NOUN"
+  },
+  "passat": {
+    "pos": "NOUN"
+  },
+  "futur": {
+    "pos": "NOUN"
+  },
+  "ocasió": {
+    "pos": "NOUN"
+  },
+  "vegada": {
+    "pos": "NOUN"
+  },
+  "activitat": {
+    "pos": "NOUN"
+  },
+  "acte": {
+    "pos": "NOUN"
+  },
+  "programa": {
+    "pos": "NOUN"
+  },
+  "projecte": {
+    "pos": "NOUN"
+  },
+  "acord": {
+    "pos": "NOUN"
+  },
+  "actitud": {
+    "pos": "NOUN"
+  },
+  "atenció": {
+    "pos": "NOUN"
+  },
+  "capacitat": {
+    "pos": "NOUN"
+  },
+  "concepte": {
+    "pos": "NOUN"
+  },
+  "tema": {
+    "pos": "NOUN"
+  },
+  "condició": {
+    "pos": "NOUN"
+  },
+  "cas": {
+    "pos": "NOUN"
+  },
+  "conjunt": {
+    "pos": "NOUN"
+  },
+  "creació": {
+    "pos": "NOUN"
+  },
+  "destrucció": {
+    "pos": "NOUN"
+  },
+  "origen": {
+    "pos": "NOUN"
+  },
+  "destinació": {
+    "pos": "NOUN"
+  },
+  "meta": {
+    "pos": "NOUN"
+  },
+  "objectiu": {
+    "pos": "NOUN"
+  },
+  "funció": {
+    "pos": "NOUN"
+  },
+  "relació": {
+    "pos": "NOUN"
+  },
+  "realitat": {
+    "pos": "NOUN"
+  },
+  "situació": {
+    "pos": "NOUN"
+  },
+  "problema": {
+    "pos": "NOUN"
+  },
+  "intent": {
+    "pos": "NOUN"
+  },
+  "solució": {
+    "pos": "NOUN"
+  },
+  "efecte": {
+    "pos": "NOUN"
+  },
+  "resultat": {
+    "pos": "NOUN"
+  },
+  "assoliment": {
+    "pos": "NOUN"
+  },
+  "èxit": {
+    "pos": "NOUN"
+  },
+  "fracàs": {
+    "pos": "NOUN"
+  },
+  "causa": {
+    "pos": "NOUN"
+  },
+  "conseqüència": {
+    "pos": "NOUN"
+  },
+  "benefici": {
+    "pos": "NOUN"
+  },
+  "perjudici": {
+    "pos": "NOUN"
+  },
+  "qualitat": {
+    "pos": "NOUN"
+  },
+  "tipus": {
+    "pos": "NOUN"
+  },
+  "atac": {
+    "pos": "NOUN"
+  },
+  "defensa": {
+    "pos": "NOUN"
+  },
+  "pau": {
+    "pos": "NOUN"
+  },
+  "conflicte": {
+    "pos": "NOUN"
+  },
+  "guerra": {
+    "pos": "NOUN"
+  },
+  "caràcter": {
+    "pos": "NOUN"
+  },
+  "característica": {
+    "pos": "NOUN"
+  },
+  "crisi": {
+    "pos": "NOUN"
+  },
+  "desenvolupament": {
+    "pos": "NOUN"
+  },
+  "progrés": {
+    "pos": "NOUN"
+  },
+  "avenç": {
+    "pos": "NOUN"
+  },
+  "retrocés": {
+    "pos": "NOUN"
+  },
+  "millora": {
+    "pos": "NOUN"
+  },
+  "deteriorament": {
+    "pos": "NOUN"
+  },
+  "principi": {
+    "pos": "NOUN"
+  },
+  "transcurs": {
+    "pos": "NOUN"
+  },
+  "fi": {
+    "pos": "NOUN"
+  },
+  "etapa": {
+    "pos": "NOUN"
+  },
+  "fase": {
+    "pos": "NOUN"
+  },
+  "pas": {
+    "pos": "NOUN"
+  },
+  "sèrie": {
+    "pos": "NOUN"
+  },
+  "seqüència": {
+    "pos": "NOUN"
+  },
+  "grau": {
+    "pos": "NOUN"
+  },
+  "nivell": {
+    "pos": "NOUN"
+  },
+  "procés": {
+    "pos": "NOUN"
+  },
+  "tall": {
+    "pos": "NOUN"
+  },
+  "interrupció": {
+    "pos": "NOUN"
+  },
+  "espera": {
+    "pos": "NOUN"
+  },
+  "diferència": {
+    "pos": "NOUN"
+  },
+  "similitud": {
+    "pos": "NOUN"
+  },
+  "sentit": {
+    "pos": "NOUN"
+  },
+  "sensació": {
+    "pos": "NOUN"
+  },
+  "vista": {
+    "pos": "NOUN"
+  },
+  "oïda": {
+    "pos": "NOUN"
+  },
+  "tacte": {
+    "pos": "NOUN"
+  },
+  "olfacte": {
+    "pos": "NOUN"
+  },
+  "dolor": {
+    "pos": "NOUN"
+  },
+  "consciència": {
+    "pos": "NOUN"
+  },
+  "percepció": {
+    "pos": "NOUN"
+  },
+  "imatge": {
+    "pos": "NOUN"
+  },
+  "força": {
+    "pos": "NOUN"
+  },
+  "potència": {
+    "pos": "NOUN"
+  },
+  "presència": {
+    "pos": "NOUN"
+  },
+  "existència": {
+    "pos": "NOUN"
+  },
+  "experiència": {
+    "pos": "NOUN"
+  },
+  "possibilitat": {
+    "pos": "NOUN"
+  },
+  "probabilitat": {
+    "pos": "NOUN"
+  },
+  "veritat": {
+    "pos": "NOUN"
+  },
+  "mentida": {
+    "pos": "NOUN"
+  },
+  "raó": {
+    "pos": "NOUN"
+  },
+  "encert": {
+    "pos": "NOUN"
+  },
+  "equivocació": {
+    "pos": "NOUN"
+  },
+  "necessitat": {
+    "pos": "NOUN"
+  },
+  "falta": {
+    "pos": "NOUN"
+  },
+  "significat": {
+    "pos": "NOUN"
+  },
+  "personalitat": {
+    "pos": "NOUN"
+  },
+  "pensament": {
+    "pos": "NOUN"
+  },
+  "memòria": {
+    "pos": "NOUN"
+  },
+  "record": {
+    "pos": "NOUN"
+  },
+  "desig": {
+    "pos": "NOUN"
+  },
+  "alegria": {
+    "pos": "NOUN"
+  },
+  "tristesa": {
+    "pos": "NOUN"
+  },
+  "enuig": {
+    "pos": "NOUN"
+  },
+  "plaer": {
+    "pos": "NOUN"
+  },
+  "empatia": {
+    "pos": "NOUN"
+  },
+  "interès": {
+    "pos": "NOUN"
+  },
+  "avorriment": {
+    "pos": "NOUN"
+  },
+  "cansament": {
+    "pos": "NOUN"
+  },
+  "sorpresa": {
+    "pos": "NOUN"
+  },
+  "ensurt": {
+    "pos": "NOUN"
+  },
+  "seguretat": {
+    "pos": "NOUN"
+  },
+  "confiança": {
+    "pos": "NOUN"
+  },
+  "por": {
+    "pos": "NOUN"
+  },
+  "exemple": {
+    "pos": "NOUN"
+  },
+  "societat": {
+    "pos": "NOUN"
+  },
+  "comunitat": {
+    "pos": "NOUN"
+  },
+  "reunió": {
+    "pos": "NOUN"
+  },
+  "trobada": {
+    "pos": "NOUN"
+  },
+  "estructura": {
+    "pos": "NOUN"
+  },
+  "administració": {
+    "pos": "NOUN"
+  },
+  "organització": {
+    "pos": "NOUN"
+  },
+  "associació": {
+    "pos": "NOUN"
+  },
+  "empresa": {
+    "pos": "NOUN"
+  },
+  "equip": {
+    "pos": "NOUN"
+  },
+  "autoritat": {
+    "pos": "NOUN"
+  },
+  "càrrec": {
+    "pos": "NOUN"
+  },
+  "campanya": {
+    "pos": "NOUN"
+  },
+  "club": {
+    "pos": "NOUN"
+  },
+  "comissió": {
+    "pos": "NOUN"
+  },
+  "congrés": {
+    "pos": "NOUN"
+  },
+  "consell": {
+    "pos": "NOUN"
+  },
+  "partit": {
+    "pos": "NOUN"
+  },
+  "país": {
+    "pos": "NOUN"
+  },
+  "nació": {
+    "pos": "NOUN"
+  },
+  "govern": {
+    "pos": "NOUN"
+  },
+  "estat": {
+    "pos": "NOUN"
+  },
+  "província": {
+    "pos": "NOUN"
+  },
+  "departament": {
+    "pos": "NOUN"
+  },
+  "municipi": {
+    "pos": "NOUN"
+  },
+  "democràcia": {
+    "pos": "NOUN"
+  },
+  "dictadura": {
+    "pos": "NOUN"
+  },
+  "política": {
+    "pos": "NOUN"
+  },
+  "capital": {
+    "pos": "NOUN"
+  },
+  "ciutat": {
+    "pos": "NOUN"
+  },
+  "població": {
+    "pos": "NOUN"
+  },
+  "poble": {
+    "pos": "NOUN"
+  },
+  "vila": {
+    "pos": "NOUN"
+  },
+  "obligació": {
+    "pos": "NOUN"
+  },
+  "llibertat": {
+    "pos": "NOUN"
+  },
+  "dret": {
+    "pos": "NOUN"
+  },
+  "permís": {
+    "pos": "NOUN"
+  },
+  "prohibició": {
+    "pos": "NOUN"
+  },
+  "constitució": {
+    "pos": "NOUN"
+  },
+  "llei": {
+    "pos": "NOUN"
+  },
+  "decret": {
+    "pos": "NOUN"
+  },
+  "norma": {
+    "pos": "NOUN"
+  },
+  "roba": {
+    "pos": "NOUN"
+  },
+  "peça": {
+    "pos": "NOUN"
+  },
+  "màniga": {
+    "pos": "NOUN"
+  },
+  "solapa": {
+    "pos": "NOUN"
+  },
+  "botó": {
+    "pos": "NOUN"
+  },
+  "tancament": {
+    "pos": "NOUN"
+  },
+  "cremallera": {
+    "pos": "NOUN"
+  },
+  "cinturó": {
+    "pos": "NOUN"
+  },
+  "sabata": {
+    "pos": "NOUN"
+  },
+  "ulleres": {
+    "pos": "NOUN"
+  },
+  "pantalons": {
+    "pos": "NOUN"
+  },
+  "camisa": {
+    "pos": "NOUN"
+  },
+  "samarreta": {
+    "pos": "NOUN"
+  },
+  "sabatilla": {
+    "pos": "NOUN"
+  },
+  "cordons": {
+    "pos": "NOUN"
+  },
+  "abric": {
+    "pos": "NOUN"
+  },
+  "jaqueta": {
+    "pos": "NOUN"
+  },
+  "mitjons": {
+    "pos": "NOUN"
+  },
+  "calces": {
+    "pos": "NOUN"
+  },
+  "calçotet": {
+    "pos": "NOUN"
+  },
+  "sostenidor": {
+    "pos": "NOUN"
+  },
+  "faldilla": {
+    "pos": "NOUN"
+  },
+  "vestit": {
+    "pos": "NOUN"
+  },
+  "jersei": {
+    "pos": "NOUN"
+  },
+  "texans": {
+    "pos": "NOUN"
+  },
+  "vel": {
+    "pos": "NOUN"
+  },
+  "banyador": {
+    "pos": "NOUN"
+  },
+  "bufanda": {
+    "pos": "NOUN"
+  },
+  "gorra": {
+    "pos": "NOUN"
+  },
+  "guants": {
+    "pos": "NOUN"
+  },
+  "corbata": {
+    "pos": "NOUN"
+  },
+  "motxilla": {
+    "pos": "NOUN"
+  },
+  "capell": {
+    "pos": "NOUN"
+  },
+  "bota": {
+    "pos": "NOUN"
+  },
+  "benzinera": {
+    "pos": "NOUN"
+  },
+  "advocada": {
+    "pos": "NOUN"
+  },
+  "actriu": {
+    "pos": "NOUN"
+  },
+  "actor": {
+    "pos": "NOUN"
+  },
+  "administratiu": {
+    "pos": "NOUN"
+  },
+  "arquitecta": {
+    "pos": "NOUN"
+  },
+  "astronauta": {
+    "pos": "NOUN"
+  },
+  "escombriaire": {
+    "pos": "NOUN"
+  },
+  "biòleg": {
+    "pos": "NOUN"
+  },
+  "bombera": {
+    "pos": "NOUN"
+  },
+  "caixera": {
+    "pos": "NOUN"
+  },
+  "cambrer": {
+    "pos": "NOUN"
+  },
+  "carnissera": {
+    "pos": "NOUN"
+  },
+  "fustera": {
+    "pos": "NOUN"
+  },
+  "carter": {
+    "pos": "NOUN"
+  },
+  "científic": {
+    "pos": "NOUN"
+  },
+  "cuinera": {
+    "pos": "NOUN"
+  },
+  "dentista": {
+    "pos": "NOUN"
+  },
+  "dependent": {
+    "pos": "NOUN"
+  },
+  "electricista": {
+    "pos": "NOUN"
+  },
+  "empresari": {
+    "pos": "NOUN"
+  },
+  "metgessa": {
+    "pos": "NOUN"
+  },
+  "lampista": {
+    "pos": "NOUN"
+  },
+  "fotògraf": {
+    "pos": "NOUN"
+  },
+  "enginyera": {
+    "pos": "NOUN"
+  },
+  "jutge": {
+    "pos": "NOUN"
+  },
+  "professor": {
+    "pos": "NOUN"
+  },
+  "mecànica": {
+    "pos": "NOUN"
+  },
+  "forner": {
+    "pos": "NOUN"
+  },
+  "perruquer": {
+    "pos": "NOUN"
+  },
+  "periodista": {
+    "pos": "NOUN"
+  },
+  "pintora": {
+    "pos": "NOUN"
+  },
+  "policia": {
+    "pos": "NOUN"
+  },
+  "programador": {
+    "pos": "NOUN"
+  },
+  "polític": {
+    "pos": "NOUN"
+  },
+  "ministra": {
+    "pos": "NOUN"
+  },
+  "director": {
+    "pos": "NOUN"
+  },
+  "diputada": {
+    "pos": "NOUN"
+  },
+  "senador": {
+    "pos": "NOUN"
+  },
+  "congressista": {
+    "pos": "NOUN"
+  },
+  "parlamentari": {
+    "pos": "NOUN"
+  },
+  "alcalde": {
+    "pos": "NOUN"
+  },
+  "amb": {
+    "pos": "ADPOSITION"
+  },
+  "contra": {
+    "pos": "ADPOSITION"
+  },
+  "de": {
+    "pos": "ADPOSITION"
+  },
+  "durant": {
+    "pos": "ADPOSITION"
+  },
+  "en": {
+    "pos": "ADPOSITION"
+  },
+  "entre": {
+    "pos": "ADPOSITION"
+  },
+  "fins": {
+    "pos": "ADPOSITION"
+  },
+  "mitjançant": {
+    "pos": "ADPOSITION"
+  },
+  "per": {
+    "pos": "ADPOSITION"
+  },
+  "segons": {
+    "pos": "ADPOSITION"
+  },
+  "sense": {
+    "pos": "ADPOSITION"
+  },
+  "sobre": {
+    "pos": "ADPOSITION"
+  },
+  "rere": {
+    "pos": "ADPOSITION"
+  },
+  "governadora": {
+    "pos": "NOUN"
+  },
+  "un": {
+    "pos": "DETERMINER"
+  },
+  "dos": {
+    "pos": "DETERMINER"
+  },
+  "tres": {
+    "pos": "DETERMINER"
+  },
+  "quatre": {
+    "pos": "DETERMINER"
+  },
+  "cinc": {
+    "pos": "DETERMINER"
+  },
+  "sis": {
+    "pos": "DETERMINER"
+  },
+  "set": {
+    "pos": "DETERMINER"
+  },
+  "vuit": {
+    "pos": "DETERMINER"
+  },
+  "deu": {
+    "pos": "DETERMINER"
+  },
+  "gener": {
+    "pos": "DATE"
+  },
+  "febrer": {
+    "pos": "DATE"
+  },
+  "març": {
+    "pos": "DATE"
+  },
+  "abril": {
+    "pos": "DATE"
+  },
+  "maig": {
+    "pos": "DATE"
+  },
+  "juny": {
+    "pos": "DATE"
+  },
+  "juliol": {
+    "pos": "DATE"
+  },
+  "agost": {
+    "pos": "DATE"
+  },
+  "setembre": {
+    "pos": "DATE"
+  },
+  "octubre": {
+    "pos": "DATE"
+  },
+  "novembre": {
+    "pos": "DATE"
+  },
+  "desembre": {
+    "pos": "DATE"
+  },
+  "pes": {
+    "pos": "NOUN"
+  },
+  "quilòmetre": {
+    "pos": "NOUN"
+  },
+  "centímetre": {
+    "pos": "NOUN"
+  },
+  "mil·límetre": {
+    "pos": "NOUN"
+  },
+  "litre": {
+    "pos": "NOUN"
+  },
+  "mil·lilitre": {
+    "pos": "NOUN"
+  },
+  "gram": {
+    "pos": "NOUN"
+  },
+  "quilo": {
+    "pos": "NOUN"
+  },
+  "quantitat": {
+    "pos": "NOUN"
+  },
+  "total": {
+    "pos": "NOUN"
+  },
+  "mesura": {
+    "pos": "NOUN"
+  },
+  "aigua": {
+    "pos": "NOUN"
+  },
+  "gel": {
+    "pos": "NOUN"
+  },
+  "vapor": {
+    "pos": "NOUN"
+  },
+  "foc": {
+    "pos": "NOUN"
+  },
+  "gas": {
+    "pos": "NOUN"
+  },
+  "aire": {
+    "pos": "NOUN"
+  },
+  "terra": {
+    "pos": "NOUN"
+  },
+  "metall": {
+    "pos": "NOUN"
+  },
+  "ferro": {
+    "pos": "NOUN"
+  },
+  "or": {
+    "pos": "NOUN"
+  },
+  "plata": {
+    "pos": "NOUN"
+  },
+  "plom": {
+    "pos": "NOUN"
+  },
+  "sal": {
+    "pos": "NOUN"
+  },
+  "fang": {
+    "pos": "NOUN"
+  },
+  "llot": {
+    "pos": "NOUN"
+  },
+  "escola": {
+    "pos": "NOUN"
+  },
+  "bar": {
+    "pos": "NOUN"
+  },
+  "cafeteria": {
+    "pos": "NOUN"
+  },
+  "restaurant": {
+    "pos": "NOUN"
+  },
+  "autoescola": {
+    "pos": "NOUN"
+  },
+  "ajuntament": {
+    "pos": "NOUN"
+  },
+  "banc": {
+    "pos": "NOUN"
+  },
+  "biblioteca": {
+    "pos": "NOUN"
+  },
+  "supermercat": {
+    "pos": "NOUN"
+  },
+  "carnisseria": {
+    "pos": "NOUN"
+  },
+  "fruiteria": {
+    "pos": "NOUN"
+  },
+  "xarcuteria": {
+    "pos": "NOUN"
+  },
+  "peixateria": {
+    "pos": "NOUN"
+  },
+  "fleca": {
+    "pos": "NOUN"
+  },
+  "comissaria": {
+    "pos": "NOUN"
+  },
+  "copisteria": {
+    "pos": "NOUN"
+  },
+  "estanc": {
+    "pos": "NOUN"
+  },
+  "perruqueria": {
+    "pos": "NOUN"
+  },
+  "farmàcia": {
+    "pos": "NOUN"
+  },
+  "floristeria": {
+    "pos": "NOUN"
+  },
+  "oficina": {
+    "pos": "NOUN"
+  },
+  "botiga": {
+    "pos": "NOUN"
+  },
+  "herboristeria": {
+    "pos": "NOUN"
+  },
+  "hotel": {
+    "pos": "NOUN"
+  },
+  "hospital": {
+    "pos": "NOUN"
+  },
+  "joieria": {
+    "pos": "NOUN"
+  },
+  "llibreria": {
+    "pos": "NOUN"
+  },
+  "guitarra": {
+    "pos": "NOUN"
+  },
+  "piano": {
+    "pos": "NOUN"
+  },
+  "violí": {
+    "pos": "NOUN"
+  },
+  "bateria": {
+    "pos": "NOUN"
+  },
+  "flauta": {
+    "pos": "NOUN"
+  },
+  "trompeta": {
+    "pos": "NOUN"
+  },
+  "clarinet": {
+    "pos": "NOUN"
+  },
+  "saxofon": {
+    "pos": "NOUN"
+  },
+  "escriptori": {
+    "pos": "NOUN"
+  },
+  "cadira": {
+    "pos": "NOUN"
+  },
+  "taula": {
+    "pos": "NOUN"
+  },
+  "llit": {
+    "pos": "NOUN"
+  },
+  "dormitori": {
+    "pos": "NOUN"
+  },
+  "habitació": {
+    "pos": "NOUN"
+  },
+  "cambra": {
+    "pos": "NOUN"
+  },
+  "panell": {
+    "pos": "NOUN"
+  },
+  "porta": {
+    "pos": "NOUN"
+  },
+  "finestra": {
+    "pos": "NOUN"
+  },
+  "entrada": {
+    "pos": "NOUN"
+  },
+  "llar": {
+    "pos": "NOUN"
+  },
+  "casa": {
+    "pos": "NOUN"
+  },
+  "apartament": {
+    "pos": "NOUN"
+  },
+  "edifici": {
+    "pos": "NOUN"
+  },
+  "construcció": {
+    "pos": "NOUN"
+  },
+  "ascensor": {
+    "pos": "NOUN"
+  },
+  "escala": {
+    "pos": "NOUN"
+  },
+  "aparell": {
+    "pos": "NOUN"
+  },
+  "càmera": {
+    "pos": "NOUN"
+  },
+  "agulla": {
+    "pos": "NOUN"
+  },
+  "clau": {
+    "pos": "NOUN"
+  },
+  "fil": {
+    "pos": "NOUN"
+  },
+  "cordó": {
+    "pos": "NOUN"
+  },
+  "cordill": {
+    "pos": "NOUN"
+  },
+  "corda": {
+    "pos": "NOUN"
+  },
+  "pantalla": {
+    "pos": "NOUN"
+  },
+  "pom": {
+    "pos": "NOUN"
+  },
+  "arma": {
+    "pos": "NOUN"
+  },
+  "naturalesa": {
+    "pos": "NOUN"
+  },
+  "camp": {
+    "pos": "NOUN"
+  },
+  "bosc": {
+    "pos": "NOUN"
+  },
+  "jungla": {
+    "pos": "NOUN"
+  },
+  "selva": {
+    "pos": "NOUN"
+  },
+  "desert": {
+    "pos": "NOUN"
+  },
+  "costa": {
+    "pos": "NOUN"
+  },
+  "platja": {
+    "pos": "NOUN"
+  },
+  "riu": {
+    "pos": "NOUN"
+  },
+  "llac": {
+    "pos": "NOUN"
+  },
+  "llacuna": {
+    "pos": "NOUN"
+  },
+  "oceà": {
+    "pos": "NOUN"
+  },
+  "mar": {
+    "pos": "NOUN"
+  },
+  "muntanya": {
+    "pos": "NOUN"
+  },
+  "humanitat": {
+    "pos": "NOUN"
+  },
+  "humà": {
+    "pos": "NOUN"
+  },
+  "persona": {
+    "pos": "NOUN"
+  },
+  "gent": {
+    "pos": "NOUN"
+  },
+  "home": {
+    "pos": "NOUN"
+  },
+  "dona": {
+    "pos": "NOUN"
+  },
+  "nadó": {
+    "pos": "NOUN"
+  },
+  "nena": {
+    "pos": "NOUN"
+  },
+  "nen": {
+    "pos": "NOUN"
+  },
+  "adolescent": {
+    "pos": "NOUN"
+  },
+  "adulta": {
+    "pos": "NOUN"
+  },
+  "adult": {
+    "pos": "NOUN"
+  },
+  "vella": {
+    "pos": "NOUN"
+  },
+  "senyora": {
+    "pos": "NOUN"
+  },
+  "senyor": {
+    "pos": "NOUN"
+  },
+  "cavaller": {
+    "pos": "NOUN"
+  },
+  "dama": {
+    "pos": "NOUN"
+  },
+  "individu": {
+    "pos": "NOUN"
+  },
+  "comèdia": {
+    "pos": "NOUN"
+  },
+  "drama": {
+    "pos": "NOUN"
+  },
+  "musical": {
+    "pos": "NOUN"
+  },
+  "terror": {
+    "pos": "NOUN"
+  },
+  "suspens": {
+    "pos": "NOUN"
+  },
+  "fantasia": {
+    "pos": "NOUN"
+  },
+  "històric": {
+    "pos": "ADJECTIVE"
+  },
+  "romàntic": {
+    "pos": "ADJECTIVE"
+  },
+  "família": {
+    "pos": "NOUN"
+  },
+  "amiga": {
+    "pos": "NOUN"
+  },
+  "amic": {
+    "pos": "NOUN"
+  },
+  "coneguda": {
+    "pos": "NOUN"
+  },
+  "conegut": {
+    "pos": "NOUN"
+  },
+  "col·lega": {
+    "pos": "NOUN"
+  },
+  "parella": {
+    "pos": "NOUN"
+  },
+  "esposa": {
+    "pos": "NOUN"
+  },
+  "marit": {
+    "pos": "NOUN"
+  },
+  "matrimoni": {
+    "pos": "NOUN"
+  },
+  "amor": {
+    "pos": "NOUN"
+  },
+  "pare": {
+    "pos": "NOUN"
+  },
+  "mare": {
+    "pos": "NOUN"
+  },
+  "germana": {
+    "pos": "NOUN"
+  },
+  "germà": {
+    "pos": "NOUN"
+  },
+  "filla": {
+    "pos": "NOUN"
+  },
+  "fill": {
+    "pos": "NOUN"
+  },
+  "àvia": {
+    "pos": "NOUN"
+  },
+  "avi": {
+    "pos": "NOUN"
+  },
+  "besàvia": {
+    "pos": "NOUN"
+  },
+  "besavi": {
+    "pos": "NOUN"
+  },
+  "néta": {
+    "pos": "NOUN"
+  },
+  "nét": {
+    "pos": "NOUN"
+  },
+  "besnéta": {
+    "pos": "NOUN"
+  },
+  "besnét": {
+    "pos": "NOUN"
+  },
+  "cosina": {
+    "pos": "NOUN"
+  },
+  "cosí": {
+    "pos": "NOUN"
+  },
+  "tia": {
+    "pos": "NOUN"
+  },
+  "oncle": {
+    "pos": "NOUN"
+  },
+  "neboda": {
+    "pos": "NOUN"
+  },
+  "nebot": {
+    "pos": "NOUN"
+  },
+  "hivern": {
+    "pos": "NOUN"
+  },
+  "primavera": {
+    "pos": "NOUN"
+  },
+  "estiu": {
+    "pos": "NOUN"
+  },
+  "tardor": {
+    "pos": "NOUN"
+  },
+  "lloc": {
+    "pos": "NOUN"
+  },
+  "posició": {
+    "pos": "NOUN"
+  },
+  "moviment": {
+    "pos": "NOUN"
+  },
+  "velocitat": {
+    "pos": "NOUN"
+  },
+  "acceleració": {
+    "pos": "NOUN"
+  },
+  "direcció": {
+    "pos": "NOUN"
+  },
+  "mida": {
+    "pos": "NOUN"
+  },
+  "longitud": {
+    "pos": "NOUN"
+  },
+  "llarg": {
+    "pos": "NOUN"
+  },
+  "altura": {
+    "pos": "NOUN"
+  },
+  "alt": {
+    "pos": "NOUN"
+  },
+  "ample": {
+    "pos": "NOUN"
+  },
+  "majoria": {
+    "pos": "NOUN"
+  },
+  "minoria": {
+    "pos": "NOUN"
+  },
+  "augment": {
+    "pos": "NOUN"
+  },
+  "reducció": {
+    "pos": "NOUN"
+  },
+  "creixement": {
+    "pos": "NOUN"
+  },
+  "fons": {
+    "pos": "NOUN"
+  },
+  "economia": {
+    "pos": "NOUN"
+  },
+  "consum": {
+    "pos": "NOUN"
+  },
+  "demanda": {
+    "pos": "NOUN"
+  },
+  "companyia": {
+    "pos": "NOUN"
+  },
+  "comerç": {
+    "pos": "NOUN"
+  },
+  "mercat": {
+    "pos": "NOUN"
+  },
+  "servei": {
+    "pos": "NOUN"
+  },
+  "producte": {
+    "pos": "NOUN"
+  },
+  "producció": {
+    "pos": "NOUN"
+  },
+  "transacció": {
+    "pos": "NOUN"
+  },
+  "diners": {
+    "pos": "NOUN"
+  },
+  "bitllet": {
+    "pos": "NOUN"
+  },
+  "tarifa": {
+    "pos": "NOUN"
+  },
+  "preu": {
+    "pos": "NOUN"
+  },
+  "valor": {
+    "pos": "NOUN"
+  },
+  "dilluns": {
+    "pos": "NOUN"
+  },
+  "dimarts": {
+    "pos": "NOUN"
+  },
+  "dimecres": {
+    "pos": "NOUN"
+  },
+  "dijous": {
+    "pos": "NOUN"
+  },
+  "divendres": {
+    "pos": "NOUN"
+  },
+  "dissabte": {
+    "pos": "NOUN"
+  },
+  "diumenge": {
+    "pos": "NOUN"
+  },
+  "billar": {
+    "pos": "NOUN"
+  },
+  "boxa": {
+    "pos": "NOUN"
+  },
+  "ciclisme": {
+    "pos": "NOUN"
+  },
+  "atletisme": {
+    "pos": "NOUN"
+  },
+  "escalada": {
+    "pos": "NOUN"
+  },
+  "esgrima": {
+    "pos": "NOUN"
+  },
+  "esquí": {
+    "pos": "NOUN"
+  },
+  "gimnàstica": {
+    "pos": "NOUN"
+  },
+  "golf": {
+    "pos": "NOUN"
+  },
+  "bitlles": {
+    "pos": "NOUN"
+  },
+  "hoquei": {
+    "pos": "NOUN"
+  },
+  "patinatge": {
+    "pos": "NOUN"
+  },
+  "senderisme": {
+    "pos": "NOUN"
+  },
+  "natació": {
+    "pos": "NOUN"
+  },
+  "piragüisme": {
+    "pos": "NOUN"
+  },
+  "surf": {
+    "pos": "NOUN"
+  },
+  "vela": {
+    "pos": "NOUN"
+  },
+  "waterpolo": {
+    "pos": "NOUN"
+  },
+  "basquetbol": {
+    "pos": "NOUN"
+  },
+  "bàdminton": {
+    "pos": "NOUN"
+  },
+  "handbol": {
+    "pos": "NOUN"
+  },
+  "beisbol": {
+    "pos": "NOUN"
+  },
+  "criquet": {
+    "pos": "NOUN"
+  },
+  "futbol": {
+    "pos": "NOUN"
+  },
+  "rugbi": {
+    "pos": "NOUN"
+  },
+  "tennis": {
+    "pos": "NOUN"
+  },
+  "voleibol": {
+    "pos": "NOUN"
+  },
+  "cos": {
+    "pos": "NOUN"
+  },
+  "cama": {
+    "pos": "NOUN"
+  },
+  "peu": {
+    "pos": "NOUN"
+  },
+  "taló": {
+    "pos": "NOUN"
+  },
+  "canyella": {
+    "pos": "NOUN"
+  },
+  "genoll": {
+    "pos": "NOUN"
+  },
+  "cuixa": {
+    "pos": "NOUN"
+  },
+  "cap": {
+    "pos": "NOUN"
+  },
+  "cara": {
+    "pos": "NOUN"
+  },
+  "boca": {
+    "pos": "NOUN"
+  },
+  "llavi": {
+    "pos": "NOUN"
+  },
+  "dent": {
+    "pos": "NOUN"
+  },
+  "ull": {
+    "pos": "NOUN"
+  },
+  "nas": {
+    "pos": "NOUN"
+  },
+  "barba": {
+    "pos": "NOUN"
+  },
+  "bigoti": {
+    "pos": "NOUN"
+  },
+  "cabell": {
+    "pos": "NOUN"
+  },
+  "orella": {
+    "pos": "NOUN"
+  },
+  "cervell": {
+    "pos": "NOUN"
+  },
+  "estómac": {
+    "pos": "NOUN"
+  },
+  "braç": {
+    "pos": "NOUN"
+  },
+  "colze": {
+    "pos": "NOUN"
+  },
+  "espatlla": {
+    "pos": "NOUN"
+  },
+  "ungla": {
+    "pos": "NOUN"
+  },
+  "mà": {
+    "pos": "NOUN"
+  },
+  "canell": {
+    "pos": "NOUN"
+  },
+  "palmell": {
+    "pos": "NOUN"
+  },
+  "dit": {
+    "pos": "NOUN"
+  },
+  "cul": {
+    "pos": "NOUN"
+  },
+  "abdomen": {
+    "pos": "NOUN"
+  },
+  "fetge": {
+    "pos": "NOUN"
+  },
+  "múscul": {
+    "pos": "NOUN"
+  },
+  "coll": {
+    "pos": "NOUN"
+  },
+  "cor": {
+    "pos": "NOUN"
+  },
+  "pit": {
+    "pos": "NOUN"
+  },
+  "cintura": {
+    "pos": "NOUN"
+  },
+  "maluc": {
+    "pos": "NOUN"
+  },
+  "esquena": {
+    "pos": "NOUN"
+  },
+  "pell": {
+    "pos": "NOUN"
+  },
+  "os": {
+    "pos": "NOUN"
+  },
+  "com": {
+    "pos": "CONJUNCTION"
+  },
+  "quan": {
+    "pos": "CONJUNCTION"
+  },
+  "llavors": {
+    "pos": "CONJUNCTION"
+  },
+  "excepte": {
+    "pos": "CONJUNCTION"
+  },
+  "ni": {
+    "pos": "CONJUNCTION"
+  },
+  "però": {
+    "pos": "CONJUNCTION"
+  },
+  "perquè": {
+    "pos": "CONJUNCTION"
+  },
+  "doncs": {
+    "pos": "CONJUNCTION"
+  },
+  "que": {
+    "pos": "CONJUNCTION"
+  },
+  "si": {
+    "pos": "CONJUNCTION"
+  },
+  "sinó": {
+    "pos": "CONJUNCTION"
+  },
+  "color": {
+    "pos": "NOUN"
+  },
+  "blanc": {
+    "pos": "NOUN"
+  },
+  "negre": {
+    "pos": "NOUN"
+  },
+  "gris": {
+    "pos": "NOUN"
+  },
+  "vermell": {
+    "pos": "NOUN"
+  },
+  "taronja": {
+    "pos": "NOUN"
+  },
+  "groc": {
+    "pos": "NOUN"
+  },
+  "verd": {
+    "pos": "NOUN"
+  },
+  "celeste": {
+    "pos": "NOUN"
+  },
+  "blau": {
+    "pos": "NOUN"
+  },
+  "morat": {
+    "pos": "NOUN"
+  },
+  "rosa": {
+    "pos": "NOUN"
+  },
+  "marró": {
+    "pos": "NOUN"
+  },
+  "substantiu": {
+    "pos": "NOUN"
+  },
+  "adjectiu": {
+    "pos": "NOUN"
+  },
+  "adverbi": {
+    "pos": "NOUN"
+  },
+  "preposició": {
+    "pos": "NOUN"
+  },
+  "conjunció": {
+    "pos": "NOUN"
+  },
+  "verb": {
+    "pos": "NOUN"
+  },
+  "pronom": {
+    "pos": "NOUN"
+  },
+  "determinant": {
+    "pos": "NOUN"
+  },
+  "terratrèmol": {
+    "pos": "NOUN"
+  },
+  "inundació": {
+    "pos": "NOUN"
+  },
+  "huracà": {
+    "pos": "NOUN"
+  },
+  "tornado": {
+    "pos": "NOUN"
+  },
+  "tsunami": {
+    "pos": "NOUN"
+  },
+  "incendi": {
+    "pos": "NOUN"
+  },
+  "sequera": {
+    "pos": "NOUN"
+  },
+  "allau": {
+    "pos": "NOUN"
+  },
+  "gos": {
+    "pos": "NOUN"
+  },
+  "gat": {
+    "pos": "NOUN"
+  },
+  "vaca": {
+    "pos": "NOUN"
+  },
+  "porc": {
+    "pos": "NOUN"
+  },
+  "euga": {
+    "pos": "NOUN"
+  },
+  "cavall": {
+    "pos": "NOUN"
+  },
+  "ovella": {
+    "pos": "NOUN"
+  },
+  "mico": {
+    "pos": "NOUN"
+  },
+  "rata": {
+    "pos": "NOUN"
+  },
+  "ratolí": {
+    "pos": "NOUN"
+  },
+  "tigre": {
+    "pos": "NOUN"
+  },
+  "conill": {
+    "pos": "NOUN"
+  },
+  "cérvol": {
+    "pos": "NOUN"
+  },
+  "granota": {
+    "pos": "NOUN"
+  },
+  "lleó": {
+    "pos": "NOUN"
+  },
+  "girafa": {
+    "pos": "NOUN"
+  },
+  "elefant": {
+    "pos": "NOUN"
+  },
+  "ocell": {
+    "pos": "NOUN"
+  },
+  "gallina": {
+    "pos": "NOUN"
+  },
+  "pardal": {
+    "pos": "NOUN"
+  },
+  "corb": {
+    "pos": "NOUN"
+  },
+  "àguila": {
+    "pos": "NOUN"
+  },
+  "falcó": {
+    "pos": "NOUN"
+  },
+  "peix": {
+    "pos": "NOUN"
+  },
+  "gambeta": {
+    "pos": "NOUN"
+  },
+  "llagosta": {
+    "pos": "NOUN"
+  },
+  "sardina": {
+    "pos": "NOUN"
+  },
+  "tonyina": {
+    "pos": "NOUN"
+  },
+  "calamar": {
+    "pos": "NOUN"
+  },
+  "pop": {
+    "pos": "NOUN"
+  },
+  "insecte": {
+    "pos": "NOUN"
+  },
+  "bestiola": {
+    "pos": "NOUN"
+  },
+  "papallona": {
+    "pos": "NOUN"
+  },
+  "arna": {
+    "pos": "NOUN"
+  },
+  "saltamartí": {
+    "pos": "NOUN"
+  },
+  "aranya": {
+    "pos": "NOUN"
+  },
+  "mosca": {
+    "pos": "NOUN"
+  },
+  "mosquit": {
+    "pos": "NOUN"
+  },
+  "panerola": {
+    "pos": "NOUN"
+  },
+  "cargol": {
+    "pos": "NOUN"
+  },
+  "llimac": {
+    "pos": "NOUN"
+  },
+  "cuc": {
+    "pos": "NOUN"
+  },
+  "llangardaix": {
+    "pos": "NOUN"
+  },
+  "serp": {
+    "pos": "NOUN"
+  },
+  "cocodril": {
+    "pos": "NOUN"
+  },
+  "abans": {
+    "pos": "ADVERB"
+  },
+  "anteriorment": {
+    "pos": "ADVERB"
+  },
+  "actualment": {
+    "pos": "ADVERB"
+  },
+  "ara": {
+    "pos": "ADVERB"
+  },
+  "immediatament": {
+    "pos": "ADVERB"
+  },
+  "ja": {
+    "pos": "ADVERB"
+  },
+  "encara": {
+    "pos": "ADVERB"
+  },
+  "mentre": {
+    "pos": "ADVERB"
+  },
+  "després": {
+    "pos": "ADVERB"
+  },
+  "aviat": {
+    "pos": "ADVERB"
+  },
+  "tard": {
+    "pos": "ADVERB"
+  },
+  "d'hora": {
+    "pos": "ADVERB"
+  },
+  "ahir": {
+    "pos": "ADVERB"
+  },
+  "anit": {
+    "pos": "ADVERB"
+  },
+  "avui": {
+    "pos": "ADVERB"
+  },
+  "demà": {
+    "pos": "ADVERB"
+  },
+  "properament": {
+    "pos": "ADVERB"
+  },
+  "damunt": {
+    "pos": "ADVERB"
+  },
+  "sota": {
+    "pos": "ADVERB"
+  },
+  "darrere": {
+    "pos": "ADVERB"
+  },
+  "mig": {
+    "pos": "ADVERB"
+  },
+  "prop": {
+    "pos": "ADVERB"
+  },
+  "lluny": {
+    "pos": "ADVERB"
+  },
+  "dins": {
+    "pos": "ADVERB"
+  },
+  "fora": {
+    "pos": "ADVERB"
+  },
+  "aquí": {
+    "pos": "ADVERB"
+  },
+  "ací": {
+    "pos": "ADVERB"
+  },
+  "allà": {
+    "pos": "ADVERB"
+  },
+  "sempre": {
+    "pos": "ADVERB"
+  },
+  "mai": {
+    "pos": "ADVERB"
+  },
+  "també": {
+    "pos": "ADVERB"
+  },
+  "tampoc": {
+    "pos": "ADVERB"
+  },
+  "potser": {
+    "pos": "ADVERB"
+  },
+  "fàcilment": {
+    "pos": "ADVERB"
+  },
+  "difícilment": {
+    "pos": "ADVERB"
+  },
+  "probablement": {
+    "pos": "ADVERB"
+  },
+  "possiblement": {
+    "pos": "ADVERB"
+  },
+  "segurament": {
+    "pos": "ADVERB"
+  },
+  "més": {
+    "pos": "ADVERB"
+  },
+  "menys": {
+    "pos": "ADVERB"
+  },
+  "poc": {
+    "pos": "ADVERB"
+  },
+  "quelcom": {
+    "pos": "ADVERB"
+  },
+  "gairebé": {
+    "pos": "ADVERB"
+  },
+  "aproximadament": {
+    "pos": "ADVERB"
+  },
+  "exactament": {
+    "pos": "ADVERB"
+  },
+  "bastant": {
+    "pos": "ADVERB"
+  },
+  "just": {
+    "pos": "ADVERB"
+  },
+  "massa": {
+    "pos": "ADVERB"
+  },
+  "etcètera": {
+    "pos": "ADVERB"
+  },
+  "només": {
+    "pos": "ADVERB"
+  },
+  "tan": {
+    "pos": "ADVERB"
+  },
+  "tant": {
+    "pos": "ADVERB"
+  },
+  "tot": {
+    "pos": "ADVERB"
+  },
+  "res": {
+    "pos": "ADVERB"
+  },
+  "bé": {
+    "pos": "ADVERB"
+  },
+  "malament": {
+    "pos": "ADVERB"
+  },
+  "millor": {
+    "pos": "ADVERB"
+  },
+  "pitjor": {
+    "pos": "ADVERB"
+  },
+  "regular": {
+    "pos": "ADVERB"
+  },
+  "tal": {
+    "pos": "ADVERB"
+  },
+  "expressament": {
+    "pos": "ADVERB"
+  },
+  "clar": {
+    "pos": "ADVERB"
+  },
+  "exacte": {
+    "pos": "ADVERB"
+  },
+  "obvi": {
+    "pos": "ADVERB"
+  },
+  "inclusivament": {
+    "pos": "ADVERB"
+  },
+  "únicament": {
+    "pos": "ADVERB"
+  },
+  "especialment": {
+    "pos": "ADVERB"
+  },
+  "viceversa": {
+    "pos": "ADVERB"
+  },
+  "inicialment": {
+    "pos": "ADVERB"
+  },
+  "finalment": {
+    "pos": "ADVERB"
+  },
+  "calent": {
+    "pos": "ADJECTIVE"
+  },
+  "fred": {
+    "pos": "ADJECTIVE"
+  },
+  "lleuger": {
+    "pos": "ADJECTIVE"
+  },
+  "pesat": {
+    "pos": "ADJECTIVE"
+  },
+  "suau": {
+    "pos": "ADJECTIVE"
+  },
+  "ferm": {
+    "pos": "ADJECTIVE"
+  },
+  "flexible": {
+    "pos": "ADJECTIVE"
+  },
+  "tou": {
+    "pos": "ADJECTIVE"
+  },
+  "calorós": {
+    "pos": "ADJECTIVE"
+  },
+  "fresc": {
+    "pos": "ADJECTIVE"
+  },
+  "deliciós": {
+    "pos": "ADJECTIVE"
+  },
+  "horrible": {
+    "pos": "ADJECTIVE"
+  },
+  "dolç": {
+    "pos": "ADJECTIVE"
+  },
+  "picant": {
+    "pos": "ADJECTIVE"
+  },
+  "salat": {
+    "pos": "ADJECTIVE"
+  },
+  "amarg": {
+    "pos": "ADJECTIVE"
+  },
+  "anterior": {
+    "pos": "ADJECTIVE"
+  },
+  "posterior": {
+    "pos": "ADJECTIVE"
+  },
+  "següent": {
+    "pos": "ADJECTIVE"
+  },
+  "proper": {
+    "pos": "ADJECTIVE"
+  },
+  "llunyà": {
+    "pos": "ADJECTIVE"
+  },
+  "junt": {
+    "pos": "ADJECTIVE"
+  },
+  "unit": {
+    "pos": "ADJECTIVE"
+  },
+  "separat": {
+    "pos": "ADJECTIVE"
+  },
+  "allunyat": {
+    "pos": "ADJECTIVE"
+  },
+  "meu": {
+    "pos": "ADJECTIVE"
+  },
+  "teu": {
+    "pos": "ADJECTIVE"
+  },
+  "seu": {
+    "pos": "ADJECTIVE"
+  },
+  "nostre": {
+    "pos": "ADJECTIVE"
+  },
+  "vostre": {
+    "pos": "ADJECTIVE"
+  },
+  "primer": {
+    "pos": "ADJECTIVE"
+  },
+  "segon": {
+    "pos": "ADJECTIVE"
+  },
+  "tercer": {
+    "pos": "ADJECTIVE"
+  },
+  "cinquè": {
+    "pos": "ADJECTIVE"
+  },
+  "desè": {
+    "pos": "ADJECTIVE"
+  },
+  "centèsim": {
+    "pos": "ADJECTIVE"
+  },
+  "milionèsim": {
+    "pos": "ADJECTIVE"
+  },
+  "penúltim": {
+    "pos": "ADJECTIVE"
+  },
+  "últim": {
+    "pos": "ADJECTIVE"
+  },
+  "feliç": {
+    "pos": "ADJECTIVE"
+  },
+  "trist": {
+    "pos": "ADJECTIVE"
+  },
+  "solitari": {
+    "pos": "ADJECTIVE"
+  },
+  "content": {
+    "pos": "ADJECTIVE"
+  },
+  "tranquil": {
+    "pos": "ADJECTIVE"
+  },
+  "enfadat": {
+    "pos": "ADJECTIVE"
+  },
+  "calm": {
+    "pos": "ADJECTIVE"
+  },
+  "agitat": {
+    "pos": "ADJECTIVE"
+  },
+  "ansiós": {
+    "pos": "ADJECTIVE"
+  },
+  "interessat": {
+    "pos": "ADJECTIVE"
+  },
+  "avorrit": {
+    "pos": "ADJECTIVE"
+  },
+  "encantat": {
+    "pos": "ADJECTIVE"
+  },
+  "cansat": {
+    "pos": "ADJECTIVE"
+  },
+  "sorprès": {
+    "pos": "ADJECTIVE"
+  },
+  "espantat": {
+    "pos": "ADJECTIVE"
+  },
+  "dolorós": {
+    "pos": "ADJECTIVE"
+  },
+  "pudent": {
+    "pos": "ADJECTIVE"
+  },
+  "petit": {
+    "pos": "ADJECTIVE"
+  },
+  "ampli": {
+    "pos": "ADJECTIVE"
+  },
+  "angost": {
+    "pos": "ADJECTIVE"
+  },
+  "compacte": {
+    "pos": "ADJECTIVE"
+  },
+  "prim": {
+    "pos": "ADJECTIVE"
+  },
+  "gruixut": {
+    "pos": "ADJECTIVE"
+  },
+  "bo": {
+    "pos": "ADJECTIVE"
+  },
+  "dolent": {
+    "pos": "ADJECTIVE"
+  },
+  "superior": {
+    "pos": "ADJECTIVE"
+  },
+  "inferior": {
+    "pos": "ADJECTIVE"
+  },
+  "central": {
+    "pos": "ADJECTIVE"
+  },
+  "lateral": {
+    "pos": "ADJECTIVE"
+  },
+  "frontal": {
+    "pos": "ADJECTIVE"
+  },
+  "cert": {
+    "pos": "ADJECTIVE"
+  },
+  "real": {
+    "pos": "ADJECTIVE"
+  },
+  "fals": {
+    "pos": "ADJECTIVE"
+  },
+  "major": {
+    "pos": "ADJECTIVE"
+  },
+  "menor": {
+    "pos": "ADJECTIVE"
+  },
+  "important": {
+    "pos": "ADJECTIVE"
+  },
+  "necessari": {
+    "pos": "ADJECTIVE"
+  },
+  "absolut": {
+    "pos": "ADJECTIVE"
+  },
+  "relatiu": {
+    "pos": "ADJECTIVE"
+  },
+  "car": {
+    "pos": "ADJECTIVE"
+  },
+  "barat": {
+    "pos": "ADJECTIVE"
+  },
+  "jove": {
+    "pos": "ADJECTIVE"
+  },
+  "cada": {
+    "pos": "ADJECTIVE"
+  },
+  "qualsevol": {
+    "pos": "ADJECTIVE"
+  },
+  "donat": {
+    "pos": "ADJECTIVE"
+  },
+  "actual": {
+    "pos": "ADJECTIVE"
+  },
+  "capaç": {
+    "pos": "ADJECTIVE"
+  },
+  "fàcil": {
+    "pos": "ADJECTIVE"
+  },
+  "difícil": {
+    "pos": "ADJECTIVE"
+  },
+  "possible": {
+    "pos": "ADJECTIVE"
+  },
+  "impossible": {
+    "pos": "ADJECTIVE"
+  },
+  "probable": {
+    "pos": "ADJECTIVE"
+  },
+  "improbable": {
+    "pos": "ADJECTIVE"
+  },
+  "estricte": {
+    "pos": "ADJECTIVE"
+  },
+  "seriós": {
+    "pos": "ADJECTIVE"
+  },
+  "general": {
+    "pos": "ADJECTIVE"
+  },
+  "particular": {
+    "pos": "ADJECTIVE"
+  },
+  "comú": {
+    "pos": "ADJECTIVE"
+  },
+  "especial": {
+    "pos": "ADJECTIVE"
+  },
+  "usual": {
+    "pos": "ADJECTIVE"
+  },
+  "únic": {
+    "pos": "ADJECTIVE"
+  },
+  "rar": {
+    "pos": "ADJECTIVE"
+  },
+  "fort": {
+    "pos": "ADJECTIVE"
+  },
+  "feble": {
+    "pos": "ADJECTIVE"
+  },
+  "correcte": {
+    "pos": "ADJECTIVE"
+  },
+  "incorrecte": {
+    "pos": "ADJECTIVE"
+  },
+  "oposat": {
+    "pos": "ADJECTIVE"
+  },
+  "igual": {
+    "pos": "ADJECTIVE"
+  },
+  "diferent": {
+    "pos": "ADJECTIVE"
+  },
+  "semblant": {
+    "pos": "ADJECTIVE"
+  },
+  "altre": {
+    "pos": "ADJECTIVE"
+  },
+  "divers": {
+    "pos": "ADJECTIVE"
+  },
+  "manual": {
+    "pos": "ADJECTIVE"
+  },
+  "automàtic": {
+    "pos": "ADJECTIVE"
+  },
+  "universal": {
+    "pos": "ADJECTIVE"
+  },
+  "mundial": {
+    "pos": "ADJECTIVE"
+  },
+  "continental": {
+    "pos": "ADJECTIVE"
+  },
+  "internacional": {
+    "pos": "ADJECTIVE"
+  },
+  "nacional": {
+    "pos": "ADJECTIVE"
+  },
+  "regional": {
+    "pos": "ADJECTIVE"
+  },
+  "local": {
+    "pos": "ADJECTIVE"
+  },
+  "urbà": {
+    "pos": "ADJECTIVE"
+  },
+  "rural": {
+    "pos": "ADJECTIVE"
+  },
+  "social": {
+    "pos": "ADJECTIVE"
+  },
+  "cultural": {
+    "pos": "ADJECTIVE"
+  },
+  "artístic": {
+    "pos": "ADJECTIVE"
+  },
+  "propi": {
+    "pos": "ADJECTIVE"
+  },
+  "aliè": {
+    "pos": "ADJECTIVE"
+  },
+  "públic": {
+    "pos": "ADJECTIVE"
+  },
+  "privat": {
+    "pos": "ADJECTIVE"
+  }
+}

@@ -1,0 +1,1011 @@
+{
+  "eki": [
+    "umeki",
+    "ireki"
+  ],
+  "aki": [
+    "izaki",
+    "erabaki",
+    "gizaki",
+    "bernazaki"
+  ],
+  "͡s̻a": [
+    "bizitza",
+    "heriotza",
+    "etxebizitza",
+    "merkataritza",
+    "txirrindularitza"
+  ],
+  "eta": [
+    "ugalketa",
+    "bizikleta",
+    "arreta",
+    "suntsiketa",
+    "mozketa",
+    "gogoeta",
+    "topaketa",
+    "kamiseta",
+    "kasketa",
+    "tronpeta",
+    "igeriketa",
+    "eta",
+    "tximeleta"
+  ],
+  "a": [
+    "kuia",
+    "ia"
+  ],
+  "ak": [
+    "ilarrak",
+    "babak",
+    "patatak",
+    "irristailuak",
+    "lokarriak",
+    "galtzerdiak",
+    "kuleroak",
+    "galtzontzilloak",
+    "eskularruak"
+  ],
+  "er": [
+    "piper",
+    "luzoker",
+    "plazer",
+    "esker",
+    "izter",
+    "musker",
+    "oker"
+  ],
+  "ula": [
+    "tipula",
+    "txirula"
+  ],
+  "s̻a": [
+    "aza",
+    "uraza"
+  ],
+  "oɾe": [
+    "azalore",
+    "sektore",
+    "aktore",
+    "gobernadore",
+    "kolore",
+    "more"
+  ],
+  "aka": [
+    "espinaka",
+    "jaka",
+    "aldaka"
+  ],
+  "arto": [
+    "arto",
+    "txarto"
+  ],
+  "uɾi": [
+    "baratxuri",
+    "zainzuri",
+    "zuri"
+  ],
+  "uɾu": [
+    "orburu",
+    "helburu",
+    "hiriburu",
+    "enpresaburu",
+    "inguru",
+    "kopuru",
+    "buru"
+  ],
+  "t͡ʃo": [
+    "kuiatxo",
+    "eulitxo"
+  ],
+  "itu": [
+    "sentitu",
+    "aditu",
+    "ukitu",
+    "nabaritu",
+    "mugitu",
+    "atzitu",
+    "existitu",
+    "harritu",
+    "aurkitu",
+    "suntsitu",
+    "zatitu",
+    "iruditu",
+    "atsitu"
+  ],
+  "s̺i": [
+    "ikusi",
+    "erosi",
+    "hasi",
+    "taxi",
+    "krisi",
+    "nagusi"
+  ],
+  "eman": [
+    "hauteman",
+    "antzeman",
+    "eman",
+    "harreman"
+  ],
+  "tori": [
+    "etorri",
+    "jatorri"
+  ],
+  "atu": [
+    "bueltatu",
+    "abiatu",
+    "gerturatu",
+    "oratu",
+    "kolpatu",
+    "ostikatu",
+    "altxatu",
+    "maitatu",
+    "desiratu",
+    "gorrotatu",
+    "liluratu",
+    "kontsolatu",
+    "interesatu",
+    "nekatu",
+    "ikaratu",
+    "komunikatu",
+    "baieztatu",
+    "ezeztatu",
+    "mintzatu",
+    "pentsatu",
+    "seinalatu",
+    "sastatu",
+    "hozkatu",
+    "iltzatu",
+    "gogoratu",
+    "aurreratu",
+    "atzeratu",
+    "elkarrizketatu",
+    "trukatu",
+    "ordezkatu",
+    "bilatu",
+    "bukatu",
+    "geratu",
+    "pisatu",
+    "erkatu",
+    "ebaluatu",
+    "banatu",
+    "deskantsatu",
+    "esnatu",
+    "errefusatu",
+    "eskatu",
+    "proposatu",
+    "fabrikatu",
+    "tratatu",
+    "frogatu",
+    "egiaztatu",
+    "aldatu",
+    "estatu",
+    "abokatu",
+    "diputatu",
+    "supermerkatu",
+    "aparatu",
+    "merkatu",
+    "katu",
+    "pribatu"
+  ],
+  "͡s̺i": [
+    "iritsi",
+    "miretsi",
+    "sinetsi",
+    "erakutsi"
+  ],
+  "kari": [
+    "ekarri",
+    "lokarri"
+  ],
+  "eɾa": [
+    "atera",
+    "jarduera",
+    "jarrera",
+    "egoera",
+    "saiakera",
+    "izaera",
+    "hasiera",
+    "bukaera",
+    "aukera",
+    "bilera",
+    "kremailera",
+    "arabera",
+    "sarrera",
+    "eskailera",
+    "kamera",
+    "luzera",
+    "altuera",
+    "zabalera",
+    "sakonera"
+  ],
+  "endu": [
+    "kendu",
+    "zendu",
+    "departamendu",
+    "abendu",
+    "mugimendu"
+  ],
+  "undu": [
+    "urrundu",
+    "lagundu"
+  ],
+  "͡s̻i": [
+    "egotzi",
+    "idatzi",
+    "utzi",
+    "bederatzi"
+  ],
+  "artu": [
+    "hartu",
+    "elkartu",
+    "sartu",
+    "hausnartu",
+    "onartu"
+  ],
+  "t͡s̺i": [
+    "eutsi",
+    "erantsi"
+  ],
+  "s̺o": [
+    "jaso",
+    "eraso",
+    "baso",
+    "itsaso",
+    "beso",
+    "akaso",
+    "oso"
+  ],
+  "ertu": [
+    "agertu",
+    "desagertu",
+    "aspertu",
+    "aztertu",
+    "ulertu",
+    "baztertu",
+    "gertu"
+  ],
+  "s̻i": [
+    "hazi",
+    "bizi",
+    "gazi",
+    "berezi"
+  ],
+  "il": [
+    "hil",
+    "automobil",
+    "urtarril",
+    "apiril",
+    "hurbil"
+  ],
+  "etu": [
+    "nahigabetu",
+    "haserretu",
+    "hobetu",
+    "sekretu",
+    "dekretu"
+  ],
+  "s̻tu": [
+    "poztu",
+    "moztu",
+    "abuztu"
+  ],
+  "ildu": [
+    "isildu",
+    "bildu",
+    "hiribildu"
+  ],
+  "s̺tu": [
+    "abestu",
+    "jolastu",
+    "tolestu",
+    "justu",
+    "estu"
+  ],
+  "an": [
+    "jan",
+    "han"
+  ],
+  "ortu": [
+    "sortu",
+    "lortu",
+    "aireportu",
+    "basamortu"
+  ],
+  "otu": [
+    "okerragotu",
+    "lotu"
+  ],
+  "aldu": [
+    "saldu",
+    "azaldu"
+  ],
+  "t͡ʃi": [
+    "itxi",
+    "gutxi",
+    "bitxi"
+  ],
+  "akin": [
+    "jakin",
+    "harakin"
+  ],
+  "andu": [
+    "landu",
+    "berandu"
+  ],
+  "oki": [
+    "iradoki",
+    "geltoki",
+    "beroki"
+  ],
+  "iko": [
+    "trafiko",
+    "gerriko",
+    "mutiko",
+    "urrutiko",
+    "erdiko",
+    "arestiko",
+    "askotariko",
+    "automatiko",
+    "hiriko",
+    "artistiko",
+    "publiko"
+  ],
+  "s̻io": [
+    "zirkulazio",
+    "sentsazio",
+    "administrazio",
+    "nazio",
+    "konstituzio",
+    "posizio",
+    "azelerazio",
+    "preposizio",
+    "postposizio"
+  ],
+  "ɡaʎu": [
+    "ibilgailu",
+    "itxigailu",
+    "igogailu",
+    "juntagailu"
+  ],
+  "ide": [
+    "trenbide",
+    "bide",
+    "ibilbide",
+    "errepide",
+    "autobide",
+    "etorbide",
+    "irtenbide",
+    "aurrerabide",
+    "adibide",
+    "eskubide",
+    "batzarkide",
+    "lankide",
+    "norabide"
+  ],
+  "en": [
+    "tren",
+    "zuen"
+  ],
+  "ale": [
+    "kale",
+    "ospitale"
+  ],
+  "eku": [
+    "geraleku",
+    "debeku",
+    "helduleku",
+    "leku"
+  ],
+  "s̺": [
+    "bus",
+    "gas",
+    "gris"
+  ],
+  "or": [
+    "motor",
+    "behor",
+    "hor",
+    "gogor",
+    "orokor"
+  ],
+  "t͡s̻i": [
+    "itsasontzi",
+    "bainujantzi",
+    "zortzi"
+  ],
+  "ete": [
+    "patinete",
+    "klarinete",
+    "bilete"
+  ],
+  "erdi": [
+    "alderdi",
+    "erdi"
+  ],
+  "ektu": [
+    "objektu",
+    "intsektu"
+  ],
+  "al": [
+    "atal",
+    "papar-hegal",
+    "total",
+    "metal",
+    "musikal",
+    "ostiral",
+    "azazkal",
+    "azal",
+    "zabal",
+    "unibertsal",
+    "kontinental",
+    "nazional",
+    "sozial",
+    "kultural"
+  ],
+  "͡s̻": [
+    "hitz",
+    "izotz",
+    "gatz",
+    "lokatz",
+    "orratz",
+    "gorputz",
+    "aditz",
+    "belatz",
+    "hotz",
+    "zorrotz"
+  ],
+  "s̻en": [
+    "izen",
+    "zuzen"
+  ],
+  "ate": [
+    "formalitate",
+    "errealitate",
+    "kalitate",
+    "hautemate",
+    "posibilitate",
+    "komunitate",
+    "alkate",
+    "ate"
+  ],
+  "aldi": [
+    "orainaldi",
+    "aldi",
+    "ekitaldi",
+    "etenaldi",
+    "itxaronaldi",
+    "zaldi"
+  ],
+  "s̻un": [
+    "etorkizun",
+    "eginkizun"
+  ],
+  "ɾau̯": [
+    "egitarau",
+    "arau"
+  ],
+  "s̺mo": [
+    "egitasmo",
+    "atletismo",
+    "piraguismo"
+  ],
+  "s̺un": [
+    "adostasun",
+    "gaitasun",
+    "desberdintasun",
+    "antzekotasun",
+    "nortasun",
+    "segurtasun",
+    "askatasun",
+    "xendazaletasun"
+  ],
+  "i̯": [
+    "gai",
+    "sei",
+    "idazmahai",
+    "mahai",
+    "lehoi"
+  ],
+  "t͡s̻a": [
+    "baldintza",
+    "sorkuntza",
+    "emaitza",
+    "hobekuntza",
+    "konfiantza",
+    "galtza",
+    "eraikuntza",
+    "giltza",
+    "hondartza"
+  ],
+  "s̺u": [
+    "kasu",
+    "prozesu",
+    "kongresu",
+    "pisu",
+    "lehengusu"
+  ],
+  "s̺ta": [
+    "arrakasta",
+    "dentista"
+  ],
+  "uɾa": [
+    "onura",
+    "narriadura",
+    "tristura",
+    "sumindura",
+    "asperdura",
+    "harridura",
+    "egitura",
+    "diktadura",
+    "natura",
+    "abentura",
+    "abiadura"
+  ],
+  "bes̺": [
+    "babes",
+    "lanabes"
+  ],
+  "ɡari": [
+    "ezaugarri",
+    "zoragarri",
+    "izugarri",
+    "mingarri"
+  ],
+  "apen": [
+    "garapen",
+    "aurrerapen",
+    "murriztapen"
+  ],
+  "ada": [
+    "atzerakada",
+    "eskalada",
+    "bada",
+    "ezpada",
+    "jada",
+    "beharbada"
+  ],
+  "i̯l": [
+    "sail",
+    "otsail",
+    "uztail",
+    "irail",
+    "urdail",
+    "zail"
+  ],
+  "umen": [
+    "entzumen",
+    "bolumen"
+  ],
+  "i̯men": [
+    "usaimen",
+    "oroimen",
+    "baimen"
+  ],
+  "t͡s̻ia": [
+    "kontzientzia",
+    "presentzia",
+    "existentzia",
+    "probintzia"
+  ],
+  "ar": [
+    "indar",
+    "behar",
+    "betebehar",
+    "zehar",
+    "hamar",
+    "zilar",
+    "senar",
+    "billar",
+    "bizar",
+    "atzamar",
+    "bular",
+    "bizkar",
+    "samar",
+    "azkar",
+    "txar",
+    "zahar",
+    "partikular",
+    "landatar"
+  ],
+  "ur": [
+    "gezur",
+    "beldur",
+    "ur",
+    "lur",
+    "sudur",
+    "eskumutur",
+    "hezur",
+    "txakur",
+    "ziur"
+  ],
+  "͡s̻e": [
+    "asmatze",
+    "atze"
+  ],
+  "s̻ia": [
+    "gabezia",
+    "demokrazia",
+    "polizia",
+    "farmazia"
+  ],
+  "iɲa": [
+    "grina",
+    "lehengusina",
+    "sardina"
+  ],
+  "s̻": [
+    "poz",
+    "ordez",
+    "nekez",
+    "alderantziz",
+    "erraz"
+  ],
+  "eko": [
+    "ezusteko",
+    "betaurreko",
+    "soineko",
+    "atzeko",
+    "hurbileko",
+    "azken-aurreko",
+    "beheko",
+    "erabateko",
+    "antzeko",
+    "nazioarteko"
+  ],
+  "arte": [
+    "gizarte",
+    "elkarte",
+    "arte",
+    "astearte"
+  ],
+  "unde": [
+    "erakunde",
+    "hazkunde"
+  ],
+  "s̺a": [
+    "enpresa",
+    "arrosa"
+  ],
+  "alde": [
+    "talde",
+    "herrialde",
+    "itsasalde",
+    "sabelalde"
+  ],
+  "ika": [
+    "politika",
+    "gimnastika"
+  ],
+  "toi̯": [
+    "botoi",
+    "arratoi"
+  ],
+  "ako": [
+    "oinetako",
+    "bularretako",
+    "norbanako",
+    "kontrako",
+    "bertako"
+  ],
+  "ona": [
+    "gona",
+    "pertsona",
+    "amona",
+    "aitona",
+    "birramona",
+    "birraitona"
+  ],
+  "ano": [
+    "txano",
+    "piano",
+    "ozeano",
+    "arrano"
+  ],
+  "̻aʎe": [
+    "erregai-sailtzaile",
+    "erraztatzaile",
+    "suhiltzaile",
+    "saltzaile",
+    "ile-apaintzaile",
+    "programatzaile",
+    "determinatzaile"
+  ],
+  "aɾi": [
+    "administrari",
+    "zerbitzari",
+    "postari",
+    "zientzialari",
+    "sukaldari",
+    "argiketari",
+    "argazkilari",
+    "ingeniari",
+    "mekanikari",
+    "kazetari",
+    "margolari",
+    "politikari",
+    "zuzendari",
+    "senatari",
+    "parlamentari",
+    "hari",
+    "eskari"
+  ],
+  "urɡin": [
+    "zurgin",
+    "iturgin"
+  ],
+  "abe": [
+    "gabe",
+    "nerabe",
+    "paregabe"
+  ],
+  "ik": [
+    "barik",
+    "ezik",
+    "baizik",
+    "oraindik",
+    "ziurrenik",
+    "seguruenik",
+    "osorik",
+    "azkenik"
+  ],
+  "i̯ta": [
+    "baita",
+    "aita"
+  ],
+  "i̯n": [
+    "gain",
+    "oin"
+  ],
+  "s̻pi": [
+    "azpi",
+    "zazpi"
+  ],
+  "at": [
+    "bat",
+    "larunbat"
+  ],
+  "iɾu": [
+    "hiru",
+    "diru"
+  ],
+  "etro": [
+    "kilometro",
+    "zentimetro",
+    "milimetro"
+  ],
+  "itro": [
+    "litro",
+    "mililitro"
+  ],
+  "ilo": [
+    "kilo",
+    "krokodilo"
+  ],
+  "eu̯ri": [
+    "neurri",
+    "salneurri"
+  ],
+  "urdin": [
+    "burdin",
+    "urdin"
+  ],
+  "ola": [
+    "eskola",
+    "autoeskola"
+  ],
+  "eɡi": [
+    "kafetegi",
+    "liburutegi",
+    "harategi",
+    "urdaitegi",
+    "arrandegi",
+    "okindegi",
+    "ile-apaindegi",
+    "aurpegi",
+    "begi",
+    "gehiegi"
+  ],
+  "t͡ʃe": [
+    "jatetxe",
+    "udaletxe",
+    "etxe"
+  ],
+  "enda": [
+    "fruta-denda",
+    "kopia-denda",
+    "tabako-denda",
+    "loradenda",
+    "denda",
+    "belar-denda",
+    "bitxi-denda",
+    "liburu-denda"
+  ],
+  "el": [
+    "hotel",
+    "panel",
+    "kordel",
+    "urmael",
+    "gibel",
+    "igel"
+  ],
+  "ela": [
+    "logela",
+    "gela",
+    "bela"
+  ],
+  "bai̯": [
+    "sabai",
+    "ibai"
+  ],
+  "arma": [
+    "arma",
+    "armiarma"
+  ],
+  "lai̯": [
+    "zelai",
+    "alai"
+  ],
+  "iɾa": [
+    "aintzira",
+    "izkira"
+  ],
+  "uɾe": [
+    "agure",
+    "zure",
+    "gure"
+  ],
+  "u̯n": [
+    "jaun",
+    "leun"
+  ],
+  "ama": [
+    "dama",
+    "drama",
+    "ama"
+  ],
+  "eɾio": [
+    "misterio",
+    "serio"
+  ],
+  "aɡun": [
+    "lagun",
+    "ezagun",
+    "izenlagun"
+  ],
+  "ote": [
+    "bikote",
+    "bibote"
+  ],
+  "s̻te": [
+    "emazte",
+    "gazte"
+  ],
+  "aba": [
+    "alaba",
+    "osaba"
+  ],
+  "oba": [
+    "biloba",
+    "birbiloba",
+    "loba"
+  ],
+  "enɡo": [
+    "gehiengo",
+    "gutxiengo",
+    "hurrengo",
+    "lehenengo"
+  ],
+  "s̻ken": [
+    "asteazken",
+    "azken"
+  ],
+  "s̺ki": [
+    "eski",
+    "noski"
+  ],
+  "oko": [
+    "bola-joko",
+    "alboko"
+  ],
+  "loi̯": [
+    "saskibaloi",
+    "eskubaloi"
+  ],
+  "ol": [
+    "beisbol",
+    "futbol",
+    "boleibol"
+  ],
+  "t͡s̻": [
+    "hortz",
+    "beltz",
+    "bakoitz"
+  ],
+  "lari": [
+    "belarri",
+    "larri"
+  ],
+  "ondo": [
+    "ukondo",
+    "izenondo",
+    "ondo"
+  ],
+  "urdi": [
+    "ipurdi",
+    "erdipurdi"
+  ],
+  "oɾi": [
+    "hori",
+    "txori"
+  ],
+  "ibo": [
+    "substantibo",
+    "erlatibo"
+  ],
+  "arai̯n": [
+    "arrain",
+    "otarrain"
+  ],
+  "moro": [
+    "zomorro",
+    "labezomorro"
+  ],
+  "aɡo": [
+    "lehenago",
+    "geroago",
+    "gehiago",
+    "okerrago"
+  ],
+  "eɾo": [
+    "gero",
+    "bero"
+  ],
+  "s̺ko": [
+    "asko",
+    "fresko"
+  ],
+  "s̺te": [
+    "hainbeste",
+    "triste"
+  ],
+  "iɾo": [
+    "astiro",
+    "argiro"
+  ],
+  "iki": [
+    "bereziki",
+    "txiki"
+  ],
+  "ɡaren": [
+    "bigarren",
+    "hirugarren",
+    "bosgarren",
+    "hamargarren",
+    "ehungarren",
+    "milioigarren"
+  ],
+  "t͡s̺u": [
+    "zoriontsu",
+    "faltsu"
+  ],
+  "͡s̺u": [
+    "grinatsu",
+    "garrantzitsu"
+  ],
+  "s̻ko": [
+    "egiazko",
+    "beharrezko",
+    "ezinezko",
+    "eskuzko",
+    "berezko"
+  ],
+  "able": [
+    "probable",
+    "inprobable"
+  ],
+  "erdin": [
+    "berdin",
+    "desberdin"
+  ]
+}

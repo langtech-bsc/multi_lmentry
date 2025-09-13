@@ -1,0 +1,2999 @@
+{
+  "생명체": {
+    "pos": "NOUN"
+  },
+  "종류": {
+    "pos": "NOUN"
+  },
+  "존재물": {
+    "pos": "NOUN"
+  },
+  "삶": {
+    "pos": "NOUN"
+  },
+  "태어남": {
+    "pos": "NOUN"
+  },
+  "복제": {
+    "pos": "NOUN"
+  },
+  "죽음": {
+    "pos": "NOUN"
+  },
+  "호박": {
+    "pos": "NOUN"
+  },
+  "쌀": {
+    "pos": "NOUN"
+  },
+  "완두콩": {
+    "pos": "NOUN"
+  },
+  "당근": {
+    "pos": "NOUN"
+  },
+  "피망": {
+    "pos": "NOUN"
+  },
+  "양파": {
+    "pos": "NOUN"
+  },
+  "컬러": {
+    "pos": "NOUN"
+  },
+  "브로콜리": {
+    "pos": "NOUN"
+  },
+  "샐러리": {
+    "pos": "NOUN"
+  },
+  "상추": {
+    "pos": "NOUN"
+  },
+  "콜리플라워": {
+    "pos": "NOUN"
+  },
+  "양배추": {
+    "pos": "NOUN"
+  },
+  "시금치": {
+    "pos": "NOUN"
+  },
+  "대파": {
+    "pos": "NOUN"
+  },
+  "옥수수": {
+    "pos": "NOUN"
+  },
+  "비트": {
+    "pos": "NOUN"
+  },
+  "마늘": {
+    "pos": "NOUN"
+  },
+  "나물": {
+    "pos": "NOUN"
+  },
+  "콩": {
+    "pos": "NOUN"
+  },
+  "엉겅퀴": {
+    "pos": "NOUN"
+  },
+  "감자": {
+    "pos": "NOUN"
+  },
+  "올리브": {
+    "pos": "NOUN"
+  },
+  "오이": {
+    "pos": "NOUN"
+  },
+  "무": {
+    "pos": "NOUN"
+  },
+  "아스파라거스": {
+    "pos": "NOUN"
+  },
+  "느끼다": {
+    "pos": "VERB"
+  },
+  "보다": {
+    "pos": "VERB"
+  },
+  "듣다": {
+    "pos": "VERB"
+  },
+  "들다": {
+    "pos": "VERB"
+  },
+  "만지다": {
+    "pos": "VERB"
+  },
+  "맡다": {
+    "pos": "VERB"
+  },
+  "인식하다": {
+    "pos": "VERB"
+  },
+  "가다": {
+    "pos": "VERB"
+  },
+  "오다": {
+    "pos": "VERB"
+  },
+  "돌아가다": {
+    "pos": "VERB"
+  },
+  "출발하다": {
+    "pos": "VERB"
+  },
+  "도착하다": {
+    "pos": "VERB"
+  },
+  "가져오다": {
+    "pos": "VERB"
+  },
+  "데려오다": {
+    "pos": "VERB"
+  },
+  "움직이다": {
+    "pos": "VERB"
+  },
+  "추출하다": {
+    "pos": "VERB"
+  },
+  "제거하다": {
+    "pos": "VERB"
+  },
+  "도달하다": {
+    "pos": "VERB"
+  },
+  "가까이 하다": {
+    "pos": "VERB"
+  },
+  "멀리하다": {
+    "pos": "VERB"
+  },
+  "던지다": {
+    "pos": "VERB"
+  },
+  "발사하다": {
+    "pos": "VERB"
+  },
+  "붙들다": {
+    "pos": "VERB"
+  },
+  "붙잡다": {
+    "pos": "VERB"
+  },
+  "잡다": {
+    "pos": "VERB"
+  },
+  "치다": {
+    "pos": "VERB"
+  },
+  "차다": {
+    "pos": "VERB"
+  },
+  "놓다": {
+    "pos": "VERB"
+  },
+  "모으다": {
+    "pos": "VERB"
+  },
+  "일어나다": {
+    "pos": "VERB"
+  },
+  "쥐다": {
+    "pos": "VERB"
+  },
+  "붙이다": {
+    "pos": "VERB"
+  },
+  "사랑하다": {
+    "pos": "VERB"
+  },
+  "원하다": {
+    "pos": "VERB"
+  },
+  "희망": {
+    "pos": "NOUN"
+  },
+  "혐오": {
+    "pos": "NOUN"
+  },
+  "슬프다": {
+    "pos": "ADJECTIVE"
+  },
+  "울다": {
+    "pos": "VERB"
+  },
+  "웃다": {
+    "pos": "VERB"
+  },
+  "화나다": {
+    "pos": "ADJECTIVE"
+  },
+  "칭찬": {
+    "pos": "NOUN"
+  },
+  "기뻐하다": {
+    "pos": "VERB"
+  },
+  "매료되다": {
+    "pos": "VERB"
+  },
+  "편안함": {
+    "pos": "NOUN"
+  },
+  "관심": {
+    "pos": "NOUN"
+  },
+  "심심하다": {
+    "pos": "VERB"
+  },
+  "싫증나다": {
+    "pos": "VERB"
+  },
+  "놀라다": {
+    "pos": "VERB"
+  },
+  "움찔하다": {
+    "pos": "VERB"
+  },
+  "소통하다": {
+    "pos": "VERB"
+  },
+  "단언하다": {
+    "pos": "VERB"
+  },
+  "부인하다": {
+    "pos": "VERB"
+  },
+  "기술하다": {
+    "pos": "VERB"
+  },
+  "말하다": {
+    "pos": "VERB"
+  },
+  "침묵하다": {
+    "pos": "VERB"
+  },
+  "쓰다": {
+    "pos": "VERB"
+  },
+  "힐끔보다": {
+    "pos": "VERB"
+  },
+  "분석하다": {
+    "pos": "VERB"
+  },
+  "생각하다": {
+    "pos": "VERB"
+  },
+  "노래": {
+    "pos": "NOUN"
+  },
+  "가리키다": {
+    "pos": "VERB"
+  },
+  "찔러 넣다": {
+    "pos": "VERB"
+  },
+  "죽이다": {
+    "pos": "VERB"
+  },
+  "찌르다": {
+    "pos": "VERB"
+  },
+  "먹다": {
+    "pos": "VERB"
+  },
+  "마시다": {
+    "pos": "VERB"
+  },
+  "합의하다": {
+    "pos": "VERB"
+  },
+  "영향을미치다": {
+    "pos": "VERB"
+  },
+  "생성": {
+    "pos": "NOUN"
+  },
+  "추가": {
+    "pos": "NOUN"
+  },
+  "개선하다": {
+    "pos": "VERB"
+  },
+  "악화되다": {
+    "pos": "VERB"
+  },
+  "따르다": {
+    "pos": "VERB"
+  },
+  "전진시키다": {
+    "pos": "VERB"
+  },
+  "후퇴하다": {
+    "pos": "VERB"
+  },
+  "도와주다": {
+    "pos": "VERB"
+  },
+  "복잡하게 하다": {
+    "pos": "VERB"
+  },
+  "모이다": {
+    "pos": "VERB"
+  },
+  "인터뷰": {
+    "pos": "NOUN"
+  },
+  "열다": {
+    "pos": "VERB"
+  },
+  "놀다": {
+    "pos": "VERB"
+  },
+  "소유하다": {
+    "pos": "VERB"
+  },
+  "부족하다": {
+    "pos": "VERB"
+  },
+  "달": {
+    "pos": "NOUN"
+  },
+  "받다": {
+    "pos": "VERB"
+  },
+  "쪼개다": {
+    "pos": "VERB"
+  },
+  "접다": {
+    "pos": "VERB"
+  },
+  "자르다": {
+    "pos": "VERB"
+  },
+  "구매하다": {
+    "pos": "VERB"
+  },
+  "판매자": {
+    "pos": "NOUN"
+  },
+  "교환하다": {
+    "pos": "VERB"
+  },
+  "대신하다": {
+    "pos": "VERB"
+  },
+  "닫다": {
+    "pos": "VERB"
+  },
+  "찾다": {
+    "pos": "VERB"
+  },
+  "만나다": {
+    "pos": "VERB"
+  },
+  "얻다": {
+    "pos": "VERB"
+  },
+  "창조하다": {
+    "pos": "VERB"
+  },
+  "믿다": {
+    "pos": "VERB"
+  },
+  "시작": {
+    "pos": "VERB"
+  },
+  "끝나다": {
+    "pos": "VERB"
+  },
+  "포기하다": {
+    "pos": "VERB"
+  },
+  "떠나다": {
+    "pos": "VERB"
+  },
+  "들어가다": {
+    "pos": "VERB"
+  },
+  "머무르다": {
+    "pos": "VERB"
+  },
+  "나가다": {
+    "pos": "VERB"
+  },
+  "돌보다": {
+    "pos": "VERB"
+  },
+  "측정하다": {
+    "pos": "VERB"
+  },
+  "계량하다": {
+    "pos": "VERB"
+  },
+  "고려하다": {
+    "pos": "VERB"
+  },
+  "비교하다": {
+    "pos": "VERB"
+  },
+  "평가하다": {
+    "pos": "VERB"
+  },
+  "결정하다": {
+    "pos": "VERB"
+  },
+  "건설하다": {
+    "pos": "VERB"
+  },
+  "파괴하다": {
+    "pos": "VERB"
+  },
+  "책무": {
+    "pos": "NOUN"
+  },
+  "역량": {
+    "pos": "NOUN"
+  },
+  "알다": {
+    "pos": "VERB"
+  },
+  "이해하다": {
+    "pos": "VERB"
+  },
+  "묶다": {
+    "pos": "VERB"
+  },
+  "알리다": {
+    "pos": "VERB"
+  },
+  "일하다": {
+    "pos": "VERB"
+  },
+  "분할하다": {
+    "pos": "VERB"
+  },
+  "분리하다": {
+    "pos": "VERB"
+  },
+  "휴식": {
+    "pos": "NOUN"
+  },
+  "자다": {
+    "pos": "VERB"
+  },
+  "깨다": {
+    "pos": "VERB"
+  },
+  "수락하다": {
+    "pos": "VERB"
+  },
+  "거부하다": {
+    "pos": "VERB"
+  },
+  "버리다": {
+    "pos": "VERB"
+  },
+  "동행하다": {
+    "pos": "VERB"
+  },
+  "주문하다": {
+    "pos": "VERB"
+  },
+  "가장한다": {
+    "pos": "VERB"
+  },
+  "제안하다": {
+    "pos": "VERB"
+  },
+  "권하다": {
+    "pos": "VERB"
+  },
+  "사용하다": {
+    "pos": "VERB"
+  },
+  "하다": {
+    "pos": "VERB"
+  },
+  "만들다": {
+    "pos": "VERB"
+  },
+  "수리하다": {
+    "pos": "VERB"
+  },
+  "설명하다": {
+    "pos": "VERB"
+  },
+  "보여주다": {
+    "pos": "VERB"
+  },
+  "다루다": {
+    "pos": "VERB"
+  },
+  "회피하다": {
+    "pos": "VERB"
+  },
+  "시험해보다": {
+    "pos": "VERB"
+  },
+  "확인하다": {
+    "pos": "VERB"
+  },
+  "다양하다": {
+    "pos": "VERB"
+  },
+  "기다리다": {
+    "pos": "VERB"
+  },
+  "필요하다": {
+    "pos": "VERB"
+  },
+  "의미하다": {
+    "pos": "NOUN"
+  },
+  "보이다": {
+    "pos": "VERB"
+  },
+  "구별하다": {
+    "pos": "VERB"
+  },
+  "운송": {
+    "pos": "NOUN"
+  },
+  "교통": {
+    "pos": "NOUN"
+  },
+  "통행": {
+    "pos": "NOUN"
+  },
+  "차량": {
+    "pos": "NOUN"
+  },
+  "철도": {
+    "pos": "NOUN"
+  },
+  "기차": {
+    "pos": "NOUN"
+  },
+  "통행로": {
+    "pos": "NOUN"
+  },
+  "길": {
+    "pos": "NOUN"
+  },
+  "경로": {
+    "pos": "NOUN"
+  },
+  "거리": {
+    "pos": "NOUN"
+  },
+  "도로": {
+    "pos": "NOUN"
+  },
+  "고속도로": {
+    "pos": "NOUN"
+  },
+  "대로": {
+    "pos": "NOUN"
+  },
+  "정류소": {
+    "pos": "NOUN"
+  },
+  "역": {
+    "pos": "NOUN"
+  },
+  "비행기": {
+    "pos": "NOUN"
+  },
+  "공항": {
+    "pos": "NOUN"
+  },
+  "자동차": {
+    "pos": "NOUN"
+  },
+  "보트": {
+    "pos": "NOUN"
+  },
+  "버스": {
+    "pos": "NOUN"
+  },
+  "오토바이": {
+    "pos": "NOUN"
+  },
+  "택시": {
+    "pos": "NOUN"
+  },
+  "전차": {
+    "pos": "NOUN"
+  },
+  "배": {
+    "pos": "NOUN"
+  },
+  "자전거": {
+    "pos": "NOUN"
+  },
+  "킥보드": {
+    "pos": "NOUN"
+  },
+  "롤러스케이트": {
+    "pos": "NOUN"
+  },
+  "스케이트보드": {
+    "pos": "NOUN"
+  },
+  "것": {
+    "pos": "NOUN"
+  },
+  "관점": {
+    "pos": "NOUN"
+  },
+  "내용": {
+    "pos": "NOUN"
+  },
+  "객체": {
+    "pos": "NOUN"
+  },
+  "부분": {
+    "pos": "NOUN"
+  },
+  "분야": {
+    "pos": "NOUN"
+  },
+  "단어": {
+    "pos": "NOUN"
+  },
+  "이름": {
+    "pos": "NOUN"
+  },
+  "코드": {
+    "pos": "NOUN"
+  },
+  "비밀": {
+    "pos": "NOUN"
+  },
+  "엄격함": {
+    "pos": "NOUN"
+  },
+  "현재": {
+    "pos": "NOUN"
+  },
+  "과거": {
+    "pos": "NOUN"
+  },
+  "미래": {
+    "pos": "NOUN"
+  },
+  "기회": {
+    "pos": "NOUN"
+  },
+  "시간": {
+    "pos": "NOUN"
+  },
+  "활동": {
+    "pos": "NOUN"
+  },
+  "행위": {
+    "pos": "NOUN"
+  },
+  "프로그램": {
+    "pos": "NOUN"
+  },
+  "프로젝트": {
+    "pos": "NOUN"
+  },
+  "동의": {
+    "pos": "NOUN"
+  },
+  "태도": {
+    "pos": "NOUN"
+  },
+  "주의": {
+    "pos": "NOUN"
+  },
+  "재능": {
+    "pos": "NOUN"
+  },
+  "개념": {
+    "pos": "NOUN"
+  },
+  "주제": {
+    "pos": "NOUN"
+  },
+  "조건": {
+    "pos": "NOUN"
+  },
+  "사건": {
+    "pos": "NOUN"
+  },
+  "세트": {
+    "pos": "NOUN"
+  },
+  "창조": {
+    "pos": "NOUN"
+  },
+  "파멸": {
+    "pos": "NOUN"
+  },
+  "원천": {
+    "pos": "NOUN"
+  },
+  "운명": {
+    "pos": "NOUN"
+  },
+  "메타": {
+    "pos": "NOUN"
+  },
+  "목표": {
+    "pos": "NOUN"
+  },
+  "기능": {
+    "pos": "NOUN"
+  },
+  "관계": {
+    "pos": "NOUN"
+  },
+  "현실": {
+    "pos": "NOUN"
+  },
+  "상황": {
+    "pos": "NOUN"
+  },
+  "문제": {
+    "pos": "NOUN"
+  },
+  "노력": {
+    "pos": "NOUN"
+  },
+  "해결": {
+    "pos": "NOUN"
+  },
+  "효과": {
+    "pos": "NOUN"
+  },
+  "성과": {
+    "pos": "NOUN"
+  },
+  "성취": {
+    "pos": "NOUN"
+  },
+  "성공": {
+    "pos": "NOUN"
+  },
+  "실패": {
+    "pos": "NOUN"
+  },
+  "원인": {
+    "pos": "NOUN"
+  },
+  "결과": {
+    "pos": "NOUN"
+  },
+  "혜택": {
+    "pos": "NOUN"
+  },
+  "해를 입히다": {
+    "pos": "VERB"
+  },
+  "품질": {
+    "pos": "NOUN"
+  },
+  "유형": {
+    "pos": "NOUN"
+  },
+  "공격": {
+    "pos": "NOUN"
+  },
+  "방어": {
+    "pos": "NOUN"
+  },
+  "평화": {
+    "pos": "NOUN"
+  },
+  "분쟁": {
+    "pos": "NOUN"
+  },
+  "전쟁": {
+    "pos": "NOUN"
+  },
+  "성미": {
+    "pos": "NOUN"
+  },
+  "특징": {
+    "pos": "NOUN"
+  },
+  "위기": {
+    "pos": "NOUN"
+  },
+  "발전": {
+    "pos": "NOUN"
+  },
+  "진전": {
+    "pos": "NOUN"
+  },
+  "진보": {
+    "pos": "NOUN"
+  },
+  "후퇴": {
+    "pos": "NOUN"
+  },
+  "개선": {
+    "pos": "NOUN"
+  },
+  "악화": {
+    "pos": "NOUN"
+  },
+  "원칙": {
+    "pos": "NOUN"
+  },
+  "진행": {
+    "pos": "NOUN"
+  },
+  "지느러미": {
+    "pos": "NOUN"
+  },
+  "단계": {
+    "pos": "NOUN"
+  },
+  "위상": {
+    "pos": "NOUN"
+  },
+  "통과": {
+    "pos": "NOUN"
+  },
+  "시리즈": {
+    "pos": "NOUN"
+  },
+  "순서": {
+    "pos": "NOUN"
+  },
+  "등급": {
+    "pos": "NOUN"
+  },
+  "수준": {
+    "pos": "NOUN"
+  },
+  "과정": {
+    "pos": "NOUN"
+  },
+  "헤어짐": {
+    "pos": "NOUN"
+  },
+  "중단": {
+    "pos": "NOUN"
+  },
+  "기다림": {
+    "pos": "NOUN"
+  },
+  "차이": {
+    "pos": "NOUN"
+  },
+  "유사함": {
+    "pos": "NOUN"
+  },
+  "감정이 서린": {
+    "pos": "ADJECTIVE"
+  },
+  "느낌": {
+    "pos": "NOUN"
+  },
+  "전망": {
+    "pos": "NOUN"
+  },
+  "청각": {
+    "pos": "NOUN"
+  },
+  "센스": {
+    "pos": "NOUN"
+  },
+  "감각": {
+    "pos": "NOUN"
+  },
+  "고통": {
+    "pos": "NOUN"
+  },
+  "의식": {
+    "pos": "NOUN"
+  },
+  "인식": {
+    "pos": "NOUN"
+  },
+  "이미지": {
+    "pos": "NOUN"
+  },
+  "힘": {
+    "pos": "NOUN"
+  },
+  "능력": {
+    "pos": "NOUN"
+  },
+  "존재": {
+    "pos": "NOUN"
+  },
+  "실재": {
+    "pos": "NOUN"
+  },
+  "경험": {
+    "pos": "NOUN"
+  },
+  "가능성": {
+    "pos": "NOUN"
+  },
+  "확률": {
+    "pos": "NOUN"
+  },
+  "진실": {
+    "pos": "NOUN"
+  },
+  "거짓": {
+    "pos": "NOUN"
+  },
+  "이유": {
+    "pos": "NOUN"
+  },
+  "적중": {
+    "pos": "NOUN"
+  },
+  "오류": {
+    "pos": "NOUN"
+  },
+  "필요성": {
+    "pos": "NOUN"
+  },
+  "부족함": {
+    "pos": "NOUN"
+  },
+  "의미": {
+    "pos": "NOUN"
+  },
+  "인격": {
+    "pos": "NOUN"
+  },
+  "생각": {
+    "pos": "NOUN"
+  },
+  "기억력": {
+    "pos": "NOUN"
+  },
+  "기억": {
+    "pos": "NOUN"
+  },
+  "소망": {
+    "pos": "NOUN"
+  },
+  "기쁨": {
+    "pos": "NOUN"
+  },
+  "슬픔": {
+    "pos": "NOUN"
+  },
+  "화": {
+    "pos": "NOUN"
+  },
+  "즐거움": {
+    "pos": "NOUN"
+  },
+  "공감": {
+    "pos": "NOUN"
+  },
+  "흥미": {
+    "pos": "NOUN"
+  },
+  "심심함": {
+    "pos": "NOUN"
+  },
+  "피로": {
+    "pos": "NOUN"
+  },
+  "놀람": {
+    "pos": "NOUN"
+  },
+  "놀라움": {
+    "pos": "NOUN"
+  },
+  "안전": {
+    "pos": "NOUN"
+  },
+  "신뢰": {
+    "pos": "NOUN"
+  },
+  "두려움": {
+    "pos": "NOUN"
+  },
+  "예시": {
+    "pos": "NOUN"
+  },
+  "사회": {
+    "pos": "NOUN"
+  },
+  "공동체": {
+    "pos": "NOUN"
+  },
+  "모임": {
+    "pos": "NOUN"
+  },
+  "만남": {
+    "pos": "NOUN"
+  },
+  "구조": {
+    "pos": "NOUN"
+  },
+  "행정": {
+    "pos": "NOUN"
+  },
+  "조직": {
+    "pos": "NOUN"
+  },
+  "협회": {
+    "pos": "NOUN"
+  },
+  "기업": {
+    "pos": "NOUN"
+  },
+  "팀": {
+    "pos": "NOUN"
+  },
+  "권한": {
+    "pos": "NOUN"
+  },
+  "화물": {
+    "pos": "NOUN"
+  },
+  "캠페인": {
+    "pos": "NOUN"
+  },
+  "클럽": {
+    "pos": "NOUN"
+  },
+  "위원회": {
+    "pos": "NOUN"
+  },
+  "의회": {
+    "pos": "NOUN"
+  },
+  "조언": {
+    "pos": "NOUN"
+  },
+  "당": {
+    "pos": "NOUN"
+  },
+  "나라": {
+    "pos": "NOUN"
+  },
+  "국가": {
+    "pos": "NOUN"
+  },
+  "정부": {
+    "pos": "NOUN"
+  },
+  "상태": {
+    "pos": "NOUN"
+  },
+  "도": {
+    "pos": "NOUN"
+  },
+  "부서": {
+    "pos": "NOUN"
+  },
+  "구": {
+    "pos": "NOUN"
+  },
+  "민주주의": {
+    "pos": "NOUN"
+  },
+  "독재": {
+    "pos": "NOUN"
+  },
+  "정치": {
+    "pos": "NOUN"
+  },
+  "수도": {
+    "pos": "NOUN"
+  },
+  "도시": {
+    "pos": "NOUN"
+  },
+  "인구": {
+    "pos": "NOUN"
+  },
+  "마을": {
+    "pos": "NOUN"
+  },
+  "빌라": {
+    "pos": "NOUN"
+  },
+  "의무": {
+    "pos": "NOUN"
+  },
+  "자유": {
+    "pos": "NOUN"
+  },
+  "권리": {
+    "pos": "NOUN"
+  },
+  "허가": {
+    "pos": "NOUN"
+  },
+  "금지": {
+    "pos": "NOUN"
+  },
+  "헌법": {
+    "pos": "NOUN"
+  },
+  "법": {
+    "pos": "NOUN"
+  },
+  "령": {
+    "pos": "NOUN"
+  },
+  "표준": {
+    "pos": "NOUN"
+  },
+  "의류": {
+    "pos": "NOUN"
+  },
+  "선물": {
+    "pos": "NOUN"
+  },
+  "소매": {
+    "pos": "NOUN"
+  },
+  "옷깃": {
+    "pos": "NOUN"
+  },
+  "버튼": {
+    "pos": "NOUN"
+  },
+  "닫기": {
+    "pos": "NOUN"
+  },
+  "지퍼": {
+    "pos": "NOUN"
+  },
+  "벨트": {
+    "pos": "NOUN"
+  },
+  "구두": {
+    "pos": "NOUN"
+  },
+  "안경": {
+    "pos": "NOUN"
+  },
+  "바지": {
+    "pos": "NOUN"
+  },
+  "셔츠": {
+    "pos": "NOUN"
+  },
+  "티셔츠": {
+    "pos": "NOUN"
+  },
+  "운동화": {
+    "pos": "NOUN"
+  },
+  "끈": {
+    "pos": "NOUN"
+  },
+  "외투": {
+    "pos": "NOUN"
+  },
+  "자켓": {
+    "pos": "NOUN"
+  },
+  "양말": {
+    "pos": "NOUN"
+  },
+  "팬티": {
+    "pos": "NOUN"
+  },
+  "속옷": {
+    "pos": "NOUN"
+  },
+  "브래지어": {
+    "pos": "NOUN"
+  },
+  "스커트": {
+    "pos": "NOUN"
+  },
+  "드레스": {
+    "pos": "NOUN"
+  },
+  "저지": {
+    "pos": "NOUN"
+  },
+  "청바지": {
+    "pos": "NOUN"
+  },
+  "휠": {
+    "pos": "NOUN"
+  },
+  "호주머니": {
+    "pos": "NOUN"
+  },
+  "수영복": {
+    "pos": "NOUN"
+  },
+  "스카프": {
+    "pos": "NOUN"
+  },
+  "모자": {
+    "pos": "NOUN"
+  },
+  "장갑": {
+    "pos": "NOUN"
+  },
+  "넥타이": {
+    "pos": "NOUN"
+  },
+  "가방": {
+    "pos": "NOUN"
+  },
+  "보닛": {
+    "pos": "NOUN"
+  },
+  "신발": {
+    "pos": "NOUN"
+  },
+  "주유소": {
+    "pos": "NOUN"
+  },
+  "변호사": {
+    "pos": "NOUN"
+  },
+  "여배우": {
+    "pos": "NOUN"
+  },
+  "배우": {
+    "pos": "NOUN"
+  },
+  "행정적": {
+    "pos": "ADJECTIVE"
+  },
+  "건축가": {
+    "pos": "NOUN"
+  },
+  "우주비행사": {
+    "pos": "NOUN"
+  },
+  "청소부": {
+    "pos": "NOUN"
+  },
+  "생물학자": {
+    "pos": "NOUN"
+  },
+  "카운터": {
+    "pos": "NOUN"
+  },
+  "종업원": {
+    "pos": "NOUN"
+  },
+  "정육점주인": {
+    "pos": "NOUN"
+  },
+  "목수": {
+    "pos": "NOUN"
+  },
+  "우편 배달원": {
+    "pos": "NOUN"
+  },
+  "과학자": {
+    "pos": "NOUN"
+  },
+  "요리사": {
+    "pos": "NOUN"
+  },
+  "치과의사": {
+    "pos": "NOUN"
+  },
+  "종속적인": {
+    "pos": "ADJECTIVE"
+  },
+  "전기공사자": {
+    "pos": "NOUN"
+  },
+  "사업가": {
+    "pos": "NOUN"
+  },
+  "의사": {
+    "pos": "NOUN"
+  },
+  "배관공": {
+    "pos": "NOUN"
+  },
+  "사진사": {
+    "pos": "NOUN"
+  },
+  "공학자": {
+    "pos": "NOUN"
+  },
+  "판사": {
+    "pos": "NOUN"
+  },
+  "교수": {
+    "pos": "NOUN"
+  },
+  "기계학": {
+    "pos": "NOUN"
+  },
+  "제빵사": {
+    "pos": "NOUN"
+  },
+  "미용사": {
+    "pos": "NOUN"
+  },
+  "기자": {
+    "pos": "NOUN"
+  },
+  "화가": {
+    "pos": "NOUN"
+  },
+  "경찰": {
+    "pos": "NOUN"
+  },
+  "프로그래머": {
+    "pos": "NOUN"
+  },
+  "정치인": {
+    "pos": "NOUN"
+  },
+  "장관": {
+    "pos": "NOUN"
+  },
+  "감독": {
+    "pos": "NOUN"
+  },
+  "하원의원": {
+    "pos": "NOUN"
+  },
+  "상원의원": {
+    "pos": "NOUN"
+  },
+  "의원": {
+    "pos": "NOUN"
+  },
+  "국회의원": {
+    "pos": "NOUN"
+  },
+  "시장": {
+    "pos": "NOUN"
+  },
+  "~의 앞에": {
+    "pos": "ADPOSITION"
+  },
+  "~와 함께": {
+    "pos": "ADPOSITION"
+  },
+  "대립": {
+    "pos": "NOUN"
+  },
+  "~의": {
+    "pos": "ADPOSITION"
+  },
+  "쭉": {
+    "pos": "ADPOSITION"
+  },
+  "사이에": {
+    "pos": "ADPOSITION"
+  },
+  "향하여": {
+    "pos": "ADPOSITION"
+  },
+  "~까지": {
+    "pos": "ADPOSITION"
+  },
+  "통하여": {
+    "pos": "ADPOSITION"
+  },
+  "~을 위하여": {
+    "pos": "ADPOSITION"
+  },
+  "때문에": {
+    "pos": "ADPOSITION"
+  },
+  "따르면": {
+    "pos": "ADPOSITION"
+  },
+  "~없이": {
+    "pos": "ADPOSITION"
+  },
+  "위에": {
+    "pos": "ADPOSITION"
+  },
+  "후에": {
+    "pos": "ADPOSITION"
+  },
+  "도지사": {
+    "pos": "NOUN"
+  },
+  "하나": {
+    "pos": "NOUN"
+  },
+  "둘": {
+    "pos": "NOUN"
+  },
+  "셋": {
+    "pos": "NOUN"
+  },
+  "넷": {
+    "pos": "NOUN"
+  },
+  "다섯": {
+    "pos": "NOUN"
+  },
+  "육": {
+    "pos": "NOUN"
+  },
+  "칠": {
+    "pos": "NOUN"
+  },
+  "여덟": {
+    "pos": "NOUN"
+  },
+  "아홉": {
+    "pos": "NOUN"
+  },
+  "십": {
+    "pos": "NOUN"
+  },
+  "1월": {
+    "pos": "NOUN"
+  },
+  "2월": {
+    "pos": "NOUN"
+  },
+  "3월": {
+    "pos": "NOUN"
+  },
+  "4월": {
+    "pos": "NOUN"
+  },
+  "5월": {
+    "pos": "NOUN"
+  },
+  "6월": {
+    "pos": "NOUN"
+  },
+  "7월": {
+    "pos": "NOUN"
+  },
+  "8월": {
+    "pos": "NOUN"
+  },
+  "9월": {
+    "pos": "NOUN"
+  },
+  "10월": {
+    "pos": "NOUN"
+  },
+  "11월": {
+    "pos": "NOUN"
+  },
+  "12월": {
+    "pos": "NOUN"
+  },
+  "페소": {
+    "pos": "NOUN"
+  },
+  "킬로미터": {
+    "pos": "NOUN"
+  },
+  "센티미터": {
+    "pos": "NOUN"
+  },
+  "밀리미터": {
+    "pos": "NOUN"
+  },
+  "리터": {
+    "pos": "NOUN"
+  },
+  "밀리리터": {
+    "pos": "NOUN"
+  },
+  "그램": {
+    "pos": "NOUN"
+  },
+  "킬로": {
+    "pos": "NOUN"
+  },
+  "수량": {
+    "pos": "NOUN"
+  },
+  "총량": {
+    "pos": "NOUN"
+  },
+  "측정": {
+    "pos": "NOUN"
+  },
+  "물": {
+    "pos": "NOUN"
+  },
+  "얼음": {
+    "pos": "NOUN"
+  },
+  "증기": {
+    "pos": "NOUN"
+  },
+  "불": {
+    "pos": "NOUN"
+  },
+  "가스": {
+    "pos": "NOUN"
+  },
+  "공기": {
+    "pos": "NOUN"
+  },
+  "땅": {
+    "pos": "NOUN"
+  },
+  "금속": {
+    "pos": "NOUN"
+  },
+  "철": {
+    "pos": "NOUN"
+  },
+  "금": {
+    "pos": "NOUN"
+  },
+  "은색": {
+    "pos": "NOUN"
+  },
+  "납": {
+    "pos": "NOUN"
+  },
+  "소금": {
+    "pos": "NOUN"
+  },
+  "흙": {
+    "pos": "NOUN"
+  },
+  "진흙": {
+    "pos": "NOUN"
+  },
+  "학교": {
+    "pos": "NOUN"
+  },
+  "바\u001f": {
+    "pos": "NOUN"
+  },
+  "카페": {
+    "pos": "NOUN"
+  },
+  "식당": {
+    "pos": "NOUN"
+  },
+  "운전학원": {
+    "pos": "NOUN"
+  },
+  "시청": {
+    "pos": "NOUN"
+  },
+  "은행": {
+    "pos": "NOUN"
+  },
+  "도서관": {
+    "pos": "NOUN"
+  },
+  "슈퍼마켓": {
+    "pos": "NOUN"
+  },
+  "정육점": {
+    "pos": "NOUN"
+  },
+  "과일가게": {
+    "pos": "NOUN"
+  },
+  "고기가공소": {
+    "pos": "NOUN"
+  },
+  "수산물점": {
+    "pos": "NOUN"
+  },
+  "제과점": {
+    "pos": "NOUN"
+  },
+  "경찰서": {
+    "pos": "NOUN"
+  },
+  "흡연실": {
+    "pos": "NOUN"
+  },
+  "미용실": {
+    "pos": "NOUN"
+  },
+  "약국": {
+    "pos": "NOUN"
+  },
+  "화원": {
+    "pos": "NOUN"
+  },
+  "사무실": {
+    "pos": "NOUN"
+  },
+  "가게": {
+    "pos": "NOUN"
+  },
+  "약초상점": {
+    "pos": "NOUN"
+  },
+  "호텔": {
+    "pos": "NOUN"
+  },
+  "병원": {
+    "pos": "NOUN"
+  },
+  "보석점": {
+    "pos": "NOUN"
+  },
+  "책방": {
+    "pos": "NOUN"
+  },
+  "기타": {
+    "pos": "NOUN"
+  },
+  "피아노": {
+    "pos": "NOUN"
+  },
+  "바이올린": {
+    "pos": "NOUN"
+  },
+  "배터리": {
+    "pos": "NOUN"
+  },
+  "플루트": {
+    "pos": "NOUN"
+  },
+  "트럼펫": {
+    "pos": "NOUN"
+  },
+  "클라리넷": {
+    "pos": "NOUN"
+  },
+  "색소폰": {
+    "pos": "NOUN"
+  },
+  "책상": {
+    "pos": "NOUN"
+  },
+  "의자": {
+    "pos": "NOUN"
+  },
+  "식탁": {
+    "pos": "NOUN"
+  },
+  "카마": {
+    "pos": "NOUN"
+  },
+  "침실": {
+    "pos": "NOUN"
+  },
+  "거주지": {
+    "pos": "NOUN"
+  },
+  "방": {
+    "pos": "NOUN"
+  },
+  "패널": {
+    "pos": "NOUN"
+  },
+  "문": {
+    "pos": "NOUN"
+  },
+  "창": {
+    "pos": "NOUN"
+  },
+  "입구": {
+    "pos": "NOUN"
+  },
+  "가정": {
+    "pos": "NOUN"
+  },
+  "집": {
+    "pos": "NOUN"
+  },
+  "아파트": {
+    "pos": "NOUN"
+  },
+  "건물": {
+    "pos": "NOUN"
+  },
+  "건설": {
+    "pos": "NOUN"
+  },
+  "엘리베이터": {
+    "pos": "NOUN"
+  },
+  "계단": {
+    "pos": "NOUN"
+  },
+  "장치": {
+    "pos": "NOUN"
+  },
+  "카메라": {
+    "pos": "NOUN"
+  },
+  "바늘": {
+    "pos": "NOUN"
+  },
+  "못": {
+    "pos": "NOUN"
+  },
+  "실": {
+    "pos": "NOUN"
+  },
+  "밧줄": {
+    "pos": "NOUN"
+  },
+  "줄": {
+    "pos": "NOUN"
+  },
+  "새끼줄": {
+    "pos": "NOUN"
+  },
+  "주머니": {
+    "pos": "NOUN"
+  },
+  "화면": {
+    "pos": "NOUN"
+  },
+  "손잡이": {
+    "pos": "NOUN"
+  },
+  "열쇠": {
+    "pos": "NOUN"
+  },
+  "무기": {
+    "pos": "NOUN"
+  },
+  "자연": {
+    "pos": "NOUN"
+  },
+  "구장": {
+    "pos": "NOUN"
+  },
+  "숲": {
+    "pos": "NOUN"
+  },
+  "밀림": {
+    "pos": "NOUN"
+  },
+  "정글": {
+    "pos": "NOUN"
+  },
+  "사막": {
+    "pos": "NOUN"
+  },
+  "해안": {
+    "pos": "NOUN"
+  },
+  "해변": {
+    "pos": "NOUN"
+  },
+  "강": {
+    "pos": "NOUN"
+  },
+  "호수": {
+    "pos": "NOUN"
+  },
+  "늪": {
+    "pos": "NOUN"
+  },
+  "해양": {
+    "pos": "NOUN"
+  },
+  "바다": {
+    "pos": "NOUN"
+  },
+  "산": {
+    "pos": "NOUN"
+  },
+  "산림": {
+    "pos": "NOUN"
+  },
+  "인류": {
+    "pos": "NOUN"
+  },
+  "인간": {
+    "pos": "NOUN"
+  },
+  "성격": {
+    "pos": "NOUN"
+  },
+  "사람": {
+    "pos": "NOUN"
+  },
+  "남자": {
+    "pos": "NOUN"
+  },
+  "여성": {
+    "pos": "NOUN"
+  },
+  "아기": {
+    "pos": "NOUN"
+  },
+  "소녀": {
+    "pos": "NOUN"
+  },
+  "아이": {
+    "pos": "NOUN"
+  },
+  "청소년": {
+    "pos": "NOUN"
+  },
+  "어른스러운": {
+    "pos": "ADJECTIVE"
+  },
+  "성인": {
+    "pos": "NOUN"
+  },
+  "노인": {
+    "pos": "NOUN"
+  },
+  "늙은": {
+    "pos": "NOUN"
+  },
+  "부인": {
+    "pos": "NOUN"
+  },
+  "동물": {
+    "pos": "NOUN"
+  },
+  "아저씨": {
+    "pos": "NOUN"
+  },
+  "신사": {
+    "pos": "NOUN"
+  },
+  "귀부인": {
+    "pos": "NOUN"
+  },
+  "개인": {
+    "pos": "NOUN"
+  },
+  "코미디": {
+    "pos": "NOUN"
+  },
+  "드라마": {
+    "pos": "NOUN"
+  },
+  "음악": {
+    "pos": "NOUN"
+  },
+  "공포": {
+    "pos": "NOUN"
+  },
+  "긴장감": {
+    "pos": "NOUN"
+  },
+  "상상": {
+    "pos": "NOUN"
+  },
+  "역사적": {
+    "pos": "ADJECTIVE"
+  },
+  "로맨틱": {
+    "pos": "ADJECTIVE"
+  },
+  "가족": {
+    "pos": "NOUN"
+  },
+  "친구": {
+    "pos": "NOUN"
+  },
+  "벗": {
+    "pos": "NOUN"
+  },
+  "면식": {
+    "pos": "NOUN"
+  },
+  "알고 있는": {
+    "pos": "ADJECTIVE"
+  },
+  "동료": {
+    "pos": "NOUN"
+  },
+  "커플": {
+    "pos": "NOUN"
+  },
+  "아내": {
+    "pos": "NOUN"
+  },
+  "남편": {
+    "pos": "NOUN"
+  },
+  "결혼": {
+    "pos": "NOUN"
+  },
+  "사랑": {
+    "pos": "NOUN"
+  },
+  "아버지": {
+    "pos": "NOUN"
+  },
+  "어머니": {
+    "pos": "NOUN"
+  },
+  "자매": {
+    "pos": "NOUN"
+  },
+  "형제": {
+    "pos": "NOUN"
+  },
+  "피하다": {
+    "pos": "VERB"
+  },
+  "아들": {
+    "pos": "NOUN"
+  },
+  "할머니": {
+    "pos": "NOUN"
+  },
+  "할아버지": {
+    "pos": "NOUN"
+  },
+  "증조할머니": {
+    "pos": "NOUN"
+  },
+  "증조할아버지": {
+    "pos": "NOUN"
+  },
+  "손녀": {
+    "pos": "NOUN"
+  },
+  "손자": {
+    "pos": "NOUN"
+  },
+  "증손녀": {
+    "pos": "NOUN"
+  },
+  "증손주": {
+    "pos": "NOUN"
+  },
+  "사촌누나": {
+    "pos": "NOUN"
+  },
+  "사촌형": {
+    "pos": "NOUN"
+  },
+  "이모": {
+    "pos": "NOUN"
+  },
+  "삼촌": {
+    "pos": "NOUN"
+  },
+  "조카녀": {
+    "pos": "NOUN"
+  },
+  "조카": {
+    "pos": "NOUN"
+  },
+  "장소": {
+    "pos": "NOUN"
+  },
+  "위치": {
+    "pos": "NOUN"
+  },
+  "동선": {
+    "pos": "NOUN"
+  },
+  "속도": {
+    "pos": "NOUN"
+  },
+  "가속": {
+    "pos": "NOUN"
+  },
+  "방향": {
+    "pos": "NOUN"
+  },
+  "크기": {
+    "pos": "NOUN"
+  },
+  "길이": {
+    "pos": "NOUN"
+  },
+  "넓은": {
+    "pos": "NOUN"
+  },
+  "높이": {
+    "pos": "NOUN"
+  },
+  "넓이": {
+    "pos": "NOUN"
+  },
+  "다수": {
+    "pos": "NOUN"
+  },
+  "소수": {
+    "pos": "NOUN"
+  },
+  "증가": {
+    "pos": "NOUN"
+  },
+  "감소": {
+    "pos": "NOUN"
+  },
+  "성장": {
+    "pos": "NOUN"
+  },
+  "배경": {
+    "pos": "NOUN"
+  },
+  "경제": {
+    "pos": "NOUN"
+  },
+  "소비": {
+    "pos": "NOUN"
+  },
+  "수요": {
+    "pos": "NOUN"
+  },
+  "회사": {
+    "pos": "NOUN"
+  },
+  "무역": {
+    "pos": "NOUN"
+  },
+  "장": {
+    "pos": "NOUN"
+  },
+  "서비스": {
+    "pos": "NOUN"
+  },
+  "제품": {
+    "pos": "NOUN"
+  },
+  "생산": {
+    "pos": "NOUN"
+  },
+  "거래": {
+    "pos": "NOUN"
+  },
+  "돈": {
+    "pos": "NOUN"
+  },
+  "표": {
+    "pos": "NOUN"
+  },
+  "요금": {
+    "pos": "NOUN"
+  },
+  "가격": {
+    "pos": "NOUN"
+  },
+  "용기": {
+    "pos": "NOUN"
+  },
+  "월요일": {
+    "pos": "NOUN"
+  },
+  "화요일": {
+    "pos": "NOUN"
+  },
+  "수요일": {
+    "pos": "NOUN"
+  },
+  "목요일": {
+    "pos": "NOUN"
+  },
+  "금요일": {
+    "pos": "NOUN"
+  },
+  "토요일": {
+    "pos": "NOUN"
+  },
+  "일요일": {
+    "pos": "NOUN"
+  },
+  "당구": {
+    "pos": "NOUN"
+  },
+  "복싱": {
+    "pos": "NOUN"
+  },
+  "자전거타기": {
+    "pos": "NOUN"
+  },
+  "체육": {
+    "pos": "NOUN"
+  },
+  "고비": {
+    "pos": "NOUN"
+  },
+  "펜싱": {
+    "pos": "NOUN"
+  },
+  "스키": {
+    "pos": "NOUN"
+  },
+  "운동": {
+    "pos": "NOUN"
+  },
+  "골프": {
+    "pos": "NOUN"
+  },
+  "볼로스": {
+    "pos": "NOUN"
+  },
+  "하키": {
+    "pos": "NOUN"
+  },
+  "스케이팅": {
+    "pos": "NOUN"
+  },
+  "하이킹": {
+    "pos": "NOUN"
+  },
+  "수영": {
+    "pos": "NOUN"
+  },
+  "카누": {
+    "pos": "NOUN"
+  },
+  "파도타기": {
+    "pos": "NOUN"
+  },
+  "벨라": {
+    "pos": "NOUN"
+  },
+  "수구": {
+    "pos": "NOUN"
+  },
+  "농구": {
+    "pos": "NOUN"
+  },
+  "배드민턴": {
+    "pos": "NOUN"
+  },
+  "핸드볼": {
+    "pos": "NOUN"
+  },
+  "야구": {
+    "pos": "NOUN"
+  },
+  "크리켓": {
+    "pos": "NOUN"
+  },
+  "축구": {
+    "pos": "NOUN"
+  },
+  "럭비": {
+    "pos": "NOUN"
+  },
+  "테니스": {
+    "pos": "NOUN"
+  },
+  "배구": {
+    "pos": "NOUN"
+  },
+  "몸": {
+    "pos": "NOUN"
+  },
+  "다리": {
+    "pos": "NOUN"
+  },
+  "발": {
+    "pos": "NOUN"
+  },
+  "뒤꿈치": {
+    "pos": "NOUN"
+  },
+  "여드름": {
+    "pos": "NOUN"
+  },
+  "무릎": {
+    "pos": "NOUN"
+  },
+  "허벅지": {
+    "pos": "NOUN"
+  },
+  "머리": {
+    "pos": "NOUN"
+  },
+  "얼굴": {
+    "pos": "NOUN"
+  },
+  "입": {
+    "pos": "NOUN"
+  },
+  "입술": {
+    "pos": "NOUN"
+  },
+  "이빨": {
+    "pos": "NOUN"
+  },
+  "눈": {
+    "pos": "NOUN"
+  },
+  "코": {
+    "pos": "NOUN"
+  },
+  "수염": {
+    "pos": "NOUN"
+  },
+  "콧수염": {
+    "pos": "NOUN"
+  },
+  "머리카락": {
+    "pos": "NOUN"
+  },
+  "귀": {
+    "pos": "NOUN"
+  },
+  "뇌": {
+    "pos": "NOUN"
+  },
+  "위장": {
+    "pos": "NOUN"
+  },
+  "팔": {
+    "pos": "NOUN"
+  },
+  "팔꿈치": {
+    "pos": "NOUN"
+  },
+  "어깨": {
+    "pos": "NOUN"
+  },
+  "손톱": {
+    "pos": "NOUN"
+  },
+  "손": {
+    "pos": "NOUN"
+  },
+  "인형": {
+    "pos": "NOUN"
+  },
+  "손바닥": {
+    "pos": "NOUN"
+  },
+  "손목": {
+    "pos": "NOUN"
+  },
+  "엉덩이": {
+    "pos": "NOUN"
+  },
+  "복부": {
+    "pos": "NOUN"
+  },
+  "간": {
+    "pos": "NOUN"
+  },
+  "근육": {
+    "pos": "NOUN"
+  },
+  "목": {
+    "pos": "NOUN"
+  },
+  "마음": {
+    "pos": "NOUN"
+  },
+  "흉부": {
+    "pos": "NOUN"
+  },
+  "허리": {
+    "pos": "NOUN"
+  },
+  "둔부": {
+    "pos": "NOUN"
+  },
+  "등": {
+    "pos": "NOUN"
+  },
+  "피부": {
+    "pos": "NOUN"
+  },
+  "뼈": {
+    "pos": "NOUN"
+  },
+  "~이지만": {
+    "pos": "CONJUNCTION"
+  },
+  "어떻게": {
+    "pos": "CONJUNCTION"
+  },
+  "언제": {
+    "pos": "CONJUNCTION"
+  },
+  "그러니까": {
+    "pos": "CONJUNCTION"
+  },
+  "제외": {
+    "pos": "CONJUNCTION"
+  },
+  "너": {
+    "pos": "NOUN"
+  },
+  "그러나": {
+    "pos": "CONJUNCTION"
+  },
+  "왜": {
+    "pos": "CONJUNCTION"
+  },
+  "그럼": {
+    "pos": "CONJUNCTION"
+  },
+  "뭐": {
+    "pos": "CONJUNCTION"
+  },
+  "제외하고": {
+    "pos": "CONJUNCTION"
+  },
+  "응": {
+    "pos": "CONJUNCTION"
+  },
+  "이외에는": {
+    "pos": "CONJUNCTION"
+  },
+  "색": {
+    "pos": "NOUN"
+  },
+  "하얀": {
+    "pos": "NOUN"
+  },
+  "검은": {
+    "pos": "NOUN"
+  },
+  "회색": {
+    "pos": "NOUN"
+  },
+  "빨강": {
+    "pos": "NOUN"
+  },
+  "주황색": {
+    "pos": "NOUN"
+  },
+  "노란색": {
+    "pos": "NOUN"
+  },
+  "초록": {
+    "pos": "NOUN"
+  },
+  "하늘색": {
+    "pos": "NOUN"
+  },
+  "파랑": {
+    "pos": "NOUN"
+  },
+  "보라색": {
+    "pos": "NOUN"
+  },
+  "장미빛": {
+    "pos": "NOUN"
+  },
+  "갈색": {
+    "pos": "NOUN"
+  },
+  "명사": {
+    "pos": "NOUN"
+  },
+  "형용사": {
+    "pos": "NOUN"
+  },
+  "부사": {
+    "pos": "NOUN"
+  },
+  "전치사": {
+    "pos": "NOUN"
+  },
+  "접속사": {
+    "pos": "NOUN"
+  },
+  "동사": {
+    "pos": "NOUN"
+  },
+  "대명사": {
+    "pos": "NOUN"
+  },
+  "한정사": {
+    "pos": "NOUN"
+  },
+  "지진": {
+    "pos": "NOUN"
+  },
+  "홍수": {
+    "pos": "NOUN"
+  },
+  "태풍": {
+    "pos": "NOUN"
+  },
+  "토네이도": {
+    "pos": "NOUN"
+  },
+  "해일": {
+    "pos": "NOUN"
+  },
+  "화재": {
+    "pos": "NOUN"
+  },
+  "가뭄": {
+    "pos": "NOUN"
+  },
+  "산사태": {
+    "pos": "NOUN"
+  },
+  "개": {
+    "pos": "NOUN"
+  },
+  "고양이": {
+    "pos": "NOUN"
+  },
+  "소": {
+    "pos": "NOUN"
+  },
+  "돼지": {
+    "pos": "NOUN"
+  },
+  "망아지": {
+    "pos": "NOUN"
+  },
+  "말": {
+    "pos": "NOUN"
+  },
+  "양": {
+    "pos": "NOUN"
+  },
+  "원숭이": {
+    "pos": "NOUN"
+  },
+  "암쥐": {
+    "pos": "NOUN"
+  },
+  "생쥐": {
+    "pos": "NOUN"
+  },
+  "호랑이": {
+    "pos": "NOUN"
+  },
+  "토끼": {
+    "pos": "NOUN"
+  },
+  "사슴": {
+    "pos": "NOUN"
+  },
+  "개구리": {
+    "pos": "NOUN"
+  },
+  "사자": {
+    "pos": "NOUN"
+  },
+  "기린": {
+    "pos": "NOUN"
+  },
+  "코끼리": {
+    "pos": "NOUN"
+  },
+  "새": {
+    "pos": "NOUN"
+  },
+  "닭": {
+    "pos": "NOUN"
+  },
+  "참새": {
+    "pos": "NOUN"
+  },
+  "까마귀": {
+    "pos": "NOUN"
+  },
+  "독수리": {
+    "pos": "NOUN"
+  },
+  "매": {
+    "pos": "NOUN"
+  },
+  "물고기": {
+    "pos": "NOUN"
+  },
+  "새우": {
+    "pos": "NOUN"
+  },
+  "랍스터": {
+    "pos": "NOUN"
+  },
+  "고등어": {
+    "pos": "NOUN"
+  },
+  "참치": {
+    "pos": "NOUN"
+  },
+  "오징어": {
+    "pos": "NOUN"
+  },
+  "문어": {
+    "pos": "NOUN"
+  },
+  "곤충": {
+    "pos": "NOUN"
+  },
+  "벌레": {
+    "pos": "NOUN"
+  },
+  "나비": {
+    "pos": "NOUN"
+  },
+  "나방": {
+    "pos": "NOUN"
+  },
+  "베짱이": {
+    "pos": "NOUN"
+  },
+  "거미": {
+    "pos": "NOUN"
+  },
+  "파리": {
+    "pos": "NOUN"
+  },
+  "모기": {
+    "pos": "NOUN"
+  },
+  "바퀴벌레": {
+    "pos": "NOUN"
+  },
+  "달팽이": {
+    "pos": "NOUN"
+  },
+  "민달팽이": {
+    "pos": "NOUN"
+  },
+  "땅벌레": {
+    "pos": "NOUN"
+  },
+  "도마뱀": {
+    "pos": "NOUN"
+  },
+  "뱀": {
+    "pos": "NOUN"
+  },
+  "악어": {
+    "pos": "NOUN"
+  },
+  "이전": {
+    "pos": "ADVERB"
+  },
+  "이전에": {
+    "pos": "ADVERB"
+  },
+  "목하": {
+    "pos": "ADVERB"
+  },
+  "지금": {
+    "pos": "ADVERB"
+  },
+  "곧장": {
+    "pos": "ADVERB"
+  },
+  "즉시": {
+    "pos": "ADVERB"
+  },
+  "벌써": {
+    "pos": "ADVERB"
+  },
+  "지금까지": {
+    "pos": "ADVERB"
+  },
+  "아직": {
+    "pos": "ADVERB"
+  },
+  "새로운": {
+    "pos": "ADVERB"
+  },
+  "동안": {
+    "pos": "ADVERB"
+  },
+  "나중에": {
+    "pos": "ADVERB"
+  },
+  "그런 다음": {
+    "pos": "ADVERB"
+  },
+  "금세": {
+    "pos": "ADVERB"
+  },
+  "늦게": {
+    "pos": "ADVERB"
+  },
+  "이른": {
+    "pos": "ADVERB"
+  },
+  "어제": {
+    "pos": "ADVERB"
+  },
+  "어젯밤": {
+    "pos": "ADVERB"
+  },
+  "오늘": {
+    "pos": "ADVERB"
+  },
+  "내일": {
+    "pos": "ADVERB"
+  },
+  "곧": {
+    "pos": "ADVERB"
+  },
+  "위": {
+    "pos": "ADVERB"
+  },
+  "밑": {
+    "pos": "ADVERB"
+  },
+  "앞으로": {
+    "pos": "ADVERB"
+  },
+  "뒤": {
+    "pos": "ADVERB"
+  },
+  "중간": {
+    "pos": "ADVERB"
+  },
+  "주위": {
+    "pos": "ADVERB"
+  },
+  "앞에": {
+    "pos": "ADVERB"
+  },
+  "가까이": {
+    "pos": "ADVERB"
+  },
+  "멀다": {
+    "pos": "ADVERB"
+  },
+  "안에": {
+    "pos": "ADVERB"
+  },
+  "밖": {
+    "pos": "ADVERB"
+  },
+  "여기 (yeogi)": {
+    "pos": "ADVERB"
+  },
+  "거기에": {
+    "pos": "ADVERB"
+  },
+  "저기": {
+    "pos": "ADVERB"
+  },
+  "더": {
+    "pos": "ADVERB"
+  },
+  "적게": {
+    "pos": "ADVERB"
+  },
+  "매우": {
+    "pos": "ADVERB"
+  },
+  "많은": {
+    "pos": "ADVERB"
+  },
+  "조금": {
+    "pos": "ADVERB"
+  },
+  "겨우": {
+    "pos": "ADVERB"
+  },
+  "알고": {
+    "pos": "ADVERB"
+  },
+  "거의": {
+    "pos": "ADVERB"
+  },
+  "대략": {
+    "pos": "ADVERB"
+  },
+  "정확히": {
+    "pos": "ADVERB"
+  },
+  "제법": {
+    "pos": "ADVERB"
+  },
+  "올바르게": {
+    "pos": "ADVERB"
+  },
+  "너무": {
+    "pos": "ADVERB"
+  },
+  "기타 등등": {
+    "pos": "ADVERB"
+  },
+  "단지": {
+    "pos": "ADVERB"
+  },
+  "그렇게": {
+    "pos": "ADVERB"
+  },
+  "그만큼": {
+    "pos": "ADVERB"
+  },
+  "모든": {
+    "pos": "ADVERB"
+  },
+  "아무것도": {
+    "pos": "ADVERB"
+  },
+  "뜨거운": {
+    "pos": "ADJECTIVE"
+  },
+  "추운": {
+    "pos": "ADJECTIVE"
+  },
+  "가볍다": {
+    "pos": "ADJECTIVE"
+  },
+  "무거운": {
+    "pos": "ADJECTIVE"
+  },
+  "부드러운": {
+    "pos": "ADJECTIVE"
+  },
+  "견고한": {
+    "pos": "ADJECTIVE"
+  },
+  "유연한": {
+    "pos": "ADJECTIVE"
+  },
+  "힘든": {
+    "pos": "ADJECTIVE"
+  },
+  "연한": {
+    "pos": "ADJECTIVE"
+  },
+  "더운": {
+    "pos": "ADJECTIVE"
+  },
+  "시원한": {
+    "pos": "ADJECTIVE"
+  },
+  "맛있다": {
+    "pos": "ADJECTIVE"
+  },
+  "끔찍한": {
+    "pos": "ADJECTIVE"
+  },
+  "달콤한": {
+    "pos": "ADJECTIVE"
+  },
+  "매운": {
+    "pos": "ADJECTIVE"
+  },
+  "짠": {
+    "pos": "ADJECTIVE"
+  },
+  "쓴": {
+    "pos": "ADJECTIVE"
+  },
+  "앞의": {
+    "pos": "ADJECTIVE"
+  },
+  "뒷부분의": {
+    "pos": "ADJECTIVE"
+  },
+  "다음의": {
+    "pos": "ADJECTIVE"
+  },
+  "가까운": {
+    "pos": "ADJECTIVE"
+  },
+  "아득한": {
+    "pos": "ADJECTIVE"
+  },
+  "뭉친": {
+    "pos": "ADJECTIVE"
+  },
+  "통일": {
+    "pos": "NOUN"
+  },
+  "분리된": {
+    "pos": "ADJECTIVE"
+  },
+  "먼": {
+    "pos": "ADJECTIVE"
+  },
+  "나의": {
+    "pos": "ADJECTIVE"
+  },
+  "너의": {
+    "pos": "ADJECTIVE"
+  },
+  "그의": {
+    "pos": "ADJECTIVE"
+  },
+  "우리의": {
+    "pos": "ADJECTIVE"
+  },
+  "당신들의": {
+    "pos": "ADJECTIVE"
+  },
+  "행복한": {
+    "pos": "ADJECTIVE"
+  },
+  "슬픈": {
+    "pos": "ADJECTIVE"
+  },
+  "고독한": {
+    "pos": "ADJECTIVE"
+  },
+  "만족": {
+    "pos": "ADJECTIVE"
+  },
+  "평온한": {
+    "pos": "ADJECTIVE"
+  },
+  "화난": {
+    "pos": "ADJECTIVE"
+  },
+  "평온함": {
+    "pos": "NOUN"
+  },
+  "불안한": {
+    "pos": "ADJECTIVE"
+  },
+  "걱정되는": {
+    "pos": "ADJECTIVE"
+  },
+  "흥미로운": {
+    "pos": "ADJECTIVE"
+  },
+  "심심한": {
+    "pos": "ADJECTIVE"
+  },
+  "기뻐하는": {
+    "pos": "ADJECTIVE"
+  },
+  "피곤한": {
+    "pos": "ADJECTIVE"
+  },
+  "놀라운": {
+    "pos": "ADJECTIVE"
+  },
+  "두려워함": {
+    "pos": "ADJECTIVE"
+  },
+  "안타까운": {
+    "pos": "ADJECTIVE"
+  },
+  "냄새나는": {
+    "pos": "ADJECTIVE"
+  },
+  "적다": {
+    "pos": "ADJECTIVE"
+  },
+  "많다": {
+    "pos": "ADJECTIVE"
+  },
+  "작다": {
+    "pos": "ADJECTIVE"
+  },
+  "크다": {
+    "pos": "ADJECTIVE"
+  },
+  "길다": {
+    "pos": "ADJECTIVE"
+  },
+  "짧다": {
+    "pos": "ADJECTIVE"
+  },
+  "높다": {
+    "pos": "ADJECTIVE"
+  },
+  "낮다": {
+    "pos": "ADJECTIVE"
+  },
+  "민첩하다": {
+    "pos": "ADJECTIVE"
+  },
+  "넓다": {
+    "pos": "ADJECTIVE"
+  },
+  "좁다": {
+    "pos": "ADJECTIVE"
+  },
+  "두껍다": {
+    "pos": "ADJECTIVE"
+  },
+  "얇다": {
+    "pos": "ADJECTIVE"
+  },
+  "깊다": {
+    "pos": "ADJECTIVE"
+  },
+  "얕다": {
+    "pos": "ADJECTIVE"
+  },
+  "빠르다": {
+    "pos": "ADJECTIVE"
+  },
+  "느리다": {
+    "pos": "ADJECTIVE"
+  },
+  "그림": {
+    "pos": "NOUN"
+  },
+  "원예": {
+    "pos": "NOUN"
+  },
+  "사진": {
+    "pos": "NOUN"
+  },
+  "독서": {
+    "pos": "NOUN"
+  },
+  "글쓰기": {
+    "pos": "NOUN"
+  },
+  "요리": {
+    "pos": "NOUN"
+  },
+  "그리기": {
+    "pos": "NOUN"
+  },
+  "낚시": {
+    "pos": "NOUN"
+  },
+  "요가": {
+    "pos": "NOUN"
+  },
+  "명상": {
+    "pos": "NOUN"
+  },
+  "체스": {
+    "pos": "NOUN"
+  },
+  "자수": {
+    "pos": "NOUN"
+  },
+  "게임": {
+    "pos": "NOUN"
+  },
+  "영화": {
+    "pos": "NOUN"
+  },
+  "볼펜": {
+    "pos": "NOUN"
+  },
+  "연필": {
+    "pos": "NOUN"
+  },
+  "노트": {
+    "pos": "NOUN"
+  },
+  "종이": {
+    "pos": "NOUN"
+  },
+  "지우개": {
+    "pos": "NOUN"
+  },
+  "연필깎이": {
+    "pos": "NOUN"
+  },
+  "자": {
+    "pos": "NOUN"
+  },
+  "폴더": {
+    "pos": "NOUN"
+  },
+  "클립": {
+    "pos": "NOUN"
+  },
+  "형광펜": {
+    "pos": "NOUN"
+  },
+  "수정액": {
+    "pos": "NOUN"
+  },
+  "스테이플러": {
+    "pos": "NOUN"
+  },
+  "가위": {
+    "pos": "NOUN"
+  },
+  "풀": {
+    "pos": "NOUN"
+  },
+  "테이프": {
+    "pos": "NOUN"
+  }
+}
