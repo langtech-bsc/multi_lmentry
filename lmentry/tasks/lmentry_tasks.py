@@ -574,7 +574,7 @@ if LANG == "eu":
     "first_letter": FirstLetter,
     "last_letter": LastLetter,
     }
-if LANG == "ko":
+elif LANG == "ko":
     core_tasks = {
     "sentence_containing": SentenceContaining,
     "sentence_not_containing": SentenceNotContaining,

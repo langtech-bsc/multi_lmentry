@@ -34,6 +34,7 @@ paper_models = {
     "EXAONE-3_5-7_8B-Instruct" : {"short_name": "EXAONE-3.5-7.8B-Instruct", "paper_name": "EXAONE-3.5-7.8B-Instruct", "predictor_name": "LGAI-EXAONE/EXAONE-3.5-7.8B-Instruct"},
     "SmolLM2-360M-Instruct" : {"short_name": "SmolLM2-360M-Instruct", "paper_name": "SmolLM2-360M-Instruct", "predictor_name": "HuggingFaceTB/SmolLM2-360M-Instruct"},
     "SmolLM2-1_7B-Instruct" : {"short_name": "SmolLM2-1.7B-Instruct", "paper_name": "SmolLM2-1.7B-Instruct", "predictor_name": "HuggingFaceTB/SmolLM2-1.7B-Instruct"},
+    "minerva-7b-instruct" : {"short_name": "minerva-7b-instruct", "paper_name": "minerva-7b-instruct", "predictor_name": "sapienzanlp/Minerva-7B-instruct-v1.0"},
 }
 
 simple_answer_index_task_names = [

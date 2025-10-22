@@ -3,3 +3,8 @@ numpy
 sentencepiece
 transformers
 flash-attn
+openai
+num2words
+pandas
+nltk
+jamo
