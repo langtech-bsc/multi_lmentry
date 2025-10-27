@@ -58,12 +58,6 @@ def main(num_procs):
 
     model_names = sorted(missing_predictions.keys())
     logging.info(f"scoring LMentry predictions for models {sorted(missing_predictions.keys())}")
-#     for model_name in model_names:
-#         score_all_predictions(task_names=sorted(all_tasks.keys()),
-#                             model_names=model_name,
-#                             num_processes=args.num_procs
-#                             )
-#         logging.info(f"finished scoring all LMentry predictions for models {model_name}")
 
     score_all_predictions(task_names=sorted(all_tasks.keys()),
                             model_names=model_names,
