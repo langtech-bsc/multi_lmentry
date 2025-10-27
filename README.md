@@ -38,6 +38,7 @@ cd multi_lmentry
 conda create -n multi_lmentry python==3.12
 conda activate multi_lmentry
 pip install -e .
+pip install flash-att
 ```
 
 ## Data Creation
