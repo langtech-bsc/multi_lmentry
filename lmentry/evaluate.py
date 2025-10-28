@@ -37,13 +37,11 @@ def check_for_missing_predictions(predictions_root_dir: Path):
 
 
 def main(num_procs):
-    if not TASKS_DATA_DIR.exists():
-        logging.error(f"LMentry tasks data not found at {TASKS_DATA_DIR}. aborting.\n")
-        return
     if not PREDICTIONS_ROOT_DIR.exists():
         logging.error(f"Predictions not found at {PREDICTIONS_ROOT_DIR}. aborting.\n")
         return
-    RESULTS_DIR.mkdir(exist_ok=True)
+
+    RESULTS_DIR.mkdir(parents=True, exist_ok=True)
 
     missing_predictions = check_for_missing_predictions(PREDICTIONS_ROOT_DIR)
     if any([len(missing_predictions[model_name]) > 0 for model_name in missing_predictions]):
@@ -57,9 +55,10 @@ def main(num_procs):
         return
 
     model_names = sorted(missing_predictions.keys())
+    
     logging.info(f"scoring LMentry predictions for models {sorted(missing_predictions.keys())}")
 
-    score_all_predictions(task_names=sorted(all_tasks.keys()),
+    score_all_predictions(task_names=["sentence_containing"], #sorted(all_tasks.keys()),
                             model_names=model_names,
                             num_processes=num_procs
                             )
@@ -70,8 +69,6 @@ def main(num_procs):
     create_robustness_csv(model_names)
     create_lmentry_scores_csv(model_names=model_names)
     create_argument_order_robustness_csv(model_names=model_names)
-    # todo add argument content robustness csv
-
 
 
 if __name__ == "__main__":

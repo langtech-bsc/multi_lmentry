@@ -7,8 +7,13 @@ from pathlib import Path
 
 import numpy as np
 
+from datasets import load_dataset
+
+from collections import defaultdict
+import ast
+
 from lmentry.constants import (
-    RESULTS_DIR, paper_models, get_short_model_name, PREDICTIONS_ROOT_DIR, TASKS_DATA_DIR
+    RESULTS_DIR, paper_models, get_short_model_name, PREDICTIONS_ROOT_DIR, TASKS_DATA_DIR, LANG
 )
 from lmentry.tasks.lmentry_tasks import all_tasks, core_tasks
 
@@ -24,23 +29,32 @@ def get_accuracy_and_certainty(task_name: str, model_name: str) -> dict:
     with open(prediction_path) as f_predictions:
         predictions = json.load(f_predictions)
 
-    # load task data (for ids and templates)
-    task_data_path = TASKS_DATA_DIR.joinpath(f"{task_name}.json")
-    with open(task_data_path) as f_task:
-        task_data = json.load(f_task)
-    examples = task_data["examples"]
-    settings = task_data["settings"]
+    # load task data (for ids and templates) # -> change with load_dataset 
+    # task_data_path = TASKS_DATA_DIR.joinpath(f"{task_name}.json")
+    # with open(task_data_path) as f_task:
+    #     task_data = json.load(f_task)
+    # examples = task_data["examples"]
+    # settings = task_data["settings"]
+    # ---
 
-    # get per-template counts of scores and certainty
-    num_input_templates = len(settings["input_templates"])
-    output = {f"template{i}": {"n_1s": 0,
-                               "n_0s": 0,
-                               "n_certain": 0,
-                               "n_certain_1s": 0,
-                               "n_certain_0s": 0,
-                               }
-              for i in range(num_input_templates)
-              }
+    ds = load_dataset(
+        "BSC-LT/multi_lmentry",
+        LANG,
+        data_files=f"{LANG}/{task_name}.jsonl"
+    )["train"]
+
+    examples = {ds_entry["id"]: {"input": ds_entry["input"], "metadata": ast.literal_eval(ds_entry["metadata"])} for ds_entry in ds}
+
+    output = defaultdict(lambda: 
+                {
+                    "n_1s": 0,
+                    "n_0s": 0,
+                    "n_certain": 0,
+                    "n_certain_1s": 0,
+                    "n_certain_0s": 0,
+                }
+            )
+
     for id_, prediction_entry in predictions.items():
         score = prediction_entry["score"]
         certainty = prediction_entry["certainty"]
@@ -52,7 +66,9 @@ def get_accuracy_and_certainty(task_name: str, model_name: str) -> dict:
             output[f"template{template_id}"][f"n_certain_{score}s"] += 1
 
     # calculate pre-template accuracy and certainty
-    num_examples_per_template = task_data["settings"]["num_examples_per_template"]
+    num_input_templates = len(output)
+    num_examples_per_template = len(examples)/num_input_templates
+    
     for template in output:
         output[template]["accuracy"] = output[template]["n_1s"] / num_examples_per_template
         output[template]["certainty"] = output[template]["n_certain"] / num_examples_per_template

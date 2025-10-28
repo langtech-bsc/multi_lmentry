@@ -5,8 +5,16 @@ import re
 from collections import Counter
 from pathlib import Path
 from typing import Tuple
+import ast
 
 from num2words import num2words
+
+from datasets import load_dataset
+
+from lmentry.constants import (
+    LANG
+)
+
 
 logging.basicConfig(
     format="%(asctime)s %(message)s", datefmt="%Y/%m/%d %H:%M:%S", level=logging.INFO
@@ -148,10 +156,15 @@ class LMentryScorer:
         truncate_predictions: bool = False,
         log_file_locations: bool = True,
     ):
+        
+        ds = load_dataset(
+            "BSC-LT/multi_lmentry",
+            LANG,
+            data_files=f"{LANG}/{task_data_path}.jsonl"
+        )["train"]
 
-        with open(task_data_path) as f_task_data:
-            task_data = json.load(f_task_data)
-        examples = task_data["examples"]
+        # map huggingaface to a dict map
+        examples = {ds_entry["id"]: {"input": ds_entry["input"], "metadata": ast.literal_eval(ds_entry["metadata"])} for ds_entry in ds}
 
         # load the predictions without the metadata
         if log_file_locations:
@@ -161,7 +174,7 @@ class LMentryScorer:
 
         # score predictions
         for id_ in predictions:
-            example = examples[id_]
+            example = examples[id_] # get entry from dataset!
             prediction_entry = predictions[id_]
             prediction = prediction_entry["prediction"]
             score, certainty = self.score_prediction(
