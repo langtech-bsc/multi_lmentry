@@ -17,8 +17,10 @@ def main(args):
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(
                     prog='Execute Prediction')
-    parser.add_argument('-l', '--language', type=str, required=True)
-    parser.add_argument("--num-procs",
+    parser.add_argument('-l', '--language', 
+                        type=str, 
+                        required=True)
+    parser.add_argument("-n", "--num-procs",
                         default=1,
                         type=int,
                         help="the number of processes to use when scoring the predictions.\n"

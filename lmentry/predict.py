@@ -130,11 +130,9 @@ def generate_all_hf_predictions(task_names: List[str] = None, model_name: str = 
     logging.info(f"loading model {hf_model_name}")
     
     if use_vllm:
-        model = LLM(model=hf_model_name)
+        model = LLM(model=hf_model_name, dtype=torch.bfloat16)
     else:
-        #device = torch.device("cuda") if torch.cuda.is_available() else "cpu"
-        # model = AutoModelForCausalLM.from_pretrained(hf_model_name, device_map="auto", torch_dtype=torch.bfloat16, attn_implementation="flash_attention_2") # torch_dtype=torch.float16
-        model = AutoModelForCausalLM.from_pretrained(hf_model_name, device_map="auto", torch_dtype=torch.bfloat16) # torch_dtype=torch.float16
+        model = AutoModelForCausalLM.from_pretrained(hf_model_name, device_map="auto", torch_dtype=torch.bfloat16, attn_implementation="flash_attention_2")
 
     logging.info(f"finished loading model {hf_model_name}")
     for task_name in task_names:
