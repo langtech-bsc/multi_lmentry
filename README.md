@@ -43,7 +43,7 @@ cd multi_lmentry
 conda create -n multi_lmentry python==3.12
 conda activate multi_lmentry
 pip install -e .
-pip install flash-att
+pip install flash-attn
 ```
 
 ## Data Creation
@@ -74,7 +74,7 @@ The `lang` parameter should be one of the available lang identificators.
 
 The `model_list` parameter should be a list of model's names, defined in the `lmentry/constants.py` file. To add a new model you have to define there, using the following template.
 
-```json
+```python
 paper_models = {
     "model_name" : {"short_name": "...", "paper_name": "huggingface name", "predictor_name": "huggingface name"},
     ...
@@ -102,12 +102,24 @@ The `num_proc` parameter should a strictly positive integer.
 If you use any part of this work, please consider citing the paper as follows:
 
 ```bibtex
-@inproceedings{,
-  title={}, 
-  author={},
-  booktitle={},
-  pages={},
-  year={2025}
+@inproceedings{moroni-etal-2025-multilmentry,
+  title = "Multi-LMentry: Can Multilingual LLMs Solve Elementary Tasks Across Languages?",
+  author = "Moroni, Luca  and
+      Aula-Blasco, Javier  and
+      Conia, Simone  and
+      Baucells, Irene  and
+      Perez, Naiara  and
+      Paniagua Suárez, Silvia  and
+      Sallés, Anna  and
+      Ostendorff, Malte  and
+      Falcão, Júlia  and
+      Son, Guijin  and
+      Gonzalez-Agirre, Aitor  and
+      Navigli, Roberto and
+      Villegas, Marta",
+  booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+  pages= "xx-yy",
+  year= "2025",
 }
 ```
 
