@@ -8,9 +8,8 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/Andrew-Wyn/images/blob/master/multi_lmentry/LMentry-LOGO.jpg"
-       width="200"
-       style="border-radius:50%;">
+  <img src="https://github.com/Andrew-Wyn/images/blob/master/multi_lmentry/LMentry-LOGO-no_bgrd.png"
+       width="400">
 </p>
 
 <div align="center"> A repository containing the original code and data for the EMNLP 2025 paper "Multi-LMentry: Can Multilingual LLMs Solve Elementary Tasks Across Languages?" by Luca Moroni, Javier Aula-Blasco, Simone Conia, Irene Baucells, Naiara Perez, Silvia Paniagua Suárez, Anna Sallés, Malte Ostendorff, Júlia Falcão, Guijin Son, Aitor Gonzalez-Agirre, Roberto Navigli, Marta Villegas. </div>
