@@ -3,7 +3,7 @@ import json
 import logging
 from pathlib import Path
 
-from lmentry.constants import TASKS_DATA_DIR, LANG
+from lmentry.constants import LANG
 from lmentry.tasks.task import LMentryTask
 
 if LANG == "en":
@@ -646,8 +646,6 @@ def create_all_task_data():
 
 
 def count_examples(tasks_to_count: list[str] = None, tasks_data_dir: Path = None):
-    tasks_data_dir = tasks_data_dir or TASKS_DATA_DIR
-
     if tasks_to_count is None:
         tasks_to_count = all_tasks
 

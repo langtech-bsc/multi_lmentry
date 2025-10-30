@@ -2,7 +2,7 @@ import re
 
 from lmentry.eu_declension import absolutive_plural, comitative_singular
 from lmentry.scorers.eu.scorer import LMentryScorer
-from lmentry.constants import eu_abstract_categories
+from lmentry.eu_abstract_categories import eu_abstract_categories
 
 
 class AllWordsFromCategoryScorer(LMentryScorer):

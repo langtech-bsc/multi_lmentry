@@ -13,8 +13,9 @@ from collections import defaultdict
 import ast
 
 from lmentry.constants import (
-    RESULTS_DIR, paper_models, get_short_model_name, PREDICTIONS_ROOT_DIR, TASKS_DATA_DIR, LANG
+    RESULTS_DIR, PREDICTIONS_ROOT_DIR, LANG
 )
+from lmentry.models import paper_models, get_short_model_name
 from lmentry.tasks.lmentry_tasks import all_tasks, core_tasks
 
 logging.basicConfig(format='%(asctime)s %(message)s', datefmt='%Y/%m/%d %H:%M:%S', level=logging.INFO)
@@ -28,14 +29,6 @@ def get_accuracy_and_certainty(task_name: str, model_name: str) -> dict:
 
     with open(prediction_path) as f_predictions:
         predictions = json.load(f_predictions)
-
-    # load task data (for ids and templates) # -> change with load_dataset 
-    # task_data_path = TASKS_DATA_DIR.joinpath(f"{task_name}.json")
-    # with open(task_data_path) as f_task:
-    #     task_data = json.load(f_task)
-    # examples = task_data["examples"]
-    # settings = task_data["settings"]
-    # ---
 
     ds = load_dataset(
         "BSC-LT/multi_lmentry",

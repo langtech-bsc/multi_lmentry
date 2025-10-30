@@ -7,20 +7,24 @@ from multiprocessing import Pool
 from pathlib import Path
 from typing import List
 from tqdm import tqdm
+import argparse
 
 import openai
 import torch
+
 from transformers import AutoModelForSeq2SeqLM, PreTrainedModel, AutoTokenizer, AutoModelForCausalLM
-
 from datasets import load_dataset
-
 from vllm import LLM, SamplingParams
 
-from lmentry.constants import get_predictor_model_name, SYSTEM_PROMPT, LANG, PROMPT_LANG
-from lmentry.tasks.lmentry_tasks import all_tasks
+from lmentry.system_prompts import SYSTEM_PROMPT
+from lmentry.models import get_predictor_model_name
+from lmentry.constants import initialize_variables
+
+os.environ["VLLM_WORKER_MULTIPROC_METHOD"] = "spawn" # NEEDED if VLLM raise some fork process errors
 
 logging.basicConfig(format='%(asctime)s %(message)s', datefmt='%Y/%m/%d %H:%M:%S', level=logging.INFO)
 
+LANG = None
 
 def _batcher(sequence, batch_size):
     # return a list of strings,
@@ -33,7 +37,7 @@ def _batcher(sequence, batch_size):
 def _chatter(strings, tokenizer):
     strings_chatter = []
 
-    system_prompt = SYSTEM_PROMPT[PROMPT_LANG]
+    system_prompt = SYSTEM_PROMPT[LANG]
 
     print(f"Selected system prompt: '{system_prompt}'")
 
@@ -57,6 +61,8 @@ def _ms_since_epoch():
 
 def generate_task_hf_predictions(task_name, model: PreTrainedModel = None,
                                 model_name="", max_new_tokens=128, batch_size=100, output_path=None, use_vllm=False):
+    from lmentry.tasks.lmentry_tasks import all_tasks
+
     task = all_tasks[task_name]()
 
     if not model_name and not model:
@@ -122,18 +128,67 @@ def generate_task_hf_predictions(task_name, model: PreTrainedModel = None,
         json.dump(predictions_data, f_predictions, indent=2, ensure_ascii=False)
 
 
-def generate_all_hf_predictions(task_names: List[str] = None, model_name: str = "",
+def generate_all_hf_predictions(model, task_names: List[str] = None, model_name: str = "",
                                 max_new_tokens=64, batch_size=256, use_vllm=False):
-
-    task_names = task_names or all_tasks
-    hf_model_name = get_predictor_model_name(model_name)
-    logging.info(f"loading model {hf_model_name}")
-    
-    if use_vllm:
-        model = LLM(model=hf_model_name, dtype=torch.bfloat16)
-    else:
-        model = AutoModelForCausalLM.from_pretrained(hf_model_name, device_map="auto", torch_dtype=torch.bfloat16, attn_implementation="flash_attention_2")
-
-    logging.info(f"finished loading model {hf_model_name}")
     for task_name in task_names:
         generate_task_hf_predictions(task_name, model, model_name, max_new_tokens, batch_size, use_vllm=use_vllm)
+
+
+def main(args):
+    global LANG
+    lang = args.language
+    models = args.model_list
+    use_vllm = args.use_vllm
+
+    ## initialize the global variables
+    initialize_variables(lang)
+    LANG = lang
+    ## ----
+
+    print("#"*30)
+    print("Testing the following models:\n", models)
+    print("Testing the Language:", lang)
+    print("#"*30)
+
+    for model_name in models:
+        hf_model_name = get_predictor_model_name(model_name)
+        logging.info(f"loading model {hf_model_name}")
+        
+        if use_vllm:
+            model = LLM(model=hf_model_name, dtype=torch.bfloat16)
+        else:
+            model = AutoModelForCausalLM.from_pretrained(hf_model_name, device_map="auto", torch_dtype=torch.bfloat16, attn_implementation="flash_attention_2")
+
+        logging.info(f"finished loading model {hf_model_name}")
+
+        if lang == "eu":
+            #for eu
+            generate_all_hf_predictions(model, task_names=["sentence_containing","sentence_not_containing","word_containing","word_not_containing","most_associated_word","least_associated_word","any_words_from_category","all_words_from_category","first_alphabetically","more_letters","less_letters","bigger_number"], model_name=model_name, use_vllm=use_vllm)
+            generate_all_hf_predictions(model, task_names=["smaller_number","rhyming_word","word_after","word_before","starts_with_word","ends_with_word","starts_with_letter","ends_with_letter","first_word","last_word","first_letter","last_letter"], model_name=model_name, use_vllm=use_vllm)
+            generate_all_hf_predictions(model, task_names=["first_alphabetically_far_first_letter","first_alphabetically_different_first_letter","first_alphabetically_consecutive_first_letter","first_alphabetically_same_first_letter","any_words_from_category_5_distractors","any_words_from_category_4_distractors","any_words_from_category_3_distractors","all_words_from_category_0_distractors"], model_name=model_name, use_vllm=use_vllm)
+            generate_all_hf_predictions(model, task_names=["all_words_from_category_1_distractors","all_words_from_category_2_distractors","rhyming_word_orthographically_similar","more_letters_length_diff_3plus","more_letters_length_diff_1","less_letters_length_diff_3plus","less_letters_length_diff_1"], model_name=model_name, use_vllm=use_vllm)
+        elif lang == "en":
+            # for en
+            generate_all_hf_predictions(model, task_names=["sentence_containing","sentence_not_containing","word_containing","word_not_containing","most_associated_word","least_associated_word","any_words_from_category","all_words_from_category","first_alphabetically","more_letters","less_letters","bigger_number"], model_name=model_name, use_vllm=use_vllm)
+            generate_all_hf_predictions(model, task_names=["smaller_number","rhyming_word","homophones","word_after","word_before","starts_with_word","ends_with_word","starts_with_letter","ends_with_letter","first_word","last_word","first_letter","last_letter"], model_name=model_name, use_vllm=use_vllm)
+            generate_all_hf_predictions(model, task_names=["first_alphabetically_far_first_letter","first_alphabetically_different_first_letter","first_alphabetically_consecutive_first_letter","first_alphabetically_same_first_letter","any_words_from_category_5_distractors","any_words_from_category_4_distractors","any_words_from_category_3_distractors","all_words_from_category_0_distractors"], model_name=model_name, use_vllm=use_vllm)
+            generate_all_hf_predictions(model, task_names=["all_words_from_category_1_distractors","all_words_from_category_2_distractors","rhyming_word_orthographically_similar","more_letters_length_diff_3plus","more_letters_length_diff_1","less_letters_length_diff_3plus","less_letters_length_diff_1"], model_name=model_name, use_vllm=use_vllm)
+            generate_all_hf_predictions(model, task_names=["rhyming_word_orthographically_different"], model_name=model_name, use_vllm=use_vllm)
+            generate_all_hf_predictions(model, task_names=["all_words_from_category_1_distractors","all_words_from_category_2_distractors","rhyming_word_orthographically_similar","more_letters_length_diff_3plus","more_letters_length_diff_1","less_letters_length_diff_3plus","less_letters_length_diff_1"], model_name=model_name, use_vllm=use_vllm)
+        else:
+            generate_all_hf_predictions(model, task_names=["sentence_containing","sentence_not_containing","word_containing","word_not_containing","most_associated_word","least_associated_word","any_words_from_category","all_words_from_category","first_alphabetically","more_letters","less_letters","bigger_number"], model_name=model_name, use_vllm=use_vllm)
+            generate_all_hf_predictions(model, task_names=["smaller_number","rhyming_word","homophones","word_after","word_before","starts_with_word","ends_with_word","starts_with_letter","ends_with_letter","first_word","last_word","first_letter","last_letter"], model_name=model_name, use_vllm=use_vllm)
+            generate_all_hf_predictions(model, task_names=["first_alphabetically_far_first_letter","first_alphabetically_different_first_letter","first_alphabetically_consecutive_first_letter","first_alphabetically_same_first_letter","any_words_from_category_5_distractors","any_words_from_category_4_distractors","any_words_from_category_3_distractors","all_words_from_category_0_distractors"], model_name=model_name, use_vllm=use_vllm)
+            generate_all_hf_predictions(model, task_names=["all_words_from_category_1_distractors","all_words_from_category_2_distractors","rhyming_word_orthographically_similar","more_letters_length_diff_3plus","more_letters_length_diff_1","less_letters_length_diff_3plus","less_letters_length_diff_1"], model_name=model_name, use_vllm=use_vllm)
+
+        del model
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(
+                    prog='Execute Prediction'
+                    )
+    parser.add_argument('-l', '--language', type=str, required=True)
+    parser.add_argument('-m', '--model_list', nargs='+', required=True)
+    parser.add_argument('-v', '--use_vllm', action="store_true")
+    args = parser.parse_args()
+    main(args)

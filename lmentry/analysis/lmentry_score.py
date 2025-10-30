@@ -4,8 +4,8 @@ from typing import Callable
 
 from lmentry.analysis.accuracy import get_model_accuracy
 from lmentry.analysis.robustness import get_model_robustness
-from lmentry.constants import paper_models, RESULTS_DIR, get_short_model_name
-
+from lmentry.constants import RESULTS_DIR
+from lmentry.models import paper_models, get_short_model_name
 
 def create_lmentry_scores_csv(model_names: list[str] = None, model_shortname_func: Callable = None,
                               output_path: Path = None):
