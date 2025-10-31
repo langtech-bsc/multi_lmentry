@@ -49,7 +49,7 @@ pip install flash-attn
 To generate predictions over the Multi-LMentry benchmark you can execute:
 
 ```python
-python execute_generation.py \
+python lmentry/predict.py \
     --lang "lang_id" \
     --model_name "model_name_1" \
     --use_vll \
@@ -83,7 +83,7 @@ paper_models = {
 Once you have generated all the predictions, you have to evaluate the outputs using the scorers functions:
 
 ```python
-python execute_eval.py \
+python lmentry/evaluate.py \
     --lang "lang_id" \
     --num_proc "xx"
 ```
