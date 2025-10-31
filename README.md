@@ -28,9 +28,7 @@
 - Brazilian Portuguese - *code:* pt_br
 - English (original LMentry dataset) - *code:* en
 
-
 The dataset enables systematic evaluation of core model abilities across low-, mid-, and high-resource languages. Tasks were recreated manually with the help of native speakers, ensuring linguistic and cultural appropriateness rather than relying on direct translation.
-
 
 
 ## 🛠️ Installation
@@ -61,15 +59,17 @@ python execute_generation.py \
 
 The `execute_generation.py` script will save results under `evaluation` folder.
 
-The `lang` parameter should be one of the available lang identificators.
+Parameters:
 
-The `model_name` parameter should a model's name, defined in the `lmentry/models.py` file. To add a new model you have to define there one name, using the following template.
+- The `lang` parameter should be one of the available lang identificators.
 
-The `use_vllm` parameter is a boolean flag, needed to activate the vllm engine instead of the default HF generation pipeline.
+- The `model_name` parameter should a model's name, defined in the `lmentry/models.py` file. To add a new model you have to define there one name, using the following template.
 
-The `max_new_tokens` parameter is the maximum number of tokens to generate for each sample, default is `1024`.
+- The `use_vllm` parameter is a boolean flag, needed to activate the vllm engine instead of the default HF generation pipeline.
 
-The `max_new_tokens` parameter is the number of sample to process in a single batch, default is `8`. It is not used when `use_vllm` is set.
+- The `max_new_tokens` parameter is the maximum number of tokens to generate for each sample, default is `1024`.
+
+- The `max_new_tokens` parameter is the number of sample to process in a single batch, default is `8`. It is not used when `use_vllm` is set.
 
 ```python
 paper_models = {
@@ -80,7 +80,7 @@ paper_models = {
 
 ## Model Evaluation
 
-Once you have generated all the predictions, is possible to evaluate the outputs using the scorers:
+Once you have generated all the predictions, you have to evaluate the outputs using the scorers functions:
 
 ```python
 python execute_eval.py \
@@ -90,15 +90,17 @@ python execute_eval.py \
 
 The `execute_eval.py` script will save overwrite the files under `evaluation` folder, and then it will create summary statistics under `results` folder.
 
-The `lang` parameter should be one of the available lang identificators.
+Parameters:
 
-The `num_proc` parameter should a strictly positive integer.
+- The `lang` parameter should be one of the available lang identificators.
+
+- The `num_proc` parameter should a strictly positive integer.
 
 ## Data Creation
 
-Under `resources` folder are present all the annotated resources for each nine langauges needed to build samples in the Multi-LMentry benchmark.
+All annotated resources for the nine languages used to build the samples in the Multi-LMentry benchmark are located in the `resources` folder.
 
-The Multi-LMentry benchmark can be create from annotated resources, to have the seme data as the ones uploaded on HuggingFace.
+The Multi-LMentry benchmark can be reconstructed from these annotated resources to reproduce the same data as the version uploaded to Hugging Face.
 
 ```python
 python recreate_tasks.py
