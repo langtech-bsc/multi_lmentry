@@ -55,8 +55,8 @@ python execute_generation.py \
     --lang "lang_id" \
     --model_name "model_name_1" \
     --use_vll \
-    --max_new_tokens \
-    --batch_size
+    --max_new_tokens "xx" \
+    --batch_size "xx"
 ```
 
 The `execute_generation.py` script will save results under `evaluation` folder.
