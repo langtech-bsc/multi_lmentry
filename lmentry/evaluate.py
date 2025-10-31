@@ -33,8 +33,7 @@ def check_for_missing_predictions(predictions_root_dir: Path, all_task_names: se
 
 
 def eval_main(num_procs):
-    from lmentry.analysis.accuracy import score_all_predictions, create_per_task_accuracy_csv, \
-    create_per_template_accuracy_csv
+    from lmentry.analysis.accuracy import score_all_predictions, create_per_task_accuracy_csv, create_per_template_accuracy_csv
     from lmentry.analysis.lmentry_score import create_lmentry_scores_csv
     from lmentry.analysis.robustness import create_robustness_csv, create_argument_order_robustness_csv
     from lmentry.constants import PREDICTIONS_ROOT_DIR, RESULTS_DIR
