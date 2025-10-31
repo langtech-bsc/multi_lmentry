@@ -2,7 +2,8 @@ import json
 import random
 from itertools import chain
 
-from lmentry.constants import RESOURCES_DIR, eu_abstract_categories
+from lmentry.constants import RESOURCES_DIR
+from lmentry.eu_abstract_categories import eu_abstract_categories
 from lmentry.eu_declension import absolutive_plural, comitative_singular
 from lmentry.scorers.eu.all_words_from_category_scorer import AllWordsFromCategoryScorer
 from lmentry.tasks.task import LMentryTask

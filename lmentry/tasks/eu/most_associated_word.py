@@ -1,7 +1,8 @@
 import json
 import random
 
-from lmentry.constants import RESOURCES_DIR, eu_abstract_categories
+from lmentry.constants import RESOURCES_DIR
+from lmentry.eu_abstract_categories import eu_abstract_categories
 from lmentry.eu_declension import absolutive_singular, absolutive_plural
 from lmentry.scorers.eu.most_associated_word_scorer import MostAssociatedWordScorer
 from lmentry.tasks.task import LMentryTask

@@ -1,23 +1,21 @@
 import csv
 import json
+import ast
 import logging
 from functools import partial
 from itertools import combinations
+from collections import defaultdict
 from typing import Callable
-
 import numpy as np
 import pandas as pd
-
+from datasets import load_dataset
 from lmentry.constants import LANG
 from lmentry.analysis.accuracy import get_accuracy_and_certainty
-from lmentry.constants import (
-    simple_answer_index_task_names, RESULTS_DIR, paper_models, get_short_model_name,
-    PREDICTIONS_ROOT_DIR, TASKS_DATA_DIR,
-)
+from lmentry.constants import simple_answer_index_task_names, RESULTS_DIR, PREDICTIONS_ROOT_DIR
+from lmentry.models import paper_models, get_short_model_name
 from lmentry.tasks.lmentry_tasks import core_tasks, all_tasks
 
 logging.basicConfig(format='%(asctime)s %(message)s', datefmt='%Y/%m/%d %H:%M:%S', level=logging.INFO)
-
 
 argument_content_robustness_task_argument_subsets = {
     "first_alphabetically": [
@@ -109,22 +107,24 @@ def get_simple_answer_index_bias(task_name: str, model_name: str) -> dict:
         predictions = json.load(f_predictions)
 
     # load task data (for template_id and answer_index)
-    task_data_path = TASKS_DATA_DIR.joinpath(f"{task_name}.json")
-    with open(task_data_path) as f_task:
-        task_data = json.load(f_task)
-    examples = task_data["examples"]
-    settings = task_data["settings"]
+    ds = load_dataset(
+        "BSC-LT/multi_lmentry",
+        LANG,
+        data_files=f"{LANG}/{task_name}.jsonl"
+    )["train"]
 
-    # get per-template number of correct answers w.r.t answer index
-    num_input_templates = len(settings["input_templates"])
-    output = {f"template{i}": {"n_correct": 0,
-                               "n_answer_index_0": 0,
-                               "n_answer_index_1": 0,
-                               "n_correct_answer_index_0": 0,
-                               "n_correct_answer_index_1": 0,
-                               }
-              for i in range(num_input_templates)
-              }
+    examples = {ds_entry["id"]: {"input": ds_entry["input"], "metadata": ast.literal_eval(ds_entry["metadata"])} for ds_entry in ds}
+
+    output = defaultdict(lambda: 
+                {
+                    "n_correct": 0,
+                    "n_answer_index_0": 0,
+                    "n_answer_index_1": 0,
+                    "n_correct_answer_index_0": 0,
+                    "n_correct_answer_index_1": 0,
+                }
+            )
+    
     for id_, prediction_entry in predictions.items():
         score = prediction_entry["score"]
         answer_index = examples[id_]["metadata"]["answer_index"]
@@ -135,7 +135,9 @@ def get_simple_answer_index_bias(task_name: str, model_name: str) -> dict:
             output[f"template{template_id}"][f"n_correct_answer_index_{answer_index}"] += 1
 
     # calculate pre-template accuracy and accuracy w.r.t answer index
-    num_examples_per_template = task_data["settings"]["num_examples_per_template"]
+    num_input_templates = len(output)
+    num_examples_per_template = len(examples)/num_input_templates
+
     for template in output:
         output[template]["accuracy"] = output[template]["n_correct"] / num_examples_per_template
         for answer_index in [0, 1]:

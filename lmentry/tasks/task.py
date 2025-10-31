@@ -63,7 +63,7 @@ class LMentryTask:
         # truncate_predictions = True if model_name in models_that_cant_stop_generating else False
         scorer = self.scorer_cls()
         scorer.score_predictions(predictions_path=predictions_path,
-                                 task_data_path=task_data_path,
+                                 task_data_path=self.name,
                                  output_path=output_path,
                                  # truncate_predictions=truncate_predictions,
                                  truncate_predictions=False,

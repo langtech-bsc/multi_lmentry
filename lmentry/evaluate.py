@@ -3,17 +3,14 @@ import logging
 from collections import defaultdict
 from pathlib import Path
 
-from lmentry.analysis.accuracy import score_all_predictions, create_per_task_accuracy_csv, \
-    create_per_template_accuracy_csv
-from lmentry.analysis.lmentry_score import create_lmentry_scores_csv
-from lmentry.analysis.robustness import create_robustness_csv, create_argument_order_robustness_csv
-from lmentry.constants import PREDICTIONS_ROOT_DIR, TASKS_DATA_DIR, RESULTS_DIR
-from lmentry.tasks.lmentry_tasks import all_tasks
+from lmentry.constants import initialize_variables
 
 logging.basicConfig(format='%(asctime)s %(message)s', datefmt='%Y/%m/%d %H:%M:%S', level=logging.INFO)
 
 
-def check_for_missing_predictions(predictions_root_dir: Path):
+ALL_TASKS = None
+
+def check_for_missing_predictions(predictions_root_dir: Path, all_task_names: set):
     # In English, predictions_root_dir should include exactly 41 directories, each one named after one of the 25
     # "core" tasks + the 16 "argument content robustness" (analysis) tasks. For Spanish and Catalan, 40 
     # directories due to the 15 analysis tasks.
@@ -27,7 +24,6 @@ def check_for_missing_predictions(predictions_root_dir: Path):
             model_name = model_predictions_path.stem.replace("_with_metadata", "")
             existing_predictions[model_name].add(task_name)
 
-    all_task_names = set(all_tasks)
     missing_predictions = dict()
     for model_name in existing_predictions:
         missing_predictions_for_model = sorted(all_task_names - existing_predictions[model_name])
@@ -36,16 +32,20 @@ def check_for_missing_predictions(predictions_root_dir: Path):
     return missing_predictions
 
 
-def main(num_procs):
-    if not TASKS_DATA_DIR.exists():
-        logging.error(f"LMentry tasks data not found at {TASKS_DATA_DIR}. aborting.\n")
-        return
+def eval_main(num_procs):
+    from lmentry.analysis.accuracy import score_all_predictions, create_per_task_accuracy_csv, create_per_template_accuracy_csv
+    from lmentry.analysis.lmentry_score import create_lmentry_scores_csv
+    from lmentry.analysis.robustness import create_robustness_csv, create_argument_order_robustness_csv
+    from lmentry.constants import PREDICTIONS_ROOT_DIR, RESULTS_DIR
+    from lmentry.tasks.lmentry_tasks import all_tasks
+
     if not PREDICTIONS_ROOT_DIR.exists():
         logging.error(f"Predictions not found at {PREDICTIONS_ROOT_DIR}. aborting.\n")
         return
-    RESULTS_DIR.mkdir(exist_ok=True)
 
-    missing_predictions = check_for_missing_predictions(PREDICTIONS_ROOT_DIR)
+    RESULTS_DIR.mkdir(parents=True, exist_ok=True)
+
+    missing_predictions = check_for_missing_predictions(PREDICTIONS_ROOT_DIR, set(all_tasks))
     if any([len(missing_predictions[model_name]) > 0 for model_name in missing_predictions]):
         missing_predictions_str = "\n".join([f"{model_name}: {task_names}" for
                                             model_name, task_names in
@@ -57,13 +57,8 @@ def main(num_procs):
         return
 
     model_names = sorted(missing_predictions.keys())
+    
     logging.info(f"scoring LMentry predictions for models {sorted(missing_predictions.keys())}")
-#     for model_name in model_names:
-#         score_all_predictions(task_names=sorted(all_tasks.keys()),
-#                             model_names=model_name,
-#                             num_processes=args.num_procs
-#                             )
-#         logging.info(f"finished scoring all LMentry predictions for models {model_name}")
 
     score_all_predictions(task_names=sorted(all_tasks.keys()),
                             model_names=model_names,
@@ -76,9 +71,31 @@ def main(num_procs):
     create_robustness_csv(model_names)
     create_lmentry_scores_csv(model_names=model_names)
     create_argument_order_robustness_csv(model_names=model_names)
-    # todo add argument content robustness csv
 
+
+def main(args):
+
+    lang = args.language
+    num_procs = args.num_procs
+
+    ## initialize the global variables
+    initialize_variables(lang)
+    ## ----
+
+    eval_main(num_procs)
 
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser(
+                    prog='Execute Evaluation')
+    parser.add_argument('-l', '--language', 
+                        type=str, 
+                        required=True)
+    parser.add_argument("-n", "--num-procs",
+                        default=1,
+                        type=int,
+                        help="the number of processes to use when scoring the predictions.\n"
+                             "can be up to the number of models you want to evaluate * 41."
+                        )
+    args = parser.parse_args()
+    main(args)

@@ -1,6 +1,6 @@
 import re
 
-from lmentry.constants import eu_abstract_categories
+from lmentry.eu_abstract_categories import eu_abstract_categories
 from lmentry.eu_declension import comitative_singular, comitative_plural, absolutive_singular, absolutive_plural
 from lmentry.scorers.eu.scorer import LMentryScorer, the_word_regex, the_words_regex
 
