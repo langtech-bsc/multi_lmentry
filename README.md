@@ -113,24 +113,34 @@ We release all the created data under <a href="https://huggingface.co/datasets/B
 If you use any part of this work, please consider citing the paper as follows:
 
 ```bibtex
-@inproceedings{moroni-etal-2025-multilmentry,
-  title = "Multi-LMentry: Can Multilingual LLMs Solve Elementary Tasks Across Languages?",
-  author = "Moroni, Luca  and
+@inproceedings{moroni-etal-2025-multi,
+    title = "Multi-{LM}entry: Can Multilingual {LLM}s Solve Elementary Tasks Across Languages?",
+    author = "Moroni, Luca  and
       Aula-Blasco, Javier  and
       Conia, Simone  and
       Baucells, Irene  and
       Perez, Naiara  and
-      Paniagua Suárez, Silvia  and
-      Sallés, Anna  and
+      Su{\'a}rez, Silvia Paniagua  and
+      Sall{\'e}s, Anna  and
       Ostendorff, Malte  and
-      Falcão, Júlia  and
+      Falc{\~a}o, J{\'u}lia  and
       Son, Guijin  and
       Gonzalez-Agirre, Aitor  and
-      Navigli, Roberto and
+      Navigli, Roberto  and
       Villegas, Marta",
-  booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
-  pages= "xx-yy",
-  year= "2025",
+    editor = "Christodoulopoulos, Christos  and
+      Chakraborty, Tanmoy  and
+      Rose, Carolyn  and
+      Peng, Violet",
+    booktitle = "Proceedings of the 2025 Conference on Empirical Methods in Natural Language Processing",
+    month = nov,
+    year = "2025",
+    address = "Suzhou, China",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.emnlp-main.1731/",
+    pages = "34114--34145",
+    ISBN = "979-8-89176-332-6",
+    abstract = "As large language models (LLMs) continue to improve, their evaluation increasingly centers on complex, high-level tasks, often at the expense of systematically assessing fundamental capabilities. To address this gap, recent work proposed LMentry, a compact benchmark comprising tasks that are trivial for humans but remain surprisingly difficult for LLMs. However, LMentry is limited to English, leaving its insights linguistically narrow. In this paper, we present Multi-LMentry, a ground-up recreation of LMentry that enables systematic evaluation of LLMs on basic reasoning and understanding tasks across nine diverse languages. Multi-LMentry includes English and expands to Basque, Brazilian Portuguese, Catalan, Galician, German, Italian, Korean, and Spanish, emphasizing the importance of cross-lingual and low-resource settings. To validate that Multi-LMentry is still trivial for humans, we demonstrate that L2 speakers with only elementary proficiency achieve near-perfect scores in a low-resource language, namely, Basque. Through extensive experiments, we reveal that state-of-the-art open-weight multilingual LLMs still fall short of human performance on elementary tasks in many languages. Our results expose new failure modes that remain hidden in monolingual evaluation, underscoring the need for rigorous, language-diverse ``unit tests'' of core model abilities."
 }
 ```
 
