@@ -52,7 +52,7 @@ To generate predictions over the Multi-LMentry benchmark you can execute:
 python lmentry/predict.py \
     --lang "lang_id" \
     --model_name "model_name_1" \
-    --use_vll \
+    --use_vllm \
     --max_new_tokens "xx" \
     --batch_size "xx"
 ```
