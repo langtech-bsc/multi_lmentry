@@ -152,6 +152,11 @@ class LMentryScorer:
             example = examples[id_]
             prediction_entry = predictions[id_]
             prediction = prediction_entry["prediction"]
+
+            # If </think> compute the score on what is after thinking process
+            if "</think>" in prediction:
+                prediction = prediction[prediction.find("</think>")+8:] # remove everything before ending of thinking token
+
             score, certainty = self.score_prediction(prediction, example, truncate_predictions)
             prediction_entry["score"] = score
             prediction_entry["certainty"] = certainty
