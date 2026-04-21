@@ -26,7 +26,7 @@ class StartsWithLetter(LMentryTask):
         # create examples
         examples = {}
         letters = string.ascii_lowercase
-        it_letters = set(letters) | {"à", "è", "é", "ì", "ò", "ù", "'"}
+        it_letters = set(letters)
         allowed_letters = set(it_letters) - {"k", "w", "x", "y"}
         allowed_letters = sorted(allowed_letters)
 

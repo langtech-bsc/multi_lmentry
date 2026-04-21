@@ -26,7 +26,7 @@ class EndsWithLetter(LMentryTask):
         # create examples
         examples = {}
         letters = string.ascii_lowercase
-        it_letters = set(letters) | {"à", "è", "é", "ì", "ò", "ù", "'"}
+        it_letters = set(letters) | {"à", "è", "é", "ì", "ò", "ù"}
         allowed_letters = set(it_letters) - {"b", "c", "d", "f", "g", "h", "j", "k", "m", "q", "v", "w", "x", "y", "z"}
         allowed_letters = sorted(allowed_letters)
 
