@@ -14,9 +14,9 @@ class AnyWordsFromCategory3Distractors(LMentryTask):
     def __init__(self, name="any_words_from_category_3_distractors"):
         super().__init__(name)
 
-        self.canonical_template = 'Alcune delle parole {words} sono tipi di {category}? Rispondi o "sì" o "no".'
-        self.second_template = 'Qualcuna delle parole {words} rappresenta {category}? Rispondi o "sì" o "no".'
-        self.third_template = "L'elenco [{words}] contiene {category}? Rispondi o 'sì' o 'no'."
+        self.canonical_template = 'Qualcuna delle parole {words} è un tipo di {category}? Rispondi con "sì" o "no".'
+        self.second_template = 'Qualcuna delle parole {words} rappresenta {category}? Rispondi con "sì" o "no".'
+        self.third_template = "L'elenco [{words}] contiene {category}? Rispondi con 'sì' o 'no'."
         self.all_templates = [self.canonical_template, self.second_template, self.third_template]
         self.parameter_names = ["category"]
 

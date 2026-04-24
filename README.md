@@ -106,7 +106,21 @@ The Multi-LMentry benchmark can be reconstructed from these annotated resources 
 python recreate_tasks.py
 ```
 
+To recreate the tasks for a specific language only, use the `--language` (or `-l`) argument with one of the supported language codes:
+
+```python
+python recreate_tasks.py --language es
+```
+
 We release all the created data under <a href="https://huggingface.co/datasets/BSC-LT/multi_lmentry">huggingface repository</a>.
+
+To convert task files from `data/<lang>/*.json` into Hugging Face-style `.jsonl` files, use:
+
+```bash
+python scripts/convert_task_json_to_jsonl.py data/ca/*.json --output-root hf/multi_lmentry
+```
+
+This writes files such as `hf/multi_lmentry/ca/word_before.jsonl`. If `--output-root` is omitted, the script writes each `.jsonl` next to its source `.json` file.
 
 ## Cite this work
 
@@ -156,4 +170,3 @@ The authors gratefully acknowledge the support of the AI Factory IT4LIA project 
 This work is funded by the Ministerio para la Transformación Digital y de la Función Pública and Plan de Recuperación, Transformación y Resiliencia - Funded by EU – NextGenerationEU within the framework of the project ILENIA with references 2022/TL22/00215337, 2022/TL22/00215336 and 2022/TL22/00215335, and within the framework of the project Desarrollo Modelos ALIA.
 
 This work has been promoted and financed by the Generalitat de Catalunya through the Aina project.
-
