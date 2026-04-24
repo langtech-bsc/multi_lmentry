@@ -117,7 +117,7 @@ We release all the created data under <a href="https://huggingface.co/datasets/B
 To convert task files from `data/<lang>/*.json` into Hugging Face-style `.jsonl` files, use:
 
 ```bash
-python scripts/convert_task_json_to_jsonl.py data/ca/*.json --output-root hf/multi_lmentry
+python convert_task_json_to_jsonl.py data/ca/*.json --output-root hf/multi_lmentry
 ```
 
 This writes files such as `hf/multi_lmentry/ca/word_before.jsonl`. If `--output-root` is omitted, the script writes each `.jsonl` next to its source `.json` file.
