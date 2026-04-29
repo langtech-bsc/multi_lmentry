@@ -9,6 +9,8 @@ simple_answer_index_task_names = [
     "rhyming_word", "homophones", "bigger_number", "smaller_number"
 ]
 
+HF_PATH = "BSC-LT/multi_lmentry"
+
 #### GLOBAL VARIABLES
 
 LANG = None # Choose between ca, de, en, es, eu, gl, ko, it OR pt_br.

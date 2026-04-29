@@ -32,7 +32,7 @@ from nltk.stem import WordNetLemmatizer
 # Multilingual dictionary for synonyms
 # from PyMultiDictionary import MultiDictionary, DICT_EDUCALINGO
 # Phonetic transcription
-# import epitran
+import epitran
 # Spanish and Catalan rhyme extractor
 # from pyverse import Pyverse
 # Language-agnostic rhyme extractor
@@ -83,6 +83,11 @@ LANG_CSV_MAP = {
         "homophones": "gl_homophones.csv",
         "encoding": "utf-8"
     },
+    "fa": {
+        "default": "persian_dataset/fa_vocabulari_elemental_pos_phon.csv",
+        "homophones": "persian_dataset/fa_homophones.csv",
+        "encoding": "utf-8"
+    },
 }
 
 
@@ -98,6 +103,7 @@ def transliterate(args, word):
         "pt_br": "por-Latn",  # Limited support
         #"ko": "",  # No support, they already provided homophones
         "it": "ita-Latn",
+        "fa": "fas-Arab",
     }
 
     # Initialize Epitran transliterator
@@ -117,7 +123,7 @@ def format_words_json(reader):
         except UnicodeDecodeError as e:
             print(f"Error decoding row {row_num}: {e}")
             continue
-
+    
     return formatted_words
 
 
@@ -186,10 +192,9 @@ def format_homophones(reader, args):
                 formatted_homophones[trans] = list()
 
             formatted_homophones[trans].append(row["word"])
-    if args.lang == "it":
+    elif args.lang == "it":
         # Italian homophones were already given
         for row in reader:
-            print(row)
             trans = transliterate(args, row["word"])
 
             if trans not in formatted_homophones:
@@ -197,7 +202,16 @@ def format_homophones(reader, args):
 
             formatted_homophones[trans].append(row["word"])
             formatted_homophones[trans].append(row["homophones"])
+    elif args.lang == "fa":
+        # Farsi homophones were already given
+        for row in reader:
+            trans = transliterate(args, row["\ufeffword"])
 
+            if trans not in formatted_homophones:
+                formatted_homophones[trans] = list()
+
+            formatted_homophones[trans].append(row["\ufeffword"])
+            formatted_homophones[trans].append(row["homophones"])
     else:
         for row in reader:
             trans = row["transcription"]
@@ -487,7 +501,7 @@ def main():
 
     parser.add_argument("--lang",
                         type=str,
-                        choices=["es", "ca", "eu", "gl", "pt_br", "de", "ko", "it"],
+                        choices=["es", "ca", "eu", "gl", "pt_br", "de", "ko", "it", "fa"],
                         help="Language to process.",
                         required=True, )
     parser.add_argument("--mode",
@@ -515,7 +529,7 @@ def main():
               "\nData is in /lmentry/resources/converters/data/germanet_data"
               "\nOtherwise the script will use PyMultiDictionary but works bad.\n")
 
-    if args.lang in ["ko", "ca", "es"] and args.mode == "homophones":
+    if args.lang in ["ko", "ca", "es", "fa"] and args.mode == "homophones":
         print("\n[ERROR] Homophones list was already gathered manually/ provided.")
 
     # Get input file path from selected language & mode

@@ -24,6 +24,9 @@ if LANG == "pt_br":
     from lmentry.scorers.pt_br.scorer import LMentryScorer
 if LANG == "ko":
     from lmentry.scorers.ko.scorer import LMentryScorer
+if LANG == "fa":
+    from lmentry.scorers.fa.scorer import LMentryScorer
+
 
 # todo standardize logging
 logging.basicConfig(format='%(asctime)s %(message)s', datefmt='%Y/%m/%d %H:%M:%S', level=logging.INFO)

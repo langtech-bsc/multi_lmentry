@@ -1,5 +1,5 @@
 import argparse
-
+from lmentry.constants import initialize_variables
 from lmentry.constants import LANG, initialize_variables
 
 

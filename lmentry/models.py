@@ -17,6 +17,14 @@ paper_models = {
     "SmolLM2-360M-Instruct" : {"short_name": "SmolLM2-360M-Instruct", "paper_name": "SmolLM2-360M-Instruct", "predictor_name": "HuggingFaceTB/SmolLM2-360M-Instruct"},
     "SmolLM2-1_7B-Instruct" : {"short_name": "SmolLM2-1.7B-Instruct", "paper_name": "SmolLM2-1.7B-Instruct", "predictor_name": "HuggingFaceTB/SmolLM2-1.7B-Instruct"},
     "minerva-7b-instruct" : {"short_name": "minerva-7b-instruct", "paper_name": "minerva-7b-instruct", "predictor_name": "sapienzanlp/Minerva-7B-instruct-v1.0"},
+    "qwen3-0_6B" : {"short_name": "qwen3-0_6B", "paper_name": "qwen3-0_6B", "predictor_name": "Qwen/Qwen3-0.6B"},
+    "qwen3-1_7B" : {"short_name": "qwen3-1_7B", "paper_name": "qwen3-1_7B", "predictor_name": "Qwen/Qwen3-1.7B"},
+    "qwen3-4B" : {"short_name": "qwen3-4", "paper_name": "qwen3-4", "predictor_name": "Qwen/Qwen3-4B"},
+    "qwen3-8B" : {"short_name": "qwen3-8", "paper_name": "qwen3-8", "predictor_name": "Qwen/Qwen3-8B"},
+    "gemma-3-270m" : {"short_name": "gemma-3-270m", "paper_name": "gemma-3-270m", "predictor_name": "google/gemma-3-270m-it"},
+    "gemma-3-1b" : {"short_name": "gemma-3-1b", "paper_name": "gemma-3-1b", "predictor_name": "google/gemma-3-1b-it"},
+    "gemma-3-4b" : {"short_name": "gemma-3-4b", "paper_name": "gemma-3-4b", "predictor_name": "google/gemma-3-4b-it"},
+    "gemma-3-4b" : {"short_name": "gemma-3-4b", "paper_name": "gemma-3-4b", "predictor_name": "google/gemma-3-4b-it"},
 }
 
 

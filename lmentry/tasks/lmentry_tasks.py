@@ -547,6 +547,67 @@ if LANG == "ko":
     "less_letters_length_diff_1": LessLettersLengthDiff1,
     }
 
+if LANG == "fa":
+    from lmentry.tasks.fa.all_words_from_category import AllWordsFromCategory
+    from lmentry.tasks.fa.all_words_from_category_0_distractors import AllWordsFromCategory0Distractors
+    from lmentry.tasks.fa.all_words_from_category_1_distractors import AllWordsFromCategory1Distractors
+    from lmentry.tasks.fa.all_words_from_category_2_distractors import AllWordsFromCategory2Distractors
+    from lmentry.tasks.fa.any_words_from_category import AnyWordsFromCategory
+    from lmentry.tasks.fa.any_words_from_category_3_distractors import AnyWordsFromCategory3Distractors
+    from lmentry.tasks.fa.any_words_from_category_4_distractors import AnyWordsFromCategory4Distractors
+    from lmentry.tasks.fa.any_words_from_category_5_distractors import AnyWordsFromCategory5Distractors
+    from lmentry.tasks.fa.bigger_number import BiggerNumber
+    from lmentry.tasks.fa.ends_with_letter import EndsWithLetter
+    from lmentry.tasks.fa.ends_with_word import EndsWithWord
+    from lmentry.tasks.fa.first_alphabetically import FirstAlphabetically
+    from lmentry.tasks.fa.first_alphabetically_consecutive_first_letter import FirstAlphabeticallyConsecutiveFirstLetter
+    from lmentry.tasks.fa.first_alphabetically_different_first_letter import FirstAlphabeticallyDifferentFirstLetter
+    from lmentry.tasks.fa.first_alphabetically_far_first_letter import FirstAlphabeticallyFarFirstLetter
+    from lmentry.tasks.fa.first_alphabetically_same_first_letter import FirstAlphabeticallySameFirstLetter
+    from lmentry.tasks.fa.first_letter import FirstLetter
+    from lmentry.tasks.fa.first_word import FirstWord
+    from lmentry.tasks.fa.homophones import Homophones
+    from lmentry.tasks.fa.last_letter import LastLetter
+    from lmentry.tasks.fa.last_word import LastWord
+    from lmentry.tasks.fa.least_associated_word import LeastAssociatedWord
+    from lmentry.tasks.fa.less_letters import LessLetters
+    from lmentry.tasks.fa.less_letters_length_diff_3plus import LessLettersLengthDiff3plus
+    from lmentry.tasks.fa.less_letters_length_diff_1 import LessLettersLengthDiff1
+    from lmentry.tasks.fa.more_letters import MoreLetters
+    from lmentry.tasks.fa.more_letters_length_diff_3plus import MoreLettersLengthDiff3plus
+    from lmentry.tasks.fa.more_letters_length_diff_1 import MoreLettersLengthDiff1
+    from lmentry.tasks.fa.most_associated_word import MostAssociatedWord
+    from lmentry.tasks.fa.rhyming_word import RhymingWord
+    from lmentry.tasks.fa.rhyming_word_orthographically_similar import RhymingWordOrthographicallySimilar
+    from lmentry.tasks.fa.sentence_containing import SentenceContaining
+    from lmentry.tasks.fa.sentence_not_containing import SentenceNotContaining
+    from lmentry.tasks.fa.smaller_number import SmallerNumber
+    from lmentry.tasks.fa.starts_with_letter import StartsWithLetter
+    from lmentry.tasks.fa.starts_with_word import StartsWithWord
+    from lmentry.tasks.fa.word_after import WordAfter
+    from lmentry.tasks.fa.word_before import WordBefore
+    from lmentry.tasks.fa.word_containing import WordContaining
+    from lmentry.tasks.fa.word_not_containing import WordNotContaining
+
+    analysis_tasks = {
+    "first_alphabetically_far_first_letter": FirstAlphabeticallyFarFirstLetter,
+    "first_alphabetically_different_first_letter": FirstAlphabeticallyDifferentFirstLetter,
+    "first_alphabetically_consecutive_first_letter": FirstAlphabeticallyConsecutiveFirstLetter,
+    "first_alphabetically_same_first_letter": FirstAlphabeticallySameFirstLetter,
+    "any_words_from_category_5_distractors": AnyWordsFromCategory5Distractors,
+    "any_words_from_category_4_distractors": AnyWordsFromCategory4Distractors,
+    "any_words_from_category_3_distractors": AnyWordsFromCategory3Distractors,
+    "all_words_from_category_0_distractors": AllWordsFromCategory0Distractors,
+    "all_words_from_category_1_distractors": AllWordsFromCategory1Distractors,
+    "all_words_from_category_2_distractors": AllWordsFromCategory2Distractors,
+    "rhyming_word_orthographically_similar": RhymingWordOrthographicallySimilar,
+    "more_letters_length_diff_3plus": MoreLettersLengthDiff3plus,
+    "more_letters_length_diff_1": MoreLettersLengthDiff1,
+    "less_letters_length_diff_3plus": LessLettersLengthDiff3plus,
+    "less_letters_length_diff_1": LessLettersLengthDiff1,
+    }
+
+
 if LANG == "eu":
     core_tasks = {
     "sentence_containing": SentenceContaining,

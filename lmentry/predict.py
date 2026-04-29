@@ -19,7 +19,7 @@ from vllm import LLM, SamplingParams
 
 from lmentry.system_prompts import SYSTEM_PROMPT
 from lmentry.models import get_predictor_model_name
-from lmentry.constants import initialize_variables, lmentry_random_seed
+from lmentry.constants import initialize_variables, lmentry_random_seed, HF_PATH
 
 os.environ["VLLM_WORKER_MULTIPROC_METHOD"] = "spawn" # NEEDED if VLLM raise some fork process errors
 
@@ -81,7 +81,7 @@ def generate_task_hf_predictions(task_name, model,
 
     # LOAD THE DATASET
     ds = load_dataset(
-        "BSC-LT/multi_lmentry",
+        HF_PATH,
         LANG,
         data_files=f"{LANG}/{task.name}.jsonl"
     )["train"]
