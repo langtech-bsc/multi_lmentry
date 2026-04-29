@@ -1,0 +1,2966 @@
+{
+  "زندگی": {
+    "pos": "NOUN"
+  },
+  "مرگ": {
+    "pos": "NOUN"
+  },
+  "تولد": {
+    "pos": "NOUN"
+  },
+  "رشد": {
+    "pos": "NOUN"
+  },
+  "تجربه": {
+    "pos": "NOUN"
+  },
+  "پیری": {
+    "pos": "NOUN"
+  },
+  "جوانی": {
+    "pos": "NOUN"
+  },
+  "حیات": {
+    "pos": "NOUN"
+  },
+  "گوجه": {
+    "pos": "NOUN"
+  },
+  "خیار": {
+    "pos": "NOUN"
+  },
+  "پیاز": {
+    "pos": "NOUN"
+  },
+  "کاهو": {
+    "pos": "NOUN"
+  },
+  "هویج": {
+    "pos": "NOUN"
+  },
+  "اسفناج": {
+    "pos": "NOUN"
+  },
+  "شلغم": {
+    "pos": "NOUN"
+  },
+  "قارچ": {
+    "pos": "NOUN"
+  },
+  "چغندر": {
+    "pos": "NOUN"
+  },
+  "سیر": {
+    "pos": "NOUN"
+  },
+  "فلفل": {
+    "pos": "NOUN"
+  },
+  "ذرت": {
+    "pos": "NOUN"
+  },
+  "کرفس": {
+    "pos": "NOUN"
+  },
+  "کلم": {
+    "pos": "NOUN"
+  },
+  "بامیه": {
+    "pos": "NOUN"
+  },
+  "کدو": {
+    "pos": "NOUN"
+  },
+  "بادمجان": {
+    "pos": "NOUN"
+  },
+  "دیدن": {
+    "pos": "VERB"
+  },
+  "شنیدن": {
+    "pos": "VERB"
+  },
+  "بوییدن": {
+    "pos": "VERB"
+  },
+  "چشیدن": {
+    "pos": "VERB"
+  },
+  "لرزیدن": {
+    "pos": "VERB"
+  },
+  "لمسیدن": {
+    "pos": "VERB"
+  },
+  "رفتن": {
+    "pos": "VERB"
+  },
+  "آمدن": {
+    "pos": "VERB"
+  },
+  "دویدن": {
+    "pos": "VERB"
+  },
+  "افتادن": {
+    "pos": "VERB"
+  },
+  "برگشتن": {
+    "pos": "VERB"
+  },
+  "لغزیدن": {
+    "pos": "VERB"
+  },
+  "چرخیدن": {
+    "pos": "VERB"
+  },
+  "نشستن": {
+    "pos": "VERB"
+  },
+  "پریدن": {
+    "pos": "VERB"
+  },
+  "کشیدن": {
+    "pos": "VERB"
+  },
+  "بودن": {
+    "pos": "VERB"
+  },
+  "داشتن": {
+    "pos": "VERB"
+  },
+  "ماندن": {
+    "pos": "VERB"
+  },
+  "زیستن": {
+    "pos": "VERB"
+  },
+  "مردن": {
+    "pos": "VERB"
+  },
+  "خواندن": {
+    "pos": "VERB"
+  },
+  "نوشتن": {
+    "pos": "VERB"
+  },
+  "پرسیدن": {
+    "pos": "VERB"
+  },
+  "ساختن": {
+    "pos": "VERB"
+  },
+  "پختن": {
+    "pos": "VERB"
+  },
+  "ماشین": {
+    "pos": "NOUN"
+  },
+  "اتوبوس": {
+    "pos": "NOUN"
+  },
+  "قطار": {
+    "pos": "NOUN"
+  },
+  "هواپیما": {
+    "pos": "NOUN"
+  },
+  "دوچرخه": {
+    "pos": "NOUN"
+  },
+  "تراموا": {
+    "pos": "NOUN"
+  },
+  "تاکسی": {
+    "pos": "NOUN"
+  },
+  "مترو": {
+    "pos": "NOUN"
+  },
+  "کشتی": {
+    "pos": "NOUN"
+  },
+  "خودرو": {
+    "pos": "NOUN"
+  },
+  "موتور": {
+    "pos": "NOUN"
+  },
+  "جت": {
+    "pos": "NOUN"
+  },
+  "هلیکوپتر": {
+    "pos": "NOUN"
+  },
+  "قایق": {
+    "pos": "NOUN"
+  },
+  "ویلچر": {
+    "pos": "NOUN"
+  },
+  "کامیون": {
+    "pos": "NOUN"
+  },
+  "مردم": {
+    "pos": "NOUN"
+  },
+  "قانون": {
+    "pos": "NOUN"
+  },
+  "فرهنگ": {
+    "pos": "NOUN"
+  },
+  "دولت": {
+    "pos": "NOUN"
+  },
+  "جامعه": {
+    "pos": "NOUN"
+  },
+  "اجتماع": {
+    "pos": "NOUN"
+  },
+  "جمعیت": {
+    "pos": "NOUN"
+  },
+  "گروه": {
+    "pos": "NOUN"
+  },
+  "نظام": {
+    "pos": "NOUN"
+  },
+  "قشر": {
+    "pos": "NOUN"
+  },
+  "حکومت": {
+    "pos": "NOUN"
+  },
+  "ملت": {
+    "pos": "NOUN"
+  },
+  "شهروند": {
+    "pos": "NOUN"
+  },
+  "امنیت": {
+    "pos": "NOUN"
+  },
+  "سنت": {
+    "pos": "NOUN"
+  },
+  "هویت": {
+    "pos": "NOUN"
+  },
+  "آداب": {
+    "pos": "NOUN"
+  },
+  "رسوم": {
+    "pos": "NOUN"
+  },
+  "اقتصاد": {
+    "pos": "NOUN"
+  },
+  "فقر": {
+    "pos": "NOUN"
+  },
+  "بازار": {
+    "pos": "NOUN"
+  },
+  "بیکاری": {
+    "pos": "NOUN"
+  },
+  "همکاری": {
+    "pos": "NOUN"
+  },
+  "همبستگی": {
+    "pos": "NOUN"
+  },
+  "حقوق": {
+    "pos": "NOUN"
+  },
+  "تبعیض": {
+    "pos": "NOUN"
+  },
+  "لباس": {
+    "pos": "NOUN"
+  },
+  "کفش": {
+    "pos": "NOUN"
+  },
+  "پیراهن": {
+    "pos": "NOUN"
+  },
+  "شلوار": {
+    "pos": "NOUN"
+  },
+  "کلاه": {
+    "pos": "NOUN"
+  },
+  "بلوز": {
+    "pos": "NOUN"
+  },
+  "کت": {
+    "pos": "NOUN"
+  },
+  "پالتو": {
+    "pos": "NOUN"
+  },
+  "کاپشن": {
+    "pos": "NOUN"
+  },
+  "ژاکت": {
+    "pos": "NOUN"
+  },
+  "دامن": {
+    "pos": "NOUN"
+  },
+  "شلوارک": {
+    "pos": "NOUN"
+  },
+  "صندل": {
+    "pos": "NOUN"
+  },
+  "بوت": {
+    "pos": "NOUN"
+  },
+  "دمپایی": {
+    "pos": "NOUN"
+  },
+  "شورت": {
+    "pos": "NOUN"
+  },
+  "سوتین": {
+    "pos": "NOUN"
+  },
+  "زیرپوش": {
+    "pos": "NOUN"
+  },
+  "شال": {
+    "pos": "NOUN"
+  },
+  "روسری": {
+    "pos": "NOUN"
+  },
+  "مقنعه": {
+    "pos": "NOUN"
+  },
+  "مانتو": {
+    "pos": "NOUN"
+  },
+  "چادر": {
+    "pos": "NOUN"
+  },
+  "عبا": {
+    "pos": "NOUN"
+  },
+  "جوراب": {
+    "pos": "NOUN"
+  },
+  "دستکش": {
+    "pos": "NOUN"
+  },
+  "جامه": {
+    "pos": "NOUN"
+  },
+  "کراوات": {
+    "pos": "NOUN"
+  },
+  "معلم": {
+    "pos": "NOUN"
+  },
+  "پزشک": {
+    "pos": "NOUN"
+  },
+  "مهندس": {
+    "pos": "NOUN"
+  },
+  "کارگر": {
+    "pos": "NOUN"
+  },
+  "دانشجو": {
+    "pos": "NOUN"
+  },
+  "استاد": {
+    "pos": "NOUN"
+  },
+  "مربی": {
+    "pos": "NOUN"
+  },
+  "مدرس": {
+    "pos": "NOUN"
+  },
+  "پرستار": {
+    "pos": "NOUN"
+  },
+  "دندانپزشک": {
+    "pos": "NOUN"
+  },
+  "داروساز": {
+    "pos": "NOUN"
+  },
+  "ماما": {
+    "pos": "NOUN"
+  },
+  "تکنسین": {
+    "pos": "NOUN"
+  },
+  "برقکار": {
+    "pos": "NOUN"
+  },
+  "مکانیک": {
+    "pos": "NOUN"
+  },
+  "کارمند": {
+    "pos": "NOUN"
+  },
+  "مدیر": {
+    "pos": "NOUN"
+  },
+  "منشی": {
+    "pos": "NOUN"
+  },
+  "حسابدار": {
+    "pos": "NOUN"
+  },
+  "اپراتور": {
+    "pos": "NOUN"
+  },
+  "نجار": {
+    "pos": "NOUN"
+  },
+  "بنا": {
+    "pos": "NOUN"
+  },
+  "جوشکار": {
+    "pos": "NOUN"
+  },
+  "نقاش": {
+    "pos": "NOUN"
+  },
+  "فروشنده": {
+    "pos": "NOUN"
+  },
+  "صندوقدار": {
+    "pos": "NOUN"
+  },
+  "تاجر": {
+    "pos": "NOUN"
+  },
+  "آشپز": {
+    "pos": "NOUN"
+  },
+  "نانوا": {
+    "pos": "NOUN"
+  },
+  "قناد": {
+    "pos": "NOUN"
+  },
+  "پیشخدمت": {
+    "pos": "NOUN"
+  },
+  "راننده": {
+    "pos": "NOUN"
+  },
+  "خلبان": {
+    "pos": "NOUN"
+  },
+  "ملوان": {
+    "pos": "NOUN"
+  },
+  "ناخدا": {
+    "pos": "NOUN"
+  },
+  "هنرمند": {
+    "pos": "NOUN"
+  },
+  "بازیگر": {
+    "pos": "NOUN"
+  },
+  "خواننده": {
+    "pos": "NOUN"
+  },
+  "نویسنده": {
+    "pos": "NOUN"
+  },
+  "خبرنگار": {
+    "pos": "NOUN"
+  },
+  "پلیس": {
+    "pos": "NOUN"
+  },
+  "افسر": {
+    "pos": "NOUN"
+  },
+  "نگهبان": {
+    "pos": "NOUN"
+  },
+  "وکیل": {
+    "pos": "NOUN"
+  },
+  "قاضی": {
+    "pos": "NOUN"
+  },
+  "مشاور": {
+    "pos": "NOUN"
+  },
+  "سیاستمدار": {
+    "pos": "NOUN"
+  },
+  "دانشمند": {
+    "pos": "NOUN"
+  },
+  "فیزیکدان": {
+    "pos": "NOUN"
+  },
+  "پژوهشگر": {
+    "pos": "NOUN"
+  },
+  "از": {
+    "pos": "ADPOSITION"
+  },
+  "به": {
+    "pos": "ADPOSITION"
+  },
+  "با": {
+    "pos": "CONJUNCTION"
+  },
+  "در": {
+    "pos": "ADPOSITION"
+  },
+  "برای": {
+    "pos": "ADPOSITION"
+  },
+  "روی": {
+    "pos": "ADVERB"
+  },
+  "زیر": {
+    "pos": "ADVERB"
+  },
+  "بدون": {
+    "pos": "ADPOSITION"
+  },
+  "درباره": {
+    "pos": "ADPOSITION"
+  },
+  "مثل": {
+    "pos": "ADPOSITION"
+  },
+  "داخل": {
+    "pos": "ADVERB"
+  },
+  "بیرون": {
+    "pos": "ADVERB"
+  },
+  "کنار": {
+    "pos": "ADJECTIVE"
+  },
+  "مقابل": {
+    "pos": "ADPOSITION"
+  },
+  "بین": {
+    "pos": "NOUN"
+  },
+  "جلو": {
+    "pos": "ADVERB"
+  },
+  "پشت": {
+    "pos": "ADVERB"
+  },
+  "دور": {
+    "pos": "ADJECTIVE"
+  },
+  "هنگام": {
+    "pos": "ADPOSITION"
+  },
+  "تا": {
+    "pos": "ADPOSITION"
+  },
+  "طی": {
+    "pos": "ADPOSITION"
+  },
+  "خلاف": {
+    "pos": "ADPOSITION"
+  },
+  "طبق": {
+    "pos": "ADPOSITION"
+  },
+  "صفر": {
+    "pos": "DETERMINER"
+  },
+  "یک": {
+    "pos": "DETERMINER"
+  },
+  "دو": {
+    "pos": "NOUN"
+  },
+  "سه": {
+    "pos": "DETERMINER"
+  },
+  "چهار": {
+    "pos": "DETERMINER"
+  },
+  "پنج": {
+    "pos": "DETERMINER"
+  },
+  "شش": {
+    "pos": "DETERMINER"
+  },
+  "هفت": {
+    "pos": "DETERMINER"
+  },
+  "هشت": {
+    "pos": "DETERMINER"
+  },
+  "نه": {
+    "pos": "DETERMINER"
+  },
+  "ده": {
+    "pos": "DETERMINER"
+  },
+  "یازده": {
+    "pos": "DETERMINER"
+  },
+  "دوازده": {
+    "pos": "DETERMINER"
+  },
+  "سیزده": {
+    "pos": "DETERMINER"
+  },
+  "متر": {
+    "pos": "NOUN"
+  },
+  "کیلو": {
+    "pos": "NOUN"
+  },
+  "لیتر": {
+    "pos": "NOUN"
+  },
+  "درجه": {
+    "pos": "NOUN"
+  },
+  "کیلومتر": {
+    "pos": "NOUN"
+  },
+  "اینچ": {
+    "pos": "NOUN"
+  },
+  "گرم": {
+    "pos": "ADJECTIVE"
+  },
+  "تن": {
+    "pos": "NOUN"
+  },
+  "گالن": {
+    "pos": "NOUN"
+  },
+  "بشکه": {
+    "pos": "NOUN"
+  },
+  "ثانیه": {
+    "pos": "NOUN"
+  },
+  "دقیقه": {
+    "pos": "NOUN"
+  },
+  "روز": {
+    "pos": "NOUN"
+  },
+  "هفته": {
+    "pos": "NOUN"
+  },
+  "فارنهایت": {
+    "pos": "NOUN"
+  },
+  "هکتار": {
+    "pos": "NOUN"
+  },
+  "جفت": {
+    "pos": "NOUN"
+  },
+  "بسته": {
+    "pos": "NOUN"
+  },
+  "عدد": {
+    "pos": "NOUN"
+  },
+  "فروردین": {
+    "pos": "DATE"
+  },
+  "اردیبهشت": {
+    "pos": "DATE"
+  },
+  "خرداد": {
+    "pos": "DATE"
+  },
+  "تیر": {
+    "pos": "DATE"
+  },
+  "مرداد": {
+    "pos": "DATE"
+  },
+  "شهریور": {
+    "pos": "DATE"
+  },
+  "مهر": {
+    "pos": "DATE"
+  },
+  "آبان": {
+    "pos": "DATE"
+  },
+  "آذر": {
+    "pos": "DATE"
+  },
+  "دی": {
+    "pos": "DATE"
+  },
+  "بهمن": {
+    "pos": "NOUN"
+  },
+  "اسفند": {
+    "pos": "DATE"
+  },
+  "چوب": {
+    "pos": "NOUN"
+  },
+  "طلا": {
+    "pos": "NOUN"
+  },
+  "فلز": {
+    "pos": "NOUN"
+  },
+  "نقره": {
+    "pos": "NOUN"
+  },
+  "پلاستیک": {
+    "pos": "NOUN"
+  },
+  "سنگ": {
+    "pos": "NOUN"
+  },
+  "شیشه": {
+    "pos": "NOUN"
+  },
+  "سیمان": {
+    "pos": "NOUN"
+  },
+  "آهن": {
+    "pos": "NOUN"
+  },
+  "آجر": {
+    "pos": "NOUN"
+  },
+  "گچ": {
+    "pos": "NOUN"
+  },
+  "بتن": {
+    "pos": "NOUN"
+  },
+  "مس": {
+    "pos": "NOUN"
+  },
+  "فولاد": {
+    "pos": "NOUN"
+  },
+  "آلومینیوم": {
+    "pos": "NOUN"
+  },
+  "خاک": {
+    "pos": "NOUN"
+  },
+  "چرم": {
+    "pos": "NOUN"
+  },
+  "شن": {
+    "pos": "NOUN"
+  },
+  "پشم": {
+    "pos": "NOUN"
+  },
+  "ماسه": {
+    "pos": "NOUN"
+  },
+  "پارچه": {
+    "pos": "NOUN"
+  },
+  "کتان": {
+    "pos": "NOUN"
+  },
+  "پنبه": {
+    "pos": "NOUN"
+  },
+  "ابریشم": {
+    "pos": "NOUN"
+  },
+  "آب": {
+    "pos": "NOUN"
+  },
+  "گاز": {
+    "pos": "NOUN"
+  },
+  "نفت": {
+    "pos": "NOUN"
+  },
+  "دفتر": {
+    "pos": "NOUN"
+  },
+  "اداره": {
+    "pos": "NOUN"
+  },
+  "مدرسه": {
+    "pos": "NOUN"
+  },
+  "دانشگاه": {
+    "pos": "NOUN"
+  },
+  "بیمارستان": {
+    "pos": "NOUN"
+  },
+  "کارخانه": {
+    "pos": "NOUN"
+  },
+  "فروشگاه": {
+    "pos": "NOUN"
+  },
+  "رستوران": {
+    "pos": "NOUN"
+  },
+  "فرودگاه": {
+    "pos": "NOUN"
+  },
+  "انبار": {
+    "pos": "NOUN"
+  },
+  "مزرعه": {
+    "pos": "NOUN"
+  },
+  "اورژانس": {
+    "pos": "NOUN"
+  },
+  "باغ": {
+    "pos": "NOUN"
+  },
+  "پایگاه": {
+    "pos": "NOUN"
+  },
+  "گلخانه": {
+    "pos": "NOUN"
+  },
+  "پادگان": {
+    "pos": "NOUN"
+  },
+  "آزمایشگاه": {
+    "pos": "NOUN"
+  },
+  "پژوهشگاه": {
+    "pos": "NOUN"
+  },
+  "زندان": {
+    "pos": "NOUN"
+  },
+  "شهرداری": {
+    "pos": "NOUN"
+  },
+  "وزارتخانه": {
+    "pos": "NOUN"
+  },
+  "دادگاه": {
+    "pos": "NOUN"
+  },
+  "استودیو": {
+    "pos": "NOUN"
+  },
+  "چاپخانه": {
+    "pos": "NOUN"
+  },
+  "تحریریه": {
+    "pos": "NOUN"
+  },
+  "بندر": {
+    "pos": "NOUN"
+  },
+  "انتشارات": {
+    "pos": "NOUN"
+  },
+  "ایستگاه": {
+    "pos": "NOUN"
+  },
+  "گمرک": {
+    "pos": "NOUN"
+  },
+  "ترمینال": {
+    "pos": "NOUN"
+  },
+  "کافه": {
+    "pos": "NOUN"
+  },
+  "مغازه": {
+    "pos": "NOUN"
+  },
+  "آشپزخانه": {
+    "pos": "NOUN"
+  },
+  "نانوایی": {
+    "pos": "NOUN"
+  },
+  "پاساژ": {
+    "pos": "NOUN"
+  },
+  "قنادی": {
+    "pos": "NOUN"
+  },
+  "نمایشگاه": {
+    "pos": "NOUN"
+  },
+  "کارگاه": {
+    "pos": "NOUN"
+  },
+  "کلینیک": {
+    "pos": "NOUN"
+  },
+  "پالایشگاه": {
+    "pos": "NOUN"
+  },
+  "داروخانه": {
+    "pos": "NOUN"
+  },
+  "نیروگاه": {
+    "pos": "NOUN"
+  },
+  "درمانگاه": {
+    "pos": "NOUN"
+  },
+  "معدن": {
+    "pos": "NOUN"
+  },
+  "سازمان": {
+    "pos": "NOUN"
+  },
+  "آموزشگاه": {
+    "pos": "NOUN"
+  },
+  "شرکت": {
+    "pos": "NOUN"
+  },
+  "دبستان": {
+    "pos": "NOUN"
+  },
+  "مؤسسه": {
+    "pos": "NOUN"
+  },
+  "دبیرستان": {
+    "pos": "NOUN"
+  },
+  "دامداری": {
+    "pos": "NOUN"
+  },
+  "مرغداری": {
+    "pos": "NOUN"
+  },
+  "گیتار": {
+    "pos": "NOUN"
+  },
+  "پیانو": {
+    "pos": "NOUN"
+  },
+  "ویولن": {
+    "pos": "NOUN"
+  },
+  "باتری": {
+    "pos": "NOUN"
+  },
+  "فلوت": {
+    "pos": "NOUN"
+  },
+  "ترومپت": {
+    "pos": "NOUN"
+  },
+  "کلارینت": {
+    "pos": "NOUN"
+  },
+  "ساکسوفون": {
+    "pos": "NOUN"
+  },
+  "طبل": {
+    "pos": "NOUN"
+  },
+  "ویولا": {
+    "pos": "NOUN"
+  },
+  "سنتور": {
+    "pos": "NOUN"
+  },
+  "تار": {
+    "pos": "NOUN"
+  },
+  "سه‌تار": {
+    "pos": "NOUN"
+  },
+  "دف": {
+    "pos": "NOUN"
+  },
+  "نی": {
+    "pos": "NOUN"
+  },
+  "صندلی": {
+    "pos": "NOUN"
+  },
+  "میز": {
+    "pos": "NOUN"
+  },
+  "تخت": {
+    "pos": "NOUN"
+  },
+  "اتاق": {
+    "pos": "NOUN"
+  },
+  "پنل": {
+    "pos": "NOUN"
+  },
+  "درب": {
+    "pos": "NOUN"
+  },
+  "پنجره": {
+    "pos": "NOUN"
+  },
+  "ورودی": {
+    "pos": "NOUN"
+  },
+  "خانه": {
+    "pos": "NOUN"
+  },
+  "آپارتمان": {
+    "pos": "NOUN"
+  },
+  "ساختمان": {
+    "pos": "NOUN"
+  },
+  "آسانسور": {
+    "pos": "NOUN"
+  },
+  "پذیرایی": {
+    "pos": "NOUN"
+  },
+  "‌لباسشویی": {
+    "pos": "NOUN"
+  },
+  "ظرفشویی": {
+    "pos": "NOUN"
+  },
+  "یخچال": {
+    "pos": "NOUN"
+  },
+  "فریزر": {
+    "pos": "NOUN"
+  },
+  "اجاق‌": {
+    "pos": "NOUN"
+  },
+  "فر": {
+    "pos": "NOUN"
+  },
+  "مایکروویو": {
+    "pos": "NOUN"
+  },
+  "جاروبرقی": {
+    "pos": "NOUN"
+  },
+  "پنکه": {
+    "pos": "NOUN"
+  },
+  "کولر": {
+    "pos": "NOUN"
+  },
+  "بخاری": {
+    "pos": "NOUN"
+  },
+  "شوفاژ": {
+    "pos": "NOUN"
+  },
+  "تلویزیون": {
+    "pos": "NOUN"
+  },
+  "اتو": {
+    "pos": "NOUN"
+  },
+  "هود": {
+    "pos": "NOUN"
+  },
+  "سشوار": {
+    "pos": "NOUN"
+  },
+  "چکش": {
+    "pos": "NOUN"
+  },
+  "انبردست": {
+    "pos": "NOUN"
+  },
+  "آچار": {
+    "pos": "NOUN"
+  },
+  "اره": {
+    "pos": "NOUN"
+  },
+  "قیچی": {
+    "pos": "NOUN"
+  },
+  "چاقو": {
+    "pos": "NOUN"
+  },
+  "رنده": {
+    "pos": "NOUN"
+  },
+  "سوهان": {
+    "pos": "NOUN"
+  },
+  "دریل": {
+    "pos": "NOUN"
+  },
+  "مته": {
+    "pos": "NOUN"
+  },
+  "پیچ": {
+    "pos": "NOUN"
+  },
+  "میخ": {
+    "pos": "NOUN"
+  },
+  "کلنگ": {
+    "pos": "NOUN"
+  },
+  "بیل": {
+    "pos": "NOUN"
+  },
+  "تبر": {
+    "pos": "NOUN"
+  },
+  "داس": {
+    "pos": "NOUN"
+  },
+  "خط‌کش": {
+    "pos": "NOUN"
+  },
+  "تراز": {
+    "pos": "NOUN"
+  },
+  "طبیعت": {
+    "pos": "NOUN"
+  },
+  "دشت": {
+    "pos": "NOUN"
+  },
+  "جنگل": {
+    "pos": "NOUN"
+  },
+  "بیابان": {
+    "pos": "NOUN"
+  },
+  "ساحل": {
+    "pos": "NOUN"
+  },
+  "رودخانه": {
+    "pos": "NOUN"
+  },
+  "دریاچه": {
+    "pos": "NOUN"
+  },
+  "تالاب": {
+    "pos": "NOUN"
+  },
+  "اقیانوس": {
+    "pos": "NOUN"
+  },
+  "دریا": {
+    "pos": "NOUN"
+  },
+  "کوه": {
+    "pos": "NOUN"
+  },
+  "تپه": {
+    "pos": "NOUN"
+  },
+  "کوهستان": {
+    "pos": "NOUN"
+  },
+  "دره": {
+    "pos": "NOUN"
+  },
+  "آتشفشان": {
+    "pos": "NOUN"
+  },
+  "جزیره": {
+    "pos": "NOUN"
+  },
+  "قاره": {
+    "pos": "NOUN"
+  },
+  "غار": {
+    "pos": "NOUN"
+  },
+  "آبشار": {
+    "pos": "NOUN"
+  },
+  "فلات": {
+    "pos": "NOUN"
+  },
+  "خلیج": {
+    "pos": "NOUN"
+  },
+  "تنگه": {
+    "pos": "NOUN"
+  },
+  "قطب": {
+    "pos": "NOUN"
+  },
+  "کانال": {
+    "pos": "NOUN"
+  },
+  "چمنزار": {
+    "pos": "NOUN"
+  },
+  "بشریت": {
+    "pos": "NOUN"
+  },
+  "انسان": {
+    "pos": "NOUN"
+  },
+  "شخص": {
+    "pos": "NOUN"
+  },
+  "مرد": {
+    "pos": "NOUN"
+  },
+  "زن": {
+    "pos": "NOUN"
+  },
+  "نوزاد": {
+    "pos": "NOUN"
+  },
+  "دختر": {
+    "pos": "NOUN"
+  },
+  "پسر": {
+    "pos": "NOUN"
+  },
+  "نوجوان": {
+    "pos": "NOUN"
+  },
+  "بالغ": {
+    "pos": "NOUN"
+  },
+  "سالمند": {
+    "pos": "NOUN"
+  },
+  "بانو": {
+    "pos": "NOUN"
+  },
+  "آقا": {
+    "pos": "NOUN"
+  },
+  "خانم": {
+    "pos": "NOUN"
+  },
+  "جنتلمن": {
+    "pos": "NOUN"
+  },
+  "فرد": {
+    "pos": "NOUN"
+  },
+  "کودک": {
+    "pos": "NOUN"
+  },
+  "علمی": {
+    "pos": "NOUN"
+  },
+  "اکشن": {
+    "pos": "NOUN"
+  },
+  "ماجراجویی": {
+    "pos": "NOUN"
+  },
+  "کمدی": {
+    "pos": "NOUN"
+  },
+  "درام": {
+    "pos": "NOUN"
+  },
+  "ترسناک": {
+    "pos": "NOUN"
+  },
+  "تخیلی": {
+    "pos": "NOUN"
+  },
+  "فانتزی": {
+    "pos": "NOUN"
+  },
+  "عاشقانه": {
+    "pos": "NOUN"
+  },
+  "هیجان‌انگیز": {
+    "pos": "NOUN"
+  },
+  "معمایی": {
+    "pos": "NOUN"
+  },
+  "جنایی": {
+    "pos": "NOUN"
+  },
+  "تاریخی": {
+    "pos": "NOUN"
+  },
+  "جنگی": {
+    "pos": "NOUN"
+  },
+  "وسترن": {
+    "pos": "NOUN"
+  },
+  "موزیکال": {
+    "pos": "NOUN"
+  },
+  "مستند": {
+    "pos": "NOUN"
+  },
+  "انیمیشن": {
+    "pos": "NOUN"
+  },
+  "خانوادگی": {
+    "pos": "NOUN"
+  },
+  "زندگی‌نامه‌ای": {
+    "pos": "NOUN"
+  },
+  "ورزشی": {
+    "pos": "NOUN"
+  },
+  "آخرالزمانی": {
+    "pos": "NOUN"
+  },
+  "ابرقهرمانی": {
+    "pos": "NOUN"
+  },
+  "اجتماعی": {
+    "pos": "ADJECTIVE"
+  },
+  "خانواده": {
+    "pos": "NOUN"
+  },
+  "دوست": {
+    "pos": "NOUN"
+  },
+  "آشنا": {
+    "pos": "NOUN"
+  },
+  "همکار": {
+    "pos": "NOUN"
+  },
+  "زوج": {
+    "pos": "NOUN"
+  },
+  "همسر": {
+    "pos": "NOUN"
+  },
+  "شوهر": {
+    "pos": "NOUN"
+  },
+  "ازدواج": {
+    "pos": "NOUN"
+  },
+  "عشق": {
+    "pos": "NOUN"
+  },
+  "پدر": {
+    "pos": "NOUN"
+  },
+  "مادر": {
+    "pos": "NOUN"
+  },
+  "خواهر": {
+    "pos": "NOUN"
+  },
+  "برادر": {
+    "pos": "NOUN"
+  },
+  "مادربزرگ": {
+    "pos": "NOUN"
+  },
+  "پدربزرگ": {
+    "pos": "NOUN"
+  },
+  "نوه": {
+    "pos": "NOUN"
+  },
+  "نتیجه": {
+    "pos": "NOUN"
+  },
+  "دخترخاله": {
+    "pos": "NOUN"
+  },
+  "دخترعمه": {
+    "pos": "NOUN"
+  },
+  "دخترعمو": {
+    "pos": "NOUN"
+  },
+  " دختر‌دایی": {
+    "pos": "NOUN"
+  },
+  "عمه": {
+    "pos": "NOUN"
+  },
+  "عمو": {
+    "pos": "NOUN"
+  },
+  "خاله": {
+    "pos": "NOUN"
+  },
+  "دایی": {
+    "pos": "NOUN"
+  },
+  "خواهرزاده": {
+    "pos": "NOUN"
+  },
+  " برادرزاده": {
+    "pos": "NOUN"
+  },
+  "مکان": {
+    "pos": "NOUN"
+  },
+  "موقعیت": {
+    "pos": "NOUN"
+  },
+  "حرکت": {
+    "pos": "NOUN"
+  },
+  "سرعت": {
+    "pos": "NOUN"
+  },
+  "شتاب": {
+    "pos": "NOUN"
+  },
+  "جهت": {
+    "pos": "NOUN"
+  },
+  "اندازه": {
+    "pos": "NOUN"
+  },
+  "طول": {
+    "pos": "NOUN"
+  },
+  "طولانی": {
+    "pos": "NOUN"
+  },
+  "ارتفاع": {
+    "pos": "NOUN"
+  },
+  "عرض": {
+    "pos": "NOUN"
+  },
+  "بلند": {
+    "pos": "NOUN"
+  },
+  " پهن": {
+    "pos": "NOUN"
+  },
+  "اکثریت": {
+    "pos": "NOUN"
+  },
+  "اقلیت": {
+    "pos": "NOUN"
+  },
+  "افزایش": {
+    "pos": "NOUN"
+  },
+  "کاهش": {
+    "pos": "NOUN"
+  },
+  " انتها": {
+    "pos": "NOUN"
+  },
+  "عمق": {
+    "pos": "NOUN"
+  },
+  "فضا": {
+    "pos": "NOUN"
+  },
+  "مساحت": {
+    "pos": "NOUN"
+  },
+  "حجم": {
+    "pos": "NOUN"
+  },
+  "فاصله": {
+    "pos": "NOUN"
+  },
+  "سطح": {
+    "pos": "NOUN"
+  },
+  "نقطه": {
+    "pos": "NOUN"
+  },
+  "خط": {
+    "pos": "NOUN"
+  },
+  "منحنی": {
+    "pos": "NOUN"
+  },
+  "مرکز": {
+    "pos": "NOUN"
+  },
+  "لبه": {
+    "pos": "NOUN"
+  },
+  "گوشه": {
+    "pos": "NOUN"
+  },
+  "سمت": {
+    "pos": "NOUN"
+  },
+  "بالا": {
+    "pos": "ADVERB"
+  },
+  "پایین": {
+    "pos": "ADVERB"
+  },
+  "نزدیک": {
+    "pos": "ADJECTIVE"
+  },
+  "خارج": {
+    "pos": "ADVERB"
+  },
+  "اطراف": {
+    "pos": "ADVERB"
+  },
+  "درون": {
+    "pos": "NOUN"
+  },
+  "مقدار": {
+    "pos": "NOUN"
+  },
+  "مجموع": {
+    "pos": "NOUN"
+  },
+  "بخش": {
+    "pos": "NOUN"
+  },
+  "نصف": {
+    "pos": "NOUN"
+  },
+  "حداقل": {
+    "pos": "NOUN"
+  },
+  "حداکثر": {
+    "pos": "NOUN"
+  },
+  "میانگین": {
+    "pos": "NOUN"
+  },
+  "مساوی": {
+    "pos": "NOUN"
+  },
+  "کامل": {
+    "pos": "ADVERB"
+  },
+  "پر": {
+    "pos": "NOUN"
+  },
+  "خالی": {
+    "pos": "NOUN"
+  },
+  "اضافه": {
+    "pos": "NOUN"
+  },
+  "مصرف": {
+    "pos": "NOUN"
+  },
+  "تقاضا": {
+    "pos": "NOUN"
+  },
+  "تجارت": {
+    "pos": "NOUN"
+  },
+  "خدمات": {
+    "pos": "NOUN"
+  },
+  "محصول": {
+    "pos": "NOUN"
+  },
+  "تولید": {
+    "pos": "NOUN"
+  },
+  "تراکنش": {
+    "pos": "NOUN"
+  },
+  "معامله": {
+    "pos": "NOUN"
+  },
+  "پول": {
+    "pos": "NOUN"
+  },
+  "اسکناس": {
+    "pos": "NOUN"
+  },
+  "تعرفه": {
+    "pos": "NOUN"
+  },
+  "قیمت": {
+    "pos": "NOUN"
+  },
+  "ارزش": {
+    "pos": "NOUN"
+  },
+  "درآمد": {
+    "pos": "NOUN"
+  },
+  "هزینه": {
+    "pos": "NOUN"
+  },
+  "سود": {
+    "pos": "NOUN"
+  },
+  "ضرر": {
+    "pos": "NOUN"
+  },
+  "پرداخت": {
+    "pos": "NOUN"
+  },
+  "فاکتور": {
+    "pos": "NOUN"
+  },
+  "حساب": {
+    "pos": "NOUN"
+  },
+  "بدهی": {
+    "pos": "NOUN"
+  },
+  "اعتبار": {
+    "pos": "NOUN"
+  },
+  "وام": {
+    "pos": "NOUN"
+  },
+  "بهره": {
+    "pos": "NOUN"
+  },
+  "بانک": {
+    "pos": "NOUN"
+  },
+  "سرمایه": {
+    "pos": "NOUN"
+  },
+  "پس‌انداز": {
+    "pos": "NOUN"
+  },
+  "بودجه": {
+    "pos": "NOUN"
+  },
+  "مالیات": {
+    "pos": "NOUN"
+  },
+  "نرخ": {
+    "pos": "NOUN"
+  },
+  "تخفیف": {
+    "pos": "NOUN"
+  },
+  "عرضه": {
+    "pos": "NOUN"
+  },
+  "خرید": {
+    "pos": "NOUN"
+  },
+  "فروش": {
+    "pos": "NOUN"
+  },
+  "مشتری": {
+    "pos": "NOUN"
+  },
+  "قرارداد": {
+    "pos": "NOUN"
+  },
+  "امضا": {
+    "pos": "NOUN"
+  },
+  "مالکیت": {
+    "pos": "NOUN"
+  },
+  "ثروت": {
+    "pos": "NOUN"
+  },
+  "تورم": {
+    "pos": "NOUN"
+  },
+  "اقتصادی": {
+    "pos": "NOUN"
+  },
+  "صنعت": {
+    "pos": "NOUN"
+  },
+  "کسب‌وکار": {
+    "pos": "NOUN"
+  },
+  "رقابت": {
+    "pos": "NOUN"
+  },
+  "انحصار": {
+    "pos": "NOUN"
+  },
+  "توزیع": {
+    "pos": "NOUN"
+  },
+  "صادرات": {
+    "pos": "NOUN"
+  },
+  "واردات": {
+    "pos": "NOUN"
+  },
+  "بیلیارد": {
+    "pos": "NOUN"
+  },
+  "بوکس": {
+    "pos": "NOUN"
+  },
+  "کوهنوردی": {
+    "pos": "NOUN"
+  },
+  "دومیدانی": {
+    "pos": "NOUN"
+  },
+  " صخره‌نوردی": {
+    "pos": "NOUN"
+  },
+  "شمشیربازی": {
+    "pos": "NOUN"
+  },
+  "اسکی": {
+    "pos": "NOUN"
+  },
+  "ژیمناستیک": {
+    "pos": "NOUN"
+  },
+  "گلف": {
+    "pos": "NOUN"
+  },
+  "بولینگ": {
+    "pos": "NOUN"
+  },
+  "هاکی": {
+    "pos": "NOUN"
+  },
+  "اسکیت": {
+    "pos": "NOUN"
+  },
+  "پیاده‌روی": {
+    "pos": "NOUN"
+  },
+  "شنا": {
+    "pos": "NOUN"
+  },
+  "قایقرانی": {
+    "pos": "NOUN"
+  },
+  "موج‌سواری": {
+    "pos": "NOUN"
+  },
+  "واترپلو": {
+    "pos": "NOUN"
+  },
+  "بسکتبال": {
+    "pos": "NOUN"
+  },
+  "بدمینتون": {
+    "pos": "NOUN"
+  },
+  "هندبال": {
+    "pos": "NOUN"
+  },
+  "بیسبال": {
+    "pos": "NOUN"
+  },
+  "کریکت": {
+    "pos": "NOUN"
+  },
+  "فوتبال": {
+    "pos": "NOUN"
+  },
+  "راگبی": {
+    "pos": "NOUN"
+  },
+  "تنیس": {
+    "pos": "NOUN"
+  },
+  "والیبال": {
+    "pos": "NOUN"
+  },
+  "جودو": {
+    "pos": "NOUN"
+  },
+  "کاراته": {
+    "pos": "NOUN"
+  },
+  "تکواندو": {
+    "pos": "NOUN"
+  },
+  "کونگ‌فو": {
+    "pos": "NOUN"
+  },
+  "وزنه‌": {
+    "pos": "NOUN"
+  },
+  "بدنسازی": {
+    "pos": "NOUN"
+  },
+  "کراس‌فیت": {
+    "pos": "NOUN"
+  },
+  "یوگا": {
+    "pos": "NOUN"
+  },
+  "پیلاتس": {
+    "pos": "NOUN"
+  },
+  "تیراندازی": {
+    "pos": "NOUN"
+  },
+  "چوگان": {
+    "pos": "NOUN"
+  },
+  "موتورسواری": {
+    "pos": "NOUN"
+  },
+  "کارتینگ": {
+    "pos": "NOUN"
+  },
+  "ماراتن": {
+    "pos": "NOUN"
+  },
+  "پرش": {
+    "pos": "NOUN"
+  },
+  "غواصی": {
+    "pos": "NOUN"
+  },
+  "پاروزنی": {
+    "pos": "NOUN"
+  },
+  "ماهیگیری ": {
+    "pos": "NOUN"
+  },
+  "اسنوبورد": {
+    "pos": "NOUN"
+  },
+  "پارکور": {
+    "pos": "NOUN"
+  },
+  "فوتسال": {
+    "pos": "NOUN"
+  },
+  "پا": {
+    "pos": "NOUN"
+  },
+  "پاشنه": {
+    "pos": "NOUN"
+  },
+  "ساق": {
+    "pos": "NOUN"
+  },
+  "زانو": {
+    "pos": "NOUN"
+  },
+  "ران": {
+    "pos": "NOUN"
+  },
+  "سر": {
+    "pos": "NOUN"
+  },
+  "صورت": {
+    "pos": "NOUN"
+  },
+  "دهان": {
+    "pos": "NOUN"
+  },
+  "لب": {
+    "pos": "NOUN"
+  },
+  "دندان": {
+    "pos": "NOUN"
+  },
+  "چشم": {
+    "pos": "NOUN"
+  },
+  "بینی": {
+    "pos": "NOUN"
+  },
+  "ریش": {
+    "pos": "NOUN"
+  },
+  "سبیل": {
+    "pos": "NOUN"
+  },
+  "مو": {
+    "pos": "NOUN"
+  },
+  "گوش": {
+    "pos": "NOUN"
+  },
+  "مغز": {
+    "pos": "NOUN"
+  },
+  "معده": {
+    "pos": "NOUN"
+  },
+  "بازو": {
+    "pos": "NOUN"
+  },
+  "آرنج": {
+    "pos": "NOUN"
+  },
+  "شانه": {
+    "pos": "NOUN"
+  },
+  "ناخن": {
+    "pos": "NOUN"
+  },
+  "دست": {
+    "pos": "NOUN"
+  },
+  "مچ": {
+    "pos": "NOUN"
+  },
+  "انگشت": {
+    "pos": "NOUN"
+  },
+  "باسن": {
+    "pos": "NOUN"
+  },
+  "شکم": {
+    "pos": "NOUN"
+  },
+  "کبد": {
+    "pos": "NOUN"
+  },
+  "عضله": {
+    "pos": "NOUN"
+  },
+  "گردن": {
+    "pos": "NOUN"
+  },
+  "قلب": {
+    "pos": "NOUN"
+  },
+  "سینه": {
+    "pos": "NOUN"
+  },
+  "کمر": {
+    "pos": "NOUN"
+  },
+  "لگن": {
+    "pos": "NOUN"
+  },
+  "پوست": {
+    "pos": "NOUN"
+  },
+  "استخوان": {
+    "pos": "NOUN"
+  },
+  "پیشانی": {
+    "pos": "NOUN"
+  },
+  "گونه": {
+    "pos": "NOUN"
+  },
+  "چانه": {
+    "pos": "NOUN"
+  },
+  "فک": {
+    "pos": "NOUN"
+  },
+  "زبان": {
+    "pos": "NOUN"
+  },
+  "گلو": {
+    "pos": "NOUN"
+  },
+  "مژه": {
+    "pos": "NOUN"
+  },
+  "ابرو": {
+    "pos": "NOUN"
+  },
+  "مردمک": {
+    "pos": "NOUN"
+  },
+  "شبکیه": {
+    "pos": "NOUN"
+  },
+  "ریه": {
+    "pos": "NOUN"
+  },
+  "رگ": {
+    "pos": "NOUN"
+  },
+  "سرخرگ": {
+    "pos": "NOUN"
+  },
+  "خون": {
+    "pos": "NOUN"
+  },
+  "عصب": {
+    "pos": "NOUN"
+  },
+  "اسکلت": {
+    "pos": "NOUN"
+  },
+  "مهره": {
+    "pos": "NOUN"
+  },
+  "مفصل": {
+    "pos": "NOUN"
+  },
+  "تاندون": {
+    "pos": "NOUN"
+  },
+  "رباط": {
+    "pos": "NOUN"
+  },
+  "غضروف": {
+    "pos": "NOUN"
+  },
+  "زیربغل": {
+    "pos": "NOUN"
+  },
+  "ساعد": {
+    "pos": "NOUN"
+  },
+  "شست": {
+    "pos": "NOUN"
+  },
+  "اگرچه ": {
+    "pos": "CONJUNCTION"
+  },
+  "هرچند": {
+    "pos": "CONJUNCTION"
+  },
+  " سپس": {
+    "pos": "CONJUNCTION"
+  },
+  "مانند": {
+    "pos": "CONJUNCTION"
+  },
+  "بنابراین": {
+    "pos": "CONJUNCTION"
+  },
+  " نه": {
+    "pos": "CONJUNCTION"
+  },
+  " ولی": {
+    "pos": "CONJUNCTION"
+  },
+  "اما": {
+    "pos": "CONJUNCTION"
+  },
+  " چون": {
+    "pos": "CONJUNCTION"
+  },
+  "زیرا": {
+    "pos": "CONJUNCTION"
+  },
+  " پس": {
+    "pos": "CONJUNCTION"
+  },
+  "که": {
+    "pos": "CONJUNCTION"
+  },
+  "مگر": {
+    "pos": "CONJUNCTION"
+  },
+  "اگر": {
+    "pos": "CONJUNCTION"
+  },
+  "بلکه": {
+    "pos": "CONJUNCTION"
+  },
+  "و": {
+    "pos": "CONJUNCTION"
+  },
+  "یا": {
+    "pos": "CONJUNCTION"
+  },
+  "همچنین": {
+    "pos": "ADVERB"
+  },
+  "یعنی": {
+    "pos": "CONJUNCTION"
+  },
+  "همانند": {
+    "pos": "CONJUNCTION"
+  },
+  "رنگ": {
+    "pos": "NOUN"
+  },
+  "سفید": {
+    "pos": "NOUN"
+  },
+  "سیاه": {
+    "pos": "NOUN"
+  },
+  "خاکستری": {
+    "pos": "NOUN"
+  },
+  "قرمز": {
+    "pos": "NOUN"
+  },
+  "نارنجی": {
+    "pos": "NOUN"
+  },
+  "زرد": {
+    "pos": "NOUN"
+  },
+  "سبز": {
+    "pos": "NOUN"
+  },
+  "آبی": {
+    "pos": "NOUN"
+  },
+  "بنفش": {
+    "pos": "NOUN"
+  },
+  "صورتی": {
+    "pos": "NOUN"
+  },
+  "قهوه‌ای": {
+    "pos": "NOUN"
+  },
+  "طلایی": {
+    "pos": "NOUN"
+  },
+  "نیلی": {
+    "pos": "NOUN"
+  },
+  "سرخابی": {
+    "pos": "NOUN"
+  },
+  "زرشکی": {
+    "pos": "NOUN"
+  },
+  "گلبهی": {
+    "pos": "NOUN"
+  },
+  "زیتونی": {
+    "pos": "NOUN"
+  },
+  "سرمه‌ای": {
+    "pos": "NOUN"
+  },
+  "کرم": {
+    "pos": "NOUN"
+  },
+  "خردلی": {
+    "pos": "NOUN"
+  },
+  "مسی": {
+    "pos": "NOUN"
+  },
+  "نقره‌ای": {
+    "pos": "NOUN"
+  },
+  "بژ": {
+    "pos": "NOUN"
+  },
+  "اسم": {
+    "pos": "NOUN"
+  },
+  "صفت": {
+    "pos": "NOUN"
+  },
+  "قید": {
+    "pos": "NOUN"
+  },
+  "ضمیر": {
+    "pos": "NOUN"
+  },
+  "فعل": {
+    "pos": "NOUN"
+  },
+  "مصدر": {
+    "pos": "NOUN"
+  },
+  "معلوم": {
+    "pos": "NOUN"
+  },
+  "مجهول": {
+    "pos": "NOUN"
+  },
+  "فاعل": {
+    "pos": "NOUN"
+  },
+  "مفعول": {
+    "pos": "NOUN"
+  },
+  "متمم": {
+    "pos": "NOUN"
+  },
+  "جمله": {
+    "pos": "NOUN"
+  },
+  "پیشوند": {
+    "pos": "NOUN"
+  },
+  "پسوند": {
+    "pos": "NOUN"
+  },
+  "ریشه": {
+    "pos": "NOUN"
+  },
+  "عبارت": {
+    "pos": "NOUN"
+  },
+  "زلزله": {
+    "pos": "NOUN"
+  },
+  "سیل": {
+    "pos": "NOUN"
+  },
+  "طوفان": {
+    "pos": "NOUN"
+  },
+  "گردباد": {
+    "pos": "NOUN"
+  },
+  "سونامی": {
+    "pos": "NOUN"
+  },
+  "آتش‌سوزی": {
+    "pos": "NOUN"
+  },
+  "خشکسالی": {
+    "pos": "NOUN"
+  },
+  "صاعقه": {
+    "pos": "NOUN"
+  },
+  "حیوان": {
+    "pos": "NOUN"
+  },
+  "سگ": {
+    "pos": "NOUN"
+  },
+  "گربه": {
+    "pos": "NOUN"
+  },
+  "گاو": {
+    "pos": "NOUN"
+  },
+  "خوک": {
+    "pos": "NOUN"
+  },
+  "مادیان": {
+    "pos": "NOUN"
+  },
+  "اسب": {
+    "pos": "NOUN"
+  },
+  "گوسفند": {
+    "pos": "NOUN"
+  },
+  "میمون": {
+    "pos": "NOUN"
+  },
+  "موش": {
+    "pos": "NOUN"
+  },
+  "ببر": {
+    "pos": "NOUN"
+  },
+  "خرگوش": {
+    "pos": "NOUN"
+  },
+  "گوزن": {
+    "pos": "NOUN"
+  },
+  "قورباغه": {
+    "pos": "NOUN"
+  },
+  "شیر": {
+    "pos": "NOUN"
+  },
+  "زرافه": {
+    "pos": "NOUN"
+  },
+  "فیل": {
+    "pos": "NOUN"
+  },
+  "پرنده": {
+    "pos": "NOUN"
+  },
+  "مرغ": {
+    "pos": "NOUN"
+  },
+  "گنجشک": {
+    "pos": "NOUN"
+  },
+  "کلاغ": {
+    "pos": "NOUN"
+  },
+  "عقاب": {
+    "pos": "NOUN"
+  },
+  "شاهین": {
+    "pos": "NOUN"
+  },
+  "ماهی": {
+    "pos": "NOUN"
+  },
+  "میگو": {
+    "pos": "NOUN"
+  },
+  "خرچنگ": {
+    "pos": "NOUN"
+  },
+  "ساردین": {
+    "pos": "NOUN"
+  },
+  "اختاپوس": {
+    "pos": "NOUN"
+  },
+  "حشره": {
+    "pos": "NOUN"
+  },
+  "پروانه": {
+    "pos": "NOUN"
+  },
+  "ملخ": {
+    "pos": "NOUN"
+  },
+  "عنکبوت": {
+    "pos": "NOUN"
+  },
+  "مگس": {
+    "pos": "NOUN"
+  },
+  "پشه": {
+    "pos": "NOUN"
+  },
+  "سوسک": {
+    "pos": "NOUN"
+  },
+  "حلزون": {
+    "pos": "NOUN"
+  },
+  "مارمولک": {
+    "pos": "NOUN"
+  },
+  "مار": {
+    "pos": "NOUN"
+  },
+  "تمساح": {
+    "pos": "NOUN"
+  },
+  " پیش": {
+    "pos": "ADVERB"
+  },
+  "قبل": {
+    "pos": "ADVERB"
+  },
+  "قبلاً": {
+    "pos": "ADVERB"
+  },
+  "حال": {
+    "pos": "ADVERB"
+  },
+  "اکنون": {
+    "pos": "ADVERB"
+  },
+  "بلافاصله": {
+    "pos": "ADVERB"
+  },
+  "فوراً": {
+    "pos": "ADVERB"
+  },
+  "هنوز": {
+    "pos": "ADVERB"
+  },
+  "تازه": {
+    "pos": "ADVERB"
+  },
+  " هنگام": {
+    "pos": "ADVERB"
+  },
+  " بعداً": {
+    "pos": "ADVERB"
+  },
+  "بعد": {
+    "pos": "ADVERB"
+  },
+  "سپس": {
+    "pos": "ADVERB"
+  },
+  "دیر": {
+    "pos": "ADVERB"
+  },
+  "زود": {
+    "pos": "ADVERB"
+  },
+  "دیروز": {
+    "pos": "ADVERB"
+  },
+  "دیشب": {
+    "pos": "ADVERB"
+  },
+  "امروز": {
+    "pos": "ADVERB"
+  },
+  "فردا": {
+    "pos": "ADVERB"
+  },
+  "حالا": {
+    "pos": "ADVERB"
+  },
+  " همین ": {
+    "pos": "ADVERB"
+  },
+  "وسط": {
+    "pos": "ADVERB"
+  },
+  "روبه‌رو": {
+    "pos": "ADVERB"
+  },
+  "اینجا": {
+    "pos": "ADVERB"
+  },
+  "آنجا": {
+    "pos": "ADVERB"
+  },
+  "  میان": {
+    "pos": "ADVERB"
+  },
+  " مقابل": {
+    "pos": "ADVERB"
+  },
+  "قطعاً": {
+    "pos": "ADVERB"
+  },
+  "همیشه": {
+    "pos": "ADVERB"
+  },
+  "هرگز": {
+    "pos": "ADVERB"
+  },
+  "شاید": {
+    "pos": "ADVERB"
+  },
+  "به‌راحتی": {
+    "pos": "ADVERB"
+  },
+  "به‌سختی": {
+    "pos": "ADVERB"
+  },
+  "احتمالاً": {
+    "pos": "ADVERB"
+  },
+  " ممکن": {
+    "pos": "ADVERB"
+  },
+  "حتماً": {
+    "pos": "ADVERB"
+  },
+  "تقریباً": {
+    "pos": "ADVERB"
+  },
+  "اغلب": {
+    "pos": "ADVERB"
+  },
+  "گاهی": {
+    "pos": "ADVERB"
+  },
+  "معمولاً": {
+    "pos": "ADVERB"
+  },
+  "فرضاً": {
+    "pos": "ADVERB"
+  },
+  "تصادفاً": {
+    "pos": "ADVERB"
+  },
+  "عموماً": {
+    "pos": "ADVERB"
+  },
+  "نسبتاً": {
+    "pos": "ADVERB"
+  },
+  "بیشتر": {
+    "pos": "ADVERB"
+  },
+  "کمتر": {
+    "pos": "ADVERB"
+  },
+  "خیلی": {
+    "pos": "ADVERB"
+  },
+  "زیاد": {
+    "pos": "ADVERB"
+  },
+  "کم": {
+    "pos": "ADVERB"
+  },
+  "کمی": {
+    "pos": "ADVERB"
+  },
+  "کافی": {
+    "pos": "ADVERB"
+  },
+  "دقیقاً": {
+    "pos": "ADVERB"
+  },
+  "فقط": {
+    "pos": "ADVERB"
+  },
+  " اندازه": {
+    "pos": "ADVERB"
+  },
+  "هیچ": {
+    "pos": "ADVERB"
+  },
+  "ناکافی": {
+    "pos": "ADVERB"
+  },
+  "کاملاً": {
+    "pos": "ADVERB"
+  },
+  "واضحاً": {
+    "pos": "ADVERB"
+  },
+  "خوب": {
+    "pos": "ADJECTIVE"
+  },
+  "بد": {
+    "pos": "ADJECTIVE"
+  },
+  "بهتر": {
+    "pos": "ADVERB"
+  },
+  "بدتر": {
+    "pos": "ADVERB"
+  },
+  "معمولی": {
+    "pos": "ADVERB"
+  },
+  "آهسته": {
+    "pos": "ADVERB"
+  },
+  "سریع": {
+    "pos": "ADVERB"
+  },
+  "عمداً": {
+    "pos": "ADVERB"
+  },
+  "واضح": {
+    "pos": "ADVERB"
+  },
+  "دقیق": {
+    "pos": "ADVERB"
+  },
+  "آشکار": {
+    "pos": "ADVERB"
+  },
+  "منحصراً": {
+    "pos": "ADVERB"
+  },
+  "مخصوصاً": {
+    "pos": "ADVERB"
+  },
+  "حتی": {
+    "pos": "ADVERB"
+  },
+  "آرام": {
+    "pos": "ADJECTIVE"
+  },
+  "جدی": {
+    "pos": "ADJECTIVE"
+  },
+  "خوشحالانه": {
+    "pos": "ADVERB"
+  },
+  "غمگینانه": {
+    "pos": "ADVERB"
+  },
+  "مهربانانه": {
+    "pos": "ADVERB"
+  },
+  "مؤدبانه": {
+    "pos": "ADVERB"
+  },
+  "صادقانه": {
+    "pos": "ADVERB"
+  },
+  "مجاور": {
+    "pos": "ADJECTIVE"
+  },
+  "سرد": {
+    "pos": "ADJECTIVE"
+  },
+  "سبک": {
+    "pos": "ADJECTIVE"
+  },
+  "سنگین": {
+    "pos": "ADJECTIVE"
+  },
+  "نرم": {
+    "pos": "ADJECTIVE"
+  },
+  "سفت": {
+    "pos": "ADJECTIVE"
+  },
+  "سخت": {
+    "pos": "ADJECTIVE"
+  },
+  "خنک": {
+    "pos": "ADJECTIVE"
+  },
+  "خوشمزه": {
+    "pos": "ADJECTIVE"
+  },
+  "وحشتناک": {
+    "pos": "ADJECTIVE"
+  },
+  "شیرین": {
+    "pos": "ADJECTIVE"
+  },
+  "تند": {
+    "pos": "ADJECTIVE"
+  },
+  "شور": {
+    "pos": "ADJECTIVE"
+  },
+  "تلخ": {
+    "pos": "ADJECTIVE"
+  },
+  "قبلی": {
+    "pos": "ADJECTIVE"
+  },
+  "بعدی": {
+    "pos": "ADJECTIVE"
+  },
+  "متصل": {
+    "pos": "ADJECTIVE"
+  },
+  "جدا": {
+    "pos": "ADJECTIVE"
+  },
+  "محکم": {
+    "pos": "ADJECTIVE"
+  },
+  "من": {
+    "pos": "ADJECTIVE"
+  },
+  "تو": {
+    "pos": "ADJECTIVE"
+  },
+  "او": {
+    "pos": "ADJECTIVE"
+  },
+  " ما": {
+    "pos": "ADJECTIVE"
+  },
+  "شما": {
+    "pos": "ADJECTIVE"
+  },
+  "آنها": {
+    "pos": "ADJECTIVE"
+  },
+  "اول": {
+    "pos": "ADJECTIVE"
+  },
+  "دوم": {
+    "pos": "ADJECTIVE"
+  },
+  "سوم": {
+    "pos": "ADJECTIVE"
+  },
+  "چهارم": {
+    "pos": "ADJECTIVE"
+  },
+  "پنجم": {
+    "pos": "ADJECTIVE"
+  },
+  "ششم": {
+    "pos": "ADJECTIVE"
+  },
+  "هفتم": {
+    "pos": "ADJECTIVE"
+  },
+  "هشتم": {
+    "pos": "ADJECTIVE"
+  },
+  "نهم": {
+    "pos": "ADJECTIVE"
+  },
+  "دهم": {
+    "pos": "ADJECTIVE"
+  },
+  "بیستم": {
+    "pos": "ADJECTIVE"
+  },
+  "صدم": {
+    "pos": "ADJECTIVE"
+  },
+  " آخرین": {
+    "pos": "ADJECTIVE"
+  },
+  "بی‌حوصله": {
+    "pos": "ADJECTIVE"
+  },
+  "خوشحال": {
+    "pos": "ADJECTIVE"
+  },
+  "غمگین": {
+    "pos": "ADJECTIVE"
+  },
+  "تنها": {
+    "pos": "ADJECTIVE"
+  },
+  "راضی": {
+    "pos": "ADJECTIVE"
+  },
+  "عصبانی": {
+    "pos": "ADJECTIVE"
+  },
+  "آشفته": {
+    "pos": "ADJECTIVE"
+  },
+  "مضطرب": {
+    "pos": "ADJECTIVE"
+  },
+  "علاقه‌مند": {
+    "pos": "ADJECTIVE"
+  },
+  "خسته": {
+    "pos": "ADJECTIVE"
+  },
+  " خوشنود": {
+    "pos": "ADJECTIVE"
+  },
+  "متعجب": {
+    "pos": "ADJECTIVE"
+  },
+  "ترسیده": {
+    "pos": "ADJECTIVE"
+  },
+  "دردناک": {
+    "pos": "ADJECTIVE"
+  },
+  "بدبو": {
+    "pos": "ADJECTIVE"
+  },
+  "نازک": {
+    "pos": "ADJECTIVE"
+  },
+  "بزرگ": {
+    "pos": "ADJECTIVE"
+  },
+  "کوچک": {
+    "pos": "ADJECTIVE"
+  },
+  "وسیع": {
+    "pos": "ADJECTIVE"
+  },
+  "باریک": {
+    "pos": "ADJECTIVE"
+  },
+  "فشرده": {
+    "pos": "ADJECTIVE"
+  },
+  "لاغر": {
+    "pos": "ADJECTIVE"
+  },
+  "ضخیم": {
+    "pos": "ADJECTIVE"
+  },
+  "برتر": {
+    "pos": "ADJECTIVE"
+  },
+  "مرکزی": {
+    "pos": "ADJECTIVE"
+  },
+  "جانبی": {
+    "pos": "ADJECTIVE"
+  },
+  "جلویی": {
+    "pos": "ADJECTIVE"
+  },
+  " معین": {
+    "pos": "ADJECTIVE"
+  },
+  "جعلی": {
+    "pos": "ADJECTIVE"
+  },
+  "واقعی": {
+    "pos": "ADJECTIVE"
+  },
+  "نادرست": {
+    "pos": "ADJECTIVE"
+  },
+  "بزرگ‌تر": {
+    "pos": "ADJECTIVE"
+  },
+  "کوچک‌تر": {
+    "pos": "ADJECTIVE"
+  },
+  "مهم": {
+    "pos": "ADJECTIVE"
+  },
+  "ضروری": {
+    "pos": "ADJECTIVE"
+  },
+  "مطلق": {
+    "pos": "ADJECTIVE"
+  },
+  "نسبی": {
+    "pos": "ADJECTIVE"
+  },
+  "گران": {
+    "pos": "ADJECTIVE"
+  },
+  "ارزان": {
+    "pos": "ADJECTIVE"
+  },
+  "پیر": {
+    "pos": "ADJECTIVE"
+  },
+  "قدیمی": {
+    "pos": "ADJECTIVE"
+  },
+  "جوان": {
+    "pos": "ADJECTIVE"
+  },
+  "جدید": {
+    "pos": "ADJECTIVE"
+  },
+  "هر": {
+    "pos": "ADJECTIVE"
+  },
+  "کنونی": {
+    "pos": "ADJECTIVE"
+  },
+  "مشخص": {
+    "pos": "ADJECTIVE"
+  },
+  "فعلی ": {
+    "pos": "ADJECTIVE"
+  },
+  " جدید": {
+    "pos": "ADJECTIVE"
+  },
+  "اخیر": {
+    "pos": "ADJECTIVE"
+  },
+  "توانمند": {
+    "pos": "ADJECTIVE"
+  },
+  "قادر": {
+    "pos": "ADJECTIVE"
+  },
+  "آسان": {
+    "pos": "ADJECTIVE"
+  },
+  "دشوار": {
+    "pos": "ADJECTIVE"
+  },
+  "ممکن": {
+    "pos": "ADJECTIVE"
+  },
+  "غیرممکن": {
+    "pos": "ADJECTIVE"
+  },
+  "محتمل": {
+    "pos": "ADJECTIVE"
+  },
+  "سخت‌گیر": {
+    "pos": "ADJECTIVE"
+  },
+  "عمومی": {
+    "pos": "ADJECTIVE"
+  },
+  "خاص": {
+    "pos": "ADJECTIVE"
+  },
+  "رایج ": {
+    "pos": "ADJECTIVE"
+  },
+  "ویژه": {
+    "pos": "ADJECTIVE"
+  },
+  "معمول": {
+    "pos": "ADJECTIVE"
+  },
+  "نادر": {
+    "pos": "ADJECTIVE"
+  },
+  "قوی": {
+    "pos": "ADJECTIVE"
+  },
+  "ضعیف": {
+    "pos": "ADJECTIVE"
+  },
+  "درست": {
+    "pos": "ADJECTIVE"
+  },
+  "مخالف": {
+    "pos": "ADJECTIVE"
+  },
+  "برابر": {
+    "pos": "ADJECTIVE"
+  },
+  "متفاوت": {
+    "pos": "ADJECTIVE"
+  },
+  "مشابه": {
+    "pos": "ADJECTIVE"
+  },
+  "دیگر": {
+    "pos": "ADJECTIVE"
+  },
+  "متنوع": {
+    "pos": "ADJECTIVE"
+  },
+  "دستی": {
+    "pos": "ADJECTIVE"
+  },
+  "خودکار": {
+    "pos": "ADJECTIVE"
+  },
+  "جهانی": {
+    "pos": "ADJECTIVE"
+  },
+  "قاره‌ای": {
+    "pos": "ADJECTIVE"
+  },
+  "بین‌المللی": {
+    "pos": "ADJECTIVE"
+  },
+  "ملی": {
+    "pos": "ADJECTIVE"
+  },
+  "محلی": {
+    "pos": "ADJECTIVE"
+  },
+  "شهری": {
+    "pos": "ADJECTIVE"
+  },
+  "روستایی": {
+    "pos": "ADJECTIVE"
+  },
+  "فرهنگی": {
+    "pos": "ADJECTIVE"
+  },
+  "هنری": {
+    "pos": "ADJECTIVE"
+  },
+  "شخصی": {
+    "pos": "ADJECTIVE"
+  },
+  "خصوصی": {
+    "pos": "ADJECTIVE"
+  },
+  "صحیح": {
+    "pos": "ADJECTIVE"
+  },
+  "مشترک": {
+    "pos": "ADJECTIVE"
+  }
+}
